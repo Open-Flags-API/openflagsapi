@@ -6,8 +6,8 @@
     },
     "Ports": [
       {
-        "ContainerPort": 4444,
-        "HostPort": 4444
+        "ContainerPort": 5432,
+        "HostPort": 5432
       }
     ],
     "Logging": "/var/log/nginx"
