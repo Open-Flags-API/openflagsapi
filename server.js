@@ -1,10 +1,10 @@
 //importing fs
 var fs = require("fs");
-//setup express import 
+//setup express import
 var express = require("express");
 //setup express import var
 var app = express();
-//set port process env 
+//set port process env
 var PORT = process.env.port || 4444;
 //use public in static
 app.use(express.static(__dirname + "/public"));
@@ -15,8 +15,10 @@ var bodyParser = require("body-parser");
 app.use(bodyParser.urlencoded());
 app.use(bodyParser.json());
 // const path = require('path');
-const path = require('path');
+const path = require("path");
+require("dotenv").config();
 
+const BASE_URL = process.env.BASE_URL;
 
 // mongo-----------------------------------------------------------------------------------------------------
 const { MongoClient } = require("mongodb");
@@ -37,14 +39,9 @@ var FAQsModel = mongoose.model("NewFAQPost", NewFAQ);
 
 // mongo-----------------------------------------------------------------------------------------------------
 
-app.use(express.static(__dirname + "./public/"));
-app.use("/docs", express.static("public"));
 // coooooooooooooooooorrrrrrrrrrrrrrrrrrrrrrrrrssssssssssssssssssssssssssssss
-
-
-
 app.use(function (req, res, next) {
-  res.setHeader("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Origin", "*"); // Allow any origin
   res.header(
     "Access-Control-Allow-Headers",
     "Origin, X-Requested-With, Content-Type, Accept"
@@ -53,10 +50,16 @@ app.use(function (req, res, next) {
 });
 // coooooooooooooooooorrrrrrrrrrrrrrrrrrrrrrrrrssssssssssssssssssssssssssssss
 
-app.use(express.static(path.join(__dirname, 'build')));
-app.get('/', function (req, res) {
-   res.sendFile(path.join(__dirname, 'build', 'index.html'));
- });
+app.use(express.static(__dirname + "./public/"));
+app.use("/docs", express.static("public"));
+app.use(express.static(__dirname + "/public"));
+app.use("/wavin", express.static(__dirname + "/public/"));
+app.use(express.static("public"));
+
+app.use(express.static(path.join(__dirname, "build")));
+app.get("/", function (req, res) {
+  res.sendFile(path.join(__dirname, "build", "index.html"));
+});
 
 //get faqs route
 app.get("/faqs", (request, response) => {
@@ -121,61 +124,85 @@ const getAll = () => {
           allFlags = results;
 
           for (let i = 0; i < 300; i++) {
-          let dinus = Math.floor(Math.random() * allFlags.length);
-          // console.log(dinus)
-          let link = allFlags[dinus].directLink;
-          // console.log(randoLink)
-          links.push(link);
-       
-      };
+            let dinus = Math.floor(Math.random() * allFlags.length);
+            // console.log(dinus)
+            let link =
+              "flags/" +
+              allFlags[dinus].country +
+              "/" +
+              allFlags[dinus].region +
+              ".svg";
+
+            // console.log(randoLink)
+            links.push(link);
+          }
           db.close();
         });
-        console.log('flags loaded')
+      console.log("flags loaded");
     }
   );
 };
 getAll();
 
-app.get('/api/online', (request, response)=>{
-  response.send('open flags online')
-})
-
-
-app.get("/all", (request, response) => {
-  const ipp =
-    request.header("x-forwarded-for") || request.connection.remoteAddress;
-    // console.log(allFlags)
-  const ip = ipp.slice(7);
-  console.log("ip1:" + ip);
-  response.json({allFlags});
+app.get("/v1/api/online", (request, response) => {
+  response.send("open flags online");
 });
 
+app.get("/v1/all", (request, response) => {
+  const ipp =
+    request.header("x-forwarded-for") || request.connection.remoteAddress;
+  // console.log(allFlags)
+  const ip = ipp.slice(7);
+  console.log("ip1:" + ip);
+  response.json({ allFlags });
+});
 
-const fillRando = ()=> {
+const fillRando = () => {
   for (let i = 0; i < 300; i++) {
-  let dinus = Math.floor(Math.random() * allFlags.length);
-  // console.log(dinus)
-  let link = allFlags[dinus].directLink;
-  // console.log(randoLink)
-  links.push(link);
-};}
+    let dinus = Math.floor(Math.random() * allFlags.length);
+    // console.log(dinus)
+    let link =
+      "flags/" +
+      allFlags[dinus].country +
+      "/" +
+      allFlags[dinus].region +
+      ".svg";
+    // console.log(randoLink)
+    links.push(link);
+  }
+};
 
 const buildCache = () => {
   if (links.length < 200) {
     links.pop();
     console.log("low on rando");
-    fillRando()
+    fillRando();
   }
 };
-app.get("/rando", (request, response) => {
+
+app.get("/v1/rando", (request, response) => {
   topRando = links.pop();
-  // console.log(links)
+  console.log(links);
   buildCache();
   response.json(topRando);
   // console.log(ok)
 });
 
-app.post("/newfaq", (request, response) => {
+app.get("/v1/rando-path", (request, response) => {
+  const topRando = links.pop(); // This should be the path like "indonesia/region/north-sulawesi.svg"
+  console.log(links);
+  buildCache();
+
+  // Directly serve the file. Make sure the path is correct relative to your static files directory.
+  response.sendFile(path.join(__dirname, "public", topRando), (err) => {
+    if (err) {
+      console.log(err);
+      response.status(404).send("File not found.");
+    }
+  });
+});
+
+app.post("/v1/newfaq", (request, response) => {
   // console.log(request.body)
   const person = request.body.person;
   const type = request.body.type;
@@ -264,37 +291,34 @@ app.post("/newfaq", (request, response) => {
 // routes--------------------------------------------------------------------------------------------------
 
 //get route for country and region
-app.get("/api/json/flagInfo/:country/:region?", function (request, response) {
+app.get("/v1/api/json/flagInfo/:country/:region?", function (request, response) {
   let keyParam = request.params.region;
   let flagInfo = allFlags.find((record) => record.region === keyParam);
   response.json({ flagInfo });
 });
 
-
 //get route for region code search
-app.get("/api/json/ISO3166/:regionCode?", (request, response) => {
+app.get("/v1/api/json/ISO3166/:regionCode?", (request, response) => {
   let regionCode = request.params.regionCode;
-  console.log(regionCode)
+  console.log(regionCode);
   // console.log(allFlags)
- const ISO = allFlags.filter((record) => record.ISO3166 === regionCode)
+  const ISO = allFlags.filter((record) => record.ISO3166 === regionCode);
 
- console.log(ISO)
-  response.json({ flagInfo:ISO });
-})
+  console.log(ISO);
+  response.json({ flagInfo: ISO });
+});
 
 //route to list flags availible regions in country
 
-app.get("/api/list/country/:country", function (request, response) {
+app.get("/v1/api/list/country/:country", function (request, response) {
   let country = request.params.country;
-  console.log(country)
+  console.log(country);
   // console.log(allFlags)
- const countryList = allFlags.filter((record) => record.country === country)
+  const countryList = allFlags.filter((record) => record.country === country);
 
- console.log(countryList)
-  response.json({ flagInfo:countryList });
+  console.log(countryList);
+  response.json({ flagInfo: countryList });
 });
-
-
 
 // dns call to server
 require("dns").lookup(require("os").hostname(), function (err, add, fam) {
