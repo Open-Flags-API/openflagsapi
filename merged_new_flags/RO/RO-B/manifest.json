@@ -1,0 +1,16 @@
+{
+  "iso_code": "RO-B",
+  "country_iso": "RO",
+  "country_name": "RO",
+  "region_name": "ro-b",
+  "region_normalized": "ro-b",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "RO/RO-B/coat.svg",
+    "source": "Coat of arms of Bucharest.svg"
+  },
+  "data_source": "out"
+}

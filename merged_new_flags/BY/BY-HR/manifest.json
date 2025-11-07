@@ -1,0 +1,16 @@
+{
+  "iso_code": "BY-HR",
+  "country_iso": "BY",
+  "country_name": "BY",
+  "region_name": "by-hr",
+  "region_normalized": "by-hr",
+  "flag": {
+    "svg": "BY/BY-HR/flag.svg",
+    "source": "Flag of Hrodna Voblasts.svg"
+  },
+  "coat": {
+    "svg": "BY/BY-HR/coat.svg",
+    "source": "Coat of Arms of Hrodna Voblasts.svg"
+  },
+  "data_source": "out"
+}

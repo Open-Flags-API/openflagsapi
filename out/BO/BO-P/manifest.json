@@ -1,0 +1,14 @@
+{
+  "code": "BO-P",
+  "country": "BO",
+  "flag": {
+    "svg": "BO/BO-P/flag.svg",
+    "png": "BO/BO-P/flag.png",
+    "source_filename": "Flag of Potosí.svg"
+  },
+  "coat": {
+    "svg": "BO/BO-P/coat.svg",
+    "png": "BO/BO-P/coat.png",
+    "source_filename": "Coat of Arms of Potosi (Bolivia).svg"
+  }
+}

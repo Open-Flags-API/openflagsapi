@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-40",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-40",
+  "region_normalized": "th-40",
+  "flag": {
+    "svg": null,
+    "source": "Khon Kaen Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

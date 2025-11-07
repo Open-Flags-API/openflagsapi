@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-SP",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "br-sp",
+  "region_normalized": "br-sp",
+  "flag": {
+    "svg": "BR/BR-SP/flag.svg",
+    "source": "Bandeira do estado de São Paulo.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-SP/coat.svg",
+    "source": "Brasão do estado de São Paulo.svg"
+  },
+  "data_source": "out"
+}

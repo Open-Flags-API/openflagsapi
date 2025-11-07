@@ -1,0 +1,16 @@
+{
+  "iso_code": "PE-MDD",
+  "country_iso": "PE",
+  "country_name": "PE",
+  "region_name": "pe-mdd",
+  "region_normalized": "pe-mdd",
+  "flag": {
+    "svg": "PE/PE-MDD/flag.svg",
+    "source": "Flag of Madre de Dios Department.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "COA Madre de Dios.png"
+  },
+  "data_source": "out"
+}

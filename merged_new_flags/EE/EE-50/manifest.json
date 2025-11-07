@@ -1,0 +1,16 @@
+{
+  "iso_code": "EE-50",
+  "country_iso": "EE",
+  "country_name": "EE",
+  "region_name": "ee-50",
+  "region_normalized": "ee-50",
+  "flag": {
+    "svg": "EE/EE-50/flag.svg",
+    "source": "Jõgevamaa lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-50/coat.svg",
+    "source": "Jõgevamaa vapp.svg"
+  },
+  "data_source": "out"
+}

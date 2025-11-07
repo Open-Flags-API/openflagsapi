@@ -1,0 +1,16 @@
+{
+  "iso_code": "EG-SIN",
+  "country_iso": "EG",
+  "country_name": "EG",
+  "region_name": "eg-sin",
+  "region_normalized": "eg-sin",
+  "flag": {
+    "svg": "EG/EG-SIN/flag.svg",
+    "source": "North Sinai Flag (Old).svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of North Sinai Governorate.png"
+  },
+  "data_source": "out"
+}

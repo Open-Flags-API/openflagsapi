@@ -1,0 +1,14 @@
+{
+  "code": "SE-F",
+  "country": "SE",
+  "flag": {
+    "svg": "SE/SE-F/flag.svg",
+    "png": "SE/SE-F/flag.png",
+    "source_filename": "Jönköpings län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-F/coat.svg",
+    "png": "SE/SE-F/coat.png",
+    "source_filename": "Jönköping län vapen.svg"
+  }
+}

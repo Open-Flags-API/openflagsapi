@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-YU",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "yugra",
+  "region_normalized": "yugra",
+  "flag": {
+    "svg": "RU/RU-YU/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

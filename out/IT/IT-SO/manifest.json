@@ -1,0 +1,14 @@
+{
+  "code": "IT-SO",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-SO/flag.svg",
+    "png": "IT/IT-SO/flag.png",
+    "source_filename": "Flag of the Province of Sondrio.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-SO/coat.svg",
+    "png": "IT/IT-SO/coat.png",
+    "source_filename": "Provincia di Sondrio-Stemma.svg"
+  }
+}

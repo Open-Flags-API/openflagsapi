@@ -1,0 +1,14 @@
+{
+  "code": "PE-ICA",
+  "country": "PE",
+  "flag": {
+    "svg": "PE/PE-ICA/flag.svg",
+    "png": "PE/PE-ICA/flag.png",
+    "source_filename": "Bandera Región Ica.svg"
+  },
+  "coat": {
+    "svg": "PE/PE-ICA/coat.svg",
+    "png": "PE/PE-ICA/coat.png",
+    "source_filename": "Escudo departamento de ica.svg"
+  }
+}

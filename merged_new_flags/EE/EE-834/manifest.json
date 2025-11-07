@@ -1,0 +1,16 @@
+{
+  "iso_code": "EE-834",
+  "country_iso": "EE",
+  "country_name": "EE",
+  "region_name": "ee-834",
+  "region_normalized": "ee-834",
+  "flag": {
+    "svg": "EE/EE-834/flag.svg",
+    "source": "Türi valla lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-834/coat.svg",
+    "source": "Türi valla vapp.svg"
+  },
+  "data_source": "out"
+}

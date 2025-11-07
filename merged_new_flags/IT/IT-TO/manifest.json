@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-TO",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-to",
+  "region_normalized": "it-to",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Città metropolitana di Torino - Stemma.svg"
+  },
+  "data_source": "out"
+}

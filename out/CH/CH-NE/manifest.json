@@ -1,0 +1,14 @@
+{
+  "code": "CH-NE",
+  "country": "CH",
+  "flag": {
+    "svg": "CH/CH-NE/flag.svg",
+    "png": "CH/CH-NE/flag.png",
+    "source_filename": "Flag of Canton of Neuchâtel.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-NE/coat.svg",
+    "png": "CH/CH-NE/coat.png",
+    "source_filename": "Wappen Neuenburg matt.svg"
+  }
+}

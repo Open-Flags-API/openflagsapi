@@ -1,0 +1,14 @@
+{
+  "code": "GB-ANS",
+  "country": "GB",
+  "flag": {
+    "svg": null,
+    "png": "GB/GB-ANS/flag.png",
+    "source_filename": "Flag of Angus.png"
+  },
+  "coat": {
+    "svg": "GB/GB-ANS/coat.svg",
+    "png": "GB/GB-ANS/coat.png",
+    "source_filename": "Coat of arms of the Angus Area Council.svg"
+  }
+}

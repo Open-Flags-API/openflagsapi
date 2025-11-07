@@ -1,0 +1,16 @@
+{
+  "iso_code": "AF-PAN",
+  "country_iso": "AF",
+  "country_name": "AF",
+  "region_name": "af-pan",
+  "region_normalized": "af-pan",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "IT-AV",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-AV/flag.svg",
+    "png": "IT/IT-AV/flag.png",
+    "source_filename": "Flag of the province of Avellino.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-AV/coat.svg",
+    "png": "IT/IT-AV/coat.png",
+    "source_filename": "Provincia di Avellino-Stemma.svg"
+  }
+}

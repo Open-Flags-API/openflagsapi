@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-SIK",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-sik",
+  "region_normalized": "ma-sik",
+  "flag": {
+    "svg": "MA/MA-SIK/flag.svg",
+    "source": "Flag of Sidi Kacem province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

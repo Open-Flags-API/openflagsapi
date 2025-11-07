@@ -1,0 +1,16 @@
+{
+  "iso_code": "NG-OS",
+  "country_iso": "NG",
+  "country_name": "NG",
+  "region_name": "ng-os",
+  "region_normalized": "ng-os",
+  "flag": {
+    "svg": "NG/NG-OS/flag.svg",
+    "source": "Flag of Osun State, Nigeria.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-ORE",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-ore",
+  "region_normalized": "ru-ore",
+  "flag": {
+    "svg": "RU/RU-ORE/flag.svg",
+    "source": "Flag of Orenburg Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-ORE/coat.svg",
+    "source": "Coat of arms of Orenburg Oblast.svg"
+  },
+  "data_source": "out"
+}

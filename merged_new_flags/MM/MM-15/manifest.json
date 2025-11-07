@@ -1,0 +1,16 @@
+{
+  "iso_code": "MM-15",
+  "country_iso": "MM",
+  "country_name": "MM",
+  "region_name": "mm-15",
+  "region_normalized": "mm-15",
+  "flag": {
+    "svg": "MM/MM-15/flag.svg",
+    "source": "Flag of Mon State (2018).svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

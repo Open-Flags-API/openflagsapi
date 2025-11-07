@@ -1,0 +1,16 @@
+{
+  "iso_code": "CH-AG",
+  "country_iso": "CH",
+  "country_name": "CH",
+  "region_name": "ch-ag",
+  "region_normalized": "ch-ag",
+  "flag": {
+    "svg": "CH/CH-AG/flag.svg",
+    "source": "Flag of Canton of Aargau.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-AG/coat.svg",
+    "source": "Wappen Aargau matt.svg"
+  },
+  "data_source": "out"
+}

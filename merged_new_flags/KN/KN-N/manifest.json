@@ -1,0 +1,16 @@
+{
+  "iso_code": "KN-N",
+  "country_iso": "KN",
+  "country_name": "KN",
+  "region_name": "kn-n",
+  "region_normalized": "kn-n",
+  "flag": {
+    "svg": "KN/KN-N/flag.svg",
+    "source": "Flag of Nevis.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

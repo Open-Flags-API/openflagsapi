@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-HRY",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-hry",
+  "region_normalized": "gb-hry",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-HRY/coat.svg",
+    "source": "Coat of arms of the London Borough of Haringey.svg"
+  },
+  "data_source": "out"
+}

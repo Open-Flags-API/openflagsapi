@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-AC",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "id-ac",
+  "region_normalized": "id-ac",
+  "flag": {
+    "svg": "ID/ID-AC/flag.svg",
+    "source": "Flag of Aceh, Indonesia.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-AC/coat.svg",
+    "source": "Coat of arms of Aceh.svg"
+  },
+  "data_source": "out"
+}

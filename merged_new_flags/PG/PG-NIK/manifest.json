@@ -1,0 +1,16 @@
+{
+  "iso_code": "PG-NIK",
+  "country_iso": "PG",
+  "country_name": "PG",
+  "region_name": "pg-nik",
+  "region_normalized": "pg-nik",
+  "flag": {
+    "svg": "PG/PG-NIK/flag.svg",
+    "source": "Flag of New Ireland.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

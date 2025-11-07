@@ -1,0 +1,14 @@
+{
+  "code": "GB-SCT",
+  "country": "GB",
+  "flag": {
+    "svg": "GB/GB-SCT/flag.svg",
+    "png": "GB/GB-SCT/flag.png",
+    "source_filename": "Flag of Scotland.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-SCT/coat.svg",
+    "png": "GB/GB-SCT/coat.png",
+    "source_filename": "Royal Arms of the Kingdom of Scotland.svg"
+  }
+}

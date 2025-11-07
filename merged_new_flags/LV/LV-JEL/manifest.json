@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-JEL",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-jel",
+  "region_normalized": "lv-jel",
+  "flag": {
+    "svg": "LV/LV-JEL/flag.svg",
+    "source": "Jelgava flag.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-JEL/coat.svg",
+    "source": "Jelgava COA great.svg"
+  },
+  "data_source": "out"
+}

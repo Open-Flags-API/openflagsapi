@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-23",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-23",
+  "region_normalized": "fr-23",
+  "flag": {
+    "svg": "FR/FR-23/flag.svg",
+    "source": "Drapeau fr département Creuse.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-23/coat.svg",
+    "source": "Blason Bourbon-La Marche.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-MON",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-mon",
+  "region_normalized": "gb-mon",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-MON/coat.svg",
+    "source": "MONMOUTHSHIRE Shield.svg"
+  },
+  "data_source": "out"
+}

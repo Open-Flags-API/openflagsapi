@@ -1,0 +1,14 @@
+{
+  "code": "GB-CGN",
+  "country": "GB",
+  "flag": {
+    "svg": "GB/GB-CGN/flag.svg",
+    "png": "GB/GB-CGN/flag.png",
+    "source_filename": "Flag of Ceredigion.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-CGN/coat.svg",
+    "png": "GB/GB-CGN/coat.png",
+    "source_filename": "Arms of Ceredigion County Council.svg"
+  }
+}

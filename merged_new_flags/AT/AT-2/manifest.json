@@ -1,0 +1,16 @@
+{
+  "iso_code": "AT-2",
+  "country_iso": "AT",
+  "country_name": "AT",
+  "region_name": "at-2",
+  "region_normalized": "at-2",
+  "flag": {
+    "svg": "AT/AT-2/flag.svg",
+    "source": "Flag of Carinthia.svg"
+  },
+  "coat": {
+    "svg": "AT/AT-2/coat.svg",
+    "source": "Kaernten CoA.svg"
+  },
+  "data_source": "out"
+}

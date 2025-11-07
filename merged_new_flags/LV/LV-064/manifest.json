@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-064",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-064",
+  "region_normalized": "lv-064",
+  "flag": {
+    "svg": null,
+    "source": "Naukšēnu novads Flag.png"
+  },
+  "coat": {
+    "svg": "LV/LV-064/coat.svg",
+    "source": "Naukšēnu novads COA.svg"
+  },
+  "data_source": "out"
+}

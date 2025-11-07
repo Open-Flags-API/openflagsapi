@@ -1,0 +1,16 @@
+{
+  "iso_code": "AZ-CAL",
+  "country_iso": "AZ",
+  "country_name": "AZ",
+  "region_name": "az-cal",
+  "region_normalized": "az-cal",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

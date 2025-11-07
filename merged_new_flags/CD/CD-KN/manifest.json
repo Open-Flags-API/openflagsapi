@@ -1,0 +1,16 @@
+{
+  "iso_code": "CD-KN",
+  "country_iso": "CD",
+  "country_name": "CD",
+  "region_name": "cd-kn",
+  "region_normalized": "cd-kn",
+  "flag": {
+    "svg": "CD/CD-KN/flag.svg",
+    "source": "Flag of Kinshasa, DRC.svg"
+  },
+  "coat": {
+    "svg": "CD/CD-KN/coat.svg",
+    "source": "Coat of arms of Kinshasa.svg"
+  },
+  "data_source": "out"
+}

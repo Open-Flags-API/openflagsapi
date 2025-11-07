@@ -1,0 +1,14 @@
+{
+  "code": "AR-V",
+  "country": "AR",
+  "flag": {
+    "svg": "AR/AR-V/flag.svg",
+    "png": "AR/AR-V/flag.png",
+    "source_filename": "Bandera de la Provincia de Tierra del Fuego.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-V/coat.svg",
+    "png": "AR/AR-V/coat.png",
+    "source_filename": "Escudo de la Provincia de Tierra del Fuego.svg"
+  }
+}

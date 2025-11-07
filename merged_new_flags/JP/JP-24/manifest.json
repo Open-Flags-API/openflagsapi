@@ -1,0 +1,16 @@
+{
+  "iso_code": "JP-24",
+  "country_iso": "JP",
+  "country_name": "JP",
+  "region_name": "jp-24",
+  "region_normalized": "jp-24",
+  "flag": {
+    "svg": "JP/JP-24/flag.svg",
+    "source": "Flag of Mie Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-24/coat.svg",
+    "source": "Emblem of Mie Prefecture.svg"
+  },
+  "data_source": "out"
+}

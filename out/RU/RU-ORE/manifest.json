@@ -1,0 +1,14 @@
+{
+  "code": "RU-ORE",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-ORE/flag.svg",
+    "png": "RU/RU-ORE/flag.png",
+    "source_filename": "Flag of Orenburg Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-ORE/coat.svg",
+    "png": "RU/RU-ORE/coat.png",
+    "source_filename": "Coat of arms of Orenburg Oblast.svg"
+  }
+}

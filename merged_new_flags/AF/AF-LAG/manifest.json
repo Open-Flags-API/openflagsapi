@@ -1,0 +1,16 @@
+{
+  "iso_code": "AF-LAG",
+  "country_iso": "AF",
+  "country_name": "AF",
+  "region_name": "af-lag",
+  "region_normalized": "af-lag",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

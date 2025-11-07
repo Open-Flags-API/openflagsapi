@@ -1,0 +1,16 @@
+{
+  "iso_code": "AE-SH",
+  "country_iso": "AE",
+  "country_name": "AE",
+  "region_name": "ae-sh",
+  "region_normalized": "ae-sh",
+  "flag": {
+    "svg": "AE/AE-SH/flag.svg",
+    "source": "Flag of Sharjah and Ras Al Khaimah.svg"
+  },
+  "coat": {
+    "svg": "AE/AE-SH/coat.svg",
+    "source": "Coat of arms of Sharjah.svg"
+  },
+  "data_source": "out"
+}

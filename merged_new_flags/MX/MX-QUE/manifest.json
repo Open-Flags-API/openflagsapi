@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-QUE",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "mx-que",
+  "region_normalized": "mx-que",
+  "flag": {
+    "svg": "MX/MX-QUE/flag.svg",
+    "source": "Flag of Queretaro.svg"
+  },
+  "coat": {
+    "svg": "MX/MX-QUE/coat.svg",
+    "source": "Coat of arms of Queretaro.svg"
+  },
+  "data_source": "out"
+}

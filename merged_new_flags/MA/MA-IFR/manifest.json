@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-IFR",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-ifr",
+  "region_normalized": "ma-ifr",
+  "flag": {
+    "svg": "MA/MA-IFR/flag.svg",
+    "source": "Flag of Ifrane province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

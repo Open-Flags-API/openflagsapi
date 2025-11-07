@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-ME",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "merseyside",
+  "region_normalized": "merseyside",
+  "flag": {
+    "svg": "GB/GB-ME/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-BES",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-bes",
+  "region_normalized": "ma-bes",
+  "flag": {
+    "svg": "MA/MA-BES/flag.svg",
+    "source": "Flag of Ben Slimane province (1976-1997).svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

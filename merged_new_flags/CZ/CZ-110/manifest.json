@@ -1,0 +1,16 @@
+{
+  "iso_code": "CZ-110",
+  "country_iso": "CZ",
+  "country_name": "CZ",
+  "region_name": "cz-110",
+  "region_normalized": "cz-110",
+  "flag": {
+    "svg": "CZ/CZ-110/flag.svg",
+    "source": "Flag of Prague 10.svg"
+  },
+  "coat": {
+    "svg": "CZ/CZ-110/coat.svg",
+    "source": "Znak mestske casti Praha 10.svg"
+  },
+  "data_source": "out"
+}

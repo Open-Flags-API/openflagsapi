@@ -1,0 +1,16 @@
+{
+  "iso_code": "HR-07",
+  "country_iso": "HR",
+  "country_name": "HR",
+  "region_name": "hr-07",
+  "region_normalized": "hr-07",
+  "flag": {
+    "svg": null,
+    "source": "Zastava bjelovarsko bilogorske zupanije.gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Bjelovar-Bilogora County coat of arms.png"
+  },
+  "data_source": "out"
+}

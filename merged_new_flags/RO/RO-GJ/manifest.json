@@ -1,0 +1,16 @@
+{
+  "iso_code": "RO-GJ",
+  "country_iso": "RO",
+  "country_name": "RO",
+  "region_name": "ro-gj",
+  "region_normalized": "ro-gj",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "RO/RO-GJ/coat.svg",
+    "source": "Stema Gorj.svg"
+  },
+  "data_source": "out"
+}

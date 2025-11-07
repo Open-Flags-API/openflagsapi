@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-CS",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-cs",
+  "region_normalized": "hu-cs",
+  "flag": {
+    "svg": "HU/HU-CS/flag.svg",
+    "source": "Flag of Csongrad-Csanad megye.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-CS/coat.svg",
+    "source": "HU Csongrád megye COA.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "MY-11",
+  "country": "MY",
+  "flag": {
+    "svg": "MY/MY-11/flag.svg",
+    "png": "MY/MY-11/flag.png",
+    "source_filename": "Flag of Terengganu.svg"
+  },
+  "coat": {
+    "svg": "MY/MY-11/coat.svg",
+    "png": "MY/MY-11/coat.png",
+    "source_filename": "Coat of arms of Terengganu.svg"
+  }
+}

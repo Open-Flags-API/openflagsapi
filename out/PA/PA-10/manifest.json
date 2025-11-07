@@ -1,0 +1,14 @@
+{
+  "code": "PA-10",
+  "country": "PA",
+  "flag": {
+    "svg": "PA/PA-10/flag.svg",
+    "png": "PA/PA-10/flag.png",
+    "source_filename": "Bandera de la Provincia de Panamá Oeste.svg"
+  },
+  "coat": {
+    "svg": "PA/PA-10/coat.svg",
+    "png": "PA/PA-10/coat.png",
+    "source_filename": "Escudo de la Provincia de Panamá Oeste.svg"
+  }
+}

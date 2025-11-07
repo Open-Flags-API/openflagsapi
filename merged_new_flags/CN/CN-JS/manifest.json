@@ -1,0 +1,16 @@
+{
+  "iso_code": "CN-JS",
+  "country_iso": "CN",
+  "country_name": "CN",
+  "region_name": "cn-js",
+  "region_normalized": "cn-js",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-ZAB",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-zab",
+  "region_normalized": "ru-zab",
+  "flag": {
+    "svg": "RU/RU-ZAB/flag.svg",
+    "source": "Flag of Zabaykalsky Krai.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-ZAB/coat.svg",
+    "source": "Coat of arms of Zabaykalsky Krai.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-28",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-28",
+  "region_normalized": "fr-28",
+  "flag": {
+    "svg": "FR/FR-28/flag.svg",
+    "source": "Flag of Eure-et-Loir.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-28/coat.svg",
+    "source": "Blason département fr Eure-et-Loir.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "AD-05",
+  "country_iso": "AD",
+  "country_name": "AD",
+  "region_name": "ad-05",
+  "region_normalized": "ad-05",
+  "flag": {
+    "svg": "AD/AD-05/flag.svg",
+    "source": "Flag of Ordino.svg"
+  },
+  "coat": {
+    "svg": "AD/AD-05/coat.svg",
+    "source": "Escut d'Ordino.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "AD-03",
+  "country_iso": "AD",
+  "country_name": "AD",
+  "region_name": "ad-03",
+  "region_normalized": "ad-03",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "AD/AD-03/coat.svg",
+    "source": "Escut d'Encamp.svg"
+  },
+  "data_source": "out"
+}

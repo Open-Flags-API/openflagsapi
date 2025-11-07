@@ -1,0 +1,16 @@
+{
+  "iso_code": "SI-033",
+  "country_iso": "SI",
+  "country_name": "SI",
+  "region_name": "si-033",
+  "region_normalized": "si-033",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Šalovci.png"
+  },
+  "data_source": "out"
+}

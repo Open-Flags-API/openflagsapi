@@ -1,0 +1,14 @@
+{
+  "code": "RU-CE",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-CE/flag.svg",
+    "png": "RU/RU-CE/flag.png",
+    "source_filename": "Flag of Chechnya (large).svg"
+  },
+  "coat": {
+    "svg": "RU/RU-CE/coat.svg",
+    "png": "RU/RU-CE/coat.png",
+    "source_filename": "Coat of arms of Chechnya.svg"
+  }
+}

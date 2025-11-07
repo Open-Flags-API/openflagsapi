@@ -1,0 +1,16 @@
+{
+  "iso_code": "JP-41",
+  "country_iso": "JP",
+  "country_name": "JP",
+  "region_name": "jp-41",
+  "region_normalized": "jp-41",
+  "flag": {
+    "svg": "JP/JP-41/flag.svg",
+    "source": "Flag of Saga Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-41/coat.svg",
+    "source": "Emblem of Saga Prefecture.svg"
+  },
+  "data_source": "out"
+}

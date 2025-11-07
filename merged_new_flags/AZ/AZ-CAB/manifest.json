@@ -1,0 +1,16 @@
+{
+  "iso_code": "AZ-CAB",
+  "country_iso": "AZ",
+  "country_name": "AZ",
+  "region_name": "az-cab",
+  "region_normalized": "az-cab",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

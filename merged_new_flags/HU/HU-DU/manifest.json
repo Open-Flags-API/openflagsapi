@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-DU",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-du",
+  "region_normalized": "hu-du",
+  "flag": {
+    "svg": "HU/HU-DU/flag.svg",
+    "source": "Flag of Dunaújváros.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-DU/coat.svg",
+    "source": "Dunaújváros.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-CEB",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-ceb",
+  "region_normalized": "ph-ceb",
+  "flag": {
+    "svg": "PH/PH-CEB/flag.svg",
+    "source": "Flag of Cebu (province).svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

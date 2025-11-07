@@ -1,0 +1,16 @@
+{
+  "iso_code": "GT-06",
+  "country_iso": "GT",
+  "country_name": "GT",
+  "region_name": "gt-06",
+  "region_normalized": "gt-06",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Santa Rosa Department.GIF"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Santa Rosa.png"
+  },
+  "data_source": "out"
+}

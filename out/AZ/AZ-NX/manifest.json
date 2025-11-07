@@ -1,0 +1,14 @@
+{
+  "code": "AZ-NX",
+  "country": "AZ",
+  "flag": {
+    "svg": "AZ/AZ-NX/flag.svg",
+    "png": "AZ/AZ-NX/flag.png",
+    "source_filename": "Flag of Azerbaijan.svg"
+  },
+  "coat": {
+    "svg": "AZ/AZ-NX/coat.svg",
+    "png": "AZ/AZ-NX/coat.png",
+    "source_filename": "Emblem of Azerbaijan.svg"
+  }
+}

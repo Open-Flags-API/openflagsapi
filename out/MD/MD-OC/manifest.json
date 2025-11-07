@@ -1,0 +1,14 @@
+{
+  "code": "MD-OC",
+  "country": "MD",
+  "flag": {
+    "svg": null,
+    "png": "MD/MD-OC/flag.png",
+    "source_filename": "Ocnitar.gif"
+  },
+  "coat": {
+    "svg": "MD/MD-OC/coat.svg",
+    "png": "MD/MD-OC/coat.png",
+    "source_filename": "Escudo de Ocniţa.svg"
+  }
+}

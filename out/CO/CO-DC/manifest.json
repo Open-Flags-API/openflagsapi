@@ -1,0 +1,14 @@
+{
+  "code": "CO-DC",
+  "country": "CO",
+  "flag": {
+    "svg": "CO/CO-DC/flag.svg",
+    "png": "CO/CO-DC/flag.png",
+    "source_filename": "Flag of Bogotá.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-DC/coat.svg",
+    "png": "CO/CO-DC/coat.png",
+    "source_filename": "Escudo de Armas de Bogota.svg"
+  }
+}

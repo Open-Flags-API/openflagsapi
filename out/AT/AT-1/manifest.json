@@ -1,0 +1,14 @@
+{
+  "code": "AT-1",
+  "country": "AT",
+  "flag": {
+    "svg": "AT/AT-1/flag.svg",
+    "png": "AT/AT-1/flag.png",
+    "source_filename": "Flag of Burgenland.svg"
+  },
+  "coat": {
+    "svg": "AT/AT-1/coat.svg",
+    "png": "AT/AT-1/coat.png",
+    "source_filename": "Burgenland Wappen.svg"
+  }
+}

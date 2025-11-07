@@ -1,0 +1,14 @@
+{
+  "code": "AR-A",
+  "country": "AR",
+  "flag": {
+    "svg": "AR/AR-A/flag.svg",
+    "png": "AR/AR-A/flag.png",
+    "source_filename": "Bandera de la Provincia de Salta.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-A/coat.svg",
+    "png": "AR/AR-A/coat.png",
+    "source_filename": "Escudo de la Provincia de Salta.svg"
+  }
+}

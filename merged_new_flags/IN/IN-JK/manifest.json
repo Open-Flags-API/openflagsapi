@@ -1,0 +1,16 @@
+{
+  "iso_code": "IN-JK",
+  "country_iso": "IN",
+  "country_name": "IN",
+  "region_name": "in-jk",
+  "region_normalized": "in-jk",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IN/IN-JK/coat.svg",
+    "source": "Government of Jammu and Kashmir.svg"
+  },
+  "data_source": "out"
+}

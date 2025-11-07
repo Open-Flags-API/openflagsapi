@@ -1,0 +1,14 @@
+{
+  "code": "ET-AA",
+  "country": "ET",
+  "flag": {
+    "svg": "ET/ET-AA/flag.svg",
+    "png": "ET/ET-AA/flag.png",
+    "source_filename": "Flag of Addis Ababa.svg"
+  },
+  "coat": {
+    "svg": "ET/ET-AA/coat.svg",
+    "png": "ET/ET-AA/coat.png",
+    "source_filename": "Emblem of the Addis Ababa City Administration.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-DE",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-de",
+  "region_normalized": "hu-de",
+  "flag": {
+    "svg": "HU/HU-DE/flag.svg",
+    "source": "Flag of Debrecen.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-DE/coat.svg",
+    "source": "Coa Hungary Town Debrecen.svg"
+  },
+  "data_source": "out"
+}

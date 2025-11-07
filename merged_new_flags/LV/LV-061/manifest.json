@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-061",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-061",
+  "region_normalized": "lv-061",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "LVA Mālpils novads COA.png"
+  },
+  "data_source": "out"
+}

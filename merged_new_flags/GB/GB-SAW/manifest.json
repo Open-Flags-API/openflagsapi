@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-SAW",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-saw",
+  "region_normalized": "gb-saw",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Sandwell Metropolitan Borough Council.png"
+  },
+  "data_source": "out"
+}

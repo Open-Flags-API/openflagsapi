@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-DE",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "devon",
+  "region_normalized": "devon",
+  "flag": {
+    "svg": "GB/GB-DE/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

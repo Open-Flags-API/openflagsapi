@@ -1,0 +1,14 @@
+{
+  "code": "CO-NAR",
+  "country": "CO",
+  "flag": {
+    "svg": "CO/CO-NAR/flag.svg",
+    "png": "CO/CO-NAR/flag.png",
+    "source_filename": "Flag of Nariño.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-NAR/coat.svg",
+    "png": "CO/CO-NAR/coat.png",
+    "source_filename": "Escudo de Nariño.svg"
+  }
+}

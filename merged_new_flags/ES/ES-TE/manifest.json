@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-TE",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-te",
+  "region_normalized": "es-te",
+  "flag": {
+    "svg": "ES/ES-TE/flag.svg",
+    "source": "Flag of Teruel (province).svg"
+  },
+  "coat": {
+    "svg": "ES/ES-TE/coat.svg",
+    "source": "Escudo de la Provincia de Teruel.svg"
+  },
+  "data_source": "out"
+}

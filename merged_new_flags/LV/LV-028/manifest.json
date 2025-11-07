@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-028",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-028",
+  "region_normalized": "lv-028",
+  "flag": {
+    "svg": null,
+    "source": "Durbes novada karogs.png"
+  },
+  "coat": {
+    "svg": "LV/LV-028/coat.svg",
+    "source": "Durbes novads COA.svg"
+  },
+  "data_source": "out"
+}

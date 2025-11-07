@@ -1,0 +1,16 @@
+{
+  "iso_code": "KZ-19",
+  "country_iso": "KZ",
+  "country_name": "KZ",
+  "region_name": "kz-19",
+  "region_normalized": "kz-19",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Almaty Region.gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Алматы облысы герб.png"
+  },
+  "data_source": "out"
+}

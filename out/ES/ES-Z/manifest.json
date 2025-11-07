@@ -1,0 +1,14 @@
+{
+  "code": "ES-Z",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-Z/flag.svg",
+    "png": "ES/ES-Z/flag.png",
+    "source_filename": "Bandera de la provincia de Zaragoza.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-Z/coat.svg",
+    "png": "ES/ES-Z/coat.png",
+    "source_filename": "Escudo de la Provincia de Zaragoza.svg"
+  }
+}

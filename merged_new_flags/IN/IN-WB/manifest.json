@@ -1,0 +1,16 @@
+{
+  "iso_code": "IN-WB",
+  "country_iso": "IN",
+  "country_name": "IN",
+  "region_name": "in-wb",
+  "region_normalized": "in-wb",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

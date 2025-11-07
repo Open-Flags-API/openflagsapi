@@ -1,0 +1,14 @@
+{
+  "code": "BO-L",
+  "country": "BO",
+  "flag": {
+    "svg": "BO/BO-L/flag.svg",
+    "png": "BO/BO-L/flag.png",
+    "source_filename": "Bandera de La Paz.svg"
+  },
+  "coat": {
+    "svg": "BO/BO-L/coat.svg",
+    "png": "BO/BO-L/coat.png",
+    "source_filename": "Escudo del Departamento de La Paz.svg"
+  }
+}

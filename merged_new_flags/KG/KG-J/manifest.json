@@ -1,0 +1,16 @@
+{
+  "iso_code": "KG-J",
+  "country_iso": "KG",
+  "country_name": "KG",
+  "region_name": "kg-j",
+  "region_normalized": "kg-j",
+  "flag": {
+    "svg": "KG/KG-J/flag.svg",
+    "source": "Flag of Jalal-Abad Region.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

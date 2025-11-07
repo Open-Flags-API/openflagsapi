@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-BZ",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-bz",
+  "region_normalized": "it-bz",
+  "flag": {
+    "svg": "IT/IT-BZ/flag.svg",
+    "source": "Flag of South Tyrol.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-BZ/coat.svg",
+    "source": "Suedtirol CoA.svg"
+  },
+  "data_source": "out"
+}

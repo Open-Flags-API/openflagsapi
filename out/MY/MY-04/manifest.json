@@ -1,0 +1,14 @@
+{
+  "code": "MY-04",
+  "country": "MY",
+  "flag": {
+    "svg": "MY/MY-04/flag.svg",
+    "png": "MY/MY-04/flag.png",
+    "source_filename": "Flag of Malacca.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "MY/MY-04/coat.png",
+    "source_filename": "Coat of arms of Malacca New.svg"
+  }
+}

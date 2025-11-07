@@ -1,0 +1,14 @@
+{
+  "code": "HU-DE",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-DE/flag.svg",
+    "png": "HU/HU-DE/flag.png",
+    "source_filename": "Flag of Debrecen.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-DE/coat.svg",
+    "png": "HU/HU-DE/coat.png",
+    "source_filename": "Coa Hungary Town Debrecen.svg"
+  }
+}

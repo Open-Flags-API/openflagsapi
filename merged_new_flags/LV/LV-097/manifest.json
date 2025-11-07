@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-097",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-097",
+  "region_normalized": "lv-097",
+  "flag": {
+    "svg": "LV/LV-097/flag.svg",
+    "source": "Talsu novada karogs.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-097/coat.svg",
+    "source": "Talsu novada ģerbonis.svg"
+  },
+  "data_source": "out"
+}

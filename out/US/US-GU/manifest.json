@@ -1,0 +1,14 @@
+{
+  "code": "US-GU",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-GU/flag.svg",
+    "png": "US/US-GU/flag.png",
+    "source_filename": "Flag of Guam.svg"
+  },
+  "coat": {
+    "svg": "US/US-GU/coat.svg",
+    "png": "US/US-GU/coat.png",
+    "source_filename": "Seal of Guam.svg"
+  }
+}

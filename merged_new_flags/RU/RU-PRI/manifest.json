@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-PRI",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-pri",
+  "region_normalized": "ru-pri",
+  "flag": {
+    "svg": "RU/RU-PRI/flag.svg",
+    "source": "Flag of Primorsky Krai (large).svg"
+  },
+  "coat": {
+    "svg": "RU/RU-PRI/coat.svg",
+    "source": "Full coat of arms of Primorsky Krai.svg"
+  },
+  "data_source": "out"
+}

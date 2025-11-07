@@ -1,0 +1,14 @@
+{
+  "code": "LV-RIX",
+  "country": "LV",
+  "flag": {
+    "svg": "LV/LV-RIX/flag.svg",
+    "png": "LV/LV-RIX/flag.png",
+    "source_filename": "Flag of Riga.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-RIX/coat.svg",
+    "png": "LV/LV-RIX/coat.png",
+    "source_filename": "Greater Coat of Arms of Riga - for display.svg"
+  }
+}

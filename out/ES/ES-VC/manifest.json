@@ -1,0 +1,14 @@
+{
+  "code": "ES-VC",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-VC/flag.svg",
+    "png": "ES/ES-VC/flag.png",
+    "source_filename": "Flag of the Land of Valencia (official).svg"
+  },
+  "coat": {
+    "svg": "ES/ES-VC/coat.svg",
+    "png": "ES/ES-VC/coat.png",
+    "source_filename": "Emblema de la Generalitat Valenciana.svg"
+  }
+}

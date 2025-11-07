@@ -1,0 +1,14 @@
+{
+  "code": "RU-AD",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-AD/flag.svg",
+    "png": "RU/RU-AD/flag.png",
+    "source_filename": "Flag of Adygea.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-AD/coat.svg",
+    "png": "RU/RU-AD/coat.png",
+    "source_filename": "Coat of arms of Adygea.svg"
+  }
+}

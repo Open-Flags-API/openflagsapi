@@ -1,0 +1,16 @@
+{
+  "iso_code": "IN-DH",
+  "country_iso": "IN",
+  "country_name": "IN",
+  "region_name": "in-dh",
+  "region_normalized": "in-dh",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IN/IN-DH/coat.svg",
+    "source": "Seal of Dadra and Nagar Haveli and Daman and Diu.svg"
+  },
+  "data_source": "out"
+}

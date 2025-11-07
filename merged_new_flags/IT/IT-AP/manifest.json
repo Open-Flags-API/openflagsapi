@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-AP",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-ap",
+  "region_normalized": "it-ap",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IT/IT-AP/coat.svg",
+    "source": "Provincia di Ascoli Piceno-Stemma.svg"
+  },
+  "data_source": "out"
+}

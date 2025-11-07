@@ -1,0 +1,16 @@
+{
+  "iso_code": "AU-SA",
+  "country_iso": "AU",
+  "country_name": "AU",
+  "region_name": "au-sa",
+  "region_normalized": "au-sa",
+  "flag": {
+    "svg": "AU/AU-SA/flag.svg",
+    "source": "Flag of South Australia.svg"
+  },
+  "coat": {
+    "svg": "AU/AU-SA/coat.svg",
+    "source": "Coat of arms of South Australia.svg"
+  },
+  "data_source": "out"
+}

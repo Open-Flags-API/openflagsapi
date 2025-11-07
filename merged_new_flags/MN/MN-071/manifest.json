@@ -1,0 +1,16 @@
+{
+  "iso_code": "MN-071",
+  "country_iso": "MN",
+  "country_name": "MN",
+  "region_name": "mn-071",
+  "region_normalized": "mn-071",
+  "flag": {
+    "svg": "MN/MN-071/flag.svg",
+    "source": "Mn flag bayan olgiy aymag.svg"
+  },
+  "coat": {
+    "svg": "MN/MN-071/coat.svg",
+    "source": "Mn coa bayan olgiy aymag.svg"
+  },
+  "data_source": "out"
+}

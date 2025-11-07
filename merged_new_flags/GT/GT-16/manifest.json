@@ -1,0 +1,16 @@
+{
+  "iso_code": "GT-16",
+  "country_iso": "GT",
+  "country_name": "GT",
+  "region_name": "gt-16",
+  "region_normalized": "gt-16",
+  "flag": {
+    "svg": "GT/GT-16/flag.svg",
+    "source": "Bandera de Alta Verapaz.svg"
+  },
+  "coat": {
+    "svg": "GT/GT-16/coat.svg",
+    "source": "Escudo de armas de Alta Verapaz.svg"
+  },
+  "data_source": "out"
+}

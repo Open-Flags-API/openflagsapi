@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-NIZ",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-niz",
+  "region_normalized": "ru-niz",
+  "flag": {
+    "svg": "RU/RU-NIZ/flag.svg",
+    "source": "Flag of Nizhny Novgorod Region.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-NIZ/coat.svg",
+    "source": "Coat of arms of Nizhny Novgorod Region.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "PG-WBK",
+  "country_iso": "PG",
+  "country_name": "PG",
+  "region_name": "pg-wbk",
+  "region_normalized": "pg-wbk",
+  "flag": {
+    "svg": "PG/PG-WBK/flag.svg",
+    "source": "Flag of West New Britain.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "RO-SJ",
+  "country_iso": "RO",
+  "country_name": "RO",
+  "region_name": "ro-sj",
+  "region_normalized": "ro-sj",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "RO/RO-SJ/coat.svg",
+    "source": "RO Județul Sălaj COA.svg"
+  },
+  "data_source": "out"
+}

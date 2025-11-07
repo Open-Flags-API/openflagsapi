@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-033",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-033",
+  "region_normalized": "lv-033",
+  "flag": {
+    "svg": null,
+    "source": "LVA Gulbenes novads flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "LVA Gulbenes novads COA.png"
+  },
+  "data_source": "out"
+}

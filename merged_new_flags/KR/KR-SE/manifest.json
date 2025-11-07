@@ -1,0 +1,16 @@
+{
+  "iso_code": "KR-SE",
+  "country_iso": "KR",
+  "country_name": "south-korea",
+  "region_name": "seoul",
+  "region_normalized": "seoul",
+  "flag": {
+    "svg": "KR/KR-SE/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

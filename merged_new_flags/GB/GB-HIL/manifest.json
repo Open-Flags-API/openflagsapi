@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-HIL",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-hil",
+  "region_normalized": "gb-hil",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-HIL/coat.svg",
+    "source": "Coat of Arms of the London Borough of Hillingdon.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-TE",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-te",
+  "region_normalized": "it-te",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IT/IT-TE/coat.svg",
+    "source": "Provincia di Teramo-Stemma.svg"
+  },
+  "data_source": "out"
+}

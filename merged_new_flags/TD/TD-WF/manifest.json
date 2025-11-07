@@ -1,0 +1,16 @@
+{
+  "iso_code": "TD-WF",
+  "country_iso": "TD",
+  "country_name": "TD",
+  "region_name": "td-wf",
+  "region_normalized": "td-wf",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

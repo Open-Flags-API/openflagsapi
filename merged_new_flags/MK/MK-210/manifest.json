@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-210",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-210",
+  "region_normalized": "mk-210",
+  "flag": {
+    "svg": "MK/MK-210/flag.svg",
+    "source": "Flag of Češinovo-Obleševo Municipality, North Macedonia.svg"
+  },
+  "coat": {
+    "svg": "MK/MK-210/coat.svg",
+    "source": "Coat of arms of Češinovo-Obleševo Municipality.svg"
+  },
+  "data_source": "out"
+}

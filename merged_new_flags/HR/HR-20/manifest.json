@@ -1,0 +1,16 @@
+{
+  "iso_code": "HR-20",
+  "country_iso": "HR",
+  "country_name": "HR",
+  "region_name": "hr-20",
+  "region_normalized": "hr-20",
+  "flag": {
+    "svg": "HR/HR-20/flag.svg",
+    "source": "Flag of Medjimurje.svg"
+  },
+  "coat": {
+    "svg": "HR/HR-20/coat.svg",
+    "source": "Međimurska županija (grb).svg"
+  },
+  "data_source": "out"
+}

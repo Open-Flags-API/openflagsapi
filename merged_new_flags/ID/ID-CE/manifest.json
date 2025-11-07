@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-CE",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "central-java",
+  "region_normalized": "central-java",
+  "flag": {
+    "svg": "ID/ID-CE/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

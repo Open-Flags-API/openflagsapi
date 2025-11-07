@@ -1,0 +1,14 @@
+{
+  "code": "ID-GO",
+  "country": "ID",
+  "flag": {
+    "svg": "ID/ID-GO/flag.svg",
+    "png": "ID/ID-GO/flag.png",
+    "source_filename": "Flag of Gorontalo.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-GO/coat.svg",
+    "png": "ID/ID-GO/coat.png",
+    "source_filename": "Coat of arms of Gorontalo.svg"
+  }
+}

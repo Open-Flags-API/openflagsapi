@@ -1,0 +1,16 @@
+{
+  "iso_code": "IN-PY",
+  "country_iso": "IN",
+  "country_name": "IN",
+  "region_name": "in-py",
+  "region_normalized": "in-py",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Emblem of the Government of Puducherry.png"
+  },
+  "data_source": "out"
+}

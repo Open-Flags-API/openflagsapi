@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-84",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-84",
+  "region_normalized": "th-84",
+  "flag": {
+    "svg": "TH/TH-84/flag.svg",
+    "source": "Flag of Suratthani Province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

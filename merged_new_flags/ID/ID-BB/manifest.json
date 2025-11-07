@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-BB",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "id-bb",
+  "region_normalized": "id-bb",
+  "flag": {
+    "svg": "ID/ID-BB/flag.svg",
+    "source": "Flag of Bangka-Belitung.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-BB/coat.svg",
+    "source": "Coat of arms of Bangka Belitung Islands.svg"
+  },
+  "data_source": "out"
+}

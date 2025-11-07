@@ -1,0 +1,16 @@
+{
+  "iso_code": "PL-26",
+  "country_iso": "PL",
+  "country_name": "PL",
+  "region_name": "pl-26",
+  "region_normalized": "pl-26",
+  "flag": {
+    "svg": "PL/PL-26/flag.svg",
+    "source": "POL województwo świętokrzyskie flag.svg"
+  },
+  "coat": {
+    "svg": "PL/PL-26/coat.svg",
+    "source": "POL województwo świętokrzyskie COA.svg"
+  },
+  "data_source": "out"
+}

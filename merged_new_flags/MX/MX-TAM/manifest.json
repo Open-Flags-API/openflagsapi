@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-TAM",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "mx-tam",
+  "region_normalized": "mx-tam",
+  "flag": {
+    "svg": "MX/MX-TAM/flag.svg",
+    "source": "Flag of Tamaulipas.svg"
+  },
+  "coat": {
+    "svg": "MX/MX-TAM/coat.svg",
+    "source": "Coat of arms of Tamaulipas.svg"
+  },
+  "data_source": "out"
+}

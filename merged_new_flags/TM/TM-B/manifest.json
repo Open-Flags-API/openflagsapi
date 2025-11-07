@@ -1,0 +1,16 @@
+{
+  "iso_code": "TM-B",
+  "country_iso": "TM",
+  "country_name": "TM",
+  "region_name": "tm-b",
+  "region_normalized": "tm-b",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

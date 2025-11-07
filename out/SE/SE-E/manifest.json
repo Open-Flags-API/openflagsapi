@@ -1,0 +1,14 @@
+{
+  "code": "SE-E",
+  "country": "SE",
+  "flag": {
+    "svg": "SE/SE-E/flag.svg",
+    "png": "SE/SE-E/flag.png",
+    "source_filename": "Östergötlands län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-E/coat.svg",
+    "png": "SE/SE-E/coat.png",
+    "source_filename": "Östergötland vapen.svg"
+  }
+}

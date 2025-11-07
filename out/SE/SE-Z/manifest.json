@@ -1,0 +1,14 @@
+{
+  "code": "SE-Z",
+  "country": "SE",
+  "flag": {
+    "svg": "SE/SE-Z/flag.svg",
+    "png": "SE/SE-Z/flag.png",
+    "source_filename": "Jämtlands län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-Z/coat.svg",
+    "png": "SE/SE-Z/coat.png",
+    "source_filename": "Jämtland län vapen.svg"
+  }
+}

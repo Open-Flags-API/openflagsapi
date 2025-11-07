@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-JSY",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-jsy",
+  "region_normalized": "gb-jsy",
+  "flag": {
+    "svg": "GB/GB-JSY/flag.svg",
+    "source": "Flag of Jersey.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-JSY/coat.svg",
+    "source": "Coat of Arms of Jersey.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "PE-CAL",
+  "country_iso": "PE",
+  "country_name": "PE",
+  "region_name": "pe-cal",
+  "region_normalized": "pe-cal",
+  "flag": {
+    "svg": null,
+    "source": "Bandera del Callao.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Escudo del Callao.png"
+  },
+  "data_source": "out"
+}

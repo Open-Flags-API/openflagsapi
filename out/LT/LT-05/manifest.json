@@ -1,0 +1,14 @@
+{
+  "code": "LT-05",
+  "country": "LT",
+  "flag": {
+    "svg": null,
+    "png": null,
+    "source_filename": null
+  },
+  "coat": {
+    "svg": "LT/LT-05/coat.svg",
+    "png": "LT/LT-05/coat.png",
+    "source_filename": "Birstonas COA.svg"
+  }
+}

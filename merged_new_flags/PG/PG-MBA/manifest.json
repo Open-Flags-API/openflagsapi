@@ -1,0 +1,16 @@
+{
+  "iso_code": "PG-MBA",
+  "country_iso": "PG",
+  "country_name": "PG",
+  "region_name": "pg-mba",
+  "region_normalized": "pg-mba",
+  "flag": {
+    "svg": "PG/PG-MBA/flag.svg",
+    "source": "Flag of Milne Bay.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

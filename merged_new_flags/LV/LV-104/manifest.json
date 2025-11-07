@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-104",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-104",
+  "region_normalized": "lv-104",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Vecpiebalga Municipality.png"
+  },
+  "coat": {
+    "svg": "LV/LV-104/coat.svg",
+    "source": "Vecpiebalgas novads COA.svg"
+  },
+  "data_source": "out"
+}

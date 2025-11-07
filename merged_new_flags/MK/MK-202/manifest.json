@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-202",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-202",
+  "region_normalized": "mk-202",
+  "flag": {
+    "svg": "MK/MK-202/flag.svg",
+    "source": "Flag of Vinica Municipality, North Macedonia.svg"
+  },
+  "coat": {
+    "svg": "MK/MK-202/coat.svg",
+    "source": "Coat of arms of Vinica Municipality, Macedonia.svg"
+  },
+  "data_source": "out"
+}

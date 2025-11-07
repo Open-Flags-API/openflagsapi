@@ -1,0 +1,16 @@
+{
+  "iso_code": "SB-RB",
+  "country_iso": "SB",
+  "country_name": "SB",
+  "region_name": "sb-rb",
+  "region_normalized": "sb-rb",
+  "flag": {
+    "svg": "SB/SB-RB/flag.svg",
+    "source": "Flag of Rennell and Bellona Province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "LT-03",
+  "country_iso": "LT",
+  "country_name": "LT",
+  "region_name": "lt-03",
+  "region_normalized": "lt-03",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "LT/LT-03/coat.svg",
+    "source": "Alytus district COA.svg"
+  },
+  "data_source": "out"
+}

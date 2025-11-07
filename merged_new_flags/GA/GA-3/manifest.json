@@ -1,0 +1,16 @@
+{
+  "iso_code": "GA-3",
+  "country_iso": "GA",
+  "country_name": "GA",
+  "region_name": "ga-3",
+  "region_normalized": "ga-3",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GA/GA-3/coat.svg",
+    "source": "Coat of arms of Moyen-Ogooué, Gabon.svg"
+  },
+  "data_source": "out"
+}

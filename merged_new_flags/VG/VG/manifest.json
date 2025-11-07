@@ -1,0 +1,16 @@
+{
+  "iso_code": "VG",
+  "country_iso": "VG",
+  "country_name": "VG",
+  "region_name": "vg",
+  "region_normalized": "vg",
+  "flag": {
+    "svg": "VG/VG/flag.svg",
+    "source": "Flag of the British Virgin Islands.svg"
+  },
+  "coat": {
+    "svg": "VG/VG/coat.svg",
+    "source": "Coat of arms of the British Virgin Islands.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "AE-RK",
+  "country": "AE",
+  "flag": {
+    "svg": "AE/AE-RK/flag.svg",
+    "png": "AE/AE-RK/flag.png",
+    "source_filename": "Flag of Sharjah and Ras Al Khaimah.svg"
+  },
+  "coat": {
+    "svg": "AE/AE-RK/coat.svg",
+    "png": "AE/AE-RK/coat.png",
+    "source_filename": "Coat of arms of Ras al-Khaimah.svg"
+  }
+}

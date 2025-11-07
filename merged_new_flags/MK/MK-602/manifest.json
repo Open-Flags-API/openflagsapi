@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-602",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-602",
+  "region_normalized": "mk-602",
+  "flag": {
+    "svg": "MK/MK-602/flag.svg",
+    "source": "Flag of Brvenica Municipality, North Macedonia.svg"
+  },
+  "coat": {
+    "svg": "MK/MK-602/coat.svg",
+    "source": "Coat of arms of Municipality of Brvenica.svg"
+  },
+  "data_source": "out"
+}

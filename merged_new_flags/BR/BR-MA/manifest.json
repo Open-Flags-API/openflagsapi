@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-MA",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "br-ma",
+  "region_normalized": "br-ma",
+  "flag": {
+    "svg": "BR/BR-MA/flag.svg",
+    "source": "Bandeira do Maranhão.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-MA/coat.svg",
+    "source": "Brasão do Maranhão.svg"
+  },
+  "data_source": "out"
+}

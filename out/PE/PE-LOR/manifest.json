@@ -1,0 +1,14 @@
+{
+  "code": "PE-LOR",
+  "country": "PE",
+  "flag": {
+    "svg": "PE/PE-LOR/flag.svg",
+    "png": "PE/PE-LOR/flag.png",
+    "source_filename": "Bandera Región Loreto.svg"
+  },
+  "coat": {
+    "svg": "PE/PE-LOR/coat.svg",
+    "png": "PE/PE-LOR/coat.png",
+    "source_filename": "Escudo departamento de loreto.svg"
+  }
+}

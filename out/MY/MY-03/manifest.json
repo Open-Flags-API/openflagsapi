@@ -1,0 +1,14 @@
+{
+  "code": "MY-03",
+  "country": "MY",
+  "flag": {
+    "svg": null,
+    "png": "MY/MY-03/flag.png",
+    "source_filename": "Flag of Kelantan.svg"
+  },
+  "coat": {
+    "svg": "MY/MY-03/coat.svg",
+    "png": "MY/MY-03/coat.png",
+    "source_filename": "Coat of arms of Kelantan.svg"
+  }
+}

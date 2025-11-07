@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-14",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-14",
+  "region_normalized": "ph-14",
+  "flag": {
+    "svg": "PH/PH-14/flag.svg",
+    "source": "Flag of ARMM.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

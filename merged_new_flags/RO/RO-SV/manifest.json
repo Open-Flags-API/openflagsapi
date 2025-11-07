@@ -1,0 +1,16 @@
+{
+  "iso_code": "RO-SV",
+  "country_iso": "RO",
+  "country_name": "RO",
+  "region_name": "ro-sv",
+  "region_normalized": "ro-sv",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Actual Suceava county CoA.png"
+  },
+  "data_source": "out"
+}

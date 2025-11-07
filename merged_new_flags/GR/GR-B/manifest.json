@@ -1,0 +1,16 @@
+{
+  "iso_code": "GR-B",
+  "country_iso": "GR",
+  "country_name": "GR",
+  "region_name": "gr-b",
+  "region_normalized": "gr-b",
+  "flag": {
+    "svg": "GR/GR-B/flag.svg",
+    "source": "Flag of Greek Macedonia.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

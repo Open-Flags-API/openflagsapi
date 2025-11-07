@@ -1,0 +1,16 @@
+{
+  "iso_code": "PA-KY",
+  "country_iso": "PA",
+  "country_name": "PA",
+  "region_name": "pa-ky",
+  "region_normalized": "pa-ky",
+  "flag": {
+    "svg": "PA/PA-KY/flag.svg",
+    "source": "Bandera de la Comarca Guna Yala.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

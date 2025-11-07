@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-LE",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-le",
+  "region_normalized": "es-le",
+  "flag": {
+    "svg": "ES/ES-LE/flag.svg",
+    "source": "Bandera de León.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-LE/coat.svg",
+    "source": "Escudo de León.svg"
+  },
+  "data_source": "out"
+}

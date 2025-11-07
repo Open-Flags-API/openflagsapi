@@ -1,0 +1,16 @@
+{
+  "iso_code": "MD-HI",
+  "country_iso": "MD",
+  "country_name": "MD",
+  "region_name": "md-hi",
+  "region_normalized": "md-hi",
+  "flag": {
+    "svg": null,
+    "source": "Hincesti rajon flag.gif"
+  },
+  "coat": {
+    "svg": "MD/MD-HI/coat.svg",
+    "source": "Escudo de Hîncești.svg"
+  },
+  "data_source": "out"
+}

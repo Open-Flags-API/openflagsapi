@@ -1,0 +1,14 @@
+{
+  "code": "VU-MAP",
+  "country": "VU",
+  "flag": {
+    "svg": "VU/VU-MAP/flag.svg",
+    "png": "VU/VU-MAP/flag.png",
+    "source_filename": "Flag of Malampa Province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": null,
+    "source_filename": null
+  }
+}

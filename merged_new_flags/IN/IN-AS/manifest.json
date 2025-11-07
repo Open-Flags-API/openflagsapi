@@ -1,0 +1,16 @@
+{
+  "iso_code": "IN-AS",
+  "country_iso": "IN",
+  "country_name": "IN",
+  "region_name": "in-as",
+  "region_normalized": "in-as",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IN/IN-AS/coat.svg",
+    "source": "Seal of Assam.svg"
+  },
+  "data_source": "out"
+}

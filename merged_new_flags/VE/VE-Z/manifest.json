@@ -1,0 +1,16 @@
+{
+  "iso_code": "VE-Z",
+  "country_iso": "VE",
+  "country_name": "VE",
+  "region_name": "ve-z",
+  "region_normalized": "ve-z",
+  "flag": {
+    "svg": "VE/VE-Z/flag.svg",
+    "source": "Flag of Amazonas Indigenous State.svg"
+  },
+  "coat": {
+    "svg": "VE/VE-Z/coat.svg",
+    "source": "Escudo del Estado Amazonas.svg"
+  },
+  "data_source": "out"
+}

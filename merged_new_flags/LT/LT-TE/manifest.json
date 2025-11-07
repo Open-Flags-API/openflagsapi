@@ -1,0 +1,16 @@
+{
+  "iso_code": "LT-TE",
+  "country_iso": "LT",
+  "country_name": "LT",
+  "region_name": "lt-te",
+  "region_normalized": "lt-te",
+  "flag": {
+    "svg": "LT/LT-TE/flag.svg",
+    "source": "Telšiai County flag.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Telsiai County COA.png"
+  },
+  "data_source": "out"
+}

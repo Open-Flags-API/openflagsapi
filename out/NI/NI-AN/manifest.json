@@ -1,0 +1,14 @@
+{
+  "code": "NI-AN",
+  "country": "NI",
+  "flag": {
+    "svg": "NI/NI-AN/flag.svg",
+    "png": "NI/NI-AN/flag.png",
+    "source_filename": "Flag of Region Autonoma del Atlantico Norte.svg"
+  },
+  "coat": {
+    "svg": "NI/NI-AN/coat.svg",
+    "png": "NI/NI-AN/coat.png",
+    "source_filename": "Seal of Region Autonoma del Atlantico Norte.svg"
+  }
+}

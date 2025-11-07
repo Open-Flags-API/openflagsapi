@@ -1,0 +1,14 @@
+{
+  "code": "ET-SO",
+  "country": "ET",
+  "flag": {
+    "svg": "ET/ET-SO/flag.svg",
+    "png": "ET/ET-SO/flag.png",
+    "source_filename": "Flag of the Somali Region (1994-2008, 2018-).svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "ET/ET-SO/coat.png",
+    "source_filename": "Somali Region emblem.png"
+  }
+}

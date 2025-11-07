@@ -1,0 +1,14 @@
+{
+  "code": "IT-32",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-32/flag.svg",
+    "png": "IT/IT-32/flag.png",
+    "source_filename": "Flag of Trentino-South Tyrol.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-32/coat.svg",
+    "png": "IT/IT-32/coat.png",
+    "source_filename": "Coat of arms of Trentino-South Tyrol.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "GZZ",
+  "country_iso": "GZZ",
+  "country_name": "GZZ",
+  "region_name": "gzz",
+  "region_normalized": "gzz",
+  "flag": {
+    "svg": "GZZ/GZZ/flag.svg",
+    "source": "Flag of Palestine.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

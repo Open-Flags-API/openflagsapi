@@ -1,0 +1,14 @@
+{
+  "code": "IT-PU",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-PU/flag.svg",
+    "png": "IT/IT-PU/flag.png",
+    "source_filename": "Flag of the province of Pesaro-Urbino.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-PU/coat.svg",
+    "png": "IT/IT-PU/coat.png",
+    "source_filename": "Provincia di Pesaro e Urbino-Stemma.svg"
+  }
+}

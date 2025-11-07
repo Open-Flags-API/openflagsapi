@@ -1,0 +1,16 @@
+{
+  "iso_code": "ZA-NC",
+  "country_iso": "ZA",
+  "country_name": "ZA",
+  "region_name": "za-nc",
+  "region_normalized": "za-nc",
+  "flag": {
+    "svg": null,
+    "source": "Flag of the Northern Cape Province.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

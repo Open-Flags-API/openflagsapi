@@ -1,0 +1,16 @@
+{
+  "iso_code": "TW-KIN",
+  "country_iso": "TW",
+  "country_name": "TW",
+  "region_name": "tw-kin",
+  "region_normalized": "tw-kin",
+  "flag": {
+    "svg": "TW/TW-KIN/flag.svg",
+    "source": "Flag of Kinmen County.svg"
+  },
+  "coat": {
+    "svg": "TW/TW-KIN/coat.svg",
+    "source": "Emblem of Kinmen County.svg"
+  },
+  "data_source": "out"
+}

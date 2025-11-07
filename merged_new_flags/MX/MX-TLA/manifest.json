@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-TLA",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "mx-tla",
+  "region_normalized": "mx-tla",
+  "flag": {
+    "svg": "MX/MX-TLA/flag.svg",
+    "source": "Flag of Tlaxcala.svg"
+  },
+  "coat": {
+    "svg": "MX/MX-TLA/coat.svg",
+    "source": "Coat of arms of Tlaxcala.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "AZ-LAN",
+  "country_iso": "AZ",
+  "country_name": "AZ",
+  "region_name": "az-lan",
+  "region_normalized": "az-lan",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-30",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-30",
+  "region_normalized": "mt-30",
+  "flag": {
+    "svg": "MT/MT-30/flag.svg",
+    "source": "Flag of Mellieħa.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-30/coat.svg",
+    "source": "Mellieha coa.svg"
+  },
+  "data_source": "out"
+}

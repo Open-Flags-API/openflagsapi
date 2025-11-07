@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-LE",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-le",
+  "region_normalized": "it-le",
+  "flag": {
+    "svg": "IT/IT-LE/flag.svg",
+    "source": "Flag of the Province of Lecce.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-LE/coat.svg",
+    "source": "Coat of Arms of the Province of Lecce.svg"
+  },
+  "data_source": "out"
+}

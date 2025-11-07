@@ -1,0 +1,16 @@
+{
+  "iso_code": "EC-O",
+  "country_iso": "EC",
+  "country_name": "EC",
+  "region_name": "ec-o",
+  "region_normalized": "ec-o",
+  "flag": {
+    "svg": "EC/EC-O/flag.svg",
+    "source": "Bandera Provincia El Oro.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

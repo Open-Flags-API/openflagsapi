@@ -1,0 +1,16 @@
+{
+  "iso_code": "RO-HR",
+  "country_iso": "RO",
+  "country_name": "RO",
+  "region_name": "ro-hr",
+  "region_normalized": "ro-hr",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Harghita County.gif"
+  },
+  "coat": {
+    "svg": "RO/RO-HR/coat.svg",
+    "source": "Stema Harghita.svg"
+  },
+  "data_source": "out"
+}

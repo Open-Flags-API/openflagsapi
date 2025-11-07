@@ -1,0 +1,14 @@
+{
+  "code": "IE-DL",
+  "country": "IE",
+  "flag": {
+    "svg": "IE/IE-DL/flag.svg",
+    "png": "IE/IE-DL/flag.png",
+    "source_filename": "Flag of the counties of Donegal, Leitrim and Meath.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "IE/IE-DL/coat.png",
+    "source_filename": "Donegal CoA.png"
+  }
+}

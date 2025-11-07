@@ -1,0 +1,16 @@
+{
+  "iso_code": "HR-16",
+  "country_iso": "HR",
+  "country_name": "HR",
+  "region_name": "hr-16",
+  "region_normalized": "hr-16",
+  "flag": {
+    "svg": "HR/HR-16/flag.svg",
+    "source": "Flag of Vukovar-Syrmia County.svg"
+  },
+  "coat": {
+    "svg": "HR/HR-16/coat.svg",
+    "source": "Coat of Arms of Vukovar-Syrmia County.svg"
+  },
+  "data_source": "out"
+}

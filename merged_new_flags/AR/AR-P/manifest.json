@@ -1,0 +1,16 @@
+{
+  "iso_code": "AR-P",
+  "country_iso": "AR",
+  "country_name": "AR",
+  "region_name": "ar-p",
+  "region_normalized": "ar-p",
+  "flag": {
+    "svg": "AR/AR-P/flag.svg",
+    "source": "Bandera de la Provincia de Formosa.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-P/coat.svg",
+    "source": "Escudo de la Provincia de Formosa.svg"
+  },
+  "data_source": "out"
+}

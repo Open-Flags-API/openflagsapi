@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-IO",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "iowa",
+  "region_normalized": "iowa",
+  "flag": {
+    "svg": "US/US-IO/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

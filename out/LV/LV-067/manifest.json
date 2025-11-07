@@ -1,0 +1,14 @@
+{
+  "code": "LV-067",
+  "country": "LV",
+  "flag": {
+    "svg": null,
+    "png": "LV/LV-067/flag.png",
+    "source_filename": "Ogres novads Flag.png"
+  },
+  "coat": {
+    "svg": "LV/LV-067/coat.svg",
+    "png": "LV/LV-067/coat.png",
+    "source_filename": "Ogres novads COA.svg"
+  }
+}

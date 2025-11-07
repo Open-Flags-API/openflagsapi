@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-23",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-23",
+  "region_normalized": "th-23",
+  "flag": {
+    "svg": "TH/TH-23/flag.svg",
+    "source": "Flag of Trat Province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

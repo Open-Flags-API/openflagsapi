@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-REZ",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-rez",
+  "region_normalized": "lv-rez",
+  "flag": {
+    "svg": "LV/LV-REZ/flag.svg",
+    "source": "Flag of Rēzekne.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-REZ/coat.svg",
+    "source": "Coat of Arms of Rēzekne.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "PG-EBR",
+  "country_iso": "PG",
+  "country_name": "PG",
+  "region_name": "pg-ebr",
+  "region_normalized": "pg-ebr",
+  "flag": {
+    "svg": "PG/PG-EBR/flag.svg",
+    "source": "Flag of East New Britain.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

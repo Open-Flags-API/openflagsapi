@@ -1,0 +1,16 @@
+{
+  "iso_code": "VE-T",
+  "country_iso": "VE",
+  "country_name": "VE",
+  "region_name": "ve-t",
+  "region_normalized": "ve-t",
+  "flag": {
+    "svg": "VE/VE-T/flag.svg",
+    "source": "Flag of Trujillo State.svg"
+  },
+  "coat": {
+    "svg": "VE/VE-T/coat.svg",
+    "source": "Escudo de Armas del Estado Trujillo.svg"
+  },
+  "data_source": "out"
+}

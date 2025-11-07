@@ -1,0 +1,14 @@
+{
+  "code": "CO-COR",
+  "country": "CO",
+  "flag": {
+    "svg": "CO/CO-COR/flag.svg",
+    "png": "CO/CO-COR/flag.png",
+    "source_filename": "Flag of Córdoba.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-COR/coat.svg",
+    "png": "CO/CO-COR/coat.png",
+    "source_filename": "Escudo oficial de Córdoba (Colombia).svg"
+  }
+}

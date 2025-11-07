@@ -1,0 +1,16 @@
+{
+  "iso_code": "AF-BAM",
+  "country_iso": "AF",
+  "country_name": "AF",
+  "region_name": "af-bam",
+  "region_normalized": "af-bam",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

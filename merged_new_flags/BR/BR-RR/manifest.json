@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-RR",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "br-rr",
+  "region_normalized": "br-rr",
+  "flag": {
+    "svg": "BR/BR-RR/flag.svg",
+    "source": "Bandeira de Roraima.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-RR/coat.svg",
+    "source": "Brasão de Roraima.svg"
+  },
+  "data_source": "out"
+}

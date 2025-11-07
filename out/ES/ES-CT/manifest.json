@@ -1,0 +1,14 @@
+{
+  "code": "ES-CT",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-CT/flag.svg",
+    "png": "ES/ES-CT/flag.png",
+    "source_filename": "Flag of Catalonia.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-CT/coat.svg",
+    "png": "ES/ES-CT/coat.png",
+    "source_filename": "Escut de Catalunya (apuntat).svg"
+  }
+}

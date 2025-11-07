@@ -1,0 +1,16 @@
+{
+  "iso_code": "LT-45",
+  "country_iso": "LT",
+  "country_name": "LT",
+  "region_name": "lt-45",
+  "region_normalized": "lt-45",
+  "flag": {
+    "svg": "LT/LT-45/flag.svg",
+    "source": "Šilalės vėliava.svg"
+  },
+  "coat": {
+    "svg": "LT/LT-45/coat.svg",
+    "source": "Coat of arms of Šilalė.svg"
+  },
+  "data_source": "out"
+}

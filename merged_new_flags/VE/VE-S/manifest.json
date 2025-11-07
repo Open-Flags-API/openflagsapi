@@ -1,0 +1,16 @@
+{
+  "iso_code": "VE-S",
+  "country_iso": "VE",
+  "country_name": "VE",
+  "region_name": "ve-s",
+  "region_normalized": "ve-s",
+  "flag": {
+    "svg": "VE/VE-S/flag.svg",
+    "source": "Flag of Táchira.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Escudo de Armas del Estado Táchira (1878) sin color.jpg"
+  },
+  "data_source": "out"
+}

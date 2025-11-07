@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-IV",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ivanovo",
+  "region_normalized": "ivanovo",
+  "flag": {
+    "svg": "RU/RU-IV/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

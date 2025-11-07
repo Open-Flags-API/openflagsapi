@@ -1,0 +1,16 @@
+{
+  "iso_code": "BO-S",
+  "country_iso": "BO",
+  "country_name": "BO",
+  "region_name": "bo-s",
+  "region_normalized": "bo-s",
+  "flag": {
+    "svg": "BO/BO-S/flag.svg",
+    "source": "Flag of Santa Cruz.svg"
+  },
+  "coat": {
+    "svg": "BO/BO-S/coat.svg",
+    "source": "Escudo de Santa Cruz de la Sierra.svg"
+  },
+  "data_source": "out"
+}

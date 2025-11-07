@@ -1,0 +1,16 @@
+{
+  "iso_code": "ET-SW",
+  "country_iso": "ET",
+  "country_name": "ET",
+  "region_name": "et-sw",
+  "region_normalized": "et-sw",
+  "flag": {
+    "svg": "ET/ET-SW/flag.svg",
+    "source": "Flag of South West Ethiopia.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

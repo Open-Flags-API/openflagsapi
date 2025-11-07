@@ -1,0 +1,16 @@
+{
+  "iso_code": "UY-CO",
+  "country_iso": "UY",
+  "country_name": "UY",
+  "region_name": "uy-co",
+  "region_normalized": "uy-co",
+  "flag": {
+    "svg": "UY/UY-CO/flag.svg",
+    "source": "Flag of Colonia Department.svg"
+  },
+  "coat": {
+    "svg": "UY/UY-CO/coat.svg",
+    "source": "Coat of arms of Colonia Department.svg"
+  },
+  "data_source": "out"
+}

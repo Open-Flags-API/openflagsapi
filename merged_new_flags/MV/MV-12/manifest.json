@@ -1,0 +1,16 @@
+{
+  "iso_code": "MV-12",
+  "country_iso": "MV",
+  "country_name": "MV",
+  "region_name": "mv-12",
+  "region_normalized": "mv-12",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

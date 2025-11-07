@@ -1,0 +1,16 @@
+{
+  "iso_code": "GN-MC",
+  "country_iso": "GN",
+  "country_name": "GN",
+  "region_name": "gn-mc",
+  "region_normalized": "gn-mc",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

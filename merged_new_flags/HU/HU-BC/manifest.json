@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-BC",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-bc",
+  "region_normalized": "hu-bc",
+  "flag": {
+    "svg": "HU/HU-BC/flag.svg",
+    "source": "Flag of Békéscsaba.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-BC/coat.svg",
+    "source": "HUN Békéscsaba Címer.svg"
+  },
+  "data_source": "out"
+}

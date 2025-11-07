@@ -1,0 +1,14 @@
+{
+  "code": "FR-NOR",
+  "country": "FR",
+  "flag": {
+    "svg": "FR/FR-NOR/flag.svg",
+    "png": "FR/FR-NOR/flag.png",
+    "source_filename": "Flag of Normandie.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-NOR/coat.svg",
+    "png": "FR/FR-NOR/coat.png",
+    "source_filename": "Blason region fr Normandie.svg"
+  }
+}

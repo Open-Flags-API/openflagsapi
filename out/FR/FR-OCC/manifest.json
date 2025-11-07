@@ -1,0 +1,14 @@
+{
+  "code": "FR-OCC",
+  "country": "FR",
+  "flag": {
+    "svg": "FR/FR-OCC/flag.svg",
+    "png": "FR/FR-OCC/flag.png",
+    "source_filename": "Flag of Région Occitanie Perpinyà variation.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-OCC/coat.svg",
+    "png": "FR/FR-OCC/coat.png",
+    "source_filename": "Blason région fr Occitanie.svg"
+  }
+}

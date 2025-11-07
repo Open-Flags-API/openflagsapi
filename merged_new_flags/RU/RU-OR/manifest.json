@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-OR",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "oryol",
+  "region_normalized": "oryol",
+  "flag": {
+    "svg": "RU/RU-OR/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

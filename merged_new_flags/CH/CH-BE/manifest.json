@@ -1,0 +1,16 @@
+{
+  "iso_code": "CH-BE",
+  "country_iso": "CH",
+  "country_name": "CH",
+  "region_name": "ch-be",
+  "region_normalized": "ch-be",
+  "flag": {
+    "svg": "CH/CH-BE/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": "CH/CH-BE/coat.svg",
+    "source": null
+  },
+  "data_source": "out"
+}

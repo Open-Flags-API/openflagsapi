@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-LI",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "lincolnshire",
+  "region_normalized": "lincolnshire",
+  "flag": {
+    "svg": "GB/GB-LI/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

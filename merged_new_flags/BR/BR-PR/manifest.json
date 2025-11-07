@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-PR",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "br-pr",
+  "region_normalized": "br-pr",
+  "flag": {
+    "svg": "BR/BR-PR/flag.svg",
+    "source": "Bandeira do Paraná.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-PR/coat.svg",
+    "source": "Brasão do Paraná.svg"
+  },
+  "data_source": "out"
+}

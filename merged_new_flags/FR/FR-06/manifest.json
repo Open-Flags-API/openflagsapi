@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-06",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-06",
+  "region_normalized": "fr-06",
+  "flag": {
+    "svg": "FR/FR-06/flag.svg",
+    "source": "Drapèu de la Contèa de Niça.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-06/coat.svg",
+    "source": "Arms of Nice.svg"
+  },
+  "data_source": "out"
+}

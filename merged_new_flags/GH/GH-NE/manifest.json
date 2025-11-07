@@ -1,0 +1,16 @@
+{
+  "iso_code": "GH-NE",
+  "country_iso": "GH",
+  "country_name": "GH",
+  "region_name": "gh-ne",
+  "region_normalized": "gh-ne",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

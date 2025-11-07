@@ -1,0 +1,16 @@
+{
+  "iso_code": "PA-6",
+  "country_iso": "PA",
+  "country_name": "PA",
+  "region_name": "pa-6",
+  "region_normalized": "pa-6",
+  "flag": {
+    "svg": "PA/PA-6/flag.svg",
+    "source": "Bandera de la Provincia de Herrera.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

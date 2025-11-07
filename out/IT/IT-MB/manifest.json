@@ -1,0 +1,14 @@
+{
+  "code": "IT-MB",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-MB/flag.svg",
+    "png": "IT/IT-MB/flag.png",
+    "source_filename": "Provincia di Monza e della Brianza-Bandiera.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-MB/coat.svg",
+    "png": "IT/IT-MB/coat.png",
+    "source_filename": "Provincia di Monza e della Brianza-Stemma.svg"
+  }
+}

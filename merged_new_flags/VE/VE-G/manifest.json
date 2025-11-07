@@ -1,0 +1,16 @@
+{
+  "iso_code": "VE-G",
+  "country_iso": "VE",
+  "country_name": "VE",
+  "region_name": "ve-g",
+  "region_normalized": "ve-g",
+  "flag": {
+    "svg": "VE/VE-G/flag.svg",
+    "source": "Flag of Carabobo State.svg"
+  },
+  "coat": {
+    "svg": "VE/VE-G/coat.svg",
+    "source": "Escudo del Estado Carabobo.svg"
+  },
+  "data_source": "out"
+}

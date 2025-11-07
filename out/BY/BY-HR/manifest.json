@@ -1,0 +1,14 @@
+{
+  "code": "BY-HR",
+  "country": "BY",
+  "flag": {
+    "svg": "BY/BY-HR/flag.svg",
+    "png": "BY/BY-HR/flag.png",
+    "source_filename": "Flag of Hrodna Voblasts.svg"
+  },
+  "coat": {
+    "svg": "BY/BY-HR/coat.svg",
+    "png": "BY/BY-HR/coat.png",
+    "source_filename": "Coat of Arms of Hrodna Voblasts.svg"
+  }
+}

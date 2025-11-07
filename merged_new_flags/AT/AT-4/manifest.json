@@ -1,0 +1,16 @@
+{
+  "iso_code": "AT-4",
+  "country_iso": "AT",
+  "country_name": "AT",
+  "region_name": "at-4",
+  "region_normalized": "at-4",
+  "flag": {
+    "svg": "AT/AT-4/flag.svg",
+    "source": "Flag of Upper Austria (state).svg"
+  },
+  "coat": {
+    "svg": "AT/AT-4/coat.svg",
+    "source": "Oberoesterreich Wappen.svg"
+  },
+  "data_source": "out"
+}

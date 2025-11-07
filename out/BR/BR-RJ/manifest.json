@@ -1,0 +1,14 @@
+{
+  "code": "BR-RJ",
+  "country": "BR",
+  "flag": {
+    "svg": "BR/BR-RJ/flag.svg",
+    "png": "BR/BR-RJ/flag.png",
+    "source_filename": "Bandeira do estado do Rio de Janeiro.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-RJ/coat.svg",
+    "png": "BR/BR-RJ/coat.png",
+    "source_filename": "Brasão do estado do Rio de Janeiro.svg"
+  }
+}

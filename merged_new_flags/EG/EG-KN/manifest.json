@@ -1,0 +1,16 @@
+{
+  "iso_code": "EG-KN",
+  "country_iso": "EG",
+  "country_name": "EG",
+  "region_name": "eg-kn",
+  "region_normalized": "eg-kn",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Qena Governorate.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Emblem Qena Governorate.jpg"
+  },
+  "data_source": "out"
+}

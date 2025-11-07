@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-SLU",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-slu",
+  "region_normalized": "ph-slu",
+  "flag": {
+    "svg": "PH/PH-SLU/flag.svg",
+    "source": "Flag of Sulu.svg"
+  },
+  "coat": {
+    "svg": "PH/PH-SLU/coat.svg",
+    "source": "Official Seal of Sulu.svg"
+  },
+  "data_source": "out"
+}

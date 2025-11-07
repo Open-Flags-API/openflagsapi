@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-PU",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "puerto-rico",
+  "region_normalized": "puerto-rico",
+  "flag": {
+    "svg": "US/US-PU/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

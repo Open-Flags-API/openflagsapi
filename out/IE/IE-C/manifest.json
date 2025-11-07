@@ -1,0 +1,14 @@
+{
+  "code": "IE-C",
+  "country": "IE",
+  "flag": {
+    "svg": "IE/IE-C/flag.svg",
+    "png": "IE/IE-C/flag.png",
+    "source_filename": "Flag of Connacht.svg"
+  },
+  "coat": {
+    "svg": "IE/IE-C/coat.svg",
+    "png": "IE/IE-C/coat.png",
+    "source_filename": "Coat of arms of Connacht.svg"
+  }
+}

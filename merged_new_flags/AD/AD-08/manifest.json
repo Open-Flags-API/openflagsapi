@@ -1,0 +1,16 @@
+{
+  "iso_code": "AD-08",
+  "country_iso": "AD",
+  "country_name": "AD",
+  "region_name": "ad-08",
+  "region_normalized": "ad-08",
+  "flag": {
+    "svg": "AD/AD-08/flag.svg",
+    "source": "Bandera de Escaldes-Engordany.svg"
+  },
+  "coat": {
+    "svg": "AD/AD-08/coat.svg",
+    "source": "Escut d'Escaldes-Engordany.svg"
+  },
+  "data_source": "out"
+}

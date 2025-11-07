@@ -1,0 +1,14 @@
+{
+  "code": "CO-LAG",
+  "country": "CO",
+  "flag": {
+    "svg": "CO/CO-LAG/flag.svg",
+    "png": "CO/CO-LAG/flag.png",
+    "source_filename": "Flag of La Guajira.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-LAG/coat.svg",
+    "png": "CO/CO-LAG/coat.png",
+    "source_filename": "Escudo de La Guajira.svg"
+  }
+}

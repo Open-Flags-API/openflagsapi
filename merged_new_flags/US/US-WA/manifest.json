@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-WA",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-wa",
+  "region_normalized": "us-wa",
+  "flag": {
+    "svg": "US/US-WA/flag.svg",
+    "source": "Flag of Washington.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

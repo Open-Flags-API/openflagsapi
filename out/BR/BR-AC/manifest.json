@@ -1,0 +1,14 @@
+{
+  "code": "BR-AC",
+  "country": "BR",
+  "flag": {
+    "svg": "BR/BR-AC/flag.svg",
+    "png": "BR/BR-AC/flag.png",
+    "source_filename": "Bandeira do Acre.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-AC/coat.svg",
+    "png": "BR/BR-AC/coat.png",
+    "source_filename": "Brasão do Acre.svg"
+  }
+}

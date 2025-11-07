@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-406",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-406",
+  "region_normalized": "mk-406",
+  "flag": {
+    "svg": "MK/MK-406/flag.svg",
+    "source": "Flag of Dojran Municipality, North Macedonia.svg"
+  },
+  "coat": {
+    "svg": "MK/MK-406/coat.svg",
+    "source": "Coat of arms of Dojran Municipality.svg"
+  },
+  "data_source": "out"
+}

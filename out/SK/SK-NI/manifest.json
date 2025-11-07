@@ -1,0 +1,14 @@
+{
+  "code": "SK-NI",
+  "country": "SK",
+  "flag": {
+    "svg": "SK/SK-NI/flag.svg",
+    "png": "SK/SK-NI/flag.png",
+    "source_filename": "Nitriansky vlajka.svg"
+  },
+  "coat": {
+    "svg": "SK/SK-NI/coat.svg",
+    "png": "SK/SK-NI/coat.png",
+    "source_filename": "Coat of Arms of Nitra Region.svg"
+  }
+}

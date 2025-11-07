@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-KY",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-ky",
+  "region_normalized": "us-ky",
+  "flag": {
+    "svg": "US/US-KY/flag.svg",
+    "source": "Flag of Kentucky.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

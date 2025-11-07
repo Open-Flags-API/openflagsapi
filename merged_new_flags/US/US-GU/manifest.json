@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-GU",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-gu",
+  "region_normalized": "us-gu",
+  "flag": {
+    "svg": "US/US-GU/flag.svg",
+    "source": "Flag of Guam.svg"
+  },
+  "coat": {
+    "svg": "US/US-GU/coat.svg",
+    "source": "Seal of Guam.svg"
+  },
+  "data_source": "out"
+}

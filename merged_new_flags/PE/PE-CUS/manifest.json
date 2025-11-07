@@ -1,0 +1,16 @@
+{
+  "iso_code": "PE-CUS",
+  "country_iso": "PE",
+  "country_name": "PE",
+  "region_name": "pe-cus",
+  "region_normalized": "pe-cus",
+  "flag": {
+    "svg": "PE/PE-CUS/flag.svg",
+    "source": "Flag of Cusco (2021).svg"
+  },
+  "coat": {
+    "svg": "PE/PE-CUS/coat.svg",
+    "source": "Cusco Emblem.svg"
+  },
+  "data_source": "out"
+}

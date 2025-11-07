@@ -1,0 +1,14 @@
+{
+  "code": "VE-T",
+  "country": "VE",
+  "flag": {
+    "svg": "VE/VE-T/flag.svg",
+    "png": "VE/VE-T/flag.png",
+    "source_filename": "Flag of Trujillo State.svg"
+  },
+  "coat": {
+    "svg": "VE/VE-T/coat.svg",
+    "png": "VE/VE-T/coat.png",
+    "source_filename": "Escudo de Armas del Estado Trujillo.svg"
+  }
+}

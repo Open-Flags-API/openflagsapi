@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-CRY",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-cry",
+  "region_normalized": "gb-cry",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-CRY/coat.svg",
+    "source": "Coat of arms of the London Borough of Croydon.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "IN-SK",
+  "country_iso": "IN",
+  "country_name": "IN",
+  "region_name": "in-sk",
+  "region_normalized": "in-sk",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Seal of Sikkim greyscale.png"
+  },
+  "data_source": "out"
+}

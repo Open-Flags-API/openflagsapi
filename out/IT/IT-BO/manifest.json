@@ -1,0 +1,14 @@
+{
+  "code": "IT-BO",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-BO/flag.svg",
+    "png": "IT/IT-BO/flag.png",
+    "source_filename": "Flag of the Metropolitan city of Bologna.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-BO/coat.svg",
+    "png": "IT/IT-BO/coat.png",
+    "source_filename": "Città metropolitana di Bologna - Stemma.svg"
+  }
+}

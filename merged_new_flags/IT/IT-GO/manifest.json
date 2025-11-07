@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-GO",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-go",
+  "region_normalized": "it-go",
+  "flag": {
+    "svg": "IT/IT-GO/flag.svg",
+    "source": "Flag of the Province of Gorizia.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-GO/coat.svg",
+    "source": "Provincia di Gorizia-Stemma.svg"
+  },
+  "data_source": "out"
+}

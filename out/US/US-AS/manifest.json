@@ -1,0 +1,14 @@
+{
+  "code": "US-AS",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-AS/flag.svg",
+    "png": "US/US-AS/flag.png",
+    "source_filename": "Flag of American Samoa.svg"
+  },
+  "coat": {
+    "svg": "US/US-AS/coat.svg",
+    "png": "US/US-AS/coat.png",
+    "source_filename": "Seal of American Samoa.svg"
+  }
+}

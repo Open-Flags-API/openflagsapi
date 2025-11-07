@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-32",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-32",
+  "region_normalized": "it-32",
+  "flag": {
+    "svg": "IT/IT-32/flag.svg",
+    "source": "Flag of Trentino-South Tyrol.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-32/coat.svg",
+    "source": "Coat of arms of Trentino-South Tyrol.svg"
+  },
+  "data_source": "out"
+}

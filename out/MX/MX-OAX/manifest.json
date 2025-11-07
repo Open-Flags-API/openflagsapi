@@ -1,0 +1,14 @@
+{
+  "code": "MX-OAX",
+  "country": "MX",
+  "flag": {
+    "svg": "MX/MX-OAX/flag.svg",
+    "png": "MX/MX-OAX/flag.png",
+    "source_filename": "Flag of Oaxaca.svg"
+  },
+  "coat": {
+    "svg": "MX/MX-OAX/coat.svg",
+    "png": "MX/MX-OAX/coat.png",
+    "source_filename": "Coat of arms of Oaxaca.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-AL",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-al",
+  "region_normalized": "es-al",
+  "flag": {
+    "svg": "ES/ES-AL/flag.svg",
+    "source": "Flag Almería Province.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-AL/coat.svg",
+    "source": "Escudo de la Provincia de Almería.svg"
+  },
+  "data_source": "out"
+}

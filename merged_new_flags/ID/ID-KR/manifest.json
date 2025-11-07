@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-KR",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "id-kr",
+  "region_normalized": "id-kr",
+  "flag": {
+    "svg": "ID/ID-KR/flag.svg",
+    "source": "Flag of Riau Islands.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-KR/coat.svg",
+    "source": "Coat of arms of Riau Islands.svg"
+  },
+  "data_source": "out"
+}

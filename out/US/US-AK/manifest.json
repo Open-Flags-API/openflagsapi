@@ -1,0 +1,14 @@
+{
+  "code": "US-AK",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-AK/flag.svg",
+    "png": "US/US-AK/flag.png",
+    "source_filename": "Flag of Alaska.svg"
+  },
+  "coat": {
+    "svg": "US/US-AK/coat.svg",
+    "png": "US/US-AK/coat.png",
+    "source_filename": "Seal of the State of Alaska.svg"
+  }
+}

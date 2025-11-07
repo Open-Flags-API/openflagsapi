@@ -1,0 +1,16 @@
+{
+  "iso_code": "PE-AMA",
+  "country_iso": "PE",
+  "country_name": "PE",
+  "region_name": "pe-ama",
+  "region_normalized": "pe-ama",
+  "flag": {
+    "svg": "PE/PE-AMA/flag.svg",
+    "source": "Amazonas bandera.svg"
+  },
+  "coat": {
+    "svg": "PE/PE-AMA/coat.svg",
+    "source": "Escudo amazonasregion.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "NI-RI",
+  "country": "NI",
+  "flag": {
+    "svg": "NI/NI-RI/flag.svg",
+    "png": "NI/NI-RI/flag.png",
+    "source_filename": "Flag of Rivas.svg"
+  },
+  "coat": {
+    "svg": "NI/NI-RI/coat.svg",
+    "png": "NI/NI-RI/coat.png",
+    "source_filename": "Seal of Rivas.svg"
+  }
+}

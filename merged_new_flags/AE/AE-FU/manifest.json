@@ -1,0 +1,16 @@
+{
+  "iso_code": "AE-FU",
+  "country_iso": "AE",
+  "country_name": "AE",
+  "region_name": "ae-fu",
+  "region_normalized": "ae-fu",
+  "flag": {
+    "svg": "AE/AE-FU/flag.svg",
+    "source": "Flag of Fujairah (1952–1961).svg"
+  },
+  "coat": {
+    "svg": "AE/AE-FU/coat.svg",
+    "source": "Coat of arms of Fujairah.svg"
+  },
+  "data_source": "out"
+}

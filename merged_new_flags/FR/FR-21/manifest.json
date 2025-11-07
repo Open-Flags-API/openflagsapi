@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-21",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-21",
+  "region_normalized": "fr-21",
+  "flag": {
+    "svg": "FR/FR-21/flag.svg",
+    "source": "Drapeau non-officiel fr département Côte-d'Or.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-21/coat.svg",
+    "source": "Blason département fr Côte-d’Or.svg"
+  },
+  "data_source": "out"
+}

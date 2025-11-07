@@ -1,0 +1,16 @@
+{
+  "iso_code": "MY-16",
+  "country_iso": "MY",
+  "country_name": "MY",
+  "region_name": "my-16",
+  "region_normalized": "my-16",
+  "flag": {
+    "svg": "MY/MY-16/flag.svg",
+    "source": "Flag of Putrajaya.svg"
+  },
+  "coat": {
+    "svg": "MY/MY-16/coat.svg",
+    "source": "Coat of arms of Putrajaya.svg"
+  },
+  "data_source": "out"
+}

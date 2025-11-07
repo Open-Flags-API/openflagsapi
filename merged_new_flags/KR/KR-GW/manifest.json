@@ -1,0 +1,16 @@
+{
+  "iso_code": "KR-GW",
+  "country_iso": "KR",
+  "country_name": "south-korea",
+  "region_name": "gwangju",
+  "region_normalized": "gwangju",
+  "flag": {
+    "svg": "KR/KR-GW/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

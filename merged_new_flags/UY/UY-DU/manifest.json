@@ -1,0 +1,16 @@
+{
+  "iso_code": "UY-DU",
+  "country_iso": "UY",
+  "country_name": "UY",
+  "region_name": "uy-du",
+  "region_normalized": "uy-du",
+  "flag": {
+    "svg": "UY/UY-DU/flag.svg",
+    "source": "Flag of Durazno Department.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Durazno Department.png"
+  },
+  "data_source": "out"
+}

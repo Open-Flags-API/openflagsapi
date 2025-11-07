@@ -1,0 +1,14 @@
+{
+  "code": "ES-SO",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-SO/flag.svg",
+    "png": "ES/ES-SO/flag.png",
+    "source_filename": "Flag Soria province.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-SO/coat.svg",
+    "png": "ES/ES-SO/coat.png",
+    "source_filename": "Escudo de la provincia de Soria2.svg"
+  }
+}

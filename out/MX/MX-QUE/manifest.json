@@ -1,0 +1,14 @@
+{
+  "code": "MX-QUE",
+  "country": "MX",
+  "flag": {
+    "svg": "MX/MX-QUE/flag.svg",
+    "png": "MX/MX-QUE/flag.png",
+    "source_filename": "Flag of Queretaro.svg"
+  },
+  "coat": {
+    "svg": "MX/MX-QUE/coat.svg",
+    "png": "MX/MX-QUE/coat.png",
+    "source_filename": "Coat of arms of Queretaro.svg"
+  }
+}

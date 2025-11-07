@@ -1,0 +1,14 @@
+{
+  "code": "US-ID",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-ID/flag.svg",
+    "png": "US/US-ID/flag.png",
+    "source_filename": "Flag of Idaho.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": null,
+    "source_filename": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "code": "NL-FL",
+  "country": "NL",
+  "flag": {
+    "svg": "NL/NL-FL/flag.svg",
+    "png": "NL/NL-FL/flag.png",
+    "source_filename": "Flag of Flevoland.svg"
+  },
+  "coat": {
+    "svg": "NL/NL-FL/coat.svg",
+    "png": "NL/NL-FL/coat.png",
+    "source_filename": "Flevoland wapen.svg"
+  }
+}

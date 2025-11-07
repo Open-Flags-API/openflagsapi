@@ -1,0 +1,14 @@
+{
+  "code": "SE-I",
+  "country": "SE",
+  "flag": {
+    "svg": "SE/SE-I/flag.svg",
+    "png": "SE/SE-I/flag.png",
+    "source_filename": "Gotlands län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-I/coat.svg",
+    "png": "SE/SE-I/coat.png",
+    "source_filename": "Gotland vapen.svg"
+  }
+}

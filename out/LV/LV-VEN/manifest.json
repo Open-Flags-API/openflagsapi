@@ -1,0 +1,14 @@
+{
+  "code": "LV-VEN",
+  "country": "LV",
+  "flag": {
+    "svg": "LV/LV-VEN/flag.svg",
+    "png": "LV/LV-VEN/flag.png",
+    "source_filename": "Flag of Ventspils.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-VEN/coat.svg",
+    "png": "LV/LV-VEN/coat.png",
+    "source_filename": "LVA Ventspils COA.svg"
+  }
+}

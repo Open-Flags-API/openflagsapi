@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-57",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-57",
+  "region_normalized": "it-57",
+  "flag": {
+    "svg": "IT/IT-57/flag.svg",
+    "source": "Flag of Marche.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-57/coat.svg",
+    "source": "Coat of arms of Marche.svg"
+  },
+  "data_source": "out"
+}

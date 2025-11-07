@@ -1,0 +1,16 @@
+{
+  "iso_code": "EG-BH",
+  "country_iso": "EG",
+  "country_name": "EG",
+  "region_name": "eg-bh",
+  "region_normalized": "eg-bh",
+  "flag": {
+    "svg": "EG/EG-BH/flag.svg",
+    "source": "Flag of Behira Govenorate.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of Arms of Behira Govenorate.png"
+  },
+  "data_source": "out"
+}

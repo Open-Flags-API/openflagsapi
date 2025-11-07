@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-NAQ",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-naq",
+  "region_normalized": "fr-naq",
+  "flag": {
+    "svg": "FR/FR-NAQ/flag.svg",
+    "source": "Flag of Nouvelle-Aquitaine.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-NAQ/coat.svg",
+    "source": "BlasonNouvelleAquitaine.svg"
+  },
+  "data_source": "out"
+}

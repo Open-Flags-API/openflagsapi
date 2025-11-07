@@ -1,0 +1,16 @@
+{
+  "iso_code": "UA-46",
+  "country_iso": "UA",
+  "country_name": "UA",
+  "region_name": "ua-46",
+  "region_normalized": "ua-46",
+  "flag": {
+    "svg": "UA/UA-46/flag.svg",
+    "source": "Flag of Lviv Oblast.svg"
+  },
+  "coat": {
+    "svg": "UA/UA-46/coat.svg",
+    "source": "Coat of Arms of Lviv Oblast.svg"
+  },
+  "data_source": "out"
+}

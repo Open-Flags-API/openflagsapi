@@ -1,0 +1,14 @@
+{
+  "code": "DE-SH",
+  "country": "DE",
+  "flag": {
+    "svg": "DE/DE-SH/flag.svg",
+    "png": "DE/DE-SH/flag.png",
+    "source_filename": "Flag of Schleswig-Holstein.svg"
+  },
+  "coat": {
+    "svg": "DE/DE-SH/coat.svg",
+    "png": "DE/DE-SH/coat.png",
+    "source_filename": "DEU Schleswig-Holstein COA.svg"
+  }
+}

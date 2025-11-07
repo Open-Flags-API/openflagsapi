@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-SC",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "br-sc",
+  "region_normalized": "br-sc",
+  "flag": {
+    "svg": "BR/BR-SC/flag.svg",
+    "source": "Bandeira de Santa Catarina.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-SC/coat.svg",
+    "source": "Brasão de Santa Catarina.svg"
+  },
+  "data_source": "out"
+}

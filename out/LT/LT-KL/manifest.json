@@ -1,0 +1,14 @@
+{
+  "code": "LT-KL",
+  "country": "LT",
+  "flag": {
+    "svg": "LT/LT-KL/flag.svg",
+    "png": "LT/LT-KL/flag.png",
+    "source_filename": "LTU Klaipėdos apskritis flag.svg"
+  },
+  "coat": {
+    "svg": "LT/LT-KL/coat.svg",
+    "png": "LT/LT-KL/coat.png",
+    "source_filename": "LTU Klaipėdos apskritis COA.svg"
+  }
+}

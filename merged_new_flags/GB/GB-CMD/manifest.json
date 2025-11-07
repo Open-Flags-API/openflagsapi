@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-CMD",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-cmd",
+  "region_normalized": "gb-cmd",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-CMD/coat.svg",
+    "source": "Coat of arms of the London Borough of Camden.svg"
+  },
+  "data_source": "out"
+}

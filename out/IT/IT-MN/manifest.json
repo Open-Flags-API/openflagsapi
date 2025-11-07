@@ -1,0 +1,14 @@
+{
+  "code": "IT-MN",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-MN/flag.svg",
+    "png": "IT/IT-MN/flag.png",
+    "source_filename": "Flag of the Province of Mantua.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-MN/coat.svg",
+    "png": "IT/IT-MN/coat.png",
+    "source_filename": "Provincia di Mantova-Stemma.svg"
+  }
+}

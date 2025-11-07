@@ -1,0 +1,16 @@
+{
+  "iso_code": "JP-32",
+  "country_iso": "JP",
+  "country_name": "JP",
+  "region_name": "jp-32",
+  "region_normalized": "jp-32",
+  "flag": {
+    "svg": "JP/JP-32/flag.svg",
+    "source": "Flag of Shimane Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-32/coat.svg",
+    "source": "Emblem of Shimane Prefecture.svg"
+  },
+  "data_source": "out"
+}

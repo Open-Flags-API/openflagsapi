@@ -1,0 +1,16 @@
+{
+  "iso_code": "VN-DN",
+  "country_iso": "VN",
+  "country_name": "VN",
+  "region_name": "vn-dn",
+  "region_normalized": "vn-dn",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "VN/VN-DN/coat.svg",
+    "source": "Emblem of Danang City.svg"
+  },
+  "data_source": "out"
+}

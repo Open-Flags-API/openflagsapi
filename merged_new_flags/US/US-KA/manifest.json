@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-KA",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "kansas",
+  "region_normalized": "kansas",
+  "flag": {
+    "svg": "US/US-KA/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

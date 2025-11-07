@@ -1,0 +1,16 @@
+{
+  "iso_code": "QA-WA",
+  "country_iso": "QA",
+  "country_name": "QA",
+  "region_name": "qa-wa",
+  "region_normalized": "qa-wa",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

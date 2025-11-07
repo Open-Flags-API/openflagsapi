@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-53",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-53",
+  "region_normalized": "fr-53",
+  "flag": {
+    "svg": "FR/FR-53/flag.svg",
+    "source": "Drapeau fr département Mayenne.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-53/coat.svg",
+    "source": "Blason département fr Mayenne.svg"
+  },
+  "data_source": "out"
+}

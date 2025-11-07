@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-WSM",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-wsm",
+  "region_normalized": "gb-wsm",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-WSM/coat.svg",
+    "source": "Coat of Arms of the City of Westminster.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "US-WI",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-WI/flag.svg",
+    "png": "US/US-WI/flag.png",
+    "source_filename": "Flag of Wisconsin.svg"
+  },
+  "coat": {
+    "svg": "US/US-WI/coat.svg",
+    "png": "US/US-WI/coat.png",
+    "source_filename": "Coat of arms of Wisconsin.svg"
+  }
+}

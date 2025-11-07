@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-PR",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-pr",
+  "region_normalized": "us-pr",
+  "flag": {
+    "svg": "US/US-PR/flag.svg",
+    "source": "Flag of Puerto Rico.svg"
+  },
+  "coat": {
+    "svg": "US/US-PR/coat.svg",
+    "source": "Coat of arms of the Commonwealth of Puerto Rico.svg"
+  },
+  "data_source": "out"
+}

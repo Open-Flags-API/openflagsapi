@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-SAP",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-sap",
+  "region_normalized": "co-sap",
+  "flag": {
+    "svg": "CO/CO-SAP/flag.svg",
+    "source": "Flag of San Andrés y Providencia.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-SAP/coat.svg",
+    "source": "Escudo de San Andrés y Providencia.svg"
+  },
+  "data_source": "out"
+}

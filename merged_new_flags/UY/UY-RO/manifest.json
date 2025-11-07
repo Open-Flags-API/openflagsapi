@@ -1,0 +1,16 @@
+{
+  "iso_code": "UY-RO",
+  "country_iso": "UY",
+  "country_name": "UY",
+  "region_name": "uy-ro",
+  "region_normalized": "uy-ro",
+  "flag": {
+    "svg": "UY/UY-RO/flag.svg",
+    "source": "Flag of Rocha Department.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "ROCHA ROCHA.gif"
+  },
+  "data_source": "out"
+}

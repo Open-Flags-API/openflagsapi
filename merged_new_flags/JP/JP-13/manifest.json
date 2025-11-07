@@ -1,0 +1,16 @@
+{
+  "iso_code": "JP-13",
+  "country_iso": "JP",
+  "country_name": "JP",
+  "region_name": "jp-13",
+  "region_normalized": "jp-13",
+  "flag": {
+    "svg": "JP/JP-13/flag.svg",
+    "source": "Flag of Tokyo Metropolis.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-13/coat.svg",
+    "source": "Emblem of Tokyo Metropolis.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-ROS",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-ros",
+  "region_normalized": "ru-ros",
+  "flag": {
+    "svg": "RU/RU-ROS/flag.svg",
+    "source": "Flag of Rostov Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-ROS/coat.svg",
+    "source": "Coat of arms of Rostov Oblast.svg"
+  },
+  "data_source": "out"
+}

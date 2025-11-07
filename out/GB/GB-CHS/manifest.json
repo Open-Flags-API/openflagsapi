@@ -1,0 +1,14 @@
+{
+  "code": "GB-CHS",
+  "country": "GB",
+  "flag": {
+    "svg": "GB/GB-CHS/flag.svg",
+    "png": "GB/GB-CHS/flag.png",
+    "source_filename": "Flag of Cheshire.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-CHS/coat.svg",
+    "png": "GB/GB-CHS/coat.png",
+    "source_filename": "Arms of Cheshire County Council.svg"
+  }
+}

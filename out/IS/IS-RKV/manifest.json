@@ -1,0 +1,14 @@
+{
+  "code": "IS-RKV",
+  "country": "IS",
+  "flag": {
+    "svg": "IS/IS-RKV/flag.svg",
+    "png": "IS/IS-RKV/flag.png",
+    "source_filename": "Flag of Reykjavik, Iceland.svg"
+  },
+  "coat": {
+    "svg": "IS/IS-RKV/coat.svg",
+    "png": "IS/IS-RKV/coat.png",
+    "source_filename": "Reykjavik Coat of Arms.svg"
+  }
+}

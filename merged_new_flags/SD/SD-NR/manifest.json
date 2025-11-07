@@ -1,0 +1,16 @@
+{
+  "iso_code": "SD-NR",
+  "country_iso": "SD",
+  "country_name": "SD",
+  "region_name": "sd-nr",
+  "region_normalized": "sd-nr",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

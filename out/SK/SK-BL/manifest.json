@@ -1,0 +1,14 @@
+{
+  "code": "SK-BL",
+  "country": "SK",
+  "flag": {
+    "svg": "SK/SK-BL/flag.svg",
+    "png": "SK/SK-BL/flag.png",
+    "source_filename": "Bratislavsky vlajka.svg"
+  },
+  "coat": {
+    "svg": "SK/SK-BL/coat.svg",
+    "png": "SK/SK-BL/coat.png",
+    "source_filename": "Coat of Arms of Bratislava Region.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "CD-HU",
+  "country_iso": "CD",
+  "country_name": "CD",
+  "region_name": "cd-hu",
+  "region_normalized": "cd-hu",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

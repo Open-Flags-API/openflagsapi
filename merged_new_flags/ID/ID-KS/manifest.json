@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-KS",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "id-ks",
+  "region_normalized": "id-ks",
+  "flag": {
+    "svg": "ID/ID-KS/flag.svg",
+    "source": "Flag of South Kalimantan.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-KS/coat.svg",
+    "source": "Coat of arms of South Kalimantan.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-GU",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-gu",
+  "region_normalized": "es-gu",
+  "flag": {
+    "svg": "ES/ES-GU/flag.svg",
+    "source": "Bandera de la Provincia de Guadalajara.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-GU/coat.svg",
+    "source": "Escudo de la provincia de Guadalajara.svg"
+  },
+  "data_source": "out"
+}

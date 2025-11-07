@@ -1,0 +1,16 @@
+{
+  "iso_code": "PG-NCD",
+  "country_iso": "PG",
+  "country_name": "PG",
+  "region_name": "pg-ncd",
+  "region_normalized": "pg-ncd",
+  "flag": {
+    "svg": "PG/PG-NCD/flag.svg",
+    "source": "Flag of NCD.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

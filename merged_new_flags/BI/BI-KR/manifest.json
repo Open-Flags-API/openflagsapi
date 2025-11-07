@@ -1,0 +1,16 @@
+{
+  "iso_code": "BI-KR",
+  "country_iso": "BI",
+  "country_name": "BI",
+  "region_name": "bi-kr",
+  "region_normalized": "bi-kr",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "CH-GL",
+  "country_iso": "CH",
+  "country_name": "CH",
+  "region_name": "ch-gl",
+  "region_normalized": "ch-gl",
+  "flag": {
+    "svg": "CH/CH-GL/flag.svg",
+    "source": "Flag of Canton of Glarus.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-GL/coat.svg",
+    "source": "Wappen Glarus matt.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "IT-CN",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-CN/flag.svg",
+    "png": "IT/IT-CN/flag.png",
+    "source_filename": "Flag of the Province of Cuneo.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-CN/coat.svg",
+    "png": "IT/IT-CN/coat.png",
+    "source_filename": "Provincia di Cuneo-Stemma.svg"
+  }
+}

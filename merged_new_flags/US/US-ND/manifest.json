@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-ND",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-nd",
+  "region_normalized": "us-nd",
+  "flag": {
+    "svg": "US/US-ND/flag.svg",
+    "source": "Flag of North Dakota.svg"
+  },
+  "coat": {
+    "svg": "US/US-ND/coat.svg",
+    "source": "Coat of arms of North Dakota.svg"
+  },
+  "data_source": "out"
+}

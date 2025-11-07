@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-ZAN",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-zan",
+  "region_normalized": "ph-zan",
+  "flag": {
+    "svg": null,
+    "source": "Zamboanga del Norte Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "VE-L",
+  "country_iso": "VE",
+  "country_name": "VE",
+  "region_name": "ve-l",
+  "region_normalized": "ve-l",
+  "flag": {
+    "svg": "VE/VE-L/flag.svg",
+    "source": "Flag of Mérida State.svg"
+  },
+  "coat": {
+    "svg": "VE/VE-L/coat.svg",
+    "source": "Coat of arms of Mérida State.svg"
+  },
+  "data_source": "out"
+}

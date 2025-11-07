@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-112",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-112",
+  "region_normalized": "lv-112",
+  "flag": {
+    "svg": "LV/LV-112/flag.svg",
+    "source": "Dienvidkurzemes novada karogs.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-112/coat.svg",
+    "source": "Dienvidkurzemes novada ģerbonis.svg"
+  },
+  "data_source": "out"
+}

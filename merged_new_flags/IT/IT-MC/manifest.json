@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-MC",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-mc",
+  "region_normalized": "it-mc",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IT/IT-MC/coat.svg",
+    "source": "Provincia di Macerata-Stemma.svg"
+  },
+  "data_source": "out"
+}

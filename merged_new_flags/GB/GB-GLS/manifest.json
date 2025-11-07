@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-GLS",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-gls",
+  "region_normalized": "gb-gls",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-GLS/coat.svg",
+    "source": null
+  },
+  "data_source": "out"
+}

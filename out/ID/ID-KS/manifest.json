@@ -1,0 +1,14 @@
+{
+  "code": "ID-KS",
+  "country": "ID",
+  "flag": {
+    "svg": "ID/ID-KS/flag.svg",
+    "png": "ID/ID-KS/flag.png",
+    "source_filename": "Flag of South Kalimantan.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-KS/coat.svg",
+    "png": "ID/ID-KS/coat.png",
+    "source_filename": "Coat of arms of South Kalimantan.svg"
+  }
+}

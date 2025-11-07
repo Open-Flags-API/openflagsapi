@@ -1,0 +1,16 @@
+{
+  "iso_code": "ET-OR",
+  "country_iso": "ET",
+  "country_name": "ET",
+  "region_name": "et-or",
+  "region_normalized": "et-or",
+  "flag": {
+    "svg": "ET/ET-OR/flag.svg",
+    "source": "Flag of the Oromia Region.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Oromia Region emblem.png"
+  },
+  "data_source": "out"
+}

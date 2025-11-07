@@ -1,0 +1,16 @@
+{
+  "iso_code": "BO-T",
+  "country_iso": "BO",
+  "country_name": "BO",
+  "region_name": "bo-t",
+  "region_normalized": "bo-t",
+  "flag": {
+    "svg": "BO/BO-T/flag.svg",
+    "source": "Flag of Tarija.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "EscudoTarija.gif"
+  },
+  "data_source": "out"
+}

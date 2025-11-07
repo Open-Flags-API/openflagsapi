@@ -1,0 +1,16 @@
+{
+  "iso_code": "CZ-80",
+  "country_iso": "CZ",
+  "country_name": "CZ",
+  "region_name": "cz-80",
+  "region_normalized": "cz-80",
+  "flag": {
+    "svg": "CZ/CZ-80/flag.svg",
+    "source": "Flag of Moravian-Silesian Region.svg"
+  },
+  "coat": {
+    "svg": "CZ/CZ-80/coat.svg",
+    "source": "Moravian-Silesian Region CoA CZ.svg"
+  },
+  "data_source": "out"
+}

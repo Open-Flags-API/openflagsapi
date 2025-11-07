@@ -1,0 +1,16 @@
+{
+  "iso_code": "NG-KN",
+  "country_iso": "NG",
+  "country_name": "NG",
+  "region_name": "ng-kn",
+  "region_normalized": "ng-kn",
+  "flag": {
+    "svg": null,
+    "source": "Kano State flag official.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Seal of Kano.png"
+  },
+  "data_source": "out"
+}

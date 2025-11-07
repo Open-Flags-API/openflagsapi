@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-606",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-606",
+  "region_normalized": "mk-606",
+  "flag": {
+    "svg": "MK/MK-606/flag.svg",
+    "source": "Flag of Jegunovce Municipality, North Macedonia.svg"
+  },
+  "coat": {
+    "svg": "MK/MK-606/coat.svg",
+    "source": "Coat of arms of Jegunovce Municipality.svg"
+  },
+  "data_source": "out"
+}

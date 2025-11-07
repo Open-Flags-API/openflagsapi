@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-DI",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "distrito-federal",
+  "region_normalized": "distrito-federal",
+  "flag": {
+    "svg": "BR/BR-DI/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

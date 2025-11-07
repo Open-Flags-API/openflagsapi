@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-OUD",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-oud",
+  "region_normalized": "ma-oud",
+  "flag": {
+    "svg": "MA/MA-OUD/flag.svg",
+    "source": "Flag of Dakhla province (1976-1997).svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "AR-E",
+  "country_iso": "AR",
+  "country_name": "AR",
+  "region_name": "ar-e",
+  "region_normalized": "ar-e",
+  "flag": {
+    "svg": "AR/AR-E/flag.svg",
+    "source": "Bandera de la Provincia de Entre Ríos.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-E/coat.svg",
+    "source": "Escudo de la Provincia de Entre Ríos.svg"
+  },
+  "data_source": "out"
+}

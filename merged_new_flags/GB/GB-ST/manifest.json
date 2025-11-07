@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-ST",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "staffordshire",
+  "region_normalized": "staffordshire",
+  "flag": {
+    "svg": "GB/GB-ST/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

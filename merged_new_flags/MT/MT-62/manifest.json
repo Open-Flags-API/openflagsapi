@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-62",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-62",
+  "region_normalized": "mt-62",
+  "flag": {
+    "svg": "MT/MT-62/flag.svg",
+    "source": "Flag of Xewkija, Malta.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "MLT Xewkija COA.gif"
+  },
+  "data_source": "out"
+}

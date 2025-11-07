@@ -1,0 +1,16 @@
+{
+  "iso_code": "TW-NAN",
+  "country_iso": "TW",
+  "country_name": "TW",
+  "region_name": "tw-nan",
+  "region_normalized": "tw-nan",
+  "flag": {
+    "svg": "TW/TW-NAN/flag.svg",
+    "source": "Flag of Nantou County.svg"
+  },
+  "coat": {
+    "svg": "TW/TW-NAN/coat.svg",
+    "source": "Seal of Nantou County.svg"
+  },
+  "data_source": "out"
+}

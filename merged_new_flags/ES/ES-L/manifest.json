@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-L",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-l",
+  "region_normalized": "es-l",
+  "flag": {
+    "svg": "ES/ES-L/flag.svg",
+    "source": "Bandera de la provincia de Lérida1.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-L/coat.svg",
+    "source": "Escut de la provincia de Lleida.svg"
+  },
+  "data_source": "out"
+}

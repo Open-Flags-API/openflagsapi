@@ -1,0 +1,14 @@
+{
+  "code": "CO-GUA",
+  "country": "CO",
+  "flag": {
+    "svg": "CO/CO-GUA/flag.svg",
+    "png": "CO/CO-GUA/flag.png",
+    "source_filename": "Flag of Guainía.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-GUA/coat.svg",
+    "png": "CO/CO-GUA/coat.png",
+    "source_filename": "Escudo del Guainía.svg"
+  }
+}

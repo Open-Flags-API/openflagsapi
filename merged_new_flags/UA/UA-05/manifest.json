@@ -1,0 +1,16 @@
+{
+  "iso_code": "UA-05",
+  "country_iso": "UA",
+  "country_name": "UA",
+  "region_name": "ua-05",
+  "region_normalized": "ua-05",
+  "flag": {
+    "svg": null,
+    "source": "Prapor Vinnytskoyi oblasti.svg"
+  },
+  "coat": {
+    "svg": "UA/UA-05/coat.svg",
+    "source": "Coat of Arms of Vinnytsa Oblast.svg"
+  },
+  "data_source": "out"
+}

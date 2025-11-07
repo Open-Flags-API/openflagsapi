@@ -1,0 +1,14 @@
+{
+  "code": "US-MI",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-MI/flag.svg",
+    "png": "US/US-MI/flag.png",
+    "source_filename": "Flag of Michigan.svg"
+  },
+  "coat": {
+    "svg": "US/US-MI/coat.svg",
+    "png": "US/US-MI/coat.png",
+    "source_filename": "Coat of arms of Michigan.svg"
+  }
+}

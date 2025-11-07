@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-LAN",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-lan",
+  "region_normalized": "gb-lan",
+  "flag": {
+    "svg": "GB/GB-LAN/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-LAN/coat.svg",
+    "source": "Coat of arms of Lancashire County Council.png"
+  },
+  "data_source": "out"
+}

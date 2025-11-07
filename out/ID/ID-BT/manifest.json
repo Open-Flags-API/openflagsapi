@@ -1,0 +1,14 @@
+{
+  "code": "ID-BT",
+  "country": "ID",
+  "flag": {
+    "svg": "ID/ID-BT/flag.svg",
+    "png": "ID/ID-BT/flag.png",
+    "source_filename": "Flag of Banten, Indonesia.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-BT/coat.svg",
+    "png": "ID/ID-BT/coat.png",
+    "source_filename": "Coat of arms of Banten.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "SE-BD",
+  "country_iso": "SE",
+  "country_name": "SE",
+  "region_name": "se-bd",
+  "region_normalized": "se-bd",
+  "flag": {
+    "svg": "SE/SE-BD/flag.svg",
+    "source": "Norrbottens län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-BD/coat.svg",
+    "source": "Norrbotten län vapen.svg"
+  },
+  "data_source": "out"
+}

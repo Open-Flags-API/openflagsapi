@@ -1,0 +1,14 @@
+{
+  "code": "BO-H",
+  "country": "BO",
+  "flag": {
+    "svg": "BO/BO-H/flag.svg",
+    "png": "BO/BO-H/flag.png",
+    "source_filename": "Flag of Sucre and Chuquisaca.svg"
+  },
+  "coat": {
+    "svg": "BO/BO-H/coat.svg",
+    "png": "BO/BO-H/coat.png",
+    "source_filename": "Escudo de Chuquisiaca.svg"
+  }
+}

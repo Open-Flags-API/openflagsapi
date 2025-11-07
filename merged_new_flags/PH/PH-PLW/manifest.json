@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-PLW",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-plw",
+  "region_normalized": "ph-plw",
+  "flag": {
+    "svg": "PH/PH-PLW/flag.svg",
+    "source": "Flag of Palawan, Philippines.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Ph seal palawan.png"
+  },
+  "data_source": "out"
+}

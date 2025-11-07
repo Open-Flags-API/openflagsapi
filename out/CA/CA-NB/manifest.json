@@ -1,0 +1,14 @@
+{
+  "code": "CA-NB",
+  "country": "CA",
+  "flag": {
+    "svg": "CA/CA-NB/flag.svg",
+    "png": "CA/CA-NB/flag.png",
+    "source_filename": "Flag of New Brunswick.svg"
+  },
+  "coat": {
+    "svg": "CA/CA-NB/coat.svg",
+    "png": "CA/CA-NB/coat.png",
+    "source_filename": "Coat of arms of New Brunswick, Canada.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "UY-LA",
+  "country_iso": "UY",
+  "country_name": "UY",
+  "region_name": "uy-la",
+  "region_normalized": "uy-la",
+  "flag": {
+    "svg": "UY/UY-LA/flag.svg",
+    "source": "Flag of Lavalleja Department.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Lavalleja Department.png"
+  },
+  "data_source": "out"
+}

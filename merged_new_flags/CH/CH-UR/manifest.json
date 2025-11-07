@@ -1,0 +1,16 @@
+{
+  "iso_code": "CH-UR",
+  "country_iso": "CH",
+  "country_name": "CH",
+  "region_name": "ch-ur",
+  "region_normalized": "ch-ur",
+  "flag": {
+    "svg": "CH/CH-UR/flag.svg",
+    "source": "Flag of Canton of Uri.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-UR/coat.svg",
+    "source": "Wappen Uri matt.svg"
+  },
+  "data_source": "out"
+}

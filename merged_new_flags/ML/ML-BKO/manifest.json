@@ -1,0 +1,16 @@
+{
+  "iso_code": "ML-BKO",
+  "country_iso": "ML",
+  "country_name": "ML",
+  "region_name": "ml-bko",
+  "region_normalized": "ml-bko",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "ML/ML-BKO/coat.svg",
+    "source": "Blason ville ml Bamako (Mali).svg"
+  },
+  "data_source": "out"
+}

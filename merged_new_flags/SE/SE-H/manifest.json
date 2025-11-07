@@ -1,0 +1,16 @@
+{
+  "iso_code": "SE-H",
+  "country_iso": "SE",
+  "country_name": "SE",
+  "region_name": "se-h",
+  "region_normalized": "se-h",
+  "flag": {
+    "svg": "SE/SE-H/flag.svg",
+    "source": "Kalmar län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-H/coat.svg",
+    "source": "Kalmar län vapen.svg"
+  },
+  "data_source": "out"
+}

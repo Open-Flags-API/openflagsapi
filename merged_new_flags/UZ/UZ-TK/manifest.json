@@ -1,0 +1,16 @@
+{
+  "iso_code": "UZ-TK",
+  "country_iso": "UZ",
+  "country_name": "UZ",
+  "region_name": "uz-tk",
+  "region_normalized": "uz-tk",
+  "flag": {
+    "svg": "UZ/UZ-TK/flag.svg",
+    "source": "Flag of Tashkent.svg"
+  },
+  "coat": {
+    "svg": "UZ/UZ-TK/coat.svg",
+    "source": "Emblem of Tashkent.svg"
+  },
+  "data_source": "out"
+}

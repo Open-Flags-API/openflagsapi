@@ -1,0 +1,16 @@
+{
+  "iso_code": "AR-Y",
+  "country_iso": "AR",
+  "country_name": "AR",
+  "region_name": "ar-y",
+  "region_normalized": "ar-y",
+  "flag": {
+    "svg": "AR/AR-Y/flag.svg",
+    "source": "Flag of the Civil Freedom of Argentina (unofficial improved version).svg"
+  },
+  "coat": {
+    "svg": "AR/AR-Y/coat.svg",
+    "source": "Escudo de la Provincia de Jujuy.svg"
+  },
+  "data_source": "out"
+}

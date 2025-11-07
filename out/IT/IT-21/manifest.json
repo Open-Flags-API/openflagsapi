@@ -1,0 +1,14 @@
+{
+  "code": "IT-21",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-21/flag.svg",
+    "png": "IT/IT-21/flag.png",
+    "source_filename": "Flag of Piedmont.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-21/coat.svg",
+    "png": "IT/IT-21/coat.png",
+    "source_filename": "Regione-Piemonte-Stemma.svg"
+  }
+}

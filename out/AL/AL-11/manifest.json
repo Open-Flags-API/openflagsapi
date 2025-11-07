@@ -1,0 +1,14 @@
+{
+  "code": "AL-11",
+  "country": "AL",
+  "flag": {
+    "svg": "AL/AL-11/flag.svg",
+    "png": "AL/AL-11/flag.png",
+    "source_filename": "Flag of Tiranë.svg"
+  },
+  "coat": {
+    "svg": "AL/AL-11/coat.svg",
+    "png": "AL/AL-11/coat.png",
+    "source_filename": "Stema e Qarkut Tiranë.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-034",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-034",
+  "region_normalized": "lv-034",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Iecavas novads.png"
+  },
+  "coat": {
+    "svg": "LV/LV-034/coat.svg",
+    "source": "Iecavas novads COA.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-UD",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-ud",
+  "region_normalized": "ru-ud",
+  "flag": {
+    "svg": "RU/RU-UD/flag.svg",
+    "source": "Flag of Udmurtia.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-UD/coat.svg",
+    "source": "Coat of arms of Udmurtia.svg"
+  },
+  "data_source": "out"
+}

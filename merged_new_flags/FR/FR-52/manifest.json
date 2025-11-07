@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-52",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-52",
+  "region_normalized": "fr-52",
+  "flag": {
+    "svg": "FR/FR-52/flag.svg",
+    "source": "Drapeau fr département Haute-Marne.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-52/coat.svg",
+    "source": "Blason département fr Haute-Marne.svg"
+  },
+  "data_source": "out"
+}

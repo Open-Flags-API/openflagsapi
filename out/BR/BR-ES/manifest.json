@@ -1,0 +1,14 @@
+{
+  "code": "BR-ES",
+  "country": "BR",
+  "flag": {
+    "svg": "BR/BR-ES/flag.svg",
+    "png": "BR/BR-ES/flag.png",
+    "source_filename": "Bandeira do Espírito Santo.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-ES/coat.svg",
+    "png": "BR/BR-ES/coat.png",
+    "source_filename": "Brasão do Espírito Santo.svg"
+  }
+}

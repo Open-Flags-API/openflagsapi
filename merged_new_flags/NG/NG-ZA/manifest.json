@@ -1,0 +1,16 @@
+{
+  "iso_code": "NG-ZA",
+  "country_iso": "NG",
+  "country_name": "NG",
+  "region_name": "ng-za",
+  "region_normalized": "ng-za",
+  "flag": {
+    "svg": "NG/NG-ZA/flag.svg",
+    "source": "Zamfara State Flag.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of Arm Zamfara State.jpg"
+  },
+  "data_source": "out"
+}

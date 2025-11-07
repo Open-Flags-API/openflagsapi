@@ -1,0 +1,16 @@
+{
+  "iso_code": "BH-13",
+  "country_iso": "BH",
+  "country_name": "BH",
+  "region_name": "bh-13",
+  "region_normalized": "bh-13",
+  "flag": {
+    "svg": "BH/BH-13/flag.svg",
+    "source": "Bahrain Capital Governorate Flag.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

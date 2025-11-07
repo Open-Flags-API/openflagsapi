@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-RO",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "rostov",
+  "region_normalized": "rostov",
+  "flag": {
+    "svg": "RU/RU-RO/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

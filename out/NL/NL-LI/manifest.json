@@ -1,0 +1,14 @@
+{
+  "code": "NL-LI",
+  "country": "NL",
+  "flag": {
+    "svg": "NL/NL-LI/flag.svg",
+    "png": "NL/NL-LI/flag.png",
+    "source_filename": "Flag of Limburg (Netherlands).svg"
+  },
+  "coat": {
+    "svg": "NL/NL-LI/coat.svg",
+    "png": "NL/NL-LI/coat.png",
+    "source_filename": "Limburg-nl-wapen.svg"
+  }
+}

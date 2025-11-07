@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-025",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-025",
+  "region_normalized": "lv-025",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Daugavpils Municipality.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Daugavpils municipality COA.png"
+  },
+  "data_source": "out"
+}

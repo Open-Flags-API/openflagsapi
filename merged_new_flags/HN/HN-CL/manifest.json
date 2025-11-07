@@ -1,0 +1,16 @@
+{
+  "iso_code": "HN-CL",
+  "country_iso": "HN",
+  "country_name": "HN",
+  "region_name": "hn-cl",
+  "region_normalized": "hn-cl",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Colon Department (Honduras).gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Colon, Honduras.png"
+  },
+  "data_source": "out"
+}

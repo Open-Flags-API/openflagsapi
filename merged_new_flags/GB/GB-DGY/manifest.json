@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-DGY",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-dgy",
+  "region_normalized": "gb-dgy",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-DGY/coat.svg",
+    "source": "Arms of the Dumfries and Galloway Regional Council.svg"
+  },
+  "data_source": "out"
+}

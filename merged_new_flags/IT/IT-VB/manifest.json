@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-VB",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-vb",
+  "region_normalized": "it-vb",
+  "flag": {
+    "svg": "IT/IT-VB/flag.svg",
+    "source": "Provincia del Verbano-Cusio-Ossola-Bandiera.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-VB/coat.svg",
+    "source": "Provincia del Verbano-Cusio-Ossola-Stemma.svg"
+  },
+  "data_source": "out"
+}

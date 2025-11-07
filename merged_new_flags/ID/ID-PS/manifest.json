@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-PS",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "id-ps",
+  "region_normalized": "id-ps",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

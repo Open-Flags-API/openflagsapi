@@ -1,0 +1,16 @@
+{
+  "iso_code": "RO-MM",
+  "country_iso": "RO",
+  "country_name": "RO",
+  "region_name": "ro-mm",
+  "region_normalized": "ro-mm",
+  "flag": {
+    "svg": "RO/RO-MM/flag.svg",
+    "source": "Flag of Maramureș County.svg"
+  },
+  "coat": {
+    "svg": "RO/RO-MM/coat.svg",
+    "source": "Coat of Arms of Maramureș County.svg"
+  },
+  "data_source": "out"
+}

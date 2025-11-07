@@ -1,0 +1,16 @@
+{
+  "iso_code": "EE-245",
+  "country_iso": "EE",
+  "country_name": "EE",
+  "region_name": "ee-245",
+  "region_normalized": "ee-245",
+  "flag": {
+    "svg": "EE/EE-245/flag.svg",
+    "source": "Jõelähtme valla lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-245/coat.svg",
+    "source": "Jõelähtme valla vapp.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "AU-WA",
+  "country_iso": "AU",
+  "country_name": "AU",
+  "region_name": "au-wa",
+  "region_normalized": "au-wa",
+  "flag": {
+    "svg": "AU/AU-WA/flag.svg",
+    "source": "Flag of Western Australia.svg"
+  },
+  "coat": {
+    "svg": "AU/AU-WA/coat.svg",
+    "source": "Coat of arms of Western Australia.svg"
+  },
+  "data_source": "out"
+}

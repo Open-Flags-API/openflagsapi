@@ -1,0 +1,16 @@
+{
+  "iso_code": "SN-DK",
+  "country_iso": "SN",
+  "country_name": "SN",
+  "region_name": "sn-dk",
+  "region_normalized": "sn-dk",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Logo council region dakar.png"
+  },
+  "data_source": "out"
+}

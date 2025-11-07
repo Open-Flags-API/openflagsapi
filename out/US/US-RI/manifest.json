@@ -1,0 +1,14 @@
+{
+  "code": "US-RI",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-RI/flag.svg",
+    "png": "US/US-RI/flag.png",
+    "source_filename": "Flag of Rhode Island.svg"
+  },
+  "coat": {
+    "svg": "US/US-RI/coat.svg",
+    "png": "US/US-RI/coat.png",
+    "source_filename": "Coat of arms of Rhode Island.svg"
+  }
+}

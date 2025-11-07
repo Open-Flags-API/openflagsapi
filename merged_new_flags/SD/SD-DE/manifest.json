@@ -1,0 +1,16 @@
+{
+  "iso_code": "SD-DE",
+  "country_iso": "SD",
+  "country_name": "SD",
+  "region_name": "sd-de",
+  "region_normalized": "sd-de",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Seal of East Darfur.png"
+  },
+  "data_source": "out"
+}

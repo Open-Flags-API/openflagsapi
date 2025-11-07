@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-OMS",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-oms",
+  "region_normalized": "ru-oms",
+  "flag": {
+    "svg": "RU/RU-OMS/flag.svg",
+    "source": "Flag of Omsk Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-OMS/coat.svg",
+    "source": "Coat of Arms of Omsk Oblast.svg"
+  },
+  "data_source": "out"
+}

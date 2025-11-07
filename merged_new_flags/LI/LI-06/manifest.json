@@ -1,0 +1,16 @@
+{
+  "iso_code": "LI-06",
+  "country_iso": "LI",
+  "country_name": "LI",
+  "region_name": "li-06",
+  "region_normalized": "li-06",
+  "flag": {
+    "svg": "LI/LI-06/flag.svg",
+    "source": "Flag of Ruggell Liechtenstein-1.svg"
+  },
+  "coat": {
+    "svg": "LI/LI-06/coat.svg",
+    "source": "Wappen Ruggell.svg"
+  },
+  "data_source": "out"
+}

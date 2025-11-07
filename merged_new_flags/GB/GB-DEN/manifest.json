@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-DEN",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-den",
+  "region_normalized": "gb-den",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-DEN/coat.svg",
+    "source": "Arms of Denbighshire County Council.svg"
+  },
+  "data_source": "out"
+}

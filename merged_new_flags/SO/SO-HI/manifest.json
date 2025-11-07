@@ -1,0 +1,16 @@
+{
+  "iso_code": "SO-HI",
+  "country_iso": "SO",
+  "country_name": "SO",
+  "region_name": "so-hi",
+  "region_normalized": "so-hi",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

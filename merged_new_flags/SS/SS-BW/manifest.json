@@ -1,0 +1,16 @@
+{
+  "iso_code": "SS-BW",
+  "country_iso": "SS",
+  "country_name": "SS",
+  "region_name": "ss-bw",
+  "region_normalized": "ss-bw",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Western Bahr el Ghazal.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

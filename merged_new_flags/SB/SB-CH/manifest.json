@@ -1,0 +1,16 @@
+{
+  "iso_code": "SB-CH",
+  "country_iso": "SB",
+  "country_name": "SB",
+  "region_name": "sb-ch",
+  "region_normalized": "sb-ch",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Choiseul.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

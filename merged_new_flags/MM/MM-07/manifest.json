@@ -1,0 +1,16 @@
+{
+  "iso_code": "MM-07",
+  "country_iso": "MM",
+  "country_name": "MM",
+  "region_name": "mm-07",
+  "region_normalized": "mm-07",
+  "flag": {
+    "svg": "MM/MM-07/flag.svg",
+    "source": "Flag of Ayeyarwady Region.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "MC-MO",
+  "country": "MC",
+  "flag": {
+    "svg": "MC/MC-MO/flag.svg",
+    "png": "MC/MC-MO/flag.png",
+    "source_filename": "Flag of Monaco.svg"
+  },
+  "coat": {
+    "svg": "MC/MC-MO/coat.svg",
+    "png": "MC/MC-MO/coat.png",
+    "source_filename": "Coat of arms of Monaco.svg"
+  }
+}

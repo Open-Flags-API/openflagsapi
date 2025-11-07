@@ -1,0 +1,16 @@
+{
+  "iso_code": "EG-SHG",
+  "country_iso": "EG",
+  "country_name": "EG",
+  "region_name": "eg-shg",
+  "region_normalized": "eg-shg",
+  "flag": {
+    "svg": null,
+    "source": "Governadorat de Suhaj.png"
+  },
+  "coat": {
+    "svg": "EG/EG-SHG/coat.svg",
+    "source": "Emblem Sohag Governorate.svg"
+  },
+  "data_source": "out"
+}

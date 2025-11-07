@@ -1,0 +1,16 @@
+{
+  "iso_code": "GE-25",
+  "country_iso": "GE",
+  "country_name": "GE",
+  "region_name": "ge-25",
+  "region_normalized": "ge-25",
+  "flag": {
+    "svg": "GE/GE-25/flag.svg",
+    "source": "Flag of Kaspi Municipality.svg"
+  },
+  "coat": {
+    "svg": "GE/GE-25/coat.svg",
+    "source": "COA of Kaspi.svg"
+  },
+  "data_source": "out"
+}

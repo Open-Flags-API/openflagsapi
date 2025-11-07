@@ -1,0 +1,16 @@
+{
+  "iso_code": "MC-SO",
+  "country_iso": "MC",
+  "country_name": "MC",
+  "region_name": "mc-so",
+  "region_normalized": "mc-so",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

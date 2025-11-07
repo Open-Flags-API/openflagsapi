@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-004",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-004",
+  "region_normalized": "lv-004",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "CV-SF",
+  "country_iso": "CV",
+  "country_name": "CV",
+  "region_name": "cv-sf",
+  "region_normalized": "cv-sf",
+  "flag": {
+    "svg": null,
+    "source": "Bandeira São Filipe.gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Brasão de São Filipe.png"
+  },
+  "data_source": "out"
+}

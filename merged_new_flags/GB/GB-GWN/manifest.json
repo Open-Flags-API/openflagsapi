@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-GWN",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-gwn",
+  "region_normalized": "gb-gwn",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-GWN/coat.svg",
+    "source": "GWYNEDD Shield.svg"
+  },
+  "data_source": "out"
+}

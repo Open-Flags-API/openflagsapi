@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-PO",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-po",
+  "region_normalized": "es-po",
+  "flag": {
+    "svg": "ES/ES-PO/flag.svg",
+    "source": "Flag Pontevedra Province.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-PO/coat.svg",
+    "source": "Escudo de la provincia de Pontevedra.svg"
+  },
+  "data_source": "out"
+}

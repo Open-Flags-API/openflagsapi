@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-WI",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "wiltshire",
+  "region_normalized": "wiltshire",
+  "flag": {
+    "svg": "GB/GB-WI/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

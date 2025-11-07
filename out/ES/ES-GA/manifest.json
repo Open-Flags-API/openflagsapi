@@ -1,0 +1,14 @@
+{
+  "code": "ES-GA",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-GA/flag.svg",
+    "png": "ES/ES-GA/flag.png",
+    "source_filename": "Flag of Galicia.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-GA/coat.svg",
+    "png": "ES/ES-GA/coat.png",
+    "source_filename": "Escudo de Galicia.svg"
+  }
+}

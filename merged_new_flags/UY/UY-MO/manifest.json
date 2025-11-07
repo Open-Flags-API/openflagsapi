@@ -1,0 +1,16 @@
+{
+  "iso_code": "UY-MO",
+  "country_iso": "UY",
+  "country_name": "UY",
+  "region_name": "uy-mo",
+  "region_normalized": "uy-mo",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "UY/UY-MO/coat.svg",
+    "source": "Coat of arms of Montevideo Department.svg"
+  },
+  "data_source": "out"
+}

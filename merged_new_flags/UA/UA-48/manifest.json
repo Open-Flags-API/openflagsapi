@@ -1,0 +1,16 @@
+{
+  "iso_code": "UA-48",
+  "country_iso": "UA",
+  "country_name": "UA",
+  "region_name": "ua-48",
+  "region_normalized": "ua-48",
+  "flag": {
+    "svg": "UA/UA-48/flag.svg",
+    "source": "Flag of Mykolaiv Oblast.svg"
+  },
+  "coat": {
+    "svg": "UA/UA-48/coat.svg",
+    "source": "Coat of Arms of Mykolaiv Oblast.svg"
+  },
+  "data_source": "out"
+}

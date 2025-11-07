@@ -1,0 +1,14 @@
+{
+  "code": "ID-KI",
+  "country": "ID",
+  "flag": {
+    "svg": "ID/ID-KI/flag.svg",
+    "png": "ID/ID-KI/flag.png",
+    "source_filename": "Flag of East Kalimantan.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-KI/coat.svg",
+    "png": "ID/ID-KI/coat.png",
+    "source_filename": "Coat of arms of East Kalimantan.svg"
+  }
+}

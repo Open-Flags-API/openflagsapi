@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-KLU",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-klu",
+  "region_normalized": "ru-klu",
+  "flag": {
+    "svg": "RU/RU-KLU/flag.svg",
+    "source": "Flag of Kaluga Oblast (large).svg"
+  },
+  "coat": {
+    "svg": "RU/RU-KLU/coat.svg",
+    "source": "Coat of arms of Kaluga Oblast (Latest version).svg"
+  },
+  "data_source": "out"
+}

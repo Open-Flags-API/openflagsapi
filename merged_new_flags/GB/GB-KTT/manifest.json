@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-KTT",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-ktt",
+  "region_normalized": "gb-ktt",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-KTT/coat.svg",
+    "source": "Coat of Arms of the Royal Borough of Kingston upon Thames.svg"
+  },
+  "data_source": "out"
+}

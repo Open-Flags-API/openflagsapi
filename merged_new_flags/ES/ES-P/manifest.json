@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-P",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-p",
+  "region_normalized": "es-p",
+  "flag": {
+    "svg": "ES/ES-P/flag.svg",
+    "source": "Bandera de la provincia de Palencia1.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-P/coat.svg",
+    "source": "Escudo de la Provincia de Palencia.svg"
+  },
+  "data_source": "out"
+}

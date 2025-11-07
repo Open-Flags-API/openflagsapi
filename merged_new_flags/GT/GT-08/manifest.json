@@ -1,0 +1,16 @@
+{
+  "iso_code": "GT-08",
+  "country_iso": "GT",
+  "country_name": "GT",
+  "region_name": "gt-08",
+  "region_normalized": "gt-08",
+  "flag": {
+    "svg": "GT/GT-08/flag.svg",
+    "source": "Bandera Totonicapán.svg"
+  },
+  "coat": {
+    "svg": "GT/GT-08/coat.svg",
+    "source": "Coat of arms of Totonicapán.svg"
+  },
+  "data_source": "out"
+}

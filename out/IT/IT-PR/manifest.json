@@ -1,0 +1,14 @@
+{
+  "code": "IT-PR",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-PR/flag.svg",
+    "png": "IT/IT-PR/flag.png",
+    "source_filename": "Flag of the province of Parma.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-PR/coat.svg",
+    "png": "IT/IT-PR/coat.png",
+    "source_filename": "Provincia di Parma-Stemma.svg"
+  }
+}

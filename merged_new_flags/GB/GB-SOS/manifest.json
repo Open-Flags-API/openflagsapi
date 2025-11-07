@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-SOS",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-sos",
+  "region_normalized": "gb-sos",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Arms-southend.jpg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MD-RI",
+  "country_iso": "MD",
+  "country_name": "MD",
+  "region_name": "md-ri",
+  "region_normalized": "md-ri",
+  "flag": {
+    "svg": null,
+    "source": "Riscani rajon flag.gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Riscani rajon coa.gif"
+  },
+  "data_source": "out"
+}

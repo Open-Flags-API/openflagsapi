@@ -1,0 +1,16 @@
+{
+  "iso_code": "CR-H",
+  "country_iso": "CR",
+  "country_name": "CR",
+  "region_name": "cr-h",
+  "region_normalized": "cr-h",
+  "flag": {
+    "svg": "CR/CR-H/flag.svg",
+    "source": "Bandera de la Provincia de Heredia.svg"
+  },
+  "coat": {
+    "svg": "CR/CR-H/coat.svg",
+    "source": "Escudo de la Provincia de Heredia.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "LB-BA",
+  "country_iso": "LB",
+  "country_name": "LB",
+  "region_name": "lb-ba",
+  "region_normalized": "lb-ba",
+  "flag": {
+    "svg": "LB/LB-BA/flag.svg",
+    "source": "Flag of Beirut.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Beyrouth blason2.jpg"
+  },
+  "data_source": "out"
+}

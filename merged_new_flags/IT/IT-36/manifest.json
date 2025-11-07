@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-36",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-36",
+  "region_normalized": "it-36",
+  "flag": {
+    "svg": "IT/IT-36/flag.svg",
+    "source": "Flag of Friuli-Venezia Giulia.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-36/coat.svg",
+    "source": "CoA of Friuli-Venezia Giulia.svg"
+  },
+  "data_source": "out"
+}

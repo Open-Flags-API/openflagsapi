@@ -1,0 +1,16 @@
+{
+  "iso_code": "TM-S",
+  "country_iso": "TM",
+  "country_name": "TM",
+  "region_name": "tm-s",
+  "region_normalized": "tm-s",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "TM/TM-S/coat.svg",
+    "source": "Ashgabat (seal).svg"
+  },
+  "data_source": "out"
+}

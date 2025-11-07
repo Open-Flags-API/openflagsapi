@@ -1,0 +1,14 @@
+{
+  "code": "BR-AM",
+  "country": "BR",
+  "flag": {
+    "svg": "BR/BR-AM/flag.svg",
+    "png": "BR/BR-AM/flag.png",
+    "source_filename": "Bandeira do Amazonas.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-AM/coat.svg",
+    "png": "BR/BR-AM/coat.png",
+    "source_filename": "Brasão do Amazonas.svg"
+  }
+}

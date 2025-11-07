@@ -1,0 +1,16 @@
+{
+  "iso_code": "KE-05",
+  "country_iso": "KE",
+  "country_name": "KE",
+  "region_name": "ke-05",
+  "region_normalized": "ke-05",
+  "flag": {
+    "svg": null,
+    "source": "Elgeyo Marakwet Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-AGU",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "mx-agu",
+  "region_normalized": "mx-agu",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "MX/MX-AGU/coat.svg",
+    "source": "Coat of arms of Aguascalientes.svg"
+  },
+  "data_source": "out"
+}

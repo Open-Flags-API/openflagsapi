@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-63",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-63",
+  "region_normalized": "mt-63",
+  "flag": {
+    "svg": "MT/MT-63/flag.svg",
+    "source": "Flag of Xgħajra.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-63/coat.svg",
+    "source": "Xghajra.svg"
+  },
+  "data_source": "out"
+}

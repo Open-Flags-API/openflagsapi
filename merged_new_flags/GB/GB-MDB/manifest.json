@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-MDB",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-mdb",
+  "region_normalized": "gb-mdb",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-MDB/coat.svg",
+    "source": "Coat of Arms of the District Council of Middlesbrough.svg"
+  },
+  "data_source": "out"
+}

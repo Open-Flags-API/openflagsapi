@@ -1,0 +1,16 @@
+{
+  "iso_code": "NL-GE",
+  "country_iso": "NL",
+  "country_name": "NL",
+  "region_name": "nl-ge",
+  "region_normalized": "nl-ge",
+  "flag": {
+    "svg": "NL/NL-GE/flag.svg",
+    "source": "Flag of Gelderland.svg"
+  },
+  "coat": {
+    "svg": "NL/NL-GE/coat.svg",
+    "source": "Gelderland wapen.svg"
+  },
+  "data_source": "out"
+}

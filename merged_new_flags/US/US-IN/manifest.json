@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-IN",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-in",
+  "region_normalized": "us-in",
+  "flag": {
+    "svg": "US/US-IN/flag.svg",
+    "source": "Flag of Indiana.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

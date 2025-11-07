@@ -1,0 +1,14 @@
+{
+  "code": "FI-16",
+  "country": "FI",
+  "flag": {
+    "svg": "FI/FI-16/flag.svg",
+    "png": "FI/FI-16/flag.png",
+    "source_filename": "Päijät-Häme.lippu.svg"
+  },
+  "coat": {
+    "svg": "FI/FI-16/coat.svg",
+    "png": "FI/FI-16/coat.png",
+    "source_filename": "Päijät-Häme.vaakuna.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-RI",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "id-ri",
+  "region_normalized": "id-ri",
+  "flag": {
+    "svg": "ID/ID-RI/flag.svg",
+    "source": "Flag of Riau.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-RI/coat.svg",
+    "source": "Coat of arms of Riau.svg"
+  },
+  "data_source": "out"
+}

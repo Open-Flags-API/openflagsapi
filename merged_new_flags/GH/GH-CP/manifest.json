@@ -1,0 +1,16 @@
+{
+  "iso_code": "GH-CP",
+  "country_iso": "GH",
+  "country_name": "GH",
+  "region_name": "gh-cp",
+  "region_normalized": "gh-cp",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Central Region (Ghana).gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-BK",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-bk",
+  "region_normalized": "hu-bk",
+  "flag": {
+    "svg": "HU/HU-BK/flag.svg",
+    "source": "Flag of Bács-Kiskun County.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-BK/coat.svg",
+    "source": "BlasonHU-bacs-kiskun.svg"
+  },
+  "data_source": "out"
+}

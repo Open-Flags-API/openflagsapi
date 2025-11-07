@@ -1,0 +1,16 @@
+{
+  "iso_code": "SV-UN",
+  "country_iso": "SV",
+  "country_name": "SV",
+  "region_name": "sv-un",
+  "region_normalized": "sv-un",
+  "flag": {
+    "svg": null,
+    "source": "Bandera del Departamento de La Union ES.jpg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

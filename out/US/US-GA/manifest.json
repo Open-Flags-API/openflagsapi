@@ -1,0 +1,14 @@
+{
+  "code": "US-GA",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-GA/flag.svg",
+    "png": "US/US-GA/flag.png",
+    "source_filename": "Flag of the State of Georgia.svg"
+  },
+  "coat": {
+    "svg": "US/US-GA/coat.svg",
+    "png": "US/US-GA/coat.png",
+    "source_filename": "Seal of Georgia.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-SO",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "south-yorkshire",
+  "region_normalized": "south-yorkshire",
+  "flag": {
+    "svg": "GB/GB-SO/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-HLD",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-hld",
+  "region_normalized": "gb-hld",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-HLD/coat.svg",
+    "source": "Coat of Arms of the Highland Area Council.svg"
+  },
+  "data_source": "out"
+}

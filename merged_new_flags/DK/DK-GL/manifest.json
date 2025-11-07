@@ -1,0 +1,16 @@
+{
+  "iso_code": "DK-GL",
+  "country_iso": "DK",
+  "country_name": "DK",
+  "region_name": "dk-gl",
+  "region_normalized": "dk-gl",
+  "flag": {
+    "svg": "DK/DK-GL/flag.svg",
+    "source": "Flag of Greenland.svg"
+  },
+  "coat": {
+    "svg": "DK/DK-GL/coat.svg",
+    "source": "Coat of arms of Greenland.svg"
+  },
+  "data_source": "out"
+}

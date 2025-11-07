@@ -1,0 +1,16 @@
+{
+  "iso_code": "RO-IL",
+  "country_iso": "RO",
+  "country_name": "RO",
+  "region_name": "ro-il",
+  "region_normalized": "ro-il",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Ialomita county, Romania.png"
+  },
+  "coat": {
+    "svg": "RO/RO-IL/coat.svg",
+    "source": "Stema Ialomita.svg"
+  },
+  "data_source": "out"
+}

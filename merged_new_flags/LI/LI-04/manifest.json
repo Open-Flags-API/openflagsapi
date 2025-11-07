@@ -1,0 +1,16 @@
+{
+  "iso_code": "LI-04",
+  "country_iso": "LI",
+  "country_name": "LI",
+  "region_name": "li-04",
+  "region_normalized": "li-04",
+  "flag": {
+    "svg": "LI/LI-04/flag.svg",
+    "source": "Flag of Mauren Liechtenstein-1.svg"
+  },
+  "coat": {
+    "svg": "LI/LI-04/coat.svg",
+    "source": "Wappen Mauren.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-MDR",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-mdr",
+  "region_normalized": "ph-mdr",
+  "flag": {
+    "svg": null,
+    "source": "Orien. Mindoro Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

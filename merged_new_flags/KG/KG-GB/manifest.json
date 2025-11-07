@@ -1,0 +1,16 @@
+{
+  "iso_code": "KG-GB",
+  "country_iso": "KG",
+  "country_name": "KG",
+  "region_name": "kg-gb",
+  "region_normalized": "kg-gb",
+  "flag": {
+    "svg": "KG/KG-GB/flag.svg",
+    "source": "Flag of Bishkek.svg"
+  },
+  "coat": {
+    "svg": "KG/KG-GB/coat.svg",
+    "source": "Coat of arms of Bishkek Kyrgyzstan.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-AR",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-ar",
+  "region_normalized": "es-ar",
+  "flag": {
+    "svg": "ES/ES-AR/flag.svg",
+    "source": "Flag of Aragon.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-AR/coat.svg",
+    "source": "Escudo d'Aragón.svg"
+  },
+  "data_source": "out"
+}

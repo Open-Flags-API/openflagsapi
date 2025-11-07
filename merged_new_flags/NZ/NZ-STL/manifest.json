@@ -1,0 +1,16 @@
+{
+  "iso_code": "NZ-STL",
+  "country_iso": "NZ",
+  "country_name": "NZ",
+  "region_name": "nz-stl",
+  "region_normalized": "nz-stl",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

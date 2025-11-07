@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-TNG",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-tng",
+  "region_normalized": "ma-tng",
+  "flag": {
+    "svg": "MA/MA-TNG/flag.svg",
+    "source": "Flag of Tanger province (1976-1997).svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

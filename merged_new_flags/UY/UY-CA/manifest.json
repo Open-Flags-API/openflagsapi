@@ -1,0 +1,16 @@
+{
+  "iso_code": "UY-CA",
+  "country_iso": "UY",
+  "country_name": "UY",
+  "region_name": "uy-ca",
+  "region_normalized": "uy-ca",
+  "flag": {
+    "svg": "UY/UY-CA/flag.svg",
+    "source": "Flag of Canelones Department.svg"
+  },
+  "coat": {
+    "svg": "UY/UY-CA/coat.svg",
+    "source": "Coat of arms of Canelones Department.svg"
+  },
+  "data_source": "out"
+}

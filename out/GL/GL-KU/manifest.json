@@ -1,0 +1,14 @@
+{
+  "code": "GL-KU",
+  "country": "GL",
+  "flag": {
+    "svg": "GL/GL-KU/flag.svg",
+    "png": "GL/GL-KU/flag.png",
+    "source_filename": "Flag of Kujalleq Municipality, Greenland.svg"
+  },
+  "coat": {
+    "svg": "GL/GL-KU/coat.svg",
+    "png": "GL/GL-KU/coat.png",
+    "source_filename": "Kujalleq-coat-of-arms.svg"
+  }
+}

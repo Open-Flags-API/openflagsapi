@@ -1,0 +1,16 @@
+{
+  "iso_code": "RO-GR",
+  "country_iso": "RO",
+  "country_name": "RO",
+  "region_name": "ro-gr",
+  "region_normalized": "ro-gr",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "RO/RO-GR/coat.svg",
+    "source": "Stema Giurgiu (jud 2009).svg"
+  },
+  "data_source": "out"
+}

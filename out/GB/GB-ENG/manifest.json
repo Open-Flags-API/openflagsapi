@@ -1,0 +1,14 @@
+{
+  "code": "GB-ENG",
+  "country": "GB",
+  "flag": {
+    "svg": "GB/GB-ENG/flag.svg",
+    "png": "GB/GB-ENG/flag.png",
+    "source_filename": "Flag of England.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-ENG/coat.svg",
+    "png": "GB/GB-ENG/coat.png",
+    "source_filename": "England COA.svg"
+  }
+}

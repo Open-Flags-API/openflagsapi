@@ -1,0 +1,16 @@
+{
+  "iso_code": "CA-NS",
+  "country_iso": "CA",
+  "country_name": "canada",
+  "region_name": "ca-ns",
+  "region_normalized": "ca-ns",
+  "flag": {
+    "svg": "CA/CA-NS/flag.svg",
+    "source": "Flag of Nova Scotia.svg"
+  },
+  "coat": {
+    "svg": "CA/CA-NS/coat.svg",
+    "source": "Coat of arms of Nova Scotia.svg"
+  },
+  "data_source": "out"
+}

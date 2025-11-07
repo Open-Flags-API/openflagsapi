@@ -1,0 +1,16 @@
+{
+  "iso_code": "IN-MH",
+  "country_iso": "IN",
+  "country_name": "IN",
+  "region_name": "in-mh",
+  "region_normalized": "in-mh",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IN/IN-MH/coat.svg",
+    "source": "Seal of Maharashtra.svg"
+  },
+  "data_source": "out"
+}

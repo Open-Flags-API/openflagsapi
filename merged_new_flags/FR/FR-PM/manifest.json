@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-PM",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-pm",
+  "region_normalized": "fr-pm",
+  "flag": {
+    "svg": "FR/FR-PM/flag.svg",
+    "source": "Flag of Saint-Pierre and Miquelon.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-PM/coat.svg",
+    "source": "Armoiries SaintPierreetMiquelon.svg"
+  },
+  "data_source": "out"
+}

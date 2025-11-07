@@ -1,0 +1,14 @@
+{
+  "code": "PE-PIU",
+  "country": "PE",
+  "flag": {
+    "svg": "PE/PE-PIU/flag.svg",
+    "png": "PE/PE-PIU/flag.png",
+    "source_filename": "Bandera de la región de Piura.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "PE/PE-PIU/coat.png",
+    "source_filename": "EscudoGanadorRegionPiura2022.png"
+  }
+}

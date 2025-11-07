@@ -1,0 +1,14 @@
+{
+  "code": "LV-091",
+  "country": "LV",
+  "flag": {
+    "svg": null,
+    "png": "LV/LV-091/flag.png",
+    "source_filename": "Siguldas novads Flag.png"
+  },
+  "coat": {
+    "svg": "LV/LV-091/coat.svg",
+    "png": "LV/LV-091/coat.png",
+    "source_filename": "Siguldas novads COA.svg"
+  }
+}

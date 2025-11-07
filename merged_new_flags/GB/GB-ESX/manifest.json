@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-ESX",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-esx",
+  "region_normalized": "gb-esx",
+  "flag": {
+    "svg": "GB/GB-ESX/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-ESX/coat.svg",
+    "source": null
+  },
+  "data_source": "out"
+}

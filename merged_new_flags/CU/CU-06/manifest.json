@@ -1,0 +1,16 @@
+{
+  "iso_code": "CU-06",
+  "country_iso": "CU",
+  "country_name": "CU",
+  "region_name": "cu-06",
+  "region_normalized": "cu-06",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "CU/CU-06/coat.svg",
+    "source": "Coat of arms of the city of Cienfuegos, Cuba.svg"
+  },
+  "data_source": "out"
+}

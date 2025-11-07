@@ -1,0 +1,16 @@
+{
+  "iso_code": "BG-08",
+  "country_iso": "BG",
+  "country_name": "BG",
+  "region_name": "bg-08",
+  "region_normalized": "bg-08",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "BG/BG-08/coat.svg",
+    "source": "Dobrich-coat-of-arms.svg"
+  },
+  "data_source": "out"
+}

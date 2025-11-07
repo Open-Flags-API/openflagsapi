@@ -1,0 +1,14 @@
+{
+  "code": "ID-YO",
+  "country": "ID",
+  "flag": {
+    "svg": "ID/ID-YO/flag.svg",
+    "png": "ID/ID-YO/flag.png",
+    "source_filename": "Flag of Yogyakarta.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-YO/coat.svg",
+    "png": "ID/ID-YO/coat.png",
+    "source_filename": "Coat of arms of Yogyakarta.svg"
+  }
+}

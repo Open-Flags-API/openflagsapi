@@ -1,0 +1,16 @@
+{
+  "iso_code": "NO-42",
+  "country_iso": "NO",
+  "country_name": "NO",
+  "region_name": "no-42",
+  "region_normalized": "no-42",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Agder.png"
+  },
+  "coat": {
+    "svg": "NO/NO-42/coat.svg",
+    "source": "Agder våpen.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "JP-39",
+  "country_iso": "JP",
+  "country_name": "JP",
+  "region_name": "jp-39",
+  "region_normalized": "jp-39",
+  "flag": {
+    "svg": "JP/JP-39/flag.svg",
+    "source": "Flag of Kochi Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-39/coat.svg",
+    "source": "Emblem of Kochi Prefecture.svg"
+  },
+  "data_source": "out"
+}

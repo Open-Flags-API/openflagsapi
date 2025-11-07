@@ -1,0 +1,14 @@
+{
+  "code": "ID-SA",
+  "country": "ID",
+  "flag": {
+    "svg": "ID/ID-SA/flag.svg",
+    "png": "ID/ID-SA/flag.png",
+    "source_filename": "Flag of North Sulawesi.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-SA/coat.svg",
+    "png": "ID/ID-SA/coat.png",
+    "source_filename": "Coat of arms of North Sulawesi.svg"
+  }
+}

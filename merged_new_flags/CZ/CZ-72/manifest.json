@@ -1,0 +1,16 @@
+{
+  "iso_code": "CZ-72",
+  "country_iso": "CZ",
+  "country_name": "CZ",
+  "region_name": "cz-72",
+  "region_normalized": "cz-72",
+  "flag": {
+    "svg": "CZ/CZ-72/flag.svg",
+    "source": "Flag of Zlin Region.svg"
+  },
+  "coat": {
+    "svg": "CZ/CZ-72/coat.svg",
+    "source": "Zlin Region CoA CZ.svg"
+  },
+  "data_source": "out"
+}

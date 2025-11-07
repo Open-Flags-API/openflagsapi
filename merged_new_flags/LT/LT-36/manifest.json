@@ -1,0 +1,16 @@
+{
+  "iso_code": "LT-36",
+  "country_iso": "LT",
+  "country_name": "LT",
+  "region_name": "lt-36",
+  "region_normalized": "lt-36",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "LT/LT-36/coat.svg",
+    "source": "Prienai COA.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-HAM",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-ham",
+  "region_normalized": "gb-ham",
+  "flag": {
+    "svg": "GB/GB-HAM/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-HAM/coat.svg",
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "BW-NE",
+  "country_iso": "BW",
+  "country_name": "BW",
+  "region_name": "bw-ne",
+  "region_normalized": "bw-ne",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

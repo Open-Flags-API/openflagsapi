@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-PAN",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-pan",
+  "region_normalized": "ph-pan",
+  "flag": {
+    "svg": "PH/PH-PAN/flag.svg",
+    "source": "Flag of Pangasinan.svg"
+  },
+  "coat": {
+    "svg": "PH/PH-PAN/coat.svg",
+    "source": "Official Seal of Pangasinan.svg"
+  },
+  "data_source": "out"
+}

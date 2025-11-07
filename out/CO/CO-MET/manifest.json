@@ -1,0 +1,14 @@
+{
+  "code": "CO-MET",
+  "country": "CO",
+  "flag": {
+    "svg": "CO/CO-MET/flag.svg",
+    "png": "CO/CO-MET/flag.png",
+    "source_filename": "Flag of Meta.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-MET/coat.svg",
+    "png": "CO/CO-MET/coat.png",
+    "source_filename": "Escudo del Meta.svg"
+  }
+}

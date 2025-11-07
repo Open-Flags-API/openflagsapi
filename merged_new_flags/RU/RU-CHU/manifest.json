@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-CHU",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-chu",
+  "region_normalized": "ru-chu",
+  "flag": {
+    "svg": "RU/RU-CHU/flag.svg",
+    "source": "Flag of Chukotka.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-CHU/coat.svg",
+    "source": "Coat of Arms of Chukotka.svg"
+  },
+  "data_source": "out"
+}

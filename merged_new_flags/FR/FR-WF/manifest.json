@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-WF",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-wf",
+  "region_normalized": "fr-wf",
+  "flag": {
+    "svg": "FR/FR-WF/flag.svg",
+    "source": "Flag of Wallis and Futuna.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-WF/coat.svg",
+    "source": "BlasonWallisetFutuna.svg"
+  },
+  "data_source": "out"
+}

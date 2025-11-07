@@ -1,0 +1,16 @@
+{
+  "iso_code": "MU-FL",
+  "country_iso": "MU",
+  "country_name": "MU",
+  "region_name": "mu-fl",
+  "region_normalized": "mu-fl",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

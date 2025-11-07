@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-MU",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "murmansk",
+  "region_normalized": "murmansk",
+  "flag": {
+    "svg": "RU/RU-MU/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

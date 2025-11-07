@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-SS",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-ss",
+  "region_normalized": "hu-ss",
+  "flag": {
+    "svg": "HU/HU-SS/flag.svg",
+    "source": "Flag of Szekszárd.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-SS/coat.svg",
+    "source": "HUN Szekszárd Címer.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "PS-SLT",
+  "country_iso": "PS",
+  "country_name": "PS",
+  "region_name": "ps-slt",
+  "region_normalized": "ps-slt",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Salfit Governorate Logo.jpg"
+  },
+  "data_source": "out"
+}

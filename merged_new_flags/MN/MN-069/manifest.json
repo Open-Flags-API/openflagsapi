@@ -1,0 +1,16 @@
+{
+  "iso_code": "MN-069",
+  "country_iso": "MN",
+  "country_name": "MN",
+  "region_name": "mn-069",
+  "region_normalized": "mn-069",
+  "flag": {
+    "svg": null,
+    "source": "Mn flag bayankhongor aymag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Mn coa bayankhongor aymag.png"
+  },
+  "data_source": "out"
+}

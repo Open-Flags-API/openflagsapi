@@ -1,0 +1,16 @@
+{
+  "iso_code": "ET-AA",
+  "country_iso": "ET",
+  "country_name": "ET",
+  "region_name": "et-aa",
+  "region_normalized": "et-aa",
+  "flag": {
+    "svg": "ET/ET-AA/flag.svg",
+    "source": "Flag of Addis Ababa.svg"
+  },
+  "coat": {
+    "svg": "ET/ET-AA/coat.svg",
+    "source": "Emblem of the Addis Ababa City Administration.svg"
+  },
+  "data_source": "out"
+}

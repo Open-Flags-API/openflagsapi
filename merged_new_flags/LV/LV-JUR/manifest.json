@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-JUR",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-jur",
+  "region_normalized": "lv-jur",
+  "flag": {
+    "svg": "LV/LV-JUR/flag.svg",
+    "source": "Flag of Jurmala.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-JUR/coat.svg",
+    "source": "Coat of Arms of Jūrmala.svg"
+  },
+  "data_source": "out"
+}

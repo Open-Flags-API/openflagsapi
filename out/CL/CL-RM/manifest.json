@@ -1,0 +1,14 @@
+{
+  "code": "CL-RM",
+  "country": "CL",
+  "flag": {
+    "svg": "CL/CL-RM/flag.svg",
+    "png": "CL/CL-RM/flag.png",
+    "source_filename": "Flag of the Metropolitan Region, Chile.svg"
+  },
+  "coat": {
+    "svg": "CL/CL-RM/coat.svg",
+    "png": "CL/CL-RM/coat.png",
+    "source_filename": "Coat of arms of the Metropolitan Region Government, Chile.svg"
+  }
+}

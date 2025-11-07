@@ -1,0 +1,14 @@
+{
+  "code": "US-UT",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-UT/flag.svg",
+    "png": "US/US-UT/flag.png",
+    "source_filename": "Flag of Utah.svg"
+  },
+  "coat": {
+    "svg": "US/US-UT/coat.svg",
+    "png": "US/US-UT/coat.png",
+    "source_filename": "Coat of arms of Utah.svg"
+  }
+}

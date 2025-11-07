@@ -1,0 +1,16 @@
+{
+  "iso_code": "FI-16",
+  "country_iso": "FI",
+  "country_name": "FI",
+  "region_name": "fi-16",
+  "region_normalized": "fi-16",
+  "flag": {
+    "svg": "FI/FI-16/flag.svg",
+    "source": "Päijät-Häme.lippu.svg"
+  },
+  "coat": {
+    "svg": "FI/FI-16/coat.svg",
+    "source": "Päijät-Häme.vaakuna.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "NL-DR",
+  "country_iso": "NL",
+  "country_name": "NL",
+  "region_name": "nl-dr",
+  "region_normalized": "nl-dr",
+  "flag": {
+    "svg": "NL/NL-DR/flag.svg",
+    "source": "Flag of Drenthe.svg"
+  },
+  "coat": {
+    "svg": "NL/NL-DR/coat.svg",
+    "source": "Drenthe wapen.svg"
+  },
+  "data_source": "out"
+}

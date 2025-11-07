@@ -1,0 +1,14 @@
+{
+  "code": "CA-NL",
+  "country": "CA",
+  "flag": {
+    "svg": "CA/CA-NL/flag.svg",
+    "png": "CA/CA-NL/flag.png",
+    "source_filename": "Flag of Newfoundland and Labrador.svg"
+  },
+  "coat": {
+    "svg": "CA/CA-NL/coat.svg",
+    "png": "CA/CA-NL/coat.png",
+    "source_filename": "Coat of Arms of Newfoundland and Labrador.svg"
+  }
+}

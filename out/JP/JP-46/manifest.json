@@ -1,0 +1,14 @@
+{
+  "code": "JP-46",
+  "country": "JP",
+  "flag": {
+    "svg": "JP/JP-46/flag.svg",
+    "png": "JP/JP-46/flag.png",
+    "source_filename": "Flag of Kagoshima Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-46/coat.svg",
+    "png": "JP/JP-46/coat.png",
+    "source_filename": "Emblem of Kagoshima Prefecture.svg"
+  }
+}

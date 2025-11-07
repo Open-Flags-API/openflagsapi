@@ -1,0 +1,14 @@
+{
+  "code": "MD-GA",
+  "country": "MD",
+  "flag": {
+    "svg": "MD/MD-GA/flag.svg",
+    "png": "MD/MD-GA/flag.png",
+    "source_filename": "Flag of Gagauzia.svg"
+  },
+  "coat": {
+    "svg": "MD/MD-GA/coat.svg",
+    "png": "MD/MD-GA/coat.png",
+    "source_filename": "Coat of arms of Gagauzia.svg"
+  }
+}

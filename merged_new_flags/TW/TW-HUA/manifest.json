@@ -1,0 +1,16 @@
+{
+  "iso_code": "TW-HUA",
+  "country_iso": "TW",
+  "country_name": "TW",
+  "region_name": "tw-hua",
+  "region_normalized": "tw-hua",
+  "flag": {
+    "svg": "TW/TW-HUA/flag.svg",
+    "source": "Flag of Hualien County.svg"
+  },
+  "coat": {
+    "svg": "TW/TW-HUA/coat.svg",
+    "source": "Emblem of Hualien County.svg"
+  },
+  "data_source": "out"
+}

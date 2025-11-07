@@ -1,0 +1,16 @@
+{
+  "iso_code": "FI-17",
+  "country_iso": "FI",
+  "country_name": "FI",
+  "region_name": "fi-17",
+  "region_normalized": "fi-17",
+  "flag": {
+    "svg": "FI/FI-17/flag.svg",
+    "source": "Satakunta-flag.svg"
+  },
+  "coat": {
+    "svg": "FI/FI-17/coat.svg",
+    "source": "Satakunta.vaakuna.svg"
+  },
+  "data_source": "out"
+}

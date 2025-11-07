@@ -1,0 +1,16 @@
+{
+  "iso_code": "CR-SJ",
+  "country_iso": "CR",
+  "country_name": "CR",
+  "region_name": "cr-sj",
+  "region_normalized": "cr-sj",
+  "flag": {
+    "svg": "CR/CR-SJ/flag.svg",
+    "source": "Bandera de la Provincia de San José.svg"
+  },
+  "coat": {
+    "svg": "CR/CR-SJ/coat.svg",
+    "source": "Escudo de la Provincia de San José.svg"
+  },
+  "data_source": "out"
+}

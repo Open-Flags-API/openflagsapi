@@ -1,0 +1,14 @@
+{
+  "code": "PE-JUN",
+  "country": "PE",
+  "flag": {
+    "svg": "PE/PE-JUN/flag.svg",
+    "png": "PE/PE-JUN/flag.png",
+    "source_filename": "Flag of Junin.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "PE/PE-JUN/coat.png",
+    "source_filename": "Escudo regional Junín.png"
+  }
+}

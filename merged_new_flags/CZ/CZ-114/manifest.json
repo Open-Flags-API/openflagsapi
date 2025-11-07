@@ -1,0 +1,16 @@
+{
+  "iso_code": "CZ-114",
+  "country_iso": "CZ",
+  "country_name": "CZ",
+  "region_name": "cz-114",
+  "region_normalized": "cz-114",
+  "flag": {
+    "svg": "CZ/CZ-114/flag.svg",
+    "source": "Flag of Prague 14.svg"
+  },
+  "coat": {
+    "svg": "CZ/CZ-114/coat.svg",
+    "source": "Praha-14 CoA.svg"
+  },
+  "data_source": "out"
+}

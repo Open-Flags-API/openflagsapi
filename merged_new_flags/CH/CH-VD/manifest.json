@@ -1,0 +1,16 @@
+{
+  "iso_code": "CH-VD",
+  "country_iso": "CH",
+  "country_name": "CH",
+  "region_name": "ch-vd",
+  "region_normalized": "ch-vd",
+  "flag": {
+    "svg": "CH/CH-VD/flag.svg",
+    "source": "Flag of Canton of Vaud.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-VD/coat.svg",
+    "source": "Wappen Waadt matt.svg"
+  },
+  "data_source": "out"
+}

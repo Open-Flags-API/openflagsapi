@@ -1,0 +1,16 @@
+{
+  "iso_code": "AZ-IMI",
+  "country_iso": "AZ",
+  "country_name": "AZ",
+  "region_name": "az-imi",
+  "region_normalized": "az-imi",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "PL-KI",
+  "country_iso": "PL",
+  "country_name": "PL",
+  "region_name": "pl-ki",
+  "region_normalized": "pl-ki",
+  "flag": {
+    "svg": "PL/PL-KI/flag.svg",
+    "source": "POL Kielce flag.svg"
+  },
+  "coat": {
+    "svg": "PL/PL-KI/coat.svg",
+    "source": "POL Kielce COA.svg"
+  },
+  "data_source": "out"
+}

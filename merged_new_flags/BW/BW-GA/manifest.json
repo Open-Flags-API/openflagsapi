@@ -1,0 +1,16 @@
+{
+  "iso_code": "BW-GA",
+  "country_iso": "BW",
+  "country_name": "BW",
+  "region_name": "bw-ga",
+  "region_normalized": "bw-ga",
+  "flag": {
+    "svg": "BW/BW-GA/flag.svg",
+    "source": "Flag of Gaborone.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

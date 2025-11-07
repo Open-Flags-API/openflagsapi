@@ -1,0 +1,16 @@
+{
+  "iso_code": "EE-60",
+  "country_iso": "EE",
+  "country_name": "EE",
+  "region_name": "ee-60",
+  "region_normalized": "ee-60",
+  "flag": {
+    "svg": "EE/EE-60/flag.svg",
+    "source": "Lääne-Virumaa lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-60/coat.svg",
+    "source": "Lääne-Virumaa vapp.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "EG-MN",
+  "country_iso": "EG",
+  "country_name": "EG",
+  "region_name": "eg-mn",
+  "region_normalized": "eg-mn",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Minya Governorate.jpg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Minya Govenorate.JPG"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-GO",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "br-go",
+  "region_normalized": "br-go",
+  "flag": {
+    "svg": "BR/BR-GO/flag.svg",
+    "source": "Flag of Goiás.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-GO/coat.svg",
+    "source": "Brasão de Goiás.svg"
+  },
+  "data_source": "out"
+}

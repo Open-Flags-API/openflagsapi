@@ -1,0 +1,14 @@
+{
+  "code": "EC-G",
+  "country": "EC",
+  "flag": {
+    "svg": "EC/EC-G/flag.svg",
+    "png": "EC/EC-G/flag.png",
+    "source_filename": "Bandera de Guayaquil.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "EC/EC-G/coat.png",
+    "source_filename": "Escudo de Guayas.png"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-MAS",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-mas",
+  "region_normalized": "ph-mas",
+  "flag": {
+    "svg": null,
+    "source": "PH-MAS Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Ph seal masbate.png"
+  },
+  "data_source": "out"
+}

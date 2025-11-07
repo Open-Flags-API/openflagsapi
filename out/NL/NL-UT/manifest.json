@@ -1,0 +1,14 @@
+{
+  "code": "NL-UT",
+  "country": "NL",
+  "flag": {
+    "svg": "NL/NL-UT/flag.svg",
+    "png": "NL/NL-UT/flag.png",
+    "source_filename": "Utrecht (province)-Flag.svg"
+  },
+  "coat": {
+    "svg": "NL/NL-UT/coat.svg",
+    "png": "NL/NL-UT/coat.png",
+    "source_filename": "Utrecht provincie wapen.svg"
+  }
+}

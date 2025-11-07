@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-85",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-85",
+  "region_normalized": "th-85",
+  "flag": {
+    "svg": "TH/TH-85/flag.svg",
+    "source": "Flag of Ranong.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-CN",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-cn",
+  "region_normalized": "it-cn",
+  "flag": {
+    "svg": "IT/IT-CN/flag.svg",
+    "source": "Flag of the Province of Cuneo.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-CN/coat.svg",
+    "source": "Provincia di Cuneo-Stemma.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "PE-HUC",
+  "country_iso": "PE",
+  "country_name": "PE",
+  "region_name": "pe-huc",
+  "region_normalized": "pe-huc",
+  "flag": {
+    "svg": "PE/PE-HUC/flag.svg",
+    "source": "Flag of Huánuco.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "COA Huanuco.png"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "JP-08",
+  "country_iso": "JP",
+  "country_name": "JP",
+  "region_name": "jp-08",
+  "region_normalized": "jp-08",
+  "flag": {
+    "svg": "JP/JP-08/flag.svg",
+    "source": "Flag of Ibaraki Prefecture.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Emblem of Ibaraki Prefecture.svg"
+  },
+  "data_source": "out"
+}

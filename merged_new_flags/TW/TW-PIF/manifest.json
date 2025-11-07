@@ -1,0 +1,16 @@
+{
+  "iso_code": "TW-PIF",
+  "country_iso": "TW",
+  "country_name": "TW",
+  "region_name": "tw-pif",
+  "region_normalized": "tw-pif",
+  "flag": {
+    "svg": "TW/TW-PIF/flag.svg",
+    "source": "Flag of Pingtung County.svg"
+  },
+  "coat": {
+    "svg": "TW/TW-PIF/coat.svg",
+    "source": "Emblem of Pingtung County.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "NI-MN",
+  "country": "NI",
+  "flag": {
+    "svg": "NI/NI-MN/flag.svg",
+    "png": "NI/NI-MN/flag.png",
+    "source_filename": "Flag of Managua.svg"
+  },
+  "coat": {
+    "svg": "NI/NI-MN/coat.svg",
+    "png": "NI/NI-MN/coat.png",
+    "source_filename": "Coat of Arms of Managua.svg"
+  }
+}

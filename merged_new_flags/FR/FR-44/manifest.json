@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-44",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-44",
+  "region_normalized": "fr-44",
+  "flag": {
+    "svg": "FR/FR-44/flag.svg",
+    "source": "Drapeau fr département Loire-Atlantique.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-44/coat.svg",
+    "source": "Blason fr Loire Atlantique.svg"
+  },
+  "data_source": "out"
+}

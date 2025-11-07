@@ -1,0 +1,16 @@
+{
+  "iso_code": "CI-AB",
+  "country_iso": "CI",
+  "country_name": "CI",
+  "region_name": "ci-ab",
+  "region_normalized": "ci-ab",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Abidjan.png"
+  },
+  "coat": {
+    "svg": "CI/CI-AB/coat.svg",
+    "source": "AbidjanLogo.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "IE-CW",
+  "country": "IE",
+  "flag": {
+    "svg": "IE/IE-CW/flag.svg",
+    "png": "IE/IE-CW/flag.png",
+    "source_filename": "Flag of county Carlow.svg"
+  },
+  "coat": {
+    "svg": "IE/IE-CW/coat.svg",
+    "png": "IE/IE-CW/coat.png",
+    "source_filename": "Carlow County Crest.svg"
+  }
+}

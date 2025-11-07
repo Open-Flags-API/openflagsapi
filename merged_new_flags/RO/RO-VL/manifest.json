@@ -1,0 +1,16 @@
+{
+  "iso_code": "RO-VL",
+  "country_iso": "RO",
+  "country_name": "RO",
+  "region_name": "ro-vl",
+  "region_normalized": "ro-vl",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "RO/RO-VL/coat.svg",
+    "source": "Stema Valcea.svg"
+  },
+  "data_source": "out"
+}

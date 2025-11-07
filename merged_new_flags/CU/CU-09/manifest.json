@@ -1,0 +1,16 @@
+{
+  "iso_code": "CU-09",
+  "country_iso": "CU",
+  "country_name": "CU",
+  "region_name": "cu-09",
+  "region_normalized": "cu-09",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "CU/CU-09/coat.svg",
+    "source": "Coat of arms of the Camaguey Province.svg"
+  },
+  "data_source": "out"
+}

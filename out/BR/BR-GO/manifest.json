@@ -1,0 +1,14 @@
+{
+  "code": "BR-GO",
+  "country": "BR",
+  "flag": {
+    "svg": "BR/BR-GO/flag.svg",
+    "png": "BR/BR-GO/flag.png",
+    "source_filename": "Flag of Goiás.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-GO/coat.svg",
+    "png": "BR/BR-GO/coat.png",
+    "source_filename": "Brasão de Goiás.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-LC",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-lc",
+  "region_normalized": "it-lc",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IT/IT-LC/coat.svg",
+    "source": "Provincia di Lecco-Stemma.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "RU-VLA",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-VLA/flag.svg",
+    "png": "RU/RU-VLA/flag.png",
+    "source_filename": "Flag of Vladimir Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-VLA/coat.svg",
+    "png": "RU/RU-VLA/coat.png",
+    "source_filename": "Coat of arms of Vladimiri Oblast.svg"
+  }
+}

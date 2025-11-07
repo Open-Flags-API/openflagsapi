@@ -1,0 +1,16 @@
+{
+  "iso_code": "BE-VBR",
+  "country_iso": "BE",
+  "country_name": "BE",
+  "region_name": "be-vbr",
+  "region_normalized": "be-vbr",
+  "flag": {
+    "svg": "BE/BE-VBR/flag.svg",
+    "source": "Flag of Flemish Brabant.svg"
+  },
+  "coat": {
+    "svg": "BE/BE-VBR/coat.svg",
+    "source": "Vlaams Brabant wapen.svg"
+  },
+  "data_source": "out"
+}

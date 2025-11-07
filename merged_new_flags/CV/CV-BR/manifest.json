@@ -1,0 +1,16 @@
+{
+  "iso_code": "CV-BR",
+  "country_iso": "CV",
+  "country_name": "CV",
+  "region_name": "cv-br",
+  "region_normalized": "cv-br",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Brava municipality.gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

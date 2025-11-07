@@ -1,0 +1,16 @@
+{
+  "iso_code": "NL-FL",
+  "country_iso": "NL",
+  "country_name": "NL",
+  "region_name": "nl-fl",
+  "region_normalized": "nl-fl",
+  "flag": {
+    "svg": "NL/NL-FL/flag.svg",
+    "source": "Flag of Flevoland.svg"
+  },
+  "coat": {
+    "svg": "NL/NL-FL/coat.svg",
+    "source": "Flevoland wapen.svg"
+  },
+  "data_source": "out"
+}

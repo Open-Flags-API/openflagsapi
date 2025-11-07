@@ -1,0 +1,16 @@
+{
+  "iso_code": "CL-BI",
+  "country_iso": "CL",
+  "country_name": "CL",
+  "region_name": "cl-bi",
+  "region_normalized": "cl-bi",
+  "flag": {
+    "svg": "CL/CL-BI/flag.svg",
+    "source": "Flag of Biobío Region.svg"
+  },
+  "coat": {
+    "svg": "CL/CL-BI/coat.svg",
+    "source": "Coat of Arms of Biobío Region.svg"
+  },
+  "data_source": "out"
+}

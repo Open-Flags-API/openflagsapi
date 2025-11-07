@@ -1,0 +1,16 @@
+{
+  "iso_code": "CH-GE",
+  "country_iso": "CH",
+  "country_name": "CH",
+  "region_name": "ch-ge",
+  "region_normalized": "ch-ge",
+  "flag": {
+    "svg": "CH/CH-GE/flag.svg",
+    "source": "Flag of Canton of Geneva.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-GE/coat.svg",
+    "source": "CHE Canton de Genève écu seul COA.svg"
+  },
+  "data_source": "out"
+}

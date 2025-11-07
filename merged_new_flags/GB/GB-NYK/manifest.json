@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-NYK",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-nyk",
+  "region_normalized": "gb-nyk",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-NYK/coat.svg",
+    "source": "Arms of North Yorkshire County Council.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-VE",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-ve",
+  "region_normalized": "it-ve",
+  "flag": {
+    "svg": "IT/IT-VE/flag.svg",
+    "source": "Flag of the Province of Venice.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-VE/coat.svg",
+    "source": "Provincia di Venezia-Stemma.svg"
+  },
+  "data_source": "out"
+}

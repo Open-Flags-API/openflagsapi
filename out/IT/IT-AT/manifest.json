@@ -1,0 +1,14 @@
+{
+  "code": "IT-AT",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-AT/flag.svg",
+    "png": "IT/IT-AT/flag.png",
+    "source_filename": "Flag of the Province of Asti.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-AT/coat.svg",
+    "png": "IT/IT-AT/coat.png",
+    "source_filename": "Provincia di Asti-Stemma.svg"
+  }
+}

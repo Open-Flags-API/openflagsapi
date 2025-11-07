@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-CAP",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-cap",
+  "region_normalized": "ph-cap",
+  "flag": {
+    "svg": null,
+    "source": "PH-CAP.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

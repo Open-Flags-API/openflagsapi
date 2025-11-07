@@ -1,0 +1,14 @@
+{
+  "code": "SH-AC",
+  "country": "SH",
+  "flag": {
+    "svg": "SH/SH-AC/flag.svg",
+    "png": "SH/SH-AC/flag.png",
+    "source_filename": "Flag of Ascension Island.svg"
+  },
+  "coat": {
+    "svg": "SH/SH-AC/coat.svg",
+    "png": "SH/SH-AC/coat.png",
+    "source_filename": "Coat of Arms of Ascension Island.svg"
+  }
+}

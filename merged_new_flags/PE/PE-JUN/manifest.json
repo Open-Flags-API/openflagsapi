@@ -1,0 +1,16 @@
+{
+  "iso_code": "PE-JUN",
+  "country_iso": "PE",
+  "country_name": "PE",
+  "region_name": "pe-jun",
+  "region_normalized": "pe-jun",
+  "flag": {
+    "svg": "PE/PE-JUN/flag.svg",
+    "source": "Flag of Junin.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Escudo regional Junín.png"
+  },
+  "data_source": "out"
+}

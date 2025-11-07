@@ -1,0 +1,14 @@
+{
+  "code": "SE-K",
+  "country": "SE",
+  "flag": {
+    "svg": "SE/SE-K/flag.svg",
+    "png": "SE/SE-K/flag.png",
+    "source_filename": "Blekinge län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-K/coat.svg",
+    "png": "SE/SE-K/coat.png",
+    "source_filename": "Blekinge vapen.svg"
+  }
+}

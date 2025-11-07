@@ -1,0 +1,14 @@
+{
+  "code": "CO-VAC",
+  "country": "CO",
+  "flag": {
+    "svg": "CO/CO-VAC/flag.svg",
+    "png": "CO/CO-VAC/flag.png",
+    "source_filename": "Flag of Valle del Cauca.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-VAC/coat.svg",
+    "png": "CO/CO-VAC/coat.png",
+    "source_filename": "Escudo del Valle del Cauca.svg"
+  }
+}

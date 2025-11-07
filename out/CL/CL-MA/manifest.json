@@ -1,0 +1,14 @@
+{
+  "code": "CL-MA",
+  "country": "CL",
+  "flag": {
+    "svg": "CL/CL-MA/flag.svg",
+    "png": "CL/CL-MA/flag.png",
+    "source_filename": "Flag of Magallanes y la Antártica Chilena, Chile.svg"
+  },
+  "coat": {
+    "svg": "CL/CL-MA/coat.svg",
+    "png": "CL/CL-MA/coat.png",
+    "source_filename": "Coat of Arms of Magallanes Region.svg"
+  }
+}

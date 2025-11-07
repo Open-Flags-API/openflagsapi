@@ -1,0 +1,14 @@
+{
+  "code": "ID-KT",
+  "country": "ID",
+  "flag": {
+    "svg": "ID/ID-KT/flag.svg",
+    "png": "ID/ID-KT/flag.png",
+    "source_filename": "Flag of Central Kalimantan.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-KT/coat.svg",
+    "png": "ID/ID-KT/coat.png",
+    "source_filename": "Coat of arms of Central Kalimantan.svg"
+  }
+}

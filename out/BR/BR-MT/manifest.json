@@ -1,0 +1,14 @@
+{
+  "code": "BR-MT",
+  "country": "BR",
+  "flag": {
+    "svg": "BR/BR-MT/flag.svg",
+    "png": "BR/BR-MT/flag.png",
+    "source_filename": "Bandeira de Mato Grosso.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "BR/BR-MT/coat.png",
+    "source_filename": "Brasão de Mato Grosso.png"
+  }
+}

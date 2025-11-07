@@ -1,0 +1,14 @@
+{
+  "code": "SM-07",
+  "country": "SM",
+  "flag": {
+    "svg": "SM/SM-07/flag.svg",
+    "png": "SM/SM-07/flag.png",
+    "source_filename": "San Marino (RSM)-Bandiera.svg"
+  },
+  "coat": {
+    "svg": "SM/SM-07/coat.svg",
+    "png": "SM/SM-07/coat.png",
+    "source_filename": "Coat of arms of the city of San Marino.svg"
+  }
+}

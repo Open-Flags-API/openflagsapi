@@ -1,0 +1,16 @@
+{
+  "iso_code": "CH-SH",
+  "country_iso": "CH",
+  "country_name": "CH",
+  "region_name": "ch-sh",
+  "region_normalized": "ch-sh",
+  "flag": {
+    "svg": "CH/CH-SH/flag.svg",
+    "source": "Flag of Canton of Schaffhausen.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-SH/coat.svg",
+    "source": "Wappen Schaffhausen matt.svg"
+  },
+  "data_source": "out"
+}

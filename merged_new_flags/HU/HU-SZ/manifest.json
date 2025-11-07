@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-SZ",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-sz",
+  "region_normalized": "hu-sz",
+  "flag": {
+    "svg": "HU/HU-SZ/flag.svg",
+    "source": "Flag-Szabolcs-Szatmar-Bereg-megye.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-SZ/coat.svg",
+    "source": "HUN Szabolcs-Szatmár-Bereg megye COA.svg"
+  },
+  "data_source": "out"
+}

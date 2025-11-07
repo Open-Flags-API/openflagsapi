@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-GS",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-gs",
+  "region_normalized": "hu-gs",
+  "flag": {
+    "svg": "HU/HU-GS/flag.svg",
+    "source": "FLAG-Gyor-Moson-Sopron-megye.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "HUN Győr-Moson-Sopron COA.jpg"
+  },
+  "data_source": "out"
+}

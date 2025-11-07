@@ -1,0 +1,14 @@
+{
+  "code": "DE-BY",
+  "country": "DE",
+  "flag": {
+    "svg": "DE/DE-BY/flag.svg",
+    "png": "DE/DE-BY/flag.png",
+    "source_filename": "Flag of Bavaria (lozengy).svg"
+  },
+  "coat": {
+    "svg": "DE/DE-BY/coat.svg",
+    "png": "DE/DE-BY/coat.png",
+    "source_filename": "Coat of arms of Bavaria.svg"
+  }
+}

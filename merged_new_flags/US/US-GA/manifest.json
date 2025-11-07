@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-GA",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-ga",
+  "region_normalized": "us-ga",
+  "flag": {
+    "svg": "US/US-GA/flag.svg",
+    "source": "Flag of the State of Georgia.svg"
+  },
+  "coat": {
+    "svg": "US/US-GA/coat.svg",
+    "source": "Seal of Georgia.svg"
+  },
+  "data_source": "out"
+}

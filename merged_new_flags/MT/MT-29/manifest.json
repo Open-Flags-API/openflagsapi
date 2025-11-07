@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-29",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-29",
+  "region_normalized": "mt-29",
+  "flag": {
+    "svg": "MT/MT-29/flag.svg",
+    "source": "Flag of Mdina, Malta.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-29/coat.svg",
+    "source": "Mdina coa.svg"
+  },
+  "data_source": "out"
+}

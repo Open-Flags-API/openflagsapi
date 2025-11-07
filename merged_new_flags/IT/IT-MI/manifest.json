@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-MI",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-mi",
+  "region_normalized": "it-mi",
+  "flag": {
+    "svg": "IT/IT-MI/flag.svg",
+    "source": "Flag of the Province of Milan.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-MI/coat.svg",
+    "source": "Provincia di Milano-Stemma.svg"
+  },
+  "data_source": "out"
+}

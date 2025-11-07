@@ -1,0 +1,14 @@
+{
+  "code": "AT-5",
+  "country": "AT",
+  "flag": {
+    "svg": "AT/AT-5/flag.svg",
+    "png": "AT/AT-5/flag.png",
+    "source_filename": "Flag of Salzburg, Vienna, Vorarlberg.svg"
+  },
+  "coat": {
+    "svg": "AT/AT-5/coat.svg",
+    "png": "AT/AT-5/coat.png",
+    "source_filename": "Salzburg Wappen.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "LK-8",
+  "country_iso": "LK",
+  "country_name": "LK",
+  "region_name": "lk-8",
+  "region_normalized": "lk-8",
+  "flag": {
+    "svg": "LK/LK-8/flag.svg",
+    "source": "Flag of the Uva Province (Sri Lanka).svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

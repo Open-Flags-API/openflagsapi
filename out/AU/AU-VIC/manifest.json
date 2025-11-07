@@ -1,0 +1,14 @@
+{
+  "code": "AU-VIC",
+  "country": "AU",
+  "flag": {
+    "svg": "AU/AU-VIC/flag.svg",
+    "png": "AU/AU-VIC/flag.png",
+    "source_filename": "Flag of Victoria (Australia).svg"
+  },
+  "coat": {
+    "svg": "AU/AU-VIC/coat.svg",
+    "png": "AU/AU-VIC/coat.png",
+    "source_filename": "Coat of Arms of Victoria.svg"
+  }
+}

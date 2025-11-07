@@ -1,0 +1,16 @@
+{
+  "iso_code": "RS-VO",
+  "country_iso": "RS",
+  "country_name": "RS",
+  "region_name": "rs-vo",
+  "region_normalized": "rs-vo",
+  "flag": {
+    "svg": "RS/RS-VO/flag.svg",
+    "source": "Flag of Vojvodina.svg"
+  },
+  "coat": {
+    "svg": "RS/RS-VO/coat.svg",
+    "source": "Coat of arms of Vojvodina.svg"
+  },
+  "data_source": "out"
+}

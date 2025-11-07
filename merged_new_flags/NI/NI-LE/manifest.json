@@ -1,0 +1,16 @@
+{
+  "iso_code": "NI-LE",
+  "country_iso": "NI",
+  "country_name": "NI",
+  "region_name": "ni-le",
+  "region_normalized": "ni-le",
+  "flag": {
+    "svg": "NI/NI-LE/flag.svg",
+    "source": "Flag of Leon, Nicaragua.svg"
+  },
+  "coat": {
+    "svg": "NI/NI-LE/coat.svg",
+    "source": "Seal of Leon, Nicaragua.svg"
+  },
+  "data_source": "out"
+}

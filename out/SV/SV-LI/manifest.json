@@ -1,0 +1,14 @@
+{
+  "code": "SV-LI",
+  "country": "SV",
+  "flag": {
+    "svg": "SV/SV-LI/flag.svg",
+    "png": "SV/SV-LI/flag.png",
+    "source_filename": "Flag of La Libertad Department (El Salvador).svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "SV/SV-LI/coat.png",
+    "source_filename": "Escudo Departamental de La Libertad, El Salvador.svg"
+  }
+}

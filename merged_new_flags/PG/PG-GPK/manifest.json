@@ -1,0 +1,16 @@
+{
+  "iso_code": "PG-GPK",
+  "country_iso": "PG",
+  "country_name": "PG",
+  "region_name": "pg-gpk",
+  "region_normalized": "pg-gpk",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Gulf Province.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "IE-D",
+  "country": "IE",
+  "flag": {
+    "svg": "IE/IE-D/flag.svg",
+    "png": "IE/IE-D/flag.png",
+    "source_filename": "Colours of Dublin.svg"
+  },
+  "coat": {
+    "svg": "IE/IE-D/coat.svg",
+    "png": "IE/IE-D/coat.png",
+    "source_filename": "Dublin crest.svg"
+  }
+}

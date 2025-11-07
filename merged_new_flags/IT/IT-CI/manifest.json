@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-CI",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-ci",
+  "region_normalized": "it-ci",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "GT-02",
+  "country_iso": "GT",
+  "country_name": "GT",
+  "region_name": "gt-02",
+  "region_normalized": "gt-02",
+  "flag": {
+    "svg": null,
+    "source": "Bandera de El Progreso.jpg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-BL",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-bl",
+  "region_normalized": "fr-bl",
+  "flag": {
+    "svg": "FR/FR-BL/flag.svg",
+    "source": "Flag of Saint Barthélemy (local).svg"
+  },
+  "coat": {
+    "svg": "FR/FR-BL/coat.svg",
+    "source": "Blason St Barthélémy TOM entire.svg"
+  },
+  "data_source": "out"
+}

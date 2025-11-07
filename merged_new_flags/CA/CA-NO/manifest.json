@@ -1,0 +1,16 @@
+{
+  "iso_code": "CA-NO",
+  "country_iso": "CA",
+  "country_name": "canada",
+  "region_name": "nova-scotia",
+  "region_normalized": "nova-scotia",
+  "flag": {
+    "svg": "CA/CA-NO/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

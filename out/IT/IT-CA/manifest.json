@@ -1,0 +1,14 @@
+{
+  "code": "IT-CA",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-CA/flag.svg",
+    "png": "IT/IT-CA/flag.png",
+    "source_filename": "Flag of the Province of Cagliari.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-CA/coat.svg",
+    "png": "IT/IT-CA/coat.png",
+    "source_filename": "Coat of Arms of the Metropolitan city of Cagliari.svg"
+  }
+}

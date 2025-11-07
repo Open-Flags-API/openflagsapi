@@ -1,0 +1,14 @@
+{
+  "code": "CA-AB",
+  "country": "CA",
+  "flag": {
+    "svg": "CA/CA-AB/flag.svg",
+    "png": "CA/CA-AB/flag.png",
+    "source_filename": "Flag of Alberta.svg"
+  },
+  "coat": {
+    "svg": "CA/CA-AB/coat.svg",
+    "png": "CA/CA-AB/coat.png",
+    "source_filename": "Coat of arms of Alberta.svg"
+  }
+}

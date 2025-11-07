@@ -1,0 +1,14 @@
+{
+  "code": "LV-JUR",
+  "country": "LV",
+  "flag": {
+    "svg": "LV/LV-JUR/flag.svg",
+    "png": "LV/LV-JUR/flag.png",
+    "source_filename": "Flag of Jurmala.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-JUR/coat.svg",
+    "png": "LV/LV-JUR/coat.png",
+    "source_filename": "Coat of Arms of Jūrmala.svg"
+  }
+}

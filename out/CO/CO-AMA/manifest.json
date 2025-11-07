@@ -1,0 +1,14 @@
+{
+  "code": "CO-AMA",
+  "country": "CO",
+  "flag": {
+    "svg": "CO/CO-AMA/flag.svg",
+    "png": "CO/CO-AMA/flag.png",
+    "source_filename": "Flag of Amazonas (Colombia).svg"
+  },
+  "coat": {
+    "svg": "CO/CO-AMA/coat.svg",
+    "png": "CO/CO-AMA/coat.png",
+    "source_filename": "Escudo de Amazonas (Colombia).svg"
+  }
+}

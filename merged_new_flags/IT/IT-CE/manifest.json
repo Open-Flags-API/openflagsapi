@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-CE",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-ce",
+  "region_normalized": "it-ce",
+  "flag": {
+    "svg": "IT/IT-CE/flag.svg",
+    "source": "Flag of the province of Caserta.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-CE/coat.svg",
+    "source": "Provincia di Caserta-Stemma.svg"
+  },
+  "data_source": "out"
+}

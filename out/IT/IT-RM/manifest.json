@@ -1,0 +1,14 @@
+{
+  "code": "IT-RM",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-RM/flag.svg",
+    "png": "IT/IT-RM/flag.png",
+    "source_filename": "Flag of the Province of Rome.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-RM/coat.svg",
+    "png": "IT/IT-RM/coat.png",
+    "source_filename": "Provincia di Roma-Stemma.svg"
+  }
+}

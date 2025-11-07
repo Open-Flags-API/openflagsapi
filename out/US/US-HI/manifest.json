@@ -1,0 +1,14 @@
+{
+  "code": "US-HI",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-HI/flag.svg",
+    "png": "US/US-HI/flag.png",
+    "source_filename": "Flag of Hawaii.svg"
+  },
+  "coat": {
+    "svg": "US/US-HI/coat.svg",
+    "png": "US/US-HI/coat.png",
+    "source_filename": "Coat of arms of Hawaii.svg"
+  }
+}

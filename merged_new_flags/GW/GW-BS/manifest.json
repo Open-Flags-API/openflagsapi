@@ -1,0 +1,16 @@
+{
+  "iso_code": "GW-BS",
+  "country_iso": "GW",
+  "country_name": "GW",
+  "region_name": "gw-bs",
+  "region_normalized": "gw-bs",
+  "flag": {
+    "svg": null,
+    "source": "Bissau City Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Bissau City Emblem.png"
+  },
+  "data_source": "out"
+}

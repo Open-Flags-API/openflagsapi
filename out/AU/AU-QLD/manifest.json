@@ -1,0 +1,14 @@
+{
+  "code": "AU-QLD",
+  "country": "AU",
+  "flag": {
+    "svg": "AU/AU-QLD/flag.svg",
+    "png": "AU/AU-QLD/flag.png",
+    "source_filename": "Flag of Queensland.svg"
+  },
+  "coat": {
+    "svg": "AU/AU-QLD/coat.svg",
+    "png": "AU/AU-QLD/coat.png",
+    "source_filename": "Coat of Arms of Queensland.svg"
+  }
+}

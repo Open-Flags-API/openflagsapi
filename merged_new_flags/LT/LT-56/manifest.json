@@ -1,0 +1,16 @@
+{
+  "iso_code": "LT-56",
+  "country_iso": "LT",
+  "country_name": "LT",
+  "region_name": "lt-56",
+  "region_normalized": "lt-56",
+  "flag": {
+    "svg": "LT/LT-56/flag.svg",
+    "source": "Vilkaviškis vėliava.svg"
+  },
+  "coat": {
+    "svg": "LT/LT-56/coat.svg",
+    "source": "Vilkaviškis CoA.svg"
+  },
+  "data_source": "out"
+}

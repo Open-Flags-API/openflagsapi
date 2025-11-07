@@ -1,0 +1,16 @@
+{
+  "iso_code": "AR-G",
+  "country_iso": "AR",
+  "country_name": "AR",
+  "region_name": "ar-g",
+  "region_normalized": "ar-g",
+  "flag": {
+    "svg": "AR/AR-G/flag.svg",
+    "source": "Bandera de la Provincia de Santiago del Estero.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-G/coat.svg",
+    "source": "Escudo de la Provincia de Santiago del Estero.svg"
+  },
+  "data_source": "out"
+}

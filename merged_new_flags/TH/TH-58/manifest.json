@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-58",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-58",
+  "region_normalized": "th-58",
+  "flag": {
+    "svg": "TH/TH-58/flag.svg",
+    "source": "Flag of Mae Hong Son Province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

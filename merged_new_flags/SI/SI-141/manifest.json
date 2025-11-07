@@ -1,0 +1,16 @@
+{
+  "iso_code": "SI-141",
+  "country_iso": "SI",
+  "country_name": "SI",
+  "region_name": "si-141",
+  "region_normalized": "si-141",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Vuzenica.png"
+  },
+  "data_source": "out"
+}

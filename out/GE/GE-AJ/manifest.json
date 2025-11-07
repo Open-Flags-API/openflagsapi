@@ -1,0 +1,14 @@
+{
+  "code": "GE-AJ",
+  "country": "GE",
+  "flag": {
+    "svg": "GE/GE-AJ/flag.svg",
+    "png": "GE/GE-AJ/flag.png",
+    "source_filename": "Flag of Adjara.svg"
+  },
+  "coat": {
+    "svg": "GE/GE-AJ/coat.svg",
+    "png": "GE/GE-AJ/coat.png",
+    "source_filename": "Coat of arms of Adjara.svg"
+  }
+}

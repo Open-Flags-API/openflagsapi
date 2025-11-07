@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-55",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-55",
+  "region_normalized": "th-55",
+  "flag": {
+    "svg": "TH/TH-55/flag.svg",
+    "source": "ธงประจำจังหวัดน่าน.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

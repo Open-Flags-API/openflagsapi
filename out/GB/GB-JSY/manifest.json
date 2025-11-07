@@ -1,0 +1,14 @@
+{
+  "code": "GB-JSY",
+  "country": "GB",
+  "flag": {
+    "svg": "GB/GB-JSY/flag.svg",
+    "png": "GB/GB-JSY/flag.png",
+    "source_filename": "Flag of Jersey.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-JSY/coat.svg",
+    "png": "GB/GB-JSY/coat.png",
+    "source_filename": "Coat of Arms of Jersey.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "PE-LMA",
+  "country_iso": "PE",
+  "country_name": "PE",
+  "region_name": "pe-lma",
+  "region_normalized": "pe-lma",
+  "flag": {
+    "svg": "PE/PE-LMA/flag.svg",
+    "source": "Flag of Lima.svg"
+  },
+  "coat": {
+    "svg": "PE/PE-LMA/coat.svg",
+    "source": "Coat of arms of Lima.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "SI-114",
+  "country_iso": "SI",
+  "country_name": "SI",
+  "region_name": "si-114",
+  "region_normalized": "si-114",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Slovenske Konjice.gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Slovenske Konjice grb.gif"
+  },
+  "data_source": "out"
+}

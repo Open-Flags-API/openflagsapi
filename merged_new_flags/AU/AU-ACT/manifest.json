@@ -1,0 +1,16 @@
+{
+  "iso_code": "AU-ACT",
+  "country_iso": "AU",
+  "country_name": "AU",
+  "region_name": "au-act",
+  "region_normalized": "au-act",
+  "flag": {
+    "svg": "AU/AU-ACT/flag.svg",
+    "source": "Flag of the Australian Capital Territory.svg"
+  },
+  "coat": {
+    "svg": "AU/AU-ACT/coat.svg",
+    "source": "Coat of Arms of the Australian Capital Territory.svg"
+  },
+  "data_source": "out"
+}

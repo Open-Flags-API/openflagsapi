@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-PA",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-pa",
+  "region_normalized": "it-pa",
+  "flag": {
+    "svg": "IT/IT-PA/flag.svg",
+    "source": "Flag of the Province of Palermo.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-PA/coat.svg",
+    "source": "Provincia di Palermo-Stemma.svg"
+  },
+  "data_source": "out"
+}

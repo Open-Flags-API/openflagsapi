@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-JA",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "jalisco",
+  "region_normalized": "jalisco",
+  "flag": {
+    "svg": "MX/MX-JA/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

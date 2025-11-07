@@ -1,0 +1,14 @@
+{
+  "code": "SH-HL",
+  "country": "SH",
+  "flag": {
+    "svg": "SH/SH-HL/flag.svg",
+    "png": "SH/SH-HL/flag.png",
+    "source_filename": "Flag of Saint Helena.svg"
+  },
+  "coat": {
+    "svg": "SH/SH-HL/coat.svg",
+    "png": "SH/SH-HL/coat.png",
+    "source_filename": "Coat of Arms of Saint Helena.svg"
+  }
+}

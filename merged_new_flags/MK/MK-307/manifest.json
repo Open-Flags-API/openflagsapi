@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-307",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-307",
+  "region_normalized": "mk-307",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "MK/MK-307/coat.svg",
+    "source": "Coat of arms of Kičevo Municipality.svg"
+  },
+  "data_source": "out"
+}

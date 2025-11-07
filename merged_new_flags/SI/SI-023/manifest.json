@@ -1,0 +1,16 @@
+{
+  "iso_code": "SI-023",
+  "country_iso": "SI",
+  "country_name": "SI",
+  "region_name": "si-023",
+  "region_normalized": "si-023",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Domžale.png"
+  },
+  "data_source": "out"
+}

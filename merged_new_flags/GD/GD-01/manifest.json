@@ -1,0 +1,16 @@
+{
+  "iso_code": "GD-01",
+  "country_iso": "GD",
+  "country_name": "GD",
+  "region_name": "gd-01",
+  "region_normalized": "gd-01",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

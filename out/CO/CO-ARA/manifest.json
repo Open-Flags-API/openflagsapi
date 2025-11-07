@@ -1,0 +1,14 @@
+{
+  "code": "CO-ARA",
+  "country": "CO",
+  "flag": {
+    "svg": "CO/CO-ARA/flag.svg",
+    "png": "CO/CO-ARA/flag.png",
+    "source_filename": "Flag of Arauca.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-ARA/coat.svg",
+    "png": "CO/CO-ARA/coat.png",
+    "source_filename": "Escudo de Arauca.svg"
+  }
+}

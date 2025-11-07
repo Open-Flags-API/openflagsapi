@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-KEC",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-kec",
+  "region_normalized": "gb-kec",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-KEC/coat.svg",
+    "source": "Coat of arms of the Royal Borough of Kensington and Chelsea.svg"
+  },
+  "data_source": "out"
+}

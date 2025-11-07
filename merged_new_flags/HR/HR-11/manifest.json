@@ -1,0 +1,16 @@
+{
+  "iso_code": "HR-11",
+  "country_iso": "HR",
+  "country_name": "HR",
+  "region_name": "hr-11",
+  "region_normalized": "hr-11",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Požega-Slavonia County.png"
+  },
+  "coat": {
+    "svg": "HR/HR-11/coat.svg",
+    "source": "Coa Hungary County Pozsega (history).svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-LU",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-lu",
+  "region_normalized": "es-lu",
+  "flag": {
+    "svg": "ES/ES-LU/flag.svg",
+    "source": "Flag of Lugo province.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-LU/coat.svg",
+    "source": "Escudo de la provincia de Lugo.svg"
+  },
+  "data_source": "out"
+}

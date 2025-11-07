@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-SIN",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "mx-sin",
+  "region_normalized": "mx-sin",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "MX/MX-SIN/coat.svg",
+    "source": "Coat of arms of Sinaloa.svg"
+  },
+  "data_source": "out"
+}

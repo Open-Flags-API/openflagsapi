@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-RYA",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-rya",
+  "region_normalized": "ru-rya",
+  "flag": {
+    "svg": "RU/RU-RYA/flag.svg",
+    "source": "Flag of Ryazan Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-RYA/coat.svg",
+    "source": "Coat of arms of Ryazan Oblast.svg"
+  },
+  "data_source": "out"
+}

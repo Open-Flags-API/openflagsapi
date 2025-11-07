@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-012",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-012",
+  "region_normalized": "lv-012",
+  "flag": {
+    "svg": null,
+    "source": "Babītes novads Flag.png"
+  },
+  "coat": {
+    "svg": "LV/LV-012/coat.svg",
+    "source": "Babītes novads COA.svg"
+  },
+  "data_source": "out"
+}

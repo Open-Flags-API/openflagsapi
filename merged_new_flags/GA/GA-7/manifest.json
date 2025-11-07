@@ -1,0 +1,16 @@
+{
+  "iso_code": "GA-7",
+  "country_iso": "GA",
+  "country_name": "GA",
+  "region_name": "ga-7",
+  "region_normalized": "ga-7",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GA/GA-7/coat.svg",
+    "source": "Coat of arms of Ogooué-Lolo, Gabon.svg"
+  },
+  "data_source": "out"
+}

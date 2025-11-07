@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-CA",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "campeche",
+  "region_normalized": "campeche",
+  "flag": {
+    "svg": "MX/MX-CA/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

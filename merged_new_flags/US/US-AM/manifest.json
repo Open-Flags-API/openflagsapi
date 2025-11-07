@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-AM",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "american-samoa",
+  "region_normalized": "american-samoa",
+  "flag": {
+    "svg": "US/US-AM/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "UA-61",
+  "country_iso": "UA",
+  "country_name": "UA",
+  "region_name": "ua-61",
+  "region_normalized": "ua-61",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Ternopil Oblast.svg"
+  },
+  "coat": {
+    "svg": "UA/UA-61/coat.svg",
+    "source": "Coat of Arms of Ternopil Oblast.svg"
+  },
+  "data_source": "out"
+}

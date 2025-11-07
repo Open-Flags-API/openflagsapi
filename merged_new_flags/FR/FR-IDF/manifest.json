@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-IDF",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-idf",
+  "region_normalized": "fr-idf",
+  "flag": {
+    "svg": "FR/FR-IDF/flag.svg",
+    "source": "Flag of the Île-de-France Region (symbol only).svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

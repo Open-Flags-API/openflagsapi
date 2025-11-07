@@ -1,0 +1,16 @@
+{
+  "iso_code": "IE-LD",
+  "country_iso": "IE",
+  "country_name": "IE",
+  "region_name": "ie-ld",
+  "region_normalized": "ie-ld",
+  "flag": {
+    "svg": "IE/IE-LD/flag.svg",
+    "source": "Colours of Roscommon.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Longford Coat of Arms.png"
+  },
+  "data_source": "out"
+}

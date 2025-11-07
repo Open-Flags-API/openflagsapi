@@ -1,0 +1,14 @@
+{
+  "code": "NI-GR",
+  "country": "NI",
+  "flag": {
+    "svg": "NI/NI-GR/flag.svg",
+    "png": "NI/NI-GR/flag.png",
+    "source_filename": "Flag of Granada, Nicaragua.svg"
+  },
+  "coat": {
+    "svg": "NI/NI-GR/coat.svg",
+    "png": "NI/NI-GR/coat.png",
+    "source_filename": "Seal of Granada, Nicaragua.svg"
+  }
+}

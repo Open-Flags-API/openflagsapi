@@ -1,0 +1,16 @@
+{
+  "iso_code": "LR-CM",
+  "country_iso": "LR",
+  "country_name": "LR",
+  "region_name": "lr-cm",
+  "region_normalized": "lr-cm",
+  "flag": {
+    "svg": "LR/LR-CM/flag.svg",
+    "source": "Flag of Grand Cape Mount County.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

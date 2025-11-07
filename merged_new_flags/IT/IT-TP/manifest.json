@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-TP",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-tp",
+  "region_normalized": "it-tp",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IT/IT-TP/coat.svg",
+    "source": "Provincia di Trapani-Stemma.svg"
+  },
+  "data_source": "out"
+}

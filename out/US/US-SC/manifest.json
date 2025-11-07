@@ -1,0 +1,14 @@
+{
+  "code": "US-SC",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-SC/flag.svg",
+    "png": "US/US-SC/flag.png",
+    "source_filename": "Flag of South Carolina.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": null,
+    "source_filename": null
+  }
+}

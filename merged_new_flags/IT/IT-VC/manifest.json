@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-VC",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-vc",
+  "region_normalized": "it-vc",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IT/IT-VC/coat.svg",
+    "source": "Provincia di Vercelli-Stemma.svg"
+  },
+  "data_source": "out"
+}

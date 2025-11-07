@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-QU",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "quintana-roo",
+  "region_normalized": "quintana-roo",
+  "flag": {
+    "svg": "MX/MX-QU/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

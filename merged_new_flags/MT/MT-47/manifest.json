@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-47",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-47",
+  "region_normalized": "mt-47",
+  "flag": {
+    "svg": "MT/MT-47/flag.svg",
+    "source": "Flag of Safi.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-47/coat.svg",
+    "source": "Safi coa.svg"
+  },
+  "data_source": "out"
+}

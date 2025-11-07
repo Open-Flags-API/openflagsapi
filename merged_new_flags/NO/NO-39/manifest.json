@@ -1,0 +1,16 @@
+{
+  "iso_code": "NO-39",
+  "country_iso": "NO",
+  "country_name": "NO",
+  "region_name": "no-39",
+  "region_normalized": "no-39",
+  "flag": {
+    "svg": "NO/NO-39/flag.svg",
+    "source": "Flag of Vestfold.svg"
+  },
+  "coat": {
+    "svg": "NO/NO-39/coat.svg",
+    "source": "Vestfold våpen.svg"
+  },
+  "data_source": "out"
+}

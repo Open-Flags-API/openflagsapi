@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-GRO",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "mx-gro",
+  "region_normalized": "mx-gro",
+  "flag": {
+    "svg": "MX/MX-GRO/flag.svg",
+    "source": "Flag of Guerrero.svg"
+  },
+  "coat": {
+    "svg": "MX/MX-GRO/coat.svg",
+    "source": "Coat of arms of Guerrero.svg"
+  },
+  "data_source": "out"
+}

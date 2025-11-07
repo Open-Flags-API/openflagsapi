@@ -1,0 +1,14 @@
+{
+  "code": "HU-BA",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-BA/flag.svg",
+    "png": "HU/HU-BA/flag.png",
+    "source_filename": "Flag of Baranya County.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-BA/coat.svg",
+    "png": "HU/HU-BA/coat.png",
+    "source_filename": "BlasonHU-baranya.svg"
+  }
+}

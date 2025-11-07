@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-02",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-02",
+  "region_normalized": "ma-02",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Logo Region Oriental.png"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-GR",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "greater-manchester",
+  "region_normalized": "greater-manchester",
+  "flag": {
+    "svg": "GB/GB-GR/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

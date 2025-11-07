@@ -1,0 +1,14 @@
+{
+  "code": "DK-GL",
+  "country": "DK",
+  "flag": {
+    "svg": "DK/DK-GL/flag.svg",
+    "png": "DK/DK-GL/flag.png",
+    "source_filename": "Flag of Greenland.svg"
+  },
+  "coat": {
+    "svg": "DK/DK-GL/coat.svg",
+    "png": "DK/DK-GL/coat.png",
+    "source_filename": "Coat of arms of Greenland.svg"
+  }
+}

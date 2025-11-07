@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-25",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-25",
+  "region_normalized": "it-25",
+  "flag": {
+    "svg": "IT/IT-25/flag.svg",
+    "source": "Flag of Lombardy.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-25/coat.svg",
+    "source": "Insigne Langobardiae.svg"
+  },
+  "data_source": "out"
+}

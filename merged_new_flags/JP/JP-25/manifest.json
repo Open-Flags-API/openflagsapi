@@ -1,0 +1,16 @@
+{
+  "iso_code": "JP-25",
+  "country_iso": "JP",
+  "country_name": "JP",
+  "region_name": "jp-25",
+  "region_normalized": "jp-25",
+  "flag": {
+    "svg": "JP/JP-25/flag.svg",
+    "source": "Flag of Shiga Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-25/coat.svg",
+    "source": "Emblem of Shiga Prefecture.svg"
+  },
+  "data_source": "out"
+}

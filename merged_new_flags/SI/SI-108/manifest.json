@@ -1,0 +1,16 @@
+{
+  "iso_code": "SI-108",
+  "country_iso": "SI",
+  "country_name": "SI",
+  "region_name": "si-108",
+  "region_normalized": "si-108",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Ruše.png"
+  },
+  "data_source": "out"
+}

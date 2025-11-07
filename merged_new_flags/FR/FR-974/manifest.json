@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-974",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-974",
+  "region_normalized": "fr-974",
+  "flag": {
+    "svg": "FR/FR-974/flag.svg",
+    "source": "Proposed flag of Réunion (VAR).svg"
+  },
+  "coat": {
+    "svg": "FR/FR-974/coat.svg",
+    "source": "Armoiries Réunion.svg"
+  },
+  "data_source": "out"
+}

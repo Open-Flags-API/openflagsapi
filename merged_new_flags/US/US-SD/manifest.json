@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-SD",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-sd",
+  "region_normalized": "us-sd",
+  "flag": {
+    "svg": "US/US-SD/flag.svg",
+    "source": "Flag of South Dakota.svg"
+  },
+  "coat": {
+    "svg": "US/US-SD/coat.svg",
+    "source": "State Seal of South Dakota.svg"
+  },
+  "data_source": "out"
+}

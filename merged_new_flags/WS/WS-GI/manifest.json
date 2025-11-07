@@ -1,0 +1,16 @@
+{
+  "iso_code": "WS-GI",
+  "country_iso": "WS",
+  "country_name": "WS",
+  "region_name": "ws-gi",
+  "region_normalized": "ws-gi",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

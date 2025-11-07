@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-BE",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "id-be",
+  "region_normalized": "id-be",
+  "flag": {
+    "svg": "ID/ID-BE/flag.svg",
+    "source": "Flag of Bengkulu.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-BE/coat.svg",
+    "source": "Coat of arms of Bengkulu.svg"
+  },
+  "data_source": "out"
+}

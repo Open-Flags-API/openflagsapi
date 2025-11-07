@@ -1,0 +1,16 @@
+{
+  "iso_code": "UY-MA",
+  "country_iso": "UY",
+  "country_name": "UY",
+  "region_name": "uy-ma",
+  "region_normalized": "uy-ma",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Maldonado Department.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Maldonado Department.png"
+  },
+  "data_source": "out"
+}

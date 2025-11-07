@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-65",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-65",
+  "region_normalized": "it-65",
+  "flag": {
+    "svg": "IT/IT-65/flag.svg",
+    "source": "Flag of Abruzzo.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-65/coat.svg",
+    "source": "Regione-Abruzzo-Stemma.svg"
+  },
+  "data_source": "out"
+}

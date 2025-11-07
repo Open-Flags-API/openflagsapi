@@ -1,0 +1,16 @@
+{
+  "iso_code": "LT-16",
+  "country_iso": "LT",
+  "country_name": "LT",
+  "region_name": "lt-16",
+  "region_normalized": "lt-16",
+  "flag": {
+    "svg": null,
+    "source": "Kauno r. vėliava.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Kaunas district COA.gif"
+  },
+  "data_source": "out"
+}

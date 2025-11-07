@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-TIZ",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-tiz",
+  "region_normalized": "ma-tiz",
+  "flag": {
+    "svg": "MA/MA-TIZ/flag.svg",
+    "source": "Flag of Tiznit province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "VE-M",
+  "country_iso": "VE",
+  "country_name": "VE",
+  "region_name": "ve-m",
+  "region_normalized": "ve-m",
+  "flag": {
+    "svg": "VE/VE-M/flag.svg",
+    "source": "Flag of Miranda state.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "EscudoMiranda.jpg"
+  },
+  "data_source": "out"
+}

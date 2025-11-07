@@ -1,0 +1,16 @@
+{
+  "iso_code": "SI-070",
+  "country_iso": "SI",
+  "country_name": "SI",
+  "region_name": "si-070",
+  "region_normalized": "si-070",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "SI/SI-070/coat.svg",
+    "source": "Coat of arms of Maribor (2020).svg"
+  },
+  "data_source": "out"
+}

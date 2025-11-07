@@ -1,0 +1,16 @@
+{
+  "iso_code": "EC-M",
+  "country_iso": "EC",
+  "country_name": "EC",
+  "region_name": "ec-m",
+  "region_normalized": "ec-m",
+  "flag": {
+    "svg": "EC/EC-M/flag.svg",
+    "source": "Bandera Provincia Manabí.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MN-047",
+  "country_iso": "MN",
+  "country_name": "MN",
+  "region_name": "mn-047",
+  "region_normalized": "mn-047",
+  "flag": {
+    "svg": "MN/MN-047/flag.svg",
+    "source": "Tov aymag flag.svg"
+  },
+  "coat": {
+    "svg": "MN/MN-047/coat.svg",
+    "source": "Mn coa töv aimag.svg"
+  },
+  "data_source": "out"
+}

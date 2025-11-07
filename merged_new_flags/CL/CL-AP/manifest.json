@@ -1,0 +1,16 @@
+{
+  "iso_code": "CL-AP",
+  "country_iso": "CL",
+  "country_name": "CL",
+  "region_name": "cl-ap",
+  "region_normalized": "cl-ap",
+  "flag": {
+    "svg": "CL/CL-AP/flag.svg",
+    "source": "Flag of Arica y Parinacota, Chile.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

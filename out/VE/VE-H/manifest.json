@@ -1,0 +1,14 @@
+{
+  "code": "VE-H",
+  "country": "VE",
+  "flag": {
+    "svg": "VE/VE-H/flag.svg",
+    "png": "VE/VE-H/flag.png",
+    "source_filename": "Flag of Cojedes State.svg"
+  },
+  "coat": {
+    "svg": "VE/VE-H/coat.svg",
+    "png": "VE/VE-H/coat.png",
+    "source_filename": "Escudo del estado Cojedes.svg"
+  }
+}

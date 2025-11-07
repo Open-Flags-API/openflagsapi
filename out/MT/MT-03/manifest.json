@@ -1,0 +1,14 @@
+{
+  "code": "MT-03",
+  "country": "MT",
+  "flag": {
+    "svg": "MT/MT-03/flag.svg",
+    "png": "MT/MT-03/flag.png",
+    "source_filename": "Flag of Birgu.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-03/coat.svg",
+    "png": "MT/MT-03/coat.png",
+    "source_filename": "Birgu coa.svg"
+  }
+}

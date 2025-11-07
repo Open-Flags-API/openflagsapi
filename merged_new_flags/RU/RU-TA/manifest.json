@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-TA",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-ta",
+  "region_normalized": "ru-ta",
+  "flag": {
+    "svg": "RU/RU-TA/flag.svg",
+    "source": "Flag of Tatarstan.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-TA/coat.svg",
+    "source": "Coat of arms of Tatarstan.svg"
+  },
+  "data_source": "out"
+}

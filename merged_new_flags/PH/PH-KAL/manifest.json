@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-KAL",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-kal",
+  "region_normalized": "ph-kal",
+  "flag": {
+    "svg": null,
+    "source": "PH-KAL Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Ph seal kalinga.png"
+  },
+  "data_source": "out"
+}

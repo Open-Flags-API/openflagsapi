@@ -1,0 +1,16 @@
+{
+  "iso_code": "IN-DL",
+  "country_iso": "IN",
+  "country_name": "IN",
+  "region_name": "in-dl",
+  "region_normalized": "in-dl",
+  "flag": {
+    "svg": "IN/IN-DL/flag.svg",
+    "source": "Flag of Delhi Capital Territory.svg"
+  },
+  "coat": {
+    "svg": "IN/IN-DL/coat.svg",
+    "source": "Emblem of India.svg"
+  },
+  "data_source": "out"
+}

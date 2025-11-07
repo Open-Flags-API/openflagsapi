@@ -1,0 +1,16 @@
+{
+  "iso_code": "SE-N",
+  "country_iso": "SE",
+  "country_name": "SE",
+  "region_name": "se-n",
+  "region_normalized": "se-n",
+  "flag": {
+    "svg": "SE/SE-N/flag.svg",
+    "source": "Hallands län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-N/coat.svg",
+    "source": "Halland vapen.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "HU-BC",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-BC/flag.svg",
+    "png": "HU/HU-BC/flag.png",
+    "source_filename": "Flag of Békéscsaba.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-BC/coat.svg",
+    "png": "HU/HU-BC/coat.png",
+    "source_filename": "HUN Békéscsaba Címer.svg"
+  }
+}

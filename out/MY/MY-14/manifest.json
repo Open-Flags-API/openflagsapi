@@ -1,0 +1,14 @@
+{
+  "code": "MY-14",
+  "country": "MY",
+  "flag": {
+    "svg": "MY/MY-14/flag.svg",
+    "png": "MY/MY-14/flag.png",
+    "source_filename": "Flag of Kuala Lumpur, Malaysia.svg"
+  },
+  "coat": {
+    "svg": "MY/MY-14/coat.svg",
+    "png": "MY/MY-14/coat.png",
+    "source_filename": "Seal of Kuala Lumpur (1992-2019).svg"
+  }
+}

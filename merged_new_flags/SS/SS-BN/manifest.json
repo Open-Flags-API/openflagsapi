@@ -1,0 +1,16 @@
+{
+  "iso_code": "SS-BN",
+  "country_iso": "SS",
+  "country_name": "SS",
+  "region_name": "ss-bn",
+  "region_normalized": "ss-bn",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Northern Bahr el Ghazal.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

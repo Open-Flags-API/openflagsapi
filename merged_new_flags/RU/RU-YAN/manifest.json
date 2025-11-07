@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-YAN",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-yan",
+  "region_normalized": "ru-yan",
+  "flag": {
+    "svg": "RU/RU-YAN/flag.svg",
+    "source": "Flag of Yamal-Nenets Autonomous District.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-YAN/coat.svg",
+    "source": "Coat of Arms of Yamal Nenetsia.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "FI-02",
+  "country": "FI",
+  "flag": {
+    "svg": "FI/FI-02/flag.svg",
+    "png": "FI/FI-02/flag.png",
+    "source_filename": "Etelä-Karjala maakuntaviiri.svg"
+  },
+  "coat": {
+    "svg": "FI/FI-02/coat.svg",
+    "png": "FI/FI-02/coat.png",
+    "source_filename": "Etelä-Karjala.vaakuna.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-ULY",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-uly",
+  "region_normalized": "ru-uly",
+  "flag": {
+    "svg": "RU/RU-ULY/flag.svg",
+    "source": "Flag of Ulyanovsk Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-ULY/coat.svg",
+    "source": "Герб Ульяновской области (2013).svg"
+  },
+  "data_source": "out"
+}

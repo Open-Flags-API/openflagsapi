@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-MT",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "br-mt",
+  "region_normalized": "br-mt",
+  "flag": {
+    "svg": "BR/BR-MT/flag.svg",
+    "source": "Bandeira de Mato Grosso.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Brasão de Mato Grosso.png"
+  },
+  "data_source": "out"
+}

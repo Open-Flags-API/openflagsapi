@@ -1,0 +1,16 @@
+{
+  "iso_code": "AU-QLD",
+  "country_iso": "AU",
+  "country_name": "AU",
+  "region_name": "au-qld",
+  "region_normalized": "au-qld",
+  "flag": {
+    "svg": "AU/AU-QLD/flag.svg",
+    "source": "Flag of Queensland.svg"
+  },
+  "coat": {
+    "svg": "AU/AU-QLD/coat.svg",
+    "source": "Coat of Arms of Queensland.svg"
+  },
+  "data_source": "out"
+}

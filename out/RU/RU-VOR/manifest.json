@@ -1,0 +1,14 @@
+{
+  "code": "RU-VOR",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-VOR/flag.svg",
+    "png": "RU/RU-VOR/flag.png",
+    "source_filename": "Flag of Voronezh Oblast (large).svg"
+  },
+  "coat": {
+    "svg": "RU/RU-VOR/coat.svg",
+    "png": "RU/RU-VOR/coat.png",
+    "source_filename": "Coat of arms of Voronezh Oblast (large).svg"
+  }
+}

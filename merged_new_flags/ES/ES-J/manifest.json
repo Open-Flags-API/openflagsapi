@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-J",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-j",
+  "region_normalized": "es-j",
+  "flag": {
+    "svg": "ES/ES-J/flag.svg",
+    "source": "Bandera de la provincia de Jaén.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-J/coat.svg",
+    "source": "Escudo de la provincia de Jaén.svg"
+  },
+  "data_source": "out"
+}

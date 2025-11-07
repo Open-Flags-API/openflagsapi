@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-75C",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-75c",
+  "region_normalized": "fr-75c",
+  "flag": {
+    "svg": "FR/FR-75C/flag.svg",
+    "source": "Flag of Paris with coat of arms.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-75C/coat.svg",
+    "source": "Grandes Armes de Paris.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-LSB",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-lsb",
+  "region_normalized": "gb-lsb",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

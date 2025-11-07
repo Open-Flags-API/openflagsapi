@@ -1,0 +1,16 @@
+{
+  "iso_code": "VU-SEE",
+  "country_iso": "VU",
+  "country_name": "VU",
+  "region_name": "vu-see",
+  "region_normalized": "vu-see",
+  "flag": {
+    "svg": "VU/VU-SEE/flag.svg",
+    "source": "Flag of Shefa Province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

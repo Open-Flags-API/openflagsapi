@@ -1,0 +1,16 @@
+{
+  "iso_code": "GL-QA",
+  "country_iso": "GL",
+  "country_name": "GL",
+  "region_name": "gl-qa",
+  "region_normalized": "gl-qa",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GL/GL-QA/coat.svg",
+    "source": "Qaasuitsup-coat-of-arms.svg"
+  },
+  "data_source": "out"
+}

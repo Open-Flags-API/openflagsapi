@@ -1,0 +1,14 @@
+{
+  "code": "IT-RI",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-RI/flag.svg",
+    "png": "IT/IT-RI/flag.png",
+    "source_filename": "Flag of the province of Rieti.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-RI/coat.svg",
+    "png": "IT/IT-RI/coat.png",
+    "source_filename": "Provincia di Rieti-Stemma.svg"
+  }
+}

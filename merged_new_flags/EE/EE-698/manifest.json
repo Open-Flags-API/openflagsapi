@@ -1,0 +1,16 @@
+{
+  "iso_code": "EE-698",
+  "country_iso": "EE",
+  "country_name": "EE",
+  "region_name": "ee-698",
+  "region_normalized": "ee-698",
+  "flag": {
+    "svg": "EE/EE-698/flag.svg",
+    "source": "Rõuge valla lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-698/coat.svg",
+    "source": "Rõuge valla vapp.svg"
+  },
+  "data_source": "out"
+}

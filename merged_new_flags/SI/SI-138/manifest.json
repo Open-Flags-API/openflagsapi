@@ -1,0 +1,16 @@
+{
+  "iso_code": "SI-138",
+  "country_iso": "SI",
+  "country_name": "SI",
+  "region_name": "si-138",
+  "region_normalized": "si-138",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Vodice.grb.sl.png"
+  },
+  "data_source": "out"
+}

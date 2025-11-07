@@ -1,0 +1,16 @@
+{
+  "iso_code": "SM-09",
+  "country_iso": "SM",
+  "country_name": "SM",
+  "region_name": "sm-09",
+  "region_normalized": "sm-09",
+  "flag": {
+    "svg": "SM/SM-09/flag.svg",
+    "source": "Serravalle (RSM)-Bandiera.svg"
+  },
+  "coat": {
+    "svg": "SM/SM-09/coat.svg",
+    "source": "Serravalle (RSM)-Stemma.svg"
+  },
+  "data_source": "out"
+}

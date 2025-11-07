@@ -1,0 +1,16 @@
+{
+  "iso_code": "SI-094",
+  "country_iso": "SI",
+  "country_name": "SI",
+  "region_name": "si-094",
+  "region_normalized": "si-094",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "COA-Postojna.gif"
+  },
+  "data_source": "out"
+}

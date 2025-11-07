@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-RH",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "rhode-island",
+  "region_normalized": "rhode-island",
+  "flag": {
+    "svg": "US/US-RH/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-AMU",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-amu",
+  "region_normalized": "ru-amu",
+  "flag": {
+    "svg": "RU/RU-AMU/flag.svg",
+    "source": "Flag of Amur Oblast (large).svg"
+  },
+  "coat": {
+    "svg": "RU/RU-AMU/coat.svg",
+    "source": "Coat of Arms of Amur Oblast.svg"
+  },
+  "data_source": "out"
+}

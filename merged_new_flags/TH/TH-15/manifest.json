@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-15",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-15",
+  "region_normalized": "th-15",
+  "flag": {
+    "svg": null,
+    "source": "Ang Thong Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

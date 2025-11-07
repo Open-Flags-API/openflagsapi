@@ -1,0 +1,16 @@
+{
+  "iso_code": "JP-15",
+  "country_iso": "JP",
+  "country_name": "JP",
+  "region_name": "jp-15",
+  "region_normalized": "jp-15",
+  "flag": {
+    "svg": "JP/JP-15/flag.svg",
+    "source": "Flag of Niigata Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-15/coat.svg",
+    "source": "Emblem of Niigata Prefecture.svg"
+  },
+  "data_source": "out"
+}

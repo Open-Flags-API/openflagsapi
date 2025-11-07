@@ -1,0 +1,16 @@
+{
+  "iso_code": "TL-BO",
+  "country_iso": "TL",
+  "country_name": "TL",
+  "region_name": "tl-bo",
+  "region_normalized": "tl-bo",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

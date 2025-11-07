@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-WO",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "worcestershire",
+  "region_normalized": "worcestershire",
+  "flag": {
+    "svg": "GB/GB-WO/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

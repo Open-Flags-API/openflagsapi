@@ -1,0 +1,14 @@
+{
+  "code": "ES-CB",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-CB/flag.svg",
+    "png": "ES/ES-CB/flag.png",
+    "source_filename": "Flag of Cantabria (Official).svg"
+  },
+  "coat": {
+    "svg": "ES/ES-CB/coat.svg",
+    "png": "ES/ES-CB/coat.png",
+    "source_filename": "Escudo de Cantabria (oficial).svg"
+  }
+}

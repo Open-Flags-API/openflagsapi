@@ -1,0 +1,14 @@
+{
+  "code": "HU-KM",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-KM/flag.svg",
+    "png": "HU/HU-KM/flag.png",
+    "source_filename": "Flag Hungary Town Kecskemét.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-KM/coat.svg",
+    "png": "HU/HU-KM/coat.png",
+    "source_filename": "Coa Hungary Town Kecskemét.svg"
+  }
+}

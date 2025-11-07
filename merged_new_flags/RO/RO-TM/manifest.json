@@ -1,0 +1,16 @@
+{
+  "iso_code": "RO-TM",
+  "country_iso": "RO",
+  "country_name": "RO",
+  "region_name": "ro-tm",
+  "region_normalized": "ro-tm",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "RO/RO-TM/coat.svg",
+    "source": "ROU Timis County CoA.svg"
+  },
+  "data_source": "out"
+}

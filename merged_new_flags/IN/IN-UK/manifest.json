@@ -1,0 +1,16 @@
+{
+  "iso_code": "IN-UK",
+  "country_iso": "IN",
+  "country_name": "IN",
+  "region_name": "in-uk",
+  "region_normalized": "in-uk",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

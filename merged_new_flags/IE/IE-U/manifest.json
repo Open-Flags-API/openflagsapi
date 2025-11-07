@@ -1,0 +1,16 @@
+{
+  "iso_code": "IE-U",
+  "country_iso": "IE",
+  "country_name": "IE",
+  "region_name": "ie-u",
+  "region_normalized": "ie-u",
+  "flag": {
+    "svg": "IE/IE-U/flag.svg",
+    "source": "Flag of Ulster.svg"
+  },
+  "coat": {
+    "svg": "IE/IE-U/coat.svg",
+    "source": "Coat of arms of Ulster.svg"
+  },
+  "data_source": "out"
+}

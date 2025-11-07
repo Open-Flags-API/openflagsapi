@@ -1,0 +1,16 @@
+{
+  "iso_code": "EC-S",
+  "country_iso": "EC",
+  "country_name": "EC",
+  "region_name": "ec-s",
+  "region_normalized": "ec-s",
+  "flag": {
+    "svg": "EC/EC-S/flag.svg",
+    "source": "Bandera Provincia Morona Santiago.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

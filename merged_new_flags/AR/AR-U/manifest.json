@@ -1,0 +1,16 @@
+{
+  "iso_code": "AR-U",
+  "country_iso": "AR",
+  "country_name": "AR",
+  "region_name": "ar-u",
+  "region_normalized": "ar-u",
+  "flag": {
+    "svg": "AR/AR-U/flag.svg",
+    "source": "Bandera de la Provincia del Chubut.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-U/coat.svg",
+    "source": "Escudo de la Provincia de Chubut.svg"
+  },
+  "data_source": "out"
+}

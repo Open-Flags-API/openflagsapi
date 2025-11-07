@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-RJ",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "br-rj",
+  "region_normalized": "br-rj",
+  "flag": {
+    "svg": "BR/BR-RJ/flag.svg",
+    "source": "Bandeira do estado do Rio de Janeiro.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-RJ/coat.svg",
+    "source": "Brasão do estado do Rio de Janeiro.svg"
+  },
+  "data_source": "out"
+}

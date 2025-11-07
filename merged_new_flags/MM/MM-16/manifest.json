@@ -1,0 +1,16 @@
+{
+  "iso_code": "MM-16",
+  "country_iso": "MM",
+  "country_name": "MM",
+  "region_name": "mm-16",
+  "region_normalized": "mm-16",
+  "flag": {
+    "svg": null,
+    "source": "Arakan-flag.jpg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

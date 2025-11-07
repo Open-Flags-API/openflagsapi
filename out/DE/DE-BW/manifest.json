@@ -1,0 +1,14 @@
+{
+  "code": "DE-BW",
+  "country": "DE",
+  "flag": {
+    "svg": "DE/DE-BW/flag.svg",
+    "png": "DE/DE-BW/flag.png",
+    "source_filename": "Flag of Baden-Württemberg.svg"
+  },
+  "coat": {
+    "svg": "DE/DE-BW/coat.svg",
+    "png": "DE/DE-BW/coat.png",
+    "source_filename": "Greater coat of arms of Baden-Württemberg.svg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "code": "HR-18",
+  "country": "HR",
+  "flag": {
+    "svg": "HR/HR-18/flag.svg",
+    "png": "HR/HR-18/flag.png",
+    "source_filename": "Zastava Istarske županije.svg"
+  },
+  "coat": {
+    "svg": "HR/HR-18/coat.svg",
+    "png": "HR/HR-18/coat.png",
+    "source_filename": "Grb Istarske županije.svg"
+  }
+}

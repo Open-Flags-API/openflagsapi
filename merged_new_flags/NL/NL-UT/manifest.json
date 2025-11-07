@@ -1,0 +1,16 @@
+{
+  "iso_code": "NL-UT",
+  "country_iso": "NL",
+  "country_name": "NL",
+  "region_name": "nl-ut",
+  "region_normalized": "nl-ut",
+  "flag": {
+    "svg": "NL/NL-UT/flag.svg",
+    "source": "Utrecht (province)-Flag.svg"
+  },
+  "coat": {
+    "svg": "NL/NL-UT/coat.svg",
+    "source": "Utrecht provincie wapen.svg"
+  },
+  "data_source": "out"
+}

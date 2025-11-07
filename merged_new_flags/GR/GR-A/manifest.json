@@ -1,0 +1,16 @@
+{
+  "iso_code": "GR-A",
+  "country_iso": "GR",
+  "country_name": "GR",
+  "region_name": "gr-a",
+  "region_normalized": "gr-a",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "JP-19",
+  "country": "JP",
+  "flag": {
+    "svg": "JP/JP-19/flag.svg",
+    "png": "JP/JP-19/flag.png",
+    "source_filename": "Flag of Yamanashi Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-19/coat.svg",
+    "png": "JP/JP-19/coat.png",
+    "source_filename": "Emblem of Yamanashi prefecture.svg"
+  }
+}

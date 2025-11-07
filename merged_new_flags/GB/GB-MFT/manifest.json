@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-MFT",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-mft",
+  "region_normalized": "gb-mft",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

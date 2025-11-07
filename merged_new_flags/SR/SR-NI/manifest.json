@@ -1,0 +1,16 @@
+{
+  "iso_code": "SR-NI",
+  "country_iso": "SR",
+  "country_name": "SR",
+  "region_name": "sr-ni",
+  "region_normalized": "sr-ni",
+  "flag": {
+    "svg": "SR/SR-NI/flag.svg",
+    "source": "Flag of Nickerie District.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

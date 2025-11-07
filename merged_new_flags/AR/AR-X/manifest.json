@@ -1,0 +1,16 @@
+{
+  "iso_code": "AR-X",
+  "country_iso": "AR",
+  "country_name": "AR",
+  "region_name": "ar-x",
+  "region_normalized": "ar-x",
+  "flag": {
+    "svg": "AR/AR-X/flag.svg",
+    "source": "Bandera de la Provincia de Córdoba 2014.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-X/coat.svg",
+    "source": "Escudo de la Provincia de Córdoba.svg"
+  },
+  "data_source": "out"
+}

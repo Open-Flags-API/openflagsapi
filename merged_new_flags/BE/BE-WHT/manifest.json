@@ -1,0 +1,16 @@
+{
+  "iso_code": "BE-WHT",
+  "country_iso": "BE",
+  "country_name": "BE",
+  "region_name": "be-wht",
+  "region_normalized": "be-wht",
+  "flag": {
+    "svg": "BE/BE-WHT/flag.svg",
+    "source": "Generieke vlag van Henegouwen.svg"
+  },
+  "coat": {
+    "svg": "BE/BE-WHT/coat.svg",
+    "source": "Wapen van Henegouwen (provincie).svg"
+  },
+  "data_source": "out"
+}

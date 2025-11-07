@@ -1,0 +1,16 @@
+{
+  "iso_code": "BE-VOV",
+  "country_iso": "BE",
+  "country_name": "BE",
+  "region_name": "be-vov",
+  "region_normalized": "be-vov",
+  "flag": {
+    "svg": "BE/BE-VOV/flag.svg",
+    "source": "Vlag van Oost-Vlaanderen.svg"
+  },
+  "coat": {
+    "svg": "BE/BE-VOV/coat.svg",
+    "source": "Wapen van Oost-Vlaanderen.svg"
+  },
+  "data_source": "out"
+}

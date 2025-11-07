@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-FM",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-fm",
+  "region_normalized": "it-fm",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IT/IT-FM/coat.svg",
+    "source": "Provincia di Fermo-Stemma.svg"
+  },
+  "data_source": "out"
+}

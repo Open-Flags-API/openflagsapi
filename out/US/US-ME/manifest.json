@@ -1,0 +1,14 @@
+{
+  "code": "US-ME",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-ME/flag.svg",
+    "png": "US/US-ME/flag.png",
+    "source_filename": "Flag of Maine.svg"
+  },
+  "coat": {
+    "svg": "US/US-ME/coat.svg",
+    "png": "US/US-ME/coat.png",
+    "source_filename": "Coat of arms of Maine.svg"
+  }
+}

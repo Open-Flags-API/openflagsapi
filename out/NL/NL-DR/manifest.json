@@ -1,0 +1,14 @@
+{
+  "code": "NL-DR",
+  "country": "NL",
+  "flag": {
+    "svg": "NL/NL-DR/flag.svg",
+    "png": "NL/NL-DR/flag.png",
+    "source_filename": "Flag of Drenthe.svg"
+  },
+  "coat": {
+    "svg": "NL/NL-DR/coat.svg",
+    "png": "NL/NL-DR/coat.png",
+    "source_filename": "Drenthe wapen.svg"
+  }
+}

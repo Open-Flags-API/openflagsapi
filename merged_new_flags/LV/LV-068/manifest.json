@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-068",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-068",
+  "region_normalized": "lv-068",
+  "flag": {
+    "svg": null,
+    "source": "Olaines novads Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Olaines novads COA.png"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "RU-MAG",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-MAG/flag.svg",
+    "png": "RU/RU-MAG/flag.png",
+    "source_filename": "Flag of Magadan Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-MAG/coat.svg",
+    "png": "RU/RU-MAG/coat.png",
+    "source_filename": "Coat of Arms of Magadan oblast.svg"
+  }
+}

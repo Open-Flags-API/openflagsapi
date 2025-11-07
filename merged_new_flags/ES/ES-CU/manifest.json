@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-CU",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-cu",
+  "region_normalized": "es-cu",
+  "flag": {
+    "svg": "ES/ES-CU/flag.svg",
+    "source": "Flag Cuenca Province.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-CU/coat.svg",
+    "source": "Escudo de la Provincia de Cuenca.svg"
+  },
+  "data_source": "out"
+}

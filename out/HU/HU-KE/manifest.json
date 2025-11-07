@@ -1,0 +1,14 @@
+{
+  "code": "HU-KE",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-KE/flag.svg",
+    "png": "HU/HU-KE/flag.png",
+    "source_filename": "FLAG-Komárom-Esztergom-megye.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "HU/HU-KE/coat.png",
+    "source_filename": "HUN Komárom-Esztergom megye COA.jpg"
+  }
+}

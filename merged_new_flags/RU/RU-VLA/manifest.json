@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-VLA",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-vla",
+  "region_normalized": "ru-vla",
+  "flag": {
+    "svg": "RU/RU-VLA/flag.svg",
+    "source": "Flag of Vladimir Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-VLA/coat.svg",
+    "source": "Coat of arms of Vladimiri Oblast.svg"
+  },
+  "data_source": "out"
+}

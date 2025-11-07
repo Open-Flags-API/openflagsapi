@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-MO",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-mo",
+  "region_normalized": "us-mo",
+  "flag": {
+    "svg": "US/US-MO/flag.svg",
+    "source": "Flag of Missouri.svg"
+  },
+  "coat": {
+    "svg": "US/US-MO/coat.svg",
+    "source": "Coat of arms of Missouri.svg"
+  },
+  "data_source": "out"
+}

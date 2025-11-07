@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-BA",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "br-ba",
+  "region_normalized": "br-ba",
+  "flag": {
+    "svg": "BR/BR-BA/flag.svg",
+    "source": "Bandeira da Bahia.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-BA/coat.svg",
+    "source": "Brasão do estado da Bahia.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "SI-112",
+  "country_iso": "SI",
+  "country_name": "SI",
+  "region_name": "si-112",
+  "region_normalized": "si-112",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Slovenj Gradec grb.png"
+  },
+  "data_source": "out"
+}

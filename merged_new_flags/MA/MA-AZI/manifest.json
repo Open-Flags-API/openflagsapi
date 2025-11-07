@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-AZI",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-azi",
+  "region_normalized": "ma-azi",
+  "flag": {
+    "svg": "MA/MA-AZI/flag.svg",
+    "source": "Flag of Azilal province (1976-1997).svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

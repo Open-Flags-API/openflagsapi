@@ -1,0 +1,16 @@
+{
+  "iso_code": "PA-10",
+  "country_iso": "PA",
+  "country_name": "PA",
+  "region_name": "pa-10",
+  "region_normalized": "pa-10",
+  "flag": {
+    "svg": "PA/PA-10/flag.svg",
+    "source": "Bandera de la Provincia de Panamá Oeste.svg"
+  },
+  "coat": {
+    "svg": "PA/PA-10/coat.svg",
+    "source": "Escudo de la Provincia de Panamá Oeste.svg"
+  },
+  "data_source": "out"
+}

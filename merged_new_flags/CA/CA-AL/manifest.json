@@ -1,0 +1,16 @@
+{
+  "iso_code": "CA-AL",
+  "country_iso": "CA",
+  "country_name": "canada",
+  "region_name": "alberta",
+  "region_normalized": "alberta",
+  "flag": {
+    "svg": "CA/CA-AL/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

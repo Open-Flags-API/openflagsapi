@@ -1,0 +1,16 @@
+{
+  "iso_code": "BD-E",
+  "country_iso": "BD",
+  "country_name": "BD",
+  "region_name": "bd-e",
+  "region_normalized": "bd-e",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

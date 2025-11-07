@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-JN",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-jn",
+  "region_normalized": "hu-jn",
+  "flag": {
+    "svg": "HU/HU-JN/flag.svg",
+    "source": "FLAG-Jasz-Nagykun-Szolnok.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "HUN Jász-Nagykun-Szolnok megye COA.png"
+  },
+  "data_source": "out"
+}

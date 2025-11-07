@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-CA",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-ca",
+  "region_normalized": "us-ca",
+  "flag": {
+    "svg": "US/US-CA/flag.svg",
+    "source": "Flag of California.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

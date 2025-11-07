@@ -1,0 +1,16 @@
+{
+  "iso_code": "PY-11",
+  "country_iso": "PY",
+  "country_name": "PY",
+  "region_name": "py-11",
+  "region_normalized": "py-11",
+  "flag": {
+    "svg": "PY/PY-11/flag.svg",
+    "source": "Flag of Central Department, Paraguay.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Escudo del departamento central, paraguay.JPG"
+  },
+  "data_source": "out"
+}

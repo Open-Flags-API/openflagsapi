@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-PR",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "primorsky-krai",
+  "region_normalized": "primorsky-krai",
+  "flag": {
+    "svg": "RU/RU-PR/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

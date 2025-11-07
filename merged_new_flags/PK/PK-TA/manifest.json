@@ -1,0 +1,16 @@
+{
+  "iso_code": "PK-TA",
+  "country_iso": "PK",
+  "country_name": "PK",
+  "region_name": "pk-ta",
+  "region_normalized": "pk-ta",
+  "flag": {
+    "svg": "PK/PK-TA/flag.svg",
+    "source": "Flag of FATA.svg"
+  },
+  "coat": {
+    "svg": "PK/PK-TA/coat.svg",
+    "source": "Coat of arms of FATA.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "US-ND",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-ND/flag.svg",
+    "png": "US/US-ND/flag.png",
+    "source_filename": "Flag of North Dakota.svg"
+  },
+  "coat": {
+    "svg": "US/US-ND/coat.svg",
+    "png": "US/US-ND/coat.png",
+    "source_filename": "Coat of arms of North Dakota.svg"
+  }
+}

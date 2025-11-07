@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-MAG",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-mag",
+  "region_normalized": "ph-mag",
+  "flag": {
+    "svg": "PH/PH-MAG/flag.svg",
+    "source": "Flag of Maguindanao (province).svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

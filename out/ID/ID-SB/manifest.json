@@ -1,0 +1,14 @@
+{
+  "code": "ID-SB",
+  "country": "ID",
+  "flag": {
+    "svg": "ID/ID-SB/flag.svg",
+    "png": "ID/ID-SB/flag.png",
+    "source_filename": "Flag of West Sumatra.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-SB/coat.svg",
+    "png": "ID/ID-SB/coat.png",
+    "source_filename": "Coat of arms of West Sumatra.svg"
+  }
+}

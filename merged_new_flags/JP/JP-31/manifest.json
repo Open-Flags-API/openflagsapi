@@ -1,0 +1,16 @@
+{
+  "iso_code": "JP-31",
+  "country_iso": "JP",
+  "country_name": "JP",
+  "region_name": "jp-31",
+  "region_normalized": "jp-31",
+  "flag": {
+    "svg": "JP/JP-31/flag.svg",
+    "source": "Flag of Tottori Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-31/coat.svg",
+    "source": "Emblem of Tottori Prefecture.svg"
+  },
+  "data_source": "out"
+}

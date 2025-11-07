@@ -1,0 +1,16 @@
+{
+  "iso_code": "GE-SK",
+  "country_iso": "GE",
+  "country_name": "GE",
+  "region_name": "ge-sk",
+  "region_normalized": "ge-sk",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

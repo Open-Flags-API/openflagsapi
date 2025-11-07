@@ -1,0 +1,16 @@
+{
+  "iso_code": "GH-BA",
+  "country_iso": "GH",
+  "country_name": "GH",
+  "region_name": "gh-ba",
+  "region_normalized": "gh-ba",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Brong-Ahafo Region.gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

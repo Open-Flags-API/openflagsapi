@@ -1,0 +1,16 @@
+{
+  "iso_code": "ME-10",
+  "country_iso": "ME",
+  "country_name": "ME",
+  "region_name": "me-10",
+  "region_normalized": "me-10",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of Arms of Kotor.png"
+  },
+  "data_source": "out"
+}

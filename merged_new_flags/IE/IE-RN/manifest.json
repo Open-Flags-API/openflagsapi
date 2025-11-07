@@ -1,0 +1,16 @@
+{
+  "iso_code": "IE-RN",
+  "country_iso": "IE",
+  "country_name": "IE",
+  "region_name": "ie-rn",
+  "region_normalized": "ie-rn",
+  "flag": {
+    "svg": "IE/IE-RN/flag.svg",
+    "source": "Flag of county Roscommon.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Logo-contea-Roscommon.png"
+  },
+  "data_source": "out"
+}

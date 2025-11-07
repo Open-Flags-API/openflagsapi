@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-KHA",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-kha",
+  "region_normalized": "ru-kha",
+  "flag": {
+    "svg": "RU/RU-KHA/flag.svg",
+    "source": "Flag of Khabarovsk Krai (large).svg"
+  },
+  "coat": {
+    "svg": "RU/RU-KHA/coat.svg",
+    "source": "Coat of arms of Khabarovsk Krai.svg"
+  },
+  "data_source": "out"
+}

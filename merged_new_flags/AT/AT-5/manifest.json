@@ -1,0 +1,16 @@
+{
+  "iso_code": "AT-5",
+  "country_iso": "AT",
+  "country_name": "AT",
+  "region_name": "at-5",
+  "region_normalized": "at-5",
+  "flag": {
+    "svg": "AT/AT-5/flag.svg",
+    "source": "Flag of Salzburg, Vienna, Vorarlberg.svg"
+  },
+  "coat": {
+    "svg": "AT/AT-5/coat.svg",
+    "source": "Salzburg Wappen.svg"
+  },
+  "data_source": "out"
+}

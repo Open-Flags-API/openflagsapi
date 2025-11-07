@@ -1,0 +1,16 @@
+{
+  "iso_code": "NZ-MBH",
+  "country_iso": "NZ",
+  "country_name": "NZ",
+  "region_name": "nz-mbh",
+  "region_normalized": "nz-mbh",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

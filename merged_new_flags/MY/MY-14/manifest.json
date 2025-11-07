@@ -1,0 +1,16 @@
+{
+  "iso_code": "MY-14",
+  "country_iso": "MY",
+  "country_name": "MY",
+  "region_name": "my-14",
+  "region_normalized": "my-14",
+  "flag": {
+    "svg": "MY/MY-14/flag.svg",
+    "source": "Flag of Kuala Lumpur, Malaysia.svg"
+  },
+  "coat": {
+    "svg": "MY/MY-14/coat.svg",
+    "source": "Seal of Kuala Lumpur (1992-2019).svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "MD-UN",
+  "country": "MD",
+  "flag": {
+    "svg": "MD/MD-UN/flag.svg",
+    "png": "MD/MD-UN/flag.png",
+    "source_filename": "Flag of District Ungheni.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "MD/MD-UN/coat.png",
+    "source_filename": "Ungheni rajon coa.gif"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "CH-NW",
+  "country_iso": "CH",
+  "country_name": "CH",
+  "region_name": "ch-nw",
+  "region_normalized": "ch-nw",
+  "flag": {
+    "svg": "CH/CH-NW/flag.svg",
+    "source": "Flag of Canton of Nidwalden.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-NW/coat.svg",
+    "source": "Wappen Nidwalden matt.svg"
+  },
+  "data_source": "out"
+}

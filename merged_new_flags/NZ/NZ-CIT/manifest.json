@@ -1,0 +1,16 @@
+{
+  "iso_code": "NZ-CIT",
+  "country_iso": "NZ",
+  "country_name": "NZ",
+  "region_name": "nz-cit",
+  "region_normalized": "nz-cit",
+  "flag": {
+    "svg": "NZ/NZ-CIT/flag.svg",
+    "source": "Flag of Chatham Islands.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

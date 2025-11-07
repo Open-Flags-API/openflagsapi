@@ -1,0 +1,14 @@
+{
+  "code": "FR-BRE",
+  "country": "FR",
+  "flag": {
+    "svg": "FR/FR-BRE/flag.svg",
+    "png": "FR/FR-BRE/flag.png",
+    "source_filename": "Flag of Brittany.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-BRE/coat.svg",
+    "png": "FR/FR-BRE/coat.png",
+    "source_filename": "Armoiries Bretagne - Arms of Brittany.svg"
+  }
+}

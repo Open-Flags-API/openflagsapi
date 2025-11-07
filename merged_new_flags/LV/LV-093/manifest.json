@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-093",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-093",
+  "region_normalized": "lv-093",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Skrundas novads.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "LVA Skrundas novads COA.png"
+  },
+  "data_source": "out"
+}

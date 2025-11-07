@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-AT",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-at",
+  "region_normalized": "it-at",
+  "flag": {
+    "svg": "IT/IT-AT/flag.svg",
+    "source": "Flag of the Province of Asti.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-AT/coat.svg",
+    "source": "Provincia di Asti-Stemma.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-PF",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-pf",
+  "region_normalized": "fr-pf",
+  "flag": {
+    "svg": "FR/FR-PF/flag.svg",
+    "source": "Flag of French Polynesia.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-PF/coat.svg",
+    "source": "Coat of arms of French Polynesia.svg"
+  },
+  "data_source": "out"
+}

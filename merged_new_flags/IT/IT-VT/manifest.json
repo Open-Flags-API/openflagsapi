@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-VT",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-vt",
+  "region_normalized": "it-vt",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IT/IT-VT/coat.svg",
+    "source": "Provincia di Viterbo-Stemma.svg"
+  },
+  "data_source": "out"
+}

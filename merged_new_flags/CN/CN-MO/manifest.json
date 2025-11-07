@@ -1,0 +1,16 @@
+{
+  "iso_code": "CN-MO",
+  "country_iso": "CN",
+  "country_name": "CN",
+  "region_name": "cn-mo",
+  "region_normalized": "cn-mo",
+  "flag": {
+    "svg": "CN/CN-MO/flag.svg",
+    "source": "Flag of Macau.svg"
+  },
+  "coat": {
+    "svg": "CN/CN-MO/coat.svg",
+    "source": "Regional Emblem of Macau.svg"
+  },
+  "data_source": "out"
+}

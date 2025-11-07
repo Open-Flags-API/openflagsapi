@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-08",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-08",
+  "region_normalized": "fr-08",
+  "flag": {
+    "svg": "FR/FR-08/flag.svg",
+    "source": "Drapeau fr département Ardennes.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-08/coat.svg",
+    "source": "Blason département fr Ardennes.svg"
+  },
+  "data_source": "out"
+}

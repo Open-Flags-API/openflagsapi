@@ -1,0 +1,14 @@
+{
+  "code": "MN-1",
+  "country": "MN",
+  "flag": {
+    "svg": "MN/MN-1/flag.svg",
+    "png": "MN/MN-1/flag.png",
+    "source_filename": "Flag of Ulaanbaatar, Mongolia.svg"
+  },
+  "coat": {
+    "svg": "MN/MN-1/coat.svg",
+    "png": "MN/MN-1/coat.png",
+    "source_filename": "Coat of arms of Ulaanbaatar, Mongolia.svg"
+  }
+}

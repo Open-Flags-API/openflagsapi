@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-60",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-60",
+  "region_normalized": "th-60",
+  "flag": {
+    "svg": "TH/TH-60/flag.svg",
+    "source": "Flag of Nakhon Sawan province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

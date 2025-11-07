@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-EDH",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-edh",
+  "region_normalized": "gb-edh",
+  "flag": {
+    "svg": "GB/GB-EDH/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-EDH/coat.svg",
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-110",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-110",
+  "region_normalized": "lv-110",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "LV/LV-110/coat.svg",
+    "source": "Zilupes novads COA.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-SO",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "sonora",
+  "region_normalized": "sonora",
+  "flag": {
+    "svg": "MX/MX-SO/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

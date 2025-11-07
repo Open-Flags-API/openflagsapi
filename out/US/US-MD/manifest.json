@@ -1,0 +1,14 @@
+{
+  "code": "US-MD",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-MD/flag.svg",
+    "png": "US/US-MD/flag.png",
+    "source_filename": "Flag of Maryland.svg"
+  },
+  "coat": {
+    "svg": "US/US-MD/coat.svg",
+    "png": "US/US-MD/coat.png",
+    "source_filename": "Coat of arms of Maryland.svg"
+  }
+}

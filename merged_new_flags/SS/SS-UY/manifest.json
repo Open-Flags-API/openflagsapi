@@ -1,0 +1,16 @@
+{
+  "iso_code": "SS-UY",
+  "country_iso": "SS",
+  "country_name": "SS",
+  "region_name": "ss-uy",
+  "region_normalized": "ss-uy",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Unity State.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

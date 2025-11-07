@@ -1,0 +1,16 @@
+{
+  "iso_code": "LT-UT",
+  "country_iso": "LT",
+  "country_name": "LT",
+  "region_name": "lt-ut",
+  "region_normalized": "lt-ut",
+  "flag": {
+    "svg": "LT/LT-UT/flag.svg",
+    "source": "Utena County flag.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Utena County COA.png"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "KR-UL",
+  "country_iso": "KR",
+  "country_name": "south-korea",
+  "region_name": "ulsan",
+  "region_normalized": "ulsan",
+  "flag": {
+    "svg": "KR/KR-UL/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

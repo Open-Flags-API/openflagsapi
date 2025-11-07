@@ -1,0 +1,16 @@
+{
+  "iso_code": "FI-14",
+  "country_iso": "FI",
+  "country_name": "FI",
+  "region_name": "fi-14",
+  "region_normalized": "fi-14",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "FI/FI-14/coat.svg",
+    "source": "Pohjois-Pohjanmaan vaakuna.svg"
+  },
+  "data_source": "out"
+}

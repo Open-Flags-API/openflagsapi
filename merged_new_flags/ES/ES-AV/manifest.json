@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-AV",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-av",
+  "region_normalized": "es-av",
+  "flag": {
+    "svg": "ES/ES-AV/flag.svg",
+    "source": "Bandera de la provincia de Ávila.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-AV/coat.svg",
+    "source": "Escudo de la provincia de Ávila.svg"
+  },
+  "data_source": "out"
+}

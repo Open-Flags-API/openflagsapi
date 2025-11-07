@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-69",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-69",
+  "region_normalized": "fr-69",
+  "flag": {
+    "svg": "FR/FR-69/flag.svg",
+    "source": "Circonscription départementale du Rhône.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-69/coat.svg",
+    "source": null
+  },
+  "data_source": "out"
+}

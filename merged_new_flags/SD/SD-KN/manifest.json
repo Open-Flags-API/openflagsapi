@@ -1,0 +1,16 @@
+{
+  "iso_code": "SD-KN",
+  "country_iso": "SD",
+  "country_name": "SD",
+  "region_name": "sd-kn",
+  "region_normalized": "sd-kn",
+  "flag": {
+    "svg": "SD/SD-KN/flag.svg",
+    "source": "Flag of North Kurdufan.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

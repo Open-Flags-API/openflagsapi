@@ -1,0 +1,16 @@
+{
+  "iso_code": "CL-AI",
+  "country_iso": "CL",
+  "country_name": "CL",
+  "region_name": "cl-ai",
+  "region_normalized": "cl-ai",
+  "flag": {
+    "svg": "CL/CL-AI/flag.svg",
+    "source": "Flag of Aysen, Chile.svg"
+  },
+  "coat": {
+    "svg": "CL/CL-AI/coat.svg",
+    "source": "Coat of arms of Aysen, Chile.svg"
+  },
+  "data_source": "out"
+}

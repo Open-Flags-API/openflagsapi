@@ -1,0 +1,14 @@
+{
+  "code": "DE-SN",
+  "country": "DE",
+  "flag": {
+    "svg": "DE/DE-SN/flag.svg",
+    "png": "DE/DE-SN/flag.png",
+    "source_filename": "Flag of Saxony.svg"
+  },
+  "coat": {
+    "svg": "DE/DE-SN/coat.svg",
+    "png": "DE/DE-SN/coat.png",
+    "source_filename": "Coat of arms of Saxony.svg"
+  }
+}

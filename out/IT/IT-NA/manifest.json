@@ -1,0 +1,14 @@
+{
+  "code": "IT-NA",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-NA/flag.svg",
+    "png": "IT/IT-NA/flag.png",
+    "source_filename": "Flag of the province of Naples (Variant).svg"
+  },
+  "coat": {
+    "svg": "IT/IT-NA/coat.svg",
+    "png": "IT/IT-NA/coat.png",
+    "source_filename": "Coat of Arms of the Metropolitan City of Naples.svg"
+  }
+}

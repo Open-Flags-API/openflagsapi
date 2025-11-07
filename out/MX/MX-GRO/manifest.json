@@ -1,0 +1,14 @@
+{
+  "code": "MX-GRO",
+  "country": "MX",
+  "flag": {
+    "svg": "MX/MX-GRO/flag.svg",
+    "png": "MX/MX-GRO/flag.png",
+    "source_filename": "Flag of Guerrero.svg"
+  },
+  "coat": {
+    "svg": "MX/MX-GRO/coat.svg",
+    "png": "MX/MX-GRO/coat.png",
+    "source_filename": "Coat of arms of Guerrero.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "EG-KB",
+  "country_iso": "EG",
+  "country_name": "EG",
+  "region_name": "eg-kb",
+  "region_normalized": "eg-kb",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Qalubiya Governorate.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Qalyubia Logo.jpg"
+  },
+  "data_source": "out"
+}

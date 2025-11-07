@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-TVE",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-tve",
+  "region_normalized": "ru-tve",
+  "flag": {
+    "svg": "RU/RU-TVE/flag.svg",
+    "source": "Flag of Tver Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-TVE/coat.svg",
+    "source": "Coat of Arms of Tver oblast.svg"
+  },
+  "data_source": "out"
+}

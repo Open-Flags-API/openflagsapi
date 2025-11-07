@@ -1,0 +1,16 @@
+{
+  "iso_code": "NA-OS",
+  "country_iso": "NA",
+  "country_name": "NA",
+  "region_name": "na-os",
+  "region_normalized": "na-os",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

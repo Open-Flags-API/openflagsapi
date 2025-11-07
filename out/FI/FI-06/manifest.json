@@ -1,0 +1,14 @@
+{
+  "code": "FI-06",
+  "country": "FI",
+  "flag": {
+    "svg": "FI/FI-06/flag.svg",
+    "png": "FI/FI-06/flag.png",
+    "source_filename": "Flag of Tavastia Proper.svg"
+  },
+  "coat": {
+    "svg": "FI/FI-06/coat.svg",
+    "png": "FI/FI-06/coat.png",
+    "source_filename": "Kanta-Häme.vaakuna.svg"
+  }
+}

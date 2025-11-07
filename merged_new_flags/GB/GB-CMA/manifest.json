@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-CMA",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-cma",
+  "region_normalized": "gb-cma",
+  "flag": {
+    "svg": "GB/GB-CMA/flag.svg",
+    "source": "Flag of Cumbria County Council.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

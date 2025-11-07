@@ -1,0 +1,16 @@
+{
+  "iso_code": "NO-09",
+  "country_iso": "NO",
+  "country_name": "NO",
+  "region_name": "no-09",
+  "region_normalized": "no-09",
+  "flag": {
+    "svg": "NO/NO-09/flag.svg",
+    "source": "Flag of Aust-Agder.svg"
+  },
+  "coat": {
+    "svg": "NO/NO-09/coat.svg",
+    "source": "Aust-Agder våpen.svg"
+  },
+  "data_source": "out"
+}

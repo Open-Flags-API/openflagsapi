@@ -1,0 +1,16 @@
+{
+  "iso_code": "PE-ICA",
+  "country_iso": "PE",
+  "country_name": "PE",
+  "region_name": "pe-ica",
+  "region_normalized": "pe-ica",
+  "flag": {
+    "svg": "PE/PE-ICA/flag.svg",
+    "source": "Bandera Región Ica.svg"
+  },
+  "coat": {
+    "svg": "PE/PE-ICA/coat.svg",
+    "source": "Escudo departamento de ica.svg"
+  },
+  "data_source": "out"
+}

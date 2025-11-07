@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-PA",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "id-pa",
+  "region_normalized": "id-pa",
+  "flag": {
+    "svg": "ID/ID-PA/flag.svg",
+    "source": "Flag of Papua 2.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-PA/coat.svg",
+    "source": "Coat of arms of Papua 2.svg"
+  },
+  "data_source": "out"
+}

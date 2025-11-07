@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-36",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-36",
+  "region_normalized": "mt-36",
+  "flag": {
+    "svg": "MT/MT-36/flag.svg",
+    "source": "Flag of Munxar.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-36/coat.svg",
+    "source": "Munxar coa.svg"
+  },
+  "data_source": "out"
+}

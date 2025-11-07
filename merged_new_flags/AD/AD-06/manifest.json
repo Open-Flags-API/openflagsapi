@@ -1,0 +1,16 @@
+{
+  "iso_code": "AD-06",
+  "country_iso": "AD",
+  "country_name": "AD",
+  "region_name": "ad-06",
+  "region_normalized": "ad-06",
+  "flag": {
+    "svg": "AD/AD-06/flag.svg",
+    "source": "Bandera de San Julián de Loria.svg"
+  },
+  "coat": {
+    "svg": "AD/AD-06/coat.svg",
+    "source": "Coat of Arms of Sant Julià de Lòria.svg"
+  },
+  "data_source": "out"
+}

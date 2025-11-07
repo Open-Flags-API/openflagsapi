@@ -1,0 +1,16 @@
+{
+  "iso_code": "SO-MU",
+  "country_iso": "SO",
+  "country_name": "SO",
+  "region_name": "so-mu",
+  "region_normalized": "so-mu",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

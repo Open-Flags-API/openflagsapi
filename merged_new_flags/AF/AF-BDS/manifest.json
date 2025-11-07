@@ -1,0 +1,16 @@
+{
+  "iso_code": "AF-BDS",
+  "country_iso": "AF",
+  "country_name": "AF",
+  "region_name": "af-bds",
+  "region_normalized": "af-bds",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

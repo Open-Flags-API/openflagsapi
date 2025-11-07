@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-30",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-30",
+  "region_normalized": "th-30",
+  "flag": {
+    "svg": null,
+    "source": "Flag Nakhon Ratchasima Province.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

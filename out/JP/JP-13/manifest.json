@@ -1,0 +1,14 @@
+{
+  "code": "JP-13",
+  "country": "JP",
+  "flag": {
+    "svg": "JP/JP-13/flag.svg",
+    "png": "JP/JP-13/flag.png",
+    "source_filename": "Flag of Tokyo Metropolis.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-13/coat.svg",
+    "png": "JP/JP-13/coat.png",
+    "source_filename": "Emblem of Tokyo Metropolis.svg"
+  }
+}

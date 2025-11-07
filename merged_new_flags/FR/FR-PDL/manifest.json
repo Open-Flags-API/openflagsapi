@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-PDL",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-pdl",
+  "region_normalized": "fr-pdl",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "FR/FR-PDL/coat.svg",
+    "source": "Blason région fr Pays-de-la-Loire.svg"
+  },
+  "data_source": "out"
+}

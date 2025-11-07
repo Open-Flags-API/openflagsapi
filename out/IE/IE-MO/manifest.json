@@ -1,0 +1,14 @@
+{
+  "code": "IE-MO",
+  "country": "IE",
+  "flag": {
+    "svg": "IE/IE-MO/flag.svg",
+    "png": "IE/IE-MO/flag.png",
+    "source_filename": "Flag of county Mayo.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "IE/IE-MO/coat.png",
+    "source_filename": "County Mayo coat of arms.png"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-CAT",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-cat",
+  "region_normalized": "ph-cat",
+  "flag": {
+    "svg": null,
+    "source": "PH-CAT Flag.png"
+  },
+  "coat": {
+    "svg": "PH/PH-CAT/coat.svg",
+    "source": "Official Seal of Catanduanes.svg"
+  },
+  "data_source": "out"
+}

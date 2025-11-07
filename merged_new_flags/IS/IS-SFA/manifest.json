@@ -1,0 +1,16 @@
+{
+  "iso_code": "IS-SFA",
+  "country_iso": "IS",
+  "country_name": "IS",
+  "region_name": "is-sfa",
+  "region_normalized": "is-sfa",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "EG-WAD",
+  "country_iso": "EG",
+  "country_name": "EG",
+  "region_name": "eg-wad",
+  "region_normalized": "eg-wad",
+  "flag": {
+    "svg": null,
+    "source": "Flag of New Valley Governorate.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of New Valley Governorate.JPG"
+  },
+  "data_source": "out"
+}

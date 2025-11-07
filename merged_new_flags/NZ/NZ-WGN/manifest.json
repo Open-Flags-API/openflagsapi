@@ -1,0 +1,16 @@
+{
+  "iso_code": "NZ-WGN",
+  "country_iso": "NZ",
+  "country_name": "NZ",
+  "region_name": "nz-wgn",
+  "region_normalized": "nz-wgn",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

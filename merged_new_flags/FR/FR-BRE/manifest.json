@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-BRE",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-bre",
+  "region_normalized": "fr-bre",
+  "flag": {
+    "svg": "FR/FR-BRE/flag.svg",
+    "source": "Flag of Brittany.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-BRE/coat.svg",
+    "source": "Armoiries Bretagne - Arms of Brittany.svg"
+  },
+  "data_source": "out"
+}

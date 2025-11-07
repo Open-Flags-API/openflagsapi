@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-LO",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "louisiana",
+  "region_normalized": "louisiana",
+  "flag": {
+    "svg": "US/US-LO/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

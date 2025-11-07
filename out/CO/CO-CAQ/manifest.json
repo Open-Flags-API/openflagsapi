@@ -1,0 +1,14 @@
+{
+  "code": "CO-CAQ",
+  "country": "CO",
+  "flag": {
+    "svg": "CO/CO-CAQ/flag.svg",
+    "png": "CO/CO-CAQ/flag.png",
+    "source_filename": "Flag of Caquetá.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-CAQ/coat.svg",
+    "png": "CO/CO-CAQ/coat.png",
+    "source_filename": "Escudo del Caquetá.svg"
+  }
+}

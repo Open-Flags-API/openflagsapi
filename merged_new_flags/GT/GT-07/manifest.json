@@ -1,0 +1,16 @@
+{
+  "iso_code": "GT-07",
+  "country_iso": "GT",
+  "country_name": "GT",
+  "region_name": "gt-07",
+  "region_normalized": "gt-07",
+  "flag": {
+    "svg": null,
+    "source": "Vlagsolola.gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Solola.png"
+  },
+  "data_source": "out"
+}

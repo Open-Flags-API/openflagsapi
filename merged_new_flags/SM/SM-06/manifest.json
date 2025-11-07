@@ -1,0 +1,16 @@
+{
+  "iso_code": "SM-06",
+  "country_iso": "SM",
+  "country_name": "SM",
+  "region_name": "sm-06",
+  "region_normalized": "sm-06",
+  "flag": {
+    "svg": "SM/SM-06/flag.svg",
+    "source": "Borgo Maggiore (RSM)-Bandiera.svg"
+  },
+  "coat": {
+    "svg": "SM/SM-06/coat.svg",
+    "source": "Borgo Maggiore (RSM)-Stemma.svg"
+  },
+  "data_source": "out"
+}

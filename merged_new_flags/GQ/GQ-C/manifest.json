@@ -1,0 +1,16 @@
+{
+  "iso_code": "GQ-C",
+  "country_iso": "GQ",
+  "country_name": "GQ",
+  "region_name": "gq-c",
+  "region_normalized": "gq-c",
+  "flag": {
+    "svg": "GQ/GQ-C/flag.svg",
+    "source": "Flag of Equatorial Guinea.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

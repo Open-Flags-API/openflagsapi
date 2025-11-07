@@ -1,0 +1,16 @@
+{
+  "iso_code": "JP-12",
+  "country_iso": "JP",
+  "country_name": "JP",
+  "region_name": "jp-12",
+  "region_normalized": "jp-12",
+  "flag": {
+    "svg": "JP/JP-12/flag.svg",
+    "source": "Flag of Chiba Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-12/coat.svg",
+    "source": "Emblem of Chiba prefecture.svg"
+  },
+  "data_source": "out"
+}

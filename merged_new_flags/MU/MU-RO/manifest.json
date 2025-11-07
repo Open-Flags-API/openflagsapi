@@ -1,0 +1,16 @@
+{
+  "iso_code": "MU-RO",
+  "country_iso": "MU",
+  "country_name": "MU",
+  "region_name": "mu-ro",
+  "region_normalized": "mu-ro",
+  "flag": {
+    "svg": "MU/MU-RO/flag.svg",
+    "source": "Flag of Rodrigues.svg"
+  },
+  "coat": {
+    "svg": "MU/MU-RO/coat.svg",
+    "source": "Coat of Arms of Rodrigues.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "DO-23",
+  "country_iso": "DO",
+  "country_name": "DO",
+  "region_name": "do-23",
+  "region_normalized": "do-23",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "DO/DO-23/coat.svg",
+    "source": "Escudo de San Pedro de Macoris (En cuadrilongo).svg"
+  },
+  "data_source": "out"
+}

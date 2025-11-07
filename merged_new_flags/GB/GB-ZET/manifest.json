@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-ZET",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-zet",
+  "region_normalized": "gb-zet",
+  "flag": {
+    "svg": "GB/GB-ZET/flag.svg",
+    "source": "Flag of Shetland.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

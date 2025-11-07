@@ -1,0 +1,16 @@
+{
+  "iso_code": "DE-BE",
+  "country_iso": "DE",
+  "country_name": "germany",
+  "region_name": "de-be",
+  "region_normalized": "de-be",
+  "flag": {
+    "svg": "DE/DE-BE/flag.svg",
+    "source": "Flag of Berlin.svg"
+  },
+  "coat": {
+    "svg": "DE/DE-BE/coat.svg",
+    "source": "DEU Berlin COA.svg"
+  },
+  "data_source": "out"
+}

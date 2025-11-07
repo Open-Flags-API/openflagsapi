@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-N",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-n",
+  "region_normalized": "fr-n",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

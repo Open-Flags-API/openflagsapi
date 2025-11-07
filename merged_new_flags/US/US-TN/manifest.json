@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-TN",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-tn",
+  "region_normalized": "us-tn",
+  "flag": {
+    "svg": "US/US-TN/flag.svg",
+    "source": "Flag of Tennessee.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

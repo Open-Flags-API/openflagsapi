@@ -1,0 +1,16 @@
+{
+  "iso_code": "GT-05",
+  "country_iso": "GT",
+  "country_name": "GT",
+  "region_name": "gt-05",
+  "region_normalized": "gt-05",
+  "flag": {
+    "svg": "GT/GT-05/flag.svg",
+    "source": "Flag of Escuintla.svg"
+  },
+  "coat": {
+    "svg": "GT/GT-05/coat.svg",
+    "source": "Coat of arms of Escuintla.svg"
+  },
+  "data_source": "out"
+}

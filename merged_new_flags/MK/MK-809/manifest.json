@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-809",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-809",
+  "region_normalized": "mk-809",
+  "flag": {
+    "svg": "MK/MK-809/flag.svg",
+    "source": "Flag of Kisela Voda Municipality, North Macedonia.svg"
+  },
+  "coat": {
+    "svg": "MK/MK-809/coat.svg",
+    "source": "Coat of arms of Kisela Voda Municipality (2015).svg"
+  },
+  "data_source": "out"
+}

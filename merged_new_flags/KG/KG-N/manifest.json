@@ -1,0 +1,16 @@
+{
+  "iso_code": "KG-N",
+  "country_iso": "KG",
+  "country_name": "KG",
+  "region_name": "kg-n",
+  "region_normalized": "kg-n",
+  "flag": {
+    "svg": "KG/KG-N/flag.svg",
+    "source": "Naryn obl flag.svg"
+  },
+  "coat": {
+    "svg": "KG/KG-N/coat.svg",
+    "source": "Naryn obl coa.svg"
+  },
+  "data_source": "out"
+}

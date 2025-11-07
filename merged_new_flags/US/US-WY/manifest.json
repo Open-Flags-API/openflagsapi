@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-WY",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-wy",
+  "region_normalized": "us-wy",
+  "flag": {
+    "svg": "US/US-WY/flag.svg",
+    "source": "Flag of Wyoming.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "EG-DT",
+  "country_iso": "EG",
+  "country_name": "EG",
+  "region_name": "eg-dt",
+  "region_normalized": "eg-dt",
+  "flag": {
+    "svg": "EG/EG-DT/flag.svg",
+    "source": "Flag of Damietta Governorate.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

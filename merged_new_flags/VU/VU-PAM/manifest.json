@@ -1,0 +1,16 @@
+{
+  "iso_code": "VU-PAM",
+  "country_iso": "VU",
+  "country_name": "VU",
+  "region_name": "vu-pam",
+  "region_normalized": "vu-pam",
+  "flag": {
+    "svg": "VU/VU-PAM/flag.svg",
+    "source": "Flag of Penama Province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

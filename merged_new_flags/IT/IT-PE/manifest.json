@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-PE",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-pe",
+  "region_normalized": "it-pe",
+  "flag": {
+    "svg": "IT/IT-PE/flag.svg",
+    "source": "Flag of the Province of Pescara.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-PE/coat.svg",
+    "source": "Provincia di Pescara-Stemma.svg"
+  },
+  "data_source": "out"
+}

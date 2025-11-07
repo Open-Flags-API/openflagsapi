@@ -1,0 +1,16 @@
+{
+  "iso_code": "EE-638",
+  "country_iso": "EE",
+  "country_name": "EE",
+  "region_name": "ee-638",
+  "region_normalized": "ee-638",
+  "flag": {
+    "svg": "EE/EE-638/flag.svg",
+    "source": "Põhja-Pärnumaa valla lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-638/coat.svg",
+    "source": "Põhja-Pärnumaa valla vapp.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "MY-05",
+  "country": "MY",
+  "flag": {
+    "svg": "MY/MY-05/flag.svg",
+    "png": "MY/MY-05/flag.png",
+    "source_filename": "Flag of Negeri Sembilan.svg"
+  },
+  "coat": {
+    "svg": "MY/MY-05/coat.svg",
+    "png": "MY/MY-05/coat.png",
+    "source_filename": "Coat of arms of Negeri Sembilan.svg"
+  }
+}

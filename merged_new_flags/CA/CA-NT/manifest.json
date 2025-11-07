@@ -1,0 +1,16 @@
+{
+  "iso_code": "CA-NT",
+  "country_iso": "CA",
+  "country_name": "canada",
+  "region_name": "ca-nt",
+  "region_normalized": "ca-nt",
+  "flag": {
+    "svg": "CA/CA-NT/flag.svg",
+    "source": "Flag of the Northwest Territories.svg"
+  },
+  "coat": {
+    "svg": "CA/CA-NT/coat.svg",
+    "source": "Coat of arms of Northwest Territories.svg"
+  },
+  "data_source": "out"
+}

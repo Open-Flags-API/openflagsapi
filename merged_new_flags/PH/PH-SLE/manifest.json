@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-SLE",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-sle",
+  "region_normalized": "ph-sle",
+  "flag": {
+    "svg": null,
+    "source": "Southern Leyte.gif"
+  },
+  "coat": {
+    "svg": "PH/PH-SLE/coat.svg",
+    "source": "Official Seal of Southern Leyte.svg"
+  },
+  "data_source": "out"
+}

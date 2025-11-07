@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-AG",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "aguascalientes",
+  "region_normalized": "aguascalientes",
+  "flag": {
+    "svg": "MX/MX-AG/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

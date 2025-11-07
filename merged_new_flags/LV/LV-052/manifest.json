@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-052",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-052",
+  "region_normalized": "lv-052",
+  "flag": {
+    "svg": "LV/LV-052/flag.svg",
+    "source": "Ķekavas novada karogs.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-052/coat.svg",
+    "source": "Ķekavas novada ģerbonis.svg"
+  },
+  "data_source": "out"
+}

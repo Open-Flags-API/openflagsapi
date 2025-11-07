@@ -1,0 +1,16 @@
+{
+  "iso_code": "JP-35",
+  "country_iso": "JP",
+  "country_name": "JP",
+  "region_name": "jp-35",
+  "region_normalized": "jp-35",
+  "flag": {
+    "svg": "JP/JP-35/flag.svg",
+    "source": "Flag of Yamaguchi Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-35/coat.svg",
+    "source": "Emblem of Yamaguchi Prefecture.svg"
+  },
+  "data_source": "out"
+}

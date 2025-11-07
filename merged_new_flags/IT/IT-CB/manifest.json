@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-CB",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-cb",
+  "region_normalized": "it-cb",
+  "flag": {
+    "svg": "IT/IT-CB/flag.svg",
+    "source": "Flag of the province of Campobasso.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-CB/coat.svg",
+    "source": "Provincia di Campobasso-Stemma.svg"
+  },
+  "data_source": "out"
+}

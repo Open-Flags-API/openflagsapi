@@ -1,0 +1,14 @@
+{
+  "code": "RU-MUR",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-MUR/flag.svg",
+    "png": "RU/RU-MUR/flag.png",
+    "source_filename": "Flag of Murmansk Oblast (large).svg"
+  },
+  "coat": {
+    "svg": "RU/RU-MUR/coat.svg",
+    "png": "RU/RU-MUR/coat.png",
+    "source_filename": "Coat of arms of Murmansk Oblast (large, alternative).svg"
+  }
+}

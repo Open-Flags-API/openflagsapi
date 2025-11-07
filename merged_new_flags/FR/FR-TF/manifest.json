@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-TF",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-tf",
+  "region_normalized": "fr-tf",
+  "flag": {
+    "svg": "FR/FR-TF/flag.svg",
+    "source": "Flag of the French Southern and Antarctic Lands.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-TF/coat.svg",
+    "source": "Armoiries Terres australes et antarctiques françaises.svg"
+  },
+  "data_source": "out"
+}

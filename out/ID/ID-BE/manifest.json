@@ -1,0 +1,14 @@
+{
+  "code": "ID-BE",
+  "country": "ID",
+  "flag": {
+    "svg": "ID/ID-BE/flag.svg",
+    "png": "ID/ID-BE/flag.png",
+    "source_filename": "Flag of Bengkulu.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-BE/coat.svg",
+    "png": "ID/ID-BE/coat.png",
+    "source_filename": "Coat of arms of Bengkulu.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "PG-SAN",
+  "country_iso": "PG",
+  "country_name": "PG",
+  "region_name": "pg-san",
+  "region_normalized": "pg-san",
+  "flag": {
+    "svg": "PG/PG-SAN/flag.svg",
+    "source": "Flag of Sandaun.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "VE-B",
+  "country_iso": "VE",
+  "country_name": "VE",
+  "region_name": "ve-b",
+  "region_normalized": "ve-b",
+  "flag": {
+    "svg": "VE/VE-B/flag.svg",
+    "source": "Flag of Anzoátegui State (original version).svg"
+  },
+  "coat": {
+    "svg": "VE/VE-B/coat.svg",
+    "source": "Escudo del Estado Anzoategui.svg"
+  },
+  "data_source": "out"
+}

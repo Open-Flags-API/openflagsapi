@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-VA",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-va",
+  "region_normalized": "it-va",
+  "flag": {
+    "svg": "IT/IT-VA/flag.svg",
+    "source": "Flag of the Province of Varese.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-VA/coat.svg",
+    "source": "Provincia di Varese-Stemma.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "VE-R",
+  "country": "VE",
+  "flag": {
+    "svg": "VE/VE-R/flag.svg",
+    "png": "VE/VE-R/flag.png",
+    "source_filename": "Flag of Sucre State.svg"
+  },
+  "coat": {
+    "svg": "VE/VE-R/coat.svg",
+    "png": "VE/VE-R/coat.png",
+    "source_filename": "Escudo del Estado Sucre.svg"
+  }
+}

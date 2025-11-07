@@ -1,0 +1,16 @@
+{
+  "iso_code": "AD-04",
+  "country_iso": "AD",
+  "country_name": "AD",
+  "region_name": "ad-04",
+  "region_normalized": "ad-04",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "AD/AD-04/coat.svg",
+    "source": "Coat of Arms of La Massana.svg"
+  },
+  "data_source": "out"
+}

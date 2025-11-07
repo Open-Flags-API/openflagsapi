@@ -1,0 +1,16 @@
+{
+  "iso_code": "PK-JK",
+  "country_iso": "PK",
+  "country_name": "PK",
+  "region_name": "pk-jk",
+  "region_normalized": "pk-jk",
+  "flag": {
+    "svg": "PK/PK-JK/flag.svg",
+    "source": "Flag of Azad Kashmir.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Azad kashmir emblem upgraded.png"
+  },
+  "data_source": "out"
+}

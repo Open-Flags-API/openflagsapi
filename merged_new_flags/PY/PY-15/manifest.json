@@ -1,0 +1,16 @@
+{
+  "iso_code": "PY-15",
+  "country_iso": "PY",
+  "country_name": "PY",
+  "region_name": "py-15",
+  "region_normalized": "py-15",
+  "flag": {
+    "svg": "PY/PY-15/flag.svg",
+    "source": "Flag of Presidente Hayes Department.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

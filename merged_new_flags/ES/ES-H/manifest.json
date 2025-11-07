@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-H",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-h",
+  "region_normalized": "es-h",
+  "flag": {
+    "svg": "ES/ES-H/flag.svg",
+    "source": "Bandera de la Provincia De Huelva.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-H/coat.svg",
+    "source": "Escudo Provincia de Huelva.svg"
+  },
+  "data_source": "out"
+}

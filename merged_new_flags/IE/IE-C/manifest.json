@@ -1,0 +1,16 @@
+{
+  "iso_code": "IE-C",
+  "country_iso": "IE",
+  "country_name": "IE",
+  "region_name": "ie-c",
+  "region_normalized": "ie-c",
+  "flag": {
+    "svg": "IE/IE-C/flag.svg",
+    "source": "Flag of Connacht.svg"
+  },
+  "coat": {
+    "svg": "IE/IE-C/coat.svg",
+    "source": "Coat of arms of Connacht.svg"
+  },
+  "data_source": "out"
+}

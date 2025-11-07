@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-DEV",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-dev",
+  "region_normalized": "gb-dev",
+  "flag": {
+    "svg": "GB/GB-DEV/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-DEV/coat.svg",
+    "source": null
+  },
+  "data_source": "out"
+}

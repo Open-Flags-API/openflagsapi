@@ -1,0 +1,14 @@
+{
+  "code": "FI-08",
+  "country": "FI",
+  "flag": {
+    "svg": "FI/FI-08/flag.svg",
+    "png": "FI/FI-08/flag.png",
+    "source_filename": "Keski-suomi lippu.svg"
+  },
+  "coat": {
+    "svg": "FI/FI-08/coat.svg",
+    "png": "FI/FI-08/coat.png",
+    "source_filename": "Keski-Suomi Coat of Arms.svg"
+  }
+}

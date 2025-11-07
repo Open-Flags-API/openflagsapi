@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-NT",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "id-nt",
+  "region_normalized": "id-nt",
+  "flag": {
+    "svg": "ID/ID-NT/flag.svg",
+    "source": "Flag of East Nusa Tenggara.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of Arms of East Nusa Tenggara NEW.png"
+  },
+  "data_source": "out"
+}

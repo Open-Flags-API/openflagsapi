@@ -1,0 +1,16 @@
+{
+  "iso_code": "AM-TV",
+  "country_iso": "AM",
+  "country_name": "AM",
+  "region_name": "am-tv",
+  "region_normalized": "am-tv",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

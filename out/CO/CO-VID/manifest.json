@@ -1,0 +1,14 @@
+{
+  "code": "CO-VID",
+  "country": "CO",
+  "flag": {
+    "svg": "CO/CO-VID/flag.svg",
+    "png": "CO/CO-VID/flag.png",
+    "source_filename": "Flag of Vichada.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-VID/coat.svg",
+    "png": "CO/CO-VID/coat.png",
+    "source_filename": "Escudo del Vichada.svg"
+  }
+}

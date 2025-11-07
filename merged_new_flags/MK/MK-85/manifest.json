@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-85",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-85",
+  "region_normalized": "mk-85",
+  "flag": {
+    "svg": "MK/MK-85/flag.svg",
+    "source": "Flag of Skopje, North Macedonia.svg"
+  },
+  "coat": {
+    "svg": "MK/MK-85/coat.svg",
+    "source": "Coat of arms of Skopje.svg"
+  },
+  "data_source": "out"
+}

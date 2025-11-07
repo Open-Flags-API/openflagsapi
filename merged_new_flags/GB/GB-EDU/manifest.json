@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-EDU",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-edu",
+  "region_normalized": "gb-edu",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-EDU/coat.svg",
+    "source": "Coat of arms of East Dunbartonshire.svg"
+  },
+  "data_source": "out"
+}

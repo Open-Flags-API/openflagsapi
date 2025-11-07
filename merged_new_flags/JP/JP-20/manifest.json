@@ -1,0 +1,16 @@
+{
+  "iso_code": "JP-20",
+  "country_iso": "JP",
+  "country_name": "JP",
+  "region_name": "jp-20",
+  "region_normalized": "jp-20",
+  "flag": {
+    "svg": "JP/JP-20/flag.svg",
+    "source": "Flag of Nagano Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-20/coat.svg",
+    "source": "Emblem of Nagano Prefecture.svg"
+  },
+  "data_source": "out"
+}

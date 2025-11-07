@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-RU",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "russia",
+  "region_normalized": "russia",
+  "flag": {
+    "svg": "RU/RU-RU/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

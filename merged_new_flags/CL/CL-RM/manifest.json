@@ -1,0 +1,16 @@
+{
+  "iso_code": "CL-RM",
+  "country_iso": "CL",
+  "country_name": "CL",
+  "region_name": "cl-rm",
+  "region_normalized": "cl-rm",
+  "flag": {
+    "svg": "CL/CL-RM/flag.svg",
+    "source": "Flag of the Metropolitan Region, Chile.svg"
+  },
+  "coat": {
+    "svg": "CL/CL-RM/coat.svg",
+    "source": "Coat of arms of the Metropolitan Region Government, Chile.svg"
+  },
+  "data_source": "out"
+}

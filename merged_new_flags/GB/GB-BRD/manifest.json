@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-BRD",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-brd",
+  "region_normalized": "gb-brd",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-BRD/coat.svg",
+    "source": "Coat of Arms of Bradford City Council.svg"
+  },
+  "data_source": "out"
+}

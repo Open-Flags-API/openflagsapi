@@ -1,0 +1,16 @@
+{
+  "iso_code": "GE-AB",
+  "country_iso": "GE",
+  "country_name": "GE",
+  "region_name": "ge-ab",
+  "region_normalized": "ge-ab",
+  "flag": {
+    "svg": "GE/GE-AB/flag.svg",
+    "source": "Flag of Georgia.svg"
+  },
+  "coat": {
+    "svg": "GE/GE-AB/coat.svg",
+    "source": "Greater coat of arms of Georgia.svg"
+  },
+  "data_source": "out"
+}

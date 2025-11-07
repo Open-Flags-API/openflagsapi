@@ -1,0 +1,16 @@
+{
+  "iso_code": "PT-20",
+  "country_iso": "PT",
+  "country_name": "PT",
+  "region_name": "pt-20",
+  "region_normalized": "pt-20",
+  "flag": {
+    "svg": "PT/PT-20/flag.svg",
+    "source": "Flag of the Azores.svg"
+  },
+  "coat": {
+    "svg": "PT/PT-20/coat.svg",
+    "source": "Coat of arms of the Azores.svg"
+  },
+  "data_source": "out"
+}

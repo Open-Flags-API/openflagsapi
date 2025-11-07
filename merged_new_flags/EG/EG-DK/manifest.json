@@ -1,0 +1,16 @@
+{
+  "iso_code": "EG-DK",
+  "country_iso": "EG",
+  "country_name": "EG",
+  "region_name": "eg-dk",
+  "region_normalized": "eg-dk",
+  "flag": {
+    "svg": null,
+    "source": "Governadorat de Daqahliya.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Dakahlia Governorate.jpg"
+  },
+  "data_source": "out"
+}

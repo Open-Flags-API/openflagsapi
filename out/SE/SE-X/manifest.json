@@ -1,0 +1,14 @@
+{
+  "code": "SE-X",
+  "country": "SE",
+  "flag": {
+    "svg": "SE/SE-X/flag.svg",
+    "png": "SE/SE-X/flag.png",
+    "source_filename": "Gävleborgs län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-X/coat.svg",
+    "png": "SE/SE-X/coat.png",
+    "source_filename": "Gävleborg län vapen.svg"
+  }
+}

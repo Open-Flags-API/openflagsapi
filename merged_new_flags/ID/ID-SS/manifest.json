@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-SS",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "id-ss",
+  "region_normalized": "id-ss",
+  "flag": {
+    "svg": "ID/ID-SS/flag.svg",
+    "source": "Flag of South Sumatra (vectorised).svg"
+  },
+  "coat": {
+    "svg": "ID/ID-SS/coat.svg",
+    "source": "Coat of arms of South Sumatra.svg"
+  },
+  "data_source": "out"
+}

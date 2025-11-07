@@ -1,0 +1,14 @@
+{
+  "code": "PH-LEY",
+  "country": "PH",
+  "flag": {
+    "svg": null,
+    "png": "PH/PH-LEY/flag.png",
+    "source_filename": "Leyte Flag.png"
+  },
+  "coat": {
+    "svg": "PH/PH-LEY/coat.svg",
+    "png": "PH/PH-LEY/coat.png",
+    "source_filename": "Leyte Province seal.svg"
+  }
+}

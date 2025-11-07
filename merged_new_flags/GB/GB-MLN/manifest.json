@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-MLN",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-mln",
+  "region_normalized": "gb-mln",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-MLN/coat.svg",
+    "source": "Coat of arms of Midlothian District Council 1975-1996.svg"
+  },
+  "data_source": "out"
+}

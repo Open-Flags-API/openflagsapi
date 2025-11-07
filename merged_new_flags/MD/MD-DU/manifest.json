@@ -1,0 +1,16 @@
+{
+  "iso_code": "MD-DU",
+  "country_iso": "MD",
+  "country_name": "MD",
+  "region_name": "md-du",
+  "region_normalized": "md-du",
+  "flag": {
+    "svg": "MD/MD-DU/flag.svg",
+    "source": "Dubăsari District flag.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Dubasari rajon coa.png"
+  },
+  "data_source": "out"
+}

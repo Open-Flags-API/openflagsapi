@@ -1,0 +1,14 @@
+{
+  "code": "IT-AL",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-AL/flag.svg",
+    "png": "IT/IT-AL/flag.png",
+    "source_filename": "Flag of the Province of Alessandria.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-AL/coat.svg",
+    "png": "IT/IT-AL/coat.png",
+    "source_filename": "Provincia di Alessandria-Stemma.svg"
+  }
+}

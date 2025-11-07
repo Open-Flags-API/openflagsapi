@@ -1,0 +1,14 @@
+{
+  "code": "SM-02",
+  "country": "SM",
+  "flag": {
+    "svg": "SM/SM-02/flag.svg",
+    "png": "SM/SM-02/flag.png",
+    "source_filename": "Chiesanuova (RSM)-Bandiera.svg"
+  },
+  "coat": {
+    "svg": "SM/SM-02/coat.svg",
+    "png": "SM/SM-02/coat.png",
+    "source_filename": "Chiesanuova (RSM)-Stemma.svg"
+  }
+}

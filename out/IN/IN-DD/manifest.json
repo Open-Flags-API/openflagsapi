@@ -1,0 +1,14 @@
+{
+  "code": "IN-DD",
+  "country": "IN",
+  "flag": {
+    "svg": "IN/IN-DD/flag.svg",
+    "png": "IN/IN-DD/flag.png",
+    "source_filename": "Flag of Daman and Diu.svg"
+  },
+  "coat": {
+    "svg": "IN/IN-DD/coat.svg",
+    "png": "IN/IN-DD/coat.png",
+    "source_filename": "Flag of Daman and Diu.svg"
+  }
+}

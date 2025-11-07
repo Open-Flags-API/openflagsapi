@@ -1,0 +1,14 @@
+{
+  "code": "BA-02",
+  "country": "BA",
+  "flag": {
+    "svg": "BA/BA-02/flag.svg",
+    "png": "BA/BA-02/flag.png",
+    "source_filename": "Flag of Posavina.svg"
+  },
+  "coat": {
+    "svg": "BA/BA-02/coat.svg",
+    "png": "BA/BA-02/coat.png",
+    "source_filename": "Coat of arms of Posavina.svg"
+  }
+}

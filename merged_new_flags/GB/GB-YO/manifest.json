@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-YO",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "yorkshire",
+  "region_normalized": "yorkshire",
+  "flag": {
+    "svg": "GB/GB-YO/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

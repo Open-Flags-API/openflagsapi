@@ -1,0 +1,16 @@
+{
+  "iso_code": "PL-28",
+  "country_iso": "PL",
+  "country_name": "PL",
+  "region_name": "pl-28",
+  "region_normalized": "pl-28",
+  "flag": {
+    "svg": "PL/PL-28/flag.svg",
+    "source": "POL województwo warmińsko-mazurskie flag.svg"
+  },
+  "coat": {
+    "svg": "PL/PL-28/coat.svg",
+    "source": "POL województwo warmińsko-mazurskie COA.svg"
+  },
+  "data_source": "out"
+}

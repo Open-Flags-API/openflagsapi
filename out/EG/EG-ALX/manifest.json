@@ -1,0 +1,14 @@
+{
+  "code": "EG-ALX",
+  "country": "EG",
+  "flag": {
+    "svg": "EG/EG-ALX/flag.svg",
+    "png": "EG/EG-ALX/flag.png",
+    "source_filename": "Flag of Alexandria.svg"
+  },
+  "coat": {
+    "svg": "EG/EG-ALX/coat.svg",
+    "png": "EG/EG-ALX/coat.png",
+    "source_filename": "Coat of Arms - Alexandria, Egypt.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-WV",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-wv",
+  "region_normalized": "us-wv",
+  "flag": {
+    "svg": "US/US-WV/flag.svg",
+    "source": "Flag of West Virginia.svg"
+  },
+  "coat": {
+    "svg": "US/US-WV/coat.svg",
+    "source": "Coat of arms of West Virginia.svg"
+  },
+  "data_source": "out"
+}

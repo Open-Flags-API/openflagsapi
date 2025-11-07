@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-MU",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "id-mu",
+  "region_normalized": "id-mu",
+  "flag": {
+    "svg": "ID/ID-MU/flag.svg",
+    "source": "Flag of North Maluku.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-MU/coat.svg",
+    "source": "Coat of arms of North Maluku.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "BE-WLG",
+  "country": "BE",
+  "flag": {
+    "svg": "BE/BE-WLG/flag.svg",
+    "png": "BE/BE-WLG/flag.png",
+    "source_filename": "Flag of the Province of Liège.svg"
+  },
+  "coat": {
+    "svg": "BE/BE-WLG/coat.svg",
+    "png": "BE/BE-WLG/coat.png",
+    "source_filename": "Wapen van Luik (provincie).svg"
+  }
+}

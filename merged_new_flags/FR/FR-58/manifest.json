@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-58",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-58",
+  "region_normalized": "fr-58",
+  "flag": {
+    "svg": "FR/FR-58/flag.svg",
+    "source": "Drapeau fr département Nièvre.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-58/coat.svg",
+    "source": "Blason département fr Nièvre.svg"
+  },
+  "data_source": "out"
+}

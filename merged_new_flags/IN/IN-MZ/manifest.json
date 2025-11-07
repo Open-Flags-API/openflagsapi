@@ -1,0 +1,16 @@
+{
+  "iso_code": "IN-MZ",
+  "country_iso": "IN",
+  "country_name": "IN",
+  "region_name": "in-mz",
+  "region_normalized": "in-mz",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IN/IN-MZ/coat.svg",
+    "source": "Seal of Mizoram.svg"
+  },
+  "data_source": "out"
+}

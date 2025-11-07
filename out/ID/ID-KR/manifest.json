@@ -1,0 +1,14 @@
+{
+  "code": "ID-KR",
+  "country": "ID",
+  "flag": {
+    "svg": "ID/ID-KR/flag.svg",
+    "png": "ID/ID-KR/flag.png",
+    "source_filename": "Flag of Riau Islands.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-KR/coat.svg",
+    "png": "ID/ID-KR/coat.png",
+    "source_filename": "Coat of arms of Riau Islands.svg"
+  }
+}

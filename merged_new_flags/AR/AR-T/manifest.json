@@ -1,0 +1,16 @@
+{
+  "iso_code": "AR-T",
+  "country_iso": "AR",
+  "country_name": "AR",
+  "region_name": "ar-t",
+  "region_normalized": "ar-t",
+  "flag": {
+    "svg": "AR/AR-T/flag.svg",
+    "source": "Bandera de la Provincia de Tucumán.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-T/coat.svg",
+    "source": "Escudo de la Provincia de Tucumán.svg"
+  },
+  "data_source": "out"
+}

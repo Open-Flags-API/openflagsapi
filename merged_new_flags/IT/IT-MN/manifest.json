@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-MN",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-mn",
+  "region_normalized": "it-mn",
+  "flag": {
+    "svg": "IT/IT-MN/flag.svg",
+    "source": "Flag of the Province of Mantua.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-MN/coat.svg",
+    "source": "Provincia di Mantova-Stemma.svg"
+  },
+  "data_source": "out"
+}

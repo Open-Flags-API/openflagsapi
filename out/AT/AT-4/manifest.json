@@ -1,0 +1,14 @@
+{
+  "code": "AT-4",
+  "country": "AT",
+  "flag": {
+    "svg": "AT/AT-4/flag.svg",
+    "png": "AT/AT-4/flag.png",
+    "source_filename": "Flag of Upper Austria (state).svg"
+  },
+  "coat": {
+    "svg": "AT/AT-4/coat.svg",
+    "png": "AT/AT-4/coat.png",
+    "source_filename": "Oberoesterreich Wappen.svg"
+  }
+}

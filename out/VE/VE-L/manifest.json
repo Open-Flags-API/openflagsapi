@@ -1,0 +1,14 @@
+{
+  "code": "VE-L",
+  "country": "VE",
+  "flag": {
+    "svg": "VE/VE-L/flag.svg",
+    "png": "VE/VE-L/flag.png",
+    "source_filename": "Flag of Mérida State.svg"
+  },
+  "coat": {
+    "svg": "VE/VE-L/coat.svg",
+    "png": "VE/VE-L/coat.png",
+    "source_filename": "Coat of arms of Mérida State.svg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "code": "KG-GO",
+  "country": "KG",
+  "flag": {
+    "svg": "KG/KG-GO/flag.svg",
+    "png": "KG/KG-GO/flag.png",
+    "source_filename": "Flag of Osh.svg"
+  },
+  "coat": {
+    "svg": "KG/KG-GO/coat.svg",
+    "png": "KG/KG-GO/coat.png",
+    "source_filename": "Coat of arms of Osh.svg"
+  }
+}

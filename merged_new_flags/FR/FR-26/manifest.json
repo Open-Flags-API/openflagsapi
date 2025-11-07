@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-26",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-26",
+  "region_normalized": "fr-26",
+  "flag": {
+    "svg": "FR/FR-26/flag.svg",
+    "source": "Drapeau département fr Drôme.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-26/coat.svg",
+    "source": "Blason département fr Drôme.svg"
+  },
+  "data_source": "out"
+}

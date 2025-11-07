@@ -1,0 +1,16 @@
+{
+  "iso_code": "MN-037",
+  "country_iso": "MN",
+  "country_name": "MN",
+  "region_name": "mn-037",
+  "region_normalized": "mn-037",
+  "flag": {
+    "svg": "MN/MN-037/flag.svg",
+    "source": "Mn flag darkhan uul aymag.svg"
+  },
+  "coat": {
+    "svg": "MN/MN-037/coat.svg",
+    "source": "Mn coa of darkhan aymag.svg"
+  },
+  "data_source": "out"
+}

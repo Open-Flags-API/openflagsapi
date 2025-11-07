@@ -1,0 +1,16 @@
+{
+  "iso_code": "IN-HR",
+  "country_iso": "IN",
+  "country_name": "IN",
+  "region_name": "in-hr",
+  "region_normalized": "in-hr",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

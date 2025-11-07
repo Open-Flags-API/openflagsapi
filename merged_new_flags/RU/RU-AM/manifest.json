@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-AM",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "amur",
+  "region_normalized": "amur",
+  "flag": {
+    "svg": "RU/RU-AM/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

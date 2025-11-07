@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-GR",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-gr",
+  "region_normalized": "it-gr",
+  "flag": {
+    "svg": "IT/IT-GR/flag.svg",
+    "source": "Flag of the Province of Grosseto.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-GR/coat.svg",
+    "source": "Provincia di Grosseto-Stemma.svg"
+  },
+  "data_source": "out"
+}

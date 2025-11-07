@@ -1,0 +1,16 @@
+{
+  "iso_code": "CU-02",
+  "country_iso": "CU",
+  "country_name": "CU",
+  "region_name": "cu-02",
+  "region_normalized": "cu-02",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "CU/CU-02/coat.svg",
+    "source": "Escudo de la Habana.svg"
+  },
+  "data_source": "out"
+}

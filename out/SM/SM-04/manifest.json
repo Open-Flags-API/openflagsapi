@@ -1,0 +1,14 @@
+{
+  "code": "SM-04",
+  "country": "SM",
+  "flag": {
+    "svg": "SM/SM-04/flag.svg",
+    "png": "SM/SM-04/flag.png",
+    "source_filename": "Faetano (RSM)-Bandiera.svg"
+  },
+  "coat": {
+    "svg": "SM/SM-04/coat.svg",
+    "png": "SM/SM-04/coat.png",
+    "source_filename": "Faetano (RSM)-Stemma.svg"
+  }
+}

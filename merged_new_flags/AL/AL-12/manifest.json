@@ -1,0 +1,16 @@
+{
+  "iso_code": "AL-12",
+  "country_iso": "AL",
+  "country_name": "AL",
+  "region_name": "al-12",
+  "region_normalized": "al-12",
+  "flag": {
+    "svg": "AL/AL-12/flag.svg",
+    "source": "Flag of Vlorë.svg"
+  },
+  "coat": {
+    "svg": "AL/AL-12/coat.svg",
+    "source": "Stema e Qarkut Vlorë.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "YU-SR",
+  "country_iso": "YU",
+  "country_name": "YU",
+  "region_name": "yu-sr",
+  "region_normalized": "yu-sr",
+  "flag": {
+    "svg": "YU/YU-SR/flag.svg",
+    "source": "Flag of Serbia (1992–2004).svg"
+  },
+  "coat": {
+    "svg": "YU/YU-SR/coat.svg",
+    "source": "Coat of arms of Serbia (1947–2004).svg"
+  },
+  "data_source": "out"
+}

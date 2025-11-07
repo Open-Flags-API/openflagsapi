@@ -1,0 +1,14 @@
+{
+  "code": "GB-PEM",
+  "country": "GB",
+  "flag": {
+    "svg": "GB/GB-PEM/flag.svg",
+    "png": "GB/GB-PEM/flag.png",
+    "source_filename": "Flag of Pembrokeshire.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-PEM/coat.svg",
+    "png": "GB/GB-PEM/coat.png",
+    "source_filename": "Arms of Pembrokeshire County Council.svg"
+  }
+}

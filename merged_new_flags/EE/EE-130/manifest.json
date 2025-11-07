@@ -1,0 +1,16 @@
+{
+  "iso_code": "EE-130",
+  "country_iso": "EE",
+  "country_name": "EE",
+  "region_name": "ee-130",
+  "region_normalized": "ee-130",
+  "flag": {
+    "svg": "EE/EE-130/flag.svg",
+    "source": "Alutaguse valla lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-130/coat.svg",
+    "source": "Alutaguse valla vapp.svg"
+  },
+  "data_source": "out"
+}

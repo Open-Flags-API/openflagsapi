@@ -1,0 +1,14 @@
+{
+  "code": "FR-BFC",
+  "country": "FR",
+  "flag": {
+    "svg": "FR/FR-BFC/flag.svg",
+    "png": "FR/FR-BFC/flag.png",
+    "source_filename": "Flag of the region Bourgogne-Franche-Comté.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-BFC/coat.svg",
+    "png": "FR/FR-BFC/coat.png",
+    "source_filename": "Blason région fr Bourgogne-Franche-Comté.svg"
+  }
+}

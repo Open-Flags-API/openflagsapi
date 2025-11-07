@@ -1,0 +1,16 @@
+{
+  "iso_code": "NI-AS",
+  "country_iso": "NI",
+  "country_name": "NI",
+  "region_name": "ni-as",
+  "region_normalized": "ni-as",
+  "flag": {
+    "svg": "NI/NI-AS/flag.svg",
+    "source": "Flag of Region Autonoma Atlantico Sur.svg"
+  },
+  "coat": {
+    "svg": "NI/NI-AS/coat.svg",
+    "source": "Seal of Region Autonoma del Atlantico Sur.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "NG-BO",
+  "country_iso": "NG",
+  "country_name": "NG",
+  "region_name": "ng-bo",
+  "region_normalized": "ng-bo",
+  "flag": {
+    "svg": null,
+    "source": "Borno State Flag.gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

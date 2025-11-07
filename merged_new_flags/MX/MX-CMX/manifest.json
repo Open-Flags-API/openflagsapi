@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-CMX",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "mx-cmx",
+  "region_normalized": "mx-cmx",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "MX/MX-CMX/coat.svg",
+    "source": "Coat of arms of Mexico City, Mexico.svg"
+  },
+  "data_source": "out"
+}

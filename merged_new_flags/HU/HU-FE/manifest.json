@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-FE",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-fe",
+  "region_normalized": "hu-fe",
+  "flag": {
+    "svg": "HU/HU-FE/flag.svg",
+    "source": "FLAG-Fejér-megye.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-FE/coat.svg",
+    "source": "Coa Hungary County Fejér (history).svg"
+  },
+  "data_source": "out"
+}

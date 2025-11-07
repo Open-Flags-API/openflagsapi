@@ -1,0 +1,16 @@
+{
+  "iso_code": "NL-GR",
+  "country_iso": "NL",
+  "country_name": "NL",
+  "region_name": "nl-gr",
+  "region_normalized": "nl-gr",
+  "flag": {
+    "svg": "NL/NL-GR/flag.svg",
+    "source": "Flag of Groningen.svg"
+  },
+  "coat": {
+    "svg": "NL/NL-GR/coat.svg",
+    "source": "Groningen provincie wapen.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-MET",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-met",
+  "region_normalized": "co-met",
+  "flag": {
+    "svg": "CO/CO-MET/flag.svg",
+    "source": "Flag of Meta.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-MET/coat.svg",
+    "source": "Escudo del Meta.svg"
+  },
+  "data_source": "out"
+}

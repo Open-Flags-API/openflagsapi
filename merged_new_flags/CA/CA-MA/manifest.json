@@ -1,0 +1,16 @@
+{
+  "iso_code": "CA-MA",
+  "country_iso": "CA",
+  "country_name": "canada",
+  "region_name": "manitoba",
+  "region_normalized": "manitoba",
+  "flag": {
+    "svg": "CA/CA-MA/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

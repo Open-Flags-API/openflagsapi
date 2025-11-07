@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-ISA",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-isa",
+  "region_normalized": "ph-isa",
+  "flag": {
+    "svg": "PH/PH-ISA/flag.svg",
+    "source": "Flag of Isabela (province).svg"
+  },
+  "coat": {
+    "svg": "PH/PH-ISA/coat.svg",
+    "source": "Official Seal of Isabela.svg"
+  },
+  "data_source": "out"
+}

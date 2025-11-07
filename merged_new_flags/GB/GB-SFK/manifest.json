@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-SFK",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-sfk",
+  "region_normalized": "gb-sfk",
+  "flag": {
+    "svg": "GB/GB-SFK/flag.svg",
+    "source": "County Flag of Suffolk.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-SFK/coat.svg",
+    "source": "Arms of Suffolk.svg"
+  },
+  "data_source": "out"
+}

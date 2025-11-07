@@ -1,0 +1,14 @@
+{
+  "code": "MD-HI",
+  "country": "MD",
+  "flag": {
+    "svg": null,
+    "png": "MD/MD-HI/flag.png",
+    "source_filename": "Hincesti rajon flag.gif"
+  },
+  "coat": {
+    "svg": "MD/MD-HI/coat.svg",
+    "png": "MD/MD-HI/coat.png",
+    "source_filename": "Escudo de Hîncești.svg"
+  }
+}

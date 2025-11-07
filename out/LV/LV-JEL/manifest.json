@@ -1,0 +1,14 @@
+{
+  "code": "LV-JEL",
+  "country": "LV",
+  "flag": {
+    "svg": "LV/LV-JEL/flag.svg",
+    "png": "LV/LV-JEL/flag.png",
+    "source_filename": "Jelgava flag.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-JEL/coat.svg",
+    "png": "LV/LV-JEL/coat.png",
+    "source_filename": "Jelgava COA great.svg"
+  }
+}

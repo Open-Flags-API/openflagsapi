@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-CLR",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-clr",
+  "region_normalized": "gb-clr",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

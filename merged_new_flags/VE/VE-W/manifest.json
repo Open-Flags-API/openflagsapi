@@ -1,0 +1,16 @@
+{
+  "iso_code": "VE-W",
+  "country_iso": "VE",
+  "country_name": "VE",
+  "region_name": "ve-w",
+  "region_normalized": "ve-w",
+  "flag": {
+    "svg": "VE/VE-W/flag.svg",
+    "source": "Federal dependencies of Venezuela's Flag.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

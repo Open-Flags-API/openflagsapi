@@ -1,0 +1,16 @@
+{
+  "iso_code": "HR-01",
+  "country_iso": "HR",
+  "country_name": "HR",
+  "region_name": "hr-01",
+  "region_normalized": "hr-01",
+  "flag": {
+    "svg": "HR/HR-01/flag.svg",
+    "source": "Flag of Zagreb County.svg"
+  },
+  "coat": {
+    "svg": "HR/HR-01/coat.svg",
+    "source": "Coat of arms of Zagreb County.svg"
+  },
+  "data_source": "out"
+}

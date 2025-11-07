@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-CO",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-co",
+  "region_normalized": "us-co",
+  "flag": {
+    "svg": "US/US-CO/flag.svg",
+    "source": "Flag of Colorado.svg"
+  },
+  "coat": {
+    "svg": "US/US-CO/coat.svg",
+    "source": "Seal of Colorado.svg"
+  },
+  "data_source": "out"
+}

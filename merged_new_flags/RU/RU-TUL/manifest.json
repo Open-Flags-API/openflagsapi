@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-TUL",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-tul",
+  "region_normalized": "ru-tul",
+  "flag": {
+    "svg": "RU/RU-TUL/flag.svg",
+    "source": "Flag of Tula Oblast (design, Dark color).svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Tula Oblast (large).svg"
+  },
+  "data_source": "out"
+}

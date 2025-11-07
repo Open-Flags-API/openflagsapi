@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-TY",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "tyne-&-Wear",
+  "region_normalized": "tyne-&-wear",
+  "flag": {
+    "svg": "GB/GB-TY/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

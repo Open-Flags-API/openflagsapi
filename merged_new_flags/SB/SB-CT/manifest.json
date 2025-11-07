@@ -1,0 +1,16 @@
+{
+  "iso_code": "SB-CT",
+  "country_iso": "SB",
+  "country_name": "SB",
+  "region_name": "sb-ct",
+  "region_normalized": "sb-ct",
+  "flag": {
+    "svg": "SB/SB-CT/flag.svg",
+    "source": "Flag of Honiara.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

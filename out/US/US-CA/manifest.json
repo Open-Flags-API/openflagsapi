@@ -1,0 +1,14 @@
+{
+  "code": "US-CA",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-CA/flag.svg",
+    "png": "US/US-CA/flag.png",
+    "source_filename": "Flag of California.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": null,
+    "source_filename": null
+  }
+}

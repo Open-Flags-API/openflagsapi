@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-91",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-91",
+  "region_normalized": "th-91",
+  "flag": {
+    "svg": null,
+    "source": "Satun Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

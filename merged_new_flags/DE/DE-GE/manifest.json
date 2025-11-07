@@ -1,0 +1,16 @@
+{
+  "iso_code": "DE-GE",
+  "country_iso": "DE",
+  "country_name": "germany",
+  "region_name": "germany",
+  "region_normalized": "germany",
+  "flag": {
+    "svg": "DE/DE-GE/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

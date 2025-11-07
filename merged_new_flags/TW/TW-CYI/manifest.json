@@ -1,0 +1,16 @@
+{
+  "iso_code": "TW-CYI",
+  "country_iso": "TW",
+  "country_name": "TW",
+  "region_name": "tw-cyi",
+  "region_normalized": "tw-cyi",
+  "flag": {
+    "svg": "TW/TW-CYI/flag.svg",
+    "source": "Flag of Chiayi City.svg"
+  },
+  "coat": {
+    "svg": "TW/TW-CYI/coat.svg",
+    "source": "Emblem of Chiayi City.svg"
+  },
+  "data_source": "out"
+}

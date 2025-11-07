@@ -1,0 +1,14 @@
+{
+  "code": "CH-ZH",
+  "country": "CH",
+  "flag": {
+    "svg": "CH/CH-ZH/flag.svg",
+    "png": "CH/CH-ZH/flag.png",
+    "source_filename": "Flag of Canton of Zürich.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-ZH/coat.svg",
+    "png": "CH/CH-ZH/coat.png",
+    "source_filename": "Wappen Zürich matt.svg"
+  }
+}

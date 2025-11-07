@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600" height="800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <clipPath id="clipPath8106">
+   <use width="1" height="1" xlink:href="#rect7890"/>
+  </clipPath>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(300.31149,-1005.1866)">
+  <rect x="-300.31149" y="1005.1866" width="1600" height="800" fill="#025a0d"/>
+  <g transform="matrix(1.0929618,0,0,1.0929618,183.28431,882.66728)">
+   <path d="m137.03017 297.08746v205.30337c0 60.40149 40.64539 156.67465 152.46229 156.67465s152.46229-96.27316 152.46229-156.67465v-205.30337z" color="#000000" fill="#d38e00" stroke="#000" stroke-width="4"/>
+   <path d="m149.65625 310.25v190.34375c0 21.09647 5.32922 46.91986 17.40625 70.90625 19.98361 39.68978 58.50917 74.375 122.4375 74.375 63.92851 0 102.48519-34.68508 122.46875-74.375 12.07691-23.9863 17.375-49.80988 17.375-70.90625v-190.34375z" color="#000000" fill="#c3c4c6"/>
+   <g transform="translate(-.90124475)">
+    <g id="g7248" transform="matrix(.85886577 0 0 .85886577 260.04363 35.671718)">
+     <path transform="matrix(1.0080074,0,0,1.0080074,-116.07257,304.78864)" d="m150.20718 25.164368 9.28 18.335606 20.30587 3.159785-14.57052 14.491812 3.26972 20.28846-18.28507-9.379174-18.28507 9.379173 3.26973-20.28846-14.57052-14.491813 20.30587-3.159783z" color="#000000" fill="#d38e00" stroke="#000" stroke-linecap="round" stroke-width="2.88769"/>
+    </g>
+    <use transform="translate(-76.605658,50.469614)" width="308.9375" height="365.96875" xlink:href="#g7248"/>
+    <use transform="translate(76.60567,50.469614)" width="308.9375" height="365.96875" xlink:href="#g7248"/>
+   </g>
+   <g transform="translate(.00752579)">
+    <g transform="translate(-.68345579)">
+     <g>
+      <rect transform="rotate(90)" x="524.37396" y="-292.42905" width="45.062157" height="4.5062156" color="#000000"/>
+      <rect transform="rotate(90)" x="524.37396" y="-280.9382" width="45.062157" height="4.5062156" color="#000000"/>
+      <rect transform="rotate(90)" x="524.37396" y="-303.91989" width="45.062157" height="4.5062156" color="#000000"/>
+      <path id="rect8136" d="m295.03944 568.81693-4.8635 10.91762-4.86351-10.91762z" color="#000000" fill-rule="evenodd"/>
+     </g>
+     <use transform="translate(-11.490841)" width="308.9375" height="365.96875" xlink:href="#rect8136"/>
+     <use transform="translate(11.490849)" width="308.9375" height="365.96875" xlink:href="#rect8136"/>
+     <g>
+      <path d="m318.02114 568.81693-4.8635 10.91762-4.86351-10.91762z" color="#000000" fill-rule="evenodd"/>
+      <path d="m272.05776 568.81693-4.8635 10.91762-4.86351-10.91762z" color="#000000" fill-rule="evenodd"/>
+      <rect x="264.94113" y="558.62115" width="50.469616" height="4.5062156" color="#000000"/>
+     </g>
+    </g>
+    <rect id="rect7901" x="170.21428" y="470.233" width="21.3568" height="27.846624" color="#000000" fill="#c82030" stroke="#000" stroke-width="2.5"/>
+    <use transform="translate(40.55594)" width="308.9375" height="365.96875" fill="#c82030" xlink:href="#rect7901"/>
+    <use transform="translate(176.64365)" width="308.9375" height="365.96875" xlink:href="#rect7901"/>
+    <use transform="translate(217.19959)" width="308.9375" height="365.96875" xlink:href="#rect7901"/>
+    <g transform="translate(-.00752579)" stroke="#000">
+     <rect x="249.31871" y="409.8497" width="80.362587" height="88.229912" color="#000000" fill="#c82030" stroke-width="2.5"/>
+     <path d="m337.79248 412.55342h-96.58496l48.29248-40.85158z" color="#000000" fill="#c82030" stroke-width="2.5"/>
+     <g fill="none" stroke-width="2">
+      <path d="m249.31871 432.15433h80.36259m0 38.52245h-80.36259" color="#000000"/>
+      <path d="m329.6813 451.41556h-80.36259" color="#000000"/>
+      <path d="m307.52486 451.49154v-20.09582m-36.04972 19.82734v-19.82734m18.02486 0v-19.30826" color="#000000"/>
+      <path d="m307.52486 491.14624v-20.09582m-36.04972 19.82734v-19.82734m18.02486 0v-20.16145" color="#000000"/>
+     </g>
+    </g>
+   </g>
+   <path id="rect7890" transform="translate(135.03125,295.09375)" d="m14.625 194.96875v10.53125c0 21.09647 5.32922 46.91986 17.40625 70.90625 17.543073 34.84259 49.392422 65.82628 100.15625 72.875v-92.78125c0-10.52045 5.95523-27.28125 22.28125-27.28125 16.32601 0 22.25 16.7608 22.25 27.28125v92.78125c50.80186-7.03392 82.66938-38.01969 100.21875-72.875 12.07691-23.9863 17.375-49.80988 17.375-70.90625v-10.53125z" color="#000000" fill="#c82030" stroke="#000" stroke-width="2.5"/>
+   <g clip-path="url(#clipPath8106)">
+    <g transform="translate(.00754784)">
+     <g id="g7948-1" transform="matrix(1 0 0 .98417285 -.00754284 84.053014)">
+      <path d="m428.45893 451.41556h-277.91787m0-19.26123h277.91787" color="#000000" fill="none" stroke="#000" stroke-width="2.01602"/>
+      <path id="path7952-0" d="m307.52486 451.49154v-20.09582m-36.04972 19.82734v-19.82734m18.02486 0v-20.16145" color="#000000" fill="none" stroke="#000" stroke-width="2.01602"/>
+      <use transform="translate(-36.04972)" width="308.9375" height="365.96875" xlink:href="#path7952-0"/>
+      <use transform="translate(-72.09944)" width="308.9375" height="365.96875" xlink:href="#path7952-0"/>
+      <use transform="translate(-108.14916)" width="308.9375" height="365.96875" xlink:href="#path7952-0"/>
+      <use transform="translate(36.04972)" width="308.9375" height="365.96875" xlink:href="#path7952-0"/>
+      <use transform="translate(72.09944)" width="308.9375" height="365.96875" xlink:href="#path7952-0"/>
+      <use transform="translate(108.14916)" width="308.9375" height="365.96875" xlink:href="#path7952-0"/>
+     </g>
+     <use transform="translate(0,39.303826)" width="308.9375" height="365.96875" xlink:href="#g7948-1"/>
+     <use transform="translate(0,78.607656)" width="308.9375" height="365.96875" xlink:href="#g7948-1"/>
+     <use transform="translate(0,117.91149)" width="308.9375" height="365.96875" xlink:href="#g7948-1"/>
+    </g>
+   </g>
+   <path d="m149.65625 310.25v190.34375c0 21.09647 5.32922 46.91986 17.40625 70.90625 19.98361 39.68978 58.50917 74.375 122.4375 74.375 63.92851 0 102.48519-34.68508 122.46875-74.375 12.07691-23.9863 17.375-49.80988 17.375-70.90625v-190.34375z" color="#000000" fill="none" stroke="#000" stroke-width="3"/>
+  </g>
+ </g>
+</svg>

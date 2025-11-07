@@ -1,0 +1,14 @@
+{
+  "code": "NI-MT",
+  "country": "NI",
+  "flag": {
+    "svg": "NI/NI-MT/flag.svg",
+    "png": "NI/NI-MT/flag.png",
+    "source_filename": "Flag of Matagalpa.svg"
+  },
+  "coat": {
+    "svg": "NI/NI-MT/coat.svg",
+    "png": "NI/NI-MT/coat.png",
+    "source_filename": "Seal of Matagalpa.svg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "code": "CL-BI",
+  "country": "CL",
+  "flag": {
+    "svg": "CL/CL-BI/flag.svg",
+    "png": "CL/CL-BI/flag.png",
+    "source_filename": "Flag of Biobío Region.svg"
+  },
+  "coat": {
+    "svg": "CL/CL-BI/coat.svg",
+    "png": "CL/CL-BI/coat.png",
+    "source_filename": "Coat of Arms of Biobío Region.svg"
+  }
+}

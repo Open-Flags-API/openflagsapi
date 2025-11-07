@@ -1,0 +1,14 @@
+{
+  "code": "HU-JN",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-JN/flag.svg",
+    "png": "HU/HU-JN/flag.png",
+    "source_filename": "FLAG-Jasz-Nagykun-Szolnok.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "HU/HU-JN/coat.png",
+    "source_filename": "HUN Jász-Nagykun-Szolnok megye COA.png"
+  }
+}

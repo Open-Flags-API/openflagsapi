@@ -1,0 +1,16 @@
+{
+  "iso_code": "SS-EE",
+  "country_iso": "SS",
+  "country_name": "SS",
+  "region_name": "ss-ee",
+  "region_normalized": "ss-ee",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Eastern Equatoria.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

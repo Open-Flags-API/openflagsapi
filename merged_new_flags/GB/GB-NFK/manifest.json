@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-NFK",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-nfk",
+  "region_normalized": "gb-nfk",
+  "flag": {
+    "svg": "GB/GB-NFK/flag.svg",
+    "source": "Flag of Norfolk.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-NFK/coat.svg",
+    "source": "Arms of Norfolk.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-AL",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-al",
+  "region_normalized": "it-al",
+  "flag": {
+    "svg": "IT/IT-AL/flag.svg",
+    "source": "Flag of the Province of Alessandria.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-AL/coat.svg",
+    "source": "Provincia di Alessandria-Stemma.svg"
+  },
+  "data_source": "out"
+}

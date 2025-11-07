@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-GLG",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-glg",
+  "region_normalized": "gb-glg",
+  "flag": {
+    "svg": "GB/GB-GLG/flag.svg",
+    "source": "Flag of Glasgow.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-GLG/coat.svg",
+    "source": "Glasgow Coat of Arms 1996.svg"
+  },
+  "data_source": "out"
+}

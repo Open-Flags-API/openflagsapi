@@ -1,0 +1,16 @@
+{
+  "iso_code": "AU-NT",
+  "country_iso": "AU",
+  "country_name": "AU",
+  "region_name": "au-nt",
+  "region_normalized": "au-nt",
+  "flag": {
+    "svg": "AU/AU-NT/flag.svg",
+    "source": "Flag of the Northern Territory.svg"
+  },
+  "coat": {
+    "svg": "AU/AU-NT/coat.svg",
+    "source": "Coat of arms of the Northern Territory.svg"
+  },
+  "data_source": "out"
+}

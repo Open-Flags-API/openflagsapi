@@ -1,0 +1,16 @@
+{
+  "iso_code": "GQ-I",
+  "country_iso": "GQ",
+  "country_name": "GQ",
+  "region_name": "gq-i",
+  "region_normalized": "gq-i",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GQ/GQ-I/coat.svg",
+    "source": "Coat of Arms of the Spanish Province of Fernando Poo.svg"
+  },
+  "data_source": "out"
+}

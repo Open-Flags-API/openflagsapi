@@ -1,0 +1,14 @@
+{
+  "code": "BR-RO",
+  "country": "BR",
+  "flag": {
+    "svg": "BR/BR-RO/flag.svg",
+    "png": "BR/BR-RO/flag.png",
+    "source_filename": "Bandeira de Rondônia.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-RO/coat.svg",
+    "png": "BR/BR-RO/coat.png",
+    "source_filename": "Brasão de Rondônia.svg"
+  }
+}

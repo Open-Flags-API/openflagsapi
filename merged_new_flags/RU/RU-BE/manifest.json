@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-BE",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "belgorod",
+  "region_normalized": "belgorod",
+  "flag": {
+    "svg": "RU/RU-BE/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

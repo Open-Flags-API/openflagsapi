@@ -1,0 +1,16 @@
+{
+  "iso_code": "EE-431",
+  "country_iso": "EE",
+  "country_name": "EE",
+  "region_name": "ee-431",
+  "region_normalized": "ee-431",
+  "flag": {
+    "svg": "EE/EE-431/flag.svg",
+    "source": "Lääne-Harju valla lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-431/coat.svg",
+    "source": "Lääne-Harju valla vapp.svg"
+  },
+  "data_source": "out"
+}

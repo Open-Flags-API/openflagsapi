@@ -1,0 +1,16 @@
+{
+  "iso_code": "KR-27",
+  "country_iso": "KR",
+  "country_name": "south-korea",
+  "region_name": "kr-27",
+  "region_normalized": "kr-27",
+  "flag": {
+    "svg": "KR/KR-27/flag.svg",
+    "source": "Flag of Daegu.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Symbol of Daegu.svg"
+  },
+  "data_source": "out"
+}

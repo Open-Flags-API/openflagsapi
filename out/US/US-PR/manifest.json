@@ -1,0 +1,14 @@
+{
+  "code": "US-PR",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-PR/flag.svg",
+    "png": "US/US-PR/flag.png",
+    "source_filename": "Flag of Puerto Rico.svg"
+  },
+  "coat": {
+    "svg": "US/US-PR/coat.svg",
+    "png": "US/US-PR/coat.png",
+    "source_filename": "Coat of arms of the Commonwealth of Puerto Rico.svg"
+  }
+}

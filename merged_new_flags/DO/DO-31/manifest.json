@@ -1,0 +1,16 @@
+{
+  "iso_code": "DO-31",
+  "country_iso": "DO",
+  "country_name": "DO",
+  "region_name": "do-31",
+  "region_normalized": "do-31",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "DO/DO-31/coat.svg",
+    "source": "Escudo del Municipio San José de Ocoa.svg"
+  },
+  "data_source": "out"
+}

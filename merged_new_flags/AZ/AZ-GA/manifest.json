@@ -1,0 +1,16 @@
+{
+  "iso_code": "AZ-GA",
+  "country_iso": "AZ",
+  "country_name": "AZ",
+  "region_name": "az-ga",
+  "region_normalized": "az-ga",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Ganja.png"
+  },
+  "data_source": "out"
+}

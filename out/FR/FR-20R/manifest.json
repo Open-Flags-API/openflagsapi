@@ -1,0 +1,14 @@
+{
+  "code": "FR-20R",
+  "country": "FR",
+  "flag": {
+    "svg": "FR/FR-20R/flag.svg",
+    "png": "FR/FR-20R/flag.png",
+    "source_filename": "Flag of Corsica.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-20R/coat.svg",
+    "png": "FR/FR-20R/coat.png",
+    "source_filename": "Coat of Arms of Corsica.svg"
+  }
+}

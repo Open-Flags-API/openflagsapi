@@ -1,0 +1,16 @@
+{
+  "iso_code": "RO-AR",
+  "country_iso": "RO",
+  "country_name": "RO",
+  "region_name": "ro-ar",
+  "region_normalized": "ro-ar",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Actual Arad county CoA (New).png"
+  },
+  "data_source": "out"
+}

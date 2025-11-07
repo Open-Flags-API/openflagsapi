@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-BOH",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-boh",
+  "region_normalized": "ph-boh",
+  "flag": {
+    "svg": "PH/PH-BOH/flag.svg",
+    "source": "Flag of Bohol Province, Philippines.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "IT-AR",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-AR/flag.svg",
+    "png": "IT/IT-AR/flag.png",
+    "source_filename": "Provincia di Arezzo-Bandiera.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-AR/coat.svg",
+    "png": "IT/IT-AR/coat.png",
+    "source_filename": "Provincia di Arezzo-Stemma.svg"
+  }
+}

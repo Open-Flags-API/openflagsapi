@@ -1,0 +1,14 @@
+{
+  "code": "HU-MI",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-MI/flag.svg",
+    "png": "HU/HU-MI/flag.png",
+    "source_filename": "Flag of Miskolc.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-MI/coat.svg",
+    "png": "HU/HU-MI/coat.png",
+    "source_filename": "HUN Miskolc Címer.svg"
+  }
+}

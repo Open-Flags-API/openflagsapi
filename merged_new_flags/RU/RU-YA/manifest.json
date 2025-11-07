@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-YA",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "yaroslavl",
+  "region_normalized": "yaroslavl",
+  "flag": {
+    "svg": "RU/RU-YA/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "DO-01",
+  "country_iso": "DO",
+  "country_name": "DO",
+  "region_name": "do-01",
+  "region_normalized": "do-01",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "DO/DO-01/coat.svg",
+    "source": "Escudo del Municipio Santo Domingo.svg"
+  },
+  "data_source": "out"
+}

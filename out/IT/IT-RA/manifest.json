@@ -1,0 +1,14 @@
+{
+  "code": "IT-RA",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-RA/flag.svg",
+    "png": "IT/IT-RA/flag.png",
+    "source_filename": "Flag of the province of Ravenna.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-RA/coat.svg",
+    "png": "IT/IT-RA/coat.png",
+    "source_filename": "Provincia di Ravenna-Stemma.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "TD-LO",
+  "country_iso": "TD",
+  "country_name": "TD",
+  "region_name": "td-lo",
+  "region_normalized": "td-lo",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

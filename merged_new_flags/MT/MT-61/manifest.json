@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-61",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-61",
+  "region_normalized": "mt-61",
+  "flag": {
+    "svg": "MT/MT-61/flag.svg",
+    "source": "Flag of Xagħra.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-61/coat.svg",
+    "source": "Coat of Arms of Xghara Local Council.svg"
+  },
+  "data_source": "out"
+}

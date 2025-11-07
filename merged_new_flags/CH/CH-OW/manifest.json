@@ -1,0 +1,16 @@
+{
+  "iso_code": "CH-OW",
+  "country_iso": "CH",
+  "country_name": "CH",
+  "region_name": "ch-ow",
+  "region_normalized": "ch-ow",
+  "flag": {
+    "svg": "CH/CH-OW/flag.svg",
+    "source": "Flag of Canton of Obwalden.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-OW/coat.svg",
+    "source": "Wappen Obwalden matt.svg"
+  },
+  "data_source": "out"
+}

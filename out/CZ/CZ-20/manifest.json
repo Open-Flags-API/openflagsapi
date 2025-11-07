@@ -1,0 +1,14 @@
+{
+  "code": "CZ-20",
+  "country": "CZ",
+  "flag": {
+    "svg": "CZ/CZ-20/flag.svg",
+    "png": "CZ/CZ-20/flag.png",
+    "source_filename": "Vlajka Středočeského kraje.svg"
+  },
+  "coat": {
+    "svg": "CZ/CZ-20/coat.svg",
+    "png": "CZ/CZ-20/coat.png",
+    "source_filename": "CZE Kraj Środkowoczeski COA.svg"
+  }
+}

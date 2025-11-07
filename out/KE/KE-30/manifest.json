@@ -1,0 +1,14 @@
+{
+  "code": "KE-30",
+  "country": "KE",
+  "flag": {
+    "svg": "KE/KE-30/flag.svg",
+    "png": "KE/KE-30/flag.png",
+    "source_filename": "Flag of Nairobi.svg"
+  },
+  "coat": {
+    "svg": "KE/KE-30/coat.svg",
+    "png": "KE/KE-30/coat.png",
+    "source_filename": "Coat of Arms of Nairobi.svg"
+  }
+}

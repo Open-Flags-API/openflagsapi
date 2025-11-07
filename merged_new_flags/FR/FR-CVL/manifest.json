@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-CVL",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-cvl",
+  "region_normalized": "fr-cvl",
+  "flag": {
+    "svg": "FR/FR-CVL/flag.svg",
+    "source": "Flag of Centre-Val de Loire.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-CVL/coat.svg",
+    "source": "Blason Centre-Val de Loire.svg"
+  },
+  "data_source": "out"
+}

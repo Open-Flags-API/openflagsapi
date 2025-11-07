@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-GAT",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-gat",
+  "region_normalized": "gb-gat",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "BR-MG",
+  "country": "BR",
+  "flag": {
+    "svg": "BR/BR-MG/flag.svg",
+    "png": "BR/BR-MG/flag.png",
+    "source_filename": "Bandeira de Minas Gerais.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-MG/coat.svg",
+    "png": "BR/BR-MG/coat.png",
+    "source_filename": "Brasão de Minas Gerais.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MV-UN",
+  "country_iso": "MV",
+  "country_name": "MV",
+  "region_name": "mv-un",
+  "region_normalized": "mv-un",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

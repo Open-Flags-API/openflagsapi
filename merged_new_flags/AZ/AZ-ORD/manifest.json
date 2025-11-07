@@ -1,0 +1,16 @@
+{
+  "iso_code": "AZ-ORD",
+  "country_iso": "AZ",
+  "country_name": "AZ",
+  "region_name": "az-ord",
+  "region_normalized": "az-ord",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

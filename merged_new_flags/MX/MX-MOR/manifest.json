@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-MOR",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "mx-mor",
+  "region_normalized": "mx-mor",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "MX/MX-MOR/coat.svg",
+    "source": "Coat of arms of Morelos.svg"
+  },
+  "data_source": "out"
+}

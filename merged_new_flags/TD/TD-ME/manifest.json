@@ -1,0 +1,16 @@
+{
+  "iso_code": "TD-ME",
+  "country_iso": "TD",
+  "country_name": "TD",
+  "region_name": "td-me",
+  "region_normalized": "td-me",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

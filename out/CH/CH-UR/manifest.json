@@ -1,0 +1,14 @@
+{
+  "code": "CH-UR",
+  "country": "CH",
+  "flag": {
+    "svg": "CH/CH-UR/flag.svg",
+    "png": "CH/CH-UR/flag.png",
+    "source_filename": "Flag of Canton of Uri.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-UR/coat.svg",
+    "png": "CH/CH-UR/coat.png",
+    "source_filename": "Wappen Uri matt.svg"
+  }
+}

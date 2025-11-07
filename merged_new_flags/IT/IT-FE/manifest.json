@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-FE",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-fe",
+  "region_normalized": "it-fe",
+  "flag": {
+    "svg": "IT/IT-FE/flag.svg",
+    "source": "Flag of the province of Ferrara.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-FE/coat.svg",
+    "source": "Provincia di Ferrara-Stemma.svg"
+  },
+  "data_source": "out"
+}

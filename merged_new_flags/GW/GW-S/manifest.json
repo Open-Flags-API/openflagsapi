@@ -1,0 +1,16 @@
+{
+  "iso_code": "GW-S",
+  "country_iso": "GW",
+  "country_name": "GW",
+  "region_name": "gw-s",
+  "region_normalized": "gw-s",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

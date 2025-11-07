@@ -1,0 +1,14 @@
+{
+  "code": "SE-S",
+  "country": "SE",
+  "flag": {
+    "svg": null,
+    "png": null,
+    "source_filename": null
+  },
+  "coat": {
+    "svg": "SE/SE-S/coat.svg",
+    "png": "SE/SE-S/coat.png",
+    "source_filename": "Värmland vapen.svg"
+  }
+}

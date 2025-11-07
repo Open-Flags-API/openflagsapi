@@ -1,0 +1,16 @@
+{
+  "iso_code": "GQ-BN",
+  "country_iso": "GQ",
+  "country_name": "GQ",
+  "region_name": "gq-bn",
+  "region_normalized": "gq-bn",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

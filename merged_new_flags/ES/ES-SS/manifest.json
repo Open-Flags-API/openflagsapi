@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-SS",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-ss",
+  "region_normalized": "es-ss",
+  "flag": {
+    "svg": "ES/ES-SS/flag.svg",
+    "source": "Flag of Guipúzcoa.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-SS/coat.svg",
+    "source": "Escudo de Guipuzcoa.svg"
+  },
+  "data_source": "out"
+}

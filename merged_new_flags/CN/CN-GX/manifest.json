@@ -1,0 +1,16 @@
+{
+  "iso_code": "CN-GX",
+  "country_iso": "CN",
+  "country_name": "CN",
+  "region_name": "cn-gx",
+  "region_normalized": "cn-gx",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

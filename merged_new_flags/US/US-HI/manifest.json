@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-HI",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-hi",
+  "region_normalized": "us-hi",
+  "flag": {
+    "svg": "US/US-HI/flag.svg",
+    "source": "Flag of Hawaii.svg"
+  },
+  "coat": {
+    "svg": "US/US-HI/coat.svg",
+    "source": "Coat of arms of Hawaii.svg"
+  },
+  "data_source": "out"
+}

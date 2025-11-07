@@ -1,0 +1,16 @@
+{
+  "iso_code": "NG-YO",
+  "country_iso": "NG",
+  "country_name": "NG",
+  "region_name": "ng-yo",
+  "region_normalized": "ng-yo",
+  "flag": {
+    "svg": null,
+    "source": "Yobe State Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Yobe State Government.png"
+  },
+  "data_source": "out"
+}

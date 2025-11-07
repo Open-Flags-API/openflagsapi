@@ -1,0 +1,16 @@
+{
+  "iso_code": "JP-17",
+  "country_iso": "JP",
+  "country_name": "JP",
+  "region_name": "jp-17",
+  "region_normalized": "jp-17",
+  "flag": {
+    "svg": "JP/JP-17/flag.svg",
+    "source": "Flag of Ishikawa Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-17/coat.svg",
+    "source": "Emblem of Ishikawa Prefecture.svg"
+  },
+  "data_source": "out"
+}

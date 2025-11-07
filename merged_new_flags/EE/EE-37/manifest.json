@@ -1,0 +1,16 @@
+{
+  "iso_code": "EE-37",
+  "country_iso": "EE",
+  "country_name": "EE",
+  "region_name": "ee-37",
+  "region_normalized": "ee-37",
+  "flag": {
+    "svg": "EE/EE-37/flag.svg",
+    "source": "Flag of et-Harju maakond.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-37/coat.svg",
+    "source": "Et-Harju maakond-coa.svg"
+  },
+  "data_source": "out"
+}

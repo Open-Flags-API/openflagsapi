@@ -1,0 +1,16 @@
+{
+  "iso_code": "IE-KK",
+  "country_iso": "IE",
+  "country_name": "IE",
+  "region_name": "ie-kk",
+  "region_normalized": "ie-kk",
+  "flag": {
+    "svg": "IE/IE-KK/flag.svg",
+    "source": "Flag of county Kilkenny.svg"
+  },
+  "coat": {
+    "svg": "IE/IE-KK/coat.svg",
+    "source": "County Kilkenny arms.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "CV-S",
+  "country_iso": "CV",
+  "country_name": "CV",
+  "region_name": "cv-s",
+  "region_normalized": "cv-s",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-TO",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-to",
+  "region_normalized": "es-to",
+  "flag": {
+    "svg": "ES/ES-TO/flag.svg",
+    "source": "Bandera de la provincia de Toledo.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-TO/coat.svg",
+    "source": "Escudo de la provincia de Toledo.svg"
+  },
+  "data_source": "out"
+}

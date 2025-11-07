@@ -1,0 +1,16 @@
+{
+  "iso_code": "KR-SO",
+  "country_iso": "KR",
+  "country_name": "south-korea",
+  "region_name": "south-korea",
+  "region_normalized": "south-korea",
+  "flag": {
+    "svg": "KR/KR-SO/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

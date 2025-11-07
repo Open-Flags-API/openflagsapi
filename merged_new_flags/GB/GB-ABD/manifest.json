@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-ABD",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-abd",
+  "region_normalized": "gb-abd",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-ABD/coat.svg",
+    "source": "Coat of arms of Aberdeenshire County Council 1890-1975.svg"
+  },
+  "data_source": "out"
+}

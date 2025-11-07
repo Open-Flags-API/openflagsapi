@@ -1,0 +1,16 @@
+{
+  "iso_code": "UA-53",
+  "country_iso": "UA",
+  "country_name": "UA",
+  "region_name": "ua-53",
+  "region_normalized": "ua-53",
+  "flag": {
+    "svg": "UA/UA-53/flag.svg",
+    "source": "Flag of Poltava Oblast.svg"
+  },
+  "coat": {
+    "svg": "UA/UA-53/coat.svg",
+    "source": "Coat of Arms of Poltava Oblast.svg"
+  },
+  "data_source": "out"
+}

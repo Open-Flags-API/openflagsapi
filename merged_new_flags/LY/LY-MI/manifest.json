@@ -1,0 +1,16 @@
+{
+  "iso_code": "LY-MI",
+  "country_iso": "LY",
+  "country_name": "LY",
+  "region_name": "ly-mi",
+  "region_normalized": "ly-mi",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

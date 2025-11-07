@@ -1,0 +1,14 @@
+{
+  "code": "VE-O",
+  "country": "VE",
+  "flag": {
+    "svg": "VE/VE-O/flag.svg",
+    "png": "VE/VE-O/flag.png",
+    "source_filename": "Flag of Nueva Esparta.svg"
+  },
+  "coat": {
+    "svg": "VE/VE-O/coat.svg",
+    "png": "VE/VE-O/coat.png",
+    "source_filename": "Coat of arms of Nueva Esparta State.svg"
+  }
+}

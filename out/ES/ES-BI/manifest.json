@@ -1,0 +1,14 @@
+{
+  "code": "ES-BI",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-BI/flag.svg",
+    "png": "ES/ES-BI/flag.png",
+    "source_filename": "Bandera de Vizcaya.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-BI/coat.svg",
+    "png": "ES/ES-BI/coat.png",
+    "source_filename": "Escudo de Bizkaia 2007.svg"
+  }
+}

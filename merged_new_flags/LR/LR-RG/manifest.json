@@ -1,0 +1,16 @@
+{
+  "iso_code": "LR-RG",
+  "country_iso": "LR",
+  "country_name": "LR",
+  "region_name": "lr-rg",
+  "region_normalized": "lr-rg",
+  "flag": {
+    "svg": "LR/LR-RG/flag.svg",
+    "source": "Flag of River Gee County.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

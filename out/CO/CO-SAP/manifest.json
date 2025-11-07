@@ -1,0 +1,14 @@
+{
+  "code": "CO-SAP",
+  "country": "CO",
+  "flag": {
+    "svg": "CO/CO-SAP/flag.svg",
+    "png": "CO/CO-SAP/flag.png",
+    "source_filename": "Flag of San Andrés y Providencia.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-SAP/coat.svg",
+    "png": "CO/CO-SAP/coat.png",
+    "source_filename": "Escudo de San Andrés y Providencia.svg"
+  }
+}

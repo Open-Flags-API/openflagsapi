@@ -1,0 +1,14 @@
+{
+  "code": "US-NY",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-NY/flag.svg",
+    "png": "US/US-NY/flag.png",
+    "source_filename": "Flag of New York.svg"
+  },
+  "coat": {
+    "svg": "US/US-NY/coat.svg",
+    "png": "US/US-NY/coat.png",
+    "source_filename": "Coat of arms of New York State.svg"
+  }
+}

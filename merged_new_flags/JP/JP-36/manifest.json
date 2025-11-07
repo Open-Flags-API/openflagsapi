@@ -1,0 +1,16 @@
+{
+  "iso_code": "JP-36",
+  "country_iso": "JP",
+  "country_name": "JP",
+  "region_name": "jp-36",
+  "region_normalized": "jp-36",
+  "flag": {
+    "svg": "JP/JP-36/flag.svg",
+    "source": "Flag of Tokushima Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-36/coat.svg",
+    "source": "Emblem of Tokushima Prefecture.svg"
+  },
+  "data_source": "out"
+}

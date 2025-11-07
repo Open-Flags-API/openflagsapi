@@ -1,0 +1,14 @@
+{
+  "code": "IT-BS",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-BS/flag.svg",
+    "png": "IT/IT-BS/flag.png",
+    "source_filename": "Flag of the Province of Brescia.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-BS/coat.svg",
+    "png": "IT/IT-BS/coat.png",
+    "source_filename": "Provincia di Brescia-Stemma.svg"
+  }
+}

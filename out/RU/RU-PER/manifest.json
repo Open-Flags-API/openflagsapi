@@ -1,0 +1,14 @@
+{
+  "code": "RU-PER",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-PER/flag.svg",
+    "png": "RU/RU-PER/flag.png",
+    "source_filename": "Flag of Perm Krai.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-PER/coat.svg",
+    "png": "RU/RU-PER/coat.png",
+    "source_filename": "Coat of Arms of Perm Krai.svg"
+  }
+}

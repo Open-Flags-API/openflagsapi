@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-79",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-79",
+  "region_normalized": "fr-79",
+  "flag": {
+    "svg": "FR/FR-79/flag.svg",
+    "source": "Drapeau fr département Deux-Sèvres.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-79/coat.svg",
+    "source": "Blason département fr Deux-Sèvres.svg"
+  },
+  "data_source": "out"
+}

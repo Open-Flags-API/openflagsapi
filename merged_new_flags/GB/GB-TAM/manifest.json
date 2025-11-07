@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-TAM",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-tam",
+  "region_normalized": "gb-tam",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-TAM/coat.svg",
+    "source": "Coat of Arms of Tameside Metropolitan Borough Council.svg"
+  },
+  "data_source": "out"
+}

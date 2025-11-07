@@ -1,0 +1,14 @@
+{
+  "code": "HR-19",
+  "country": "HR",
+  "flag": {
+    "svg": null,
+    "png": "HR/HR-19/flag.png",
+    "source_filename": "Flag of Dubrovnik-Neretva County.png"
+  },
+  "coat": {
+    "svg": "HR/HR-19/coat.svg",
+    "png": "HR/HR-19/coat.png",
+    "source_filename": "Dubrovnik-Neretva.svg"
+  }
+}

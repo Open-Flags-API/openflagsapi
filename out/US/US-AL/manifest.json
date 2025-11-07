@@ -1,0 +1,14 @@
+{
+  "code": "US-AL",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-AL/flag.svg",
+    "png": "US/US-AL/flag.png",
+    "source_filename": "Flag of Alabama.svg"
+  },
+  "coat": {
+    "svg": "US/US-AL/coat.svg",
+    "png": "US/US-AL/coat.png",
+    "source_filename": "Coat of arms of Alabama.svg"
+  }
+}

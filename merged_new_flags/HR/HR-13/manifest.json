@@ -1,0 +1,16 @@
+{
+  "iso_code": "HR-13",
+  "country_iso": "HR",
+  "country_name": "HR",
+  "region_name": "hr-13",
+  "region_normalized": "hr-13",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Zadar County.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Zadar County coat of arms.png"
+  },
+  "data_source": "out"
+}

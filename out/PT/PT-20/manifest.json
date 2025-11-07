@@ -1,0 +1,14 @@
+{
+  "code": "PT-20",
+  "country": "PT",
+  "flag": {
+    "svg": "PT/PT-20/flag.svg",
+    "png": "PT/PT-20/flag.png",
+    "source_filename": "Flag of the Azores.svg"
+  },
+  "coat": {
+    "svg": "PT/PT-20/coat.svg",
+    "png": "PT/PT-20/coat.png",
+    "source_filename": "Coat of arms of the Azores.svg"
+  }
+}

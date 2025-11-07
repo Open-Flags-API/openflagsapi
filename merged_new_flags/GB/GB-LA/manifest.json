@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-LA",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "lancashire",
+  "region_normalized": "lancashire",
+  "flag": {
+    "svg": "GB/GB-LA/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

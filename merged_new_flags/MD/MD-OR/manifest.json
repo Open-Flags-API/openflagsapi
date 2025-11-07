@@ -1,0 +1,16 @@
+{
+  "iso_code": "MD-OR",
+  "country_iso": "MD",
+  "country_name": "MD",
+  "region_name": "md-or",
+  "region_normalized": "md-or",
+  "flag": {
+    "svg": null,
+    "source": "Orhei2.gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": "CoA of Orhei District.gif"
+  },
+  "data_source": "out"
+}

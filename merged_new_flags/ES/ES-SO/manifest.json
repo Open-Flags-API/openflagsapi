@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-SO",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-so",
+  "region_normalized": "es-so",
+  "flag": {
+    "svg": "ES/ES-SO/flag.svg",
+    "source": "Flag Soria province.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-SO/coat.svg",
+    "source": "Escudo de la provincia de Soria2.svg"
+  },
+  "data_source": "out"
+}

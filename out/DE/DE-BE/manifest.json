@@ -1,0 +1,14 @@
+{
+  "code": "DE-BE",
+  "country": "DE",
+  "flag": {
+    "svg": "DE/DE-BE/flag.svg",
+    "png": "DE/DE-BE/flag.png",
+    "source_filename": "Flag of Berlin.svg"
+  },
+  "coat": {
+    "svg": "DE/DE-BE/coat.svg",
+    "png": "DE/DE-BE/coat.png",
+    "source_filename": "DEU Berlin COA.svg"
+  }
+}

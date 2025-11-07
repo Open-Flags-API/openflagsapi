@@ -1,0 +1,14 @@
+{
+  "code": "CH-SZ",
+  "country": "CH",
+  "flag": {
+    "svg": "CH/CH-SZ/flag.svg",
+    "png": "CH/CH-SZ/flag.png",
+    "source_filename": "Flag of Canton of Schwyz.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-SZ/coat.svg",
+    "png": "CH/CH-SZ/coat.png",
+    "source_filename": "Wappen Schwyz matt.svg"
+  }
+}

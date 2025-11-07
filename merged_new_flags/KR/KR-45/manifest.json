@@ -1,0 +1,16 @@
+{
+  "iso_code": "KR-45",
+  "country_iso": "KR",
+  "country_name": "south-korea",
+  "region_name": "kr-45",
+  "region_normalized": "kr-45",
+  "flag": {
+    "svg": "KR/KR-45/flag.svg",
+    "source": "Flag of Jeonbuk State.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

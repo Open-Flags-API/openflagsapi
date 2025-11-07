@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-MO",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-mo",
+  "region_normalized": "it-mo",
+  "flag": {
+    "svg": "IT/IT-MO/flag.svg",
+    "source": "Flag of the province of Modena.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-MO/coat.svg",
+    "source": "Provincia di Modena-Stemma.svg"
+  },
+  "data_source": "out"
+}

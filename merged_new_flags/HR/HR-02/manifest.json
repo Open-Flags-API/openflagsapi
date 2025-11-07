@@ -1,0 +1,16 @@
+{
+  "iso_code": "HR-02",
+  "country_iso": "HR",
+  "country_name": "HR",
+  "region_name": "hr-02",
+  "region_normalized": "hr-02",
+  "flag": {
+    "svg": "HR/HR-02/flag.svg",
+    "source": "Flag of Krapina-Zagorje-County.svg"
+  },
+  "coat": {
+    "svg": "HR/HR-02/coat.svg",
+    "source": "Seal of Krapina-Zagorje County.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-MAR",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-mar",
+  "region_normalized": "ma-mar",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "MA/MA-MAR/coat.svg",
+    "source": null
+  },
+  "data_source": "out"
+}

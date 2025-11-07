@@ -1,0 +1,16 @@
+{
+  "iso_code": "TW-CHA",
+  "country_iso": "TW",
+  "country_name": "TW",
+  "region_name": "tw-cha",
+  "region_normalized": "tw-cha",
+  "flag": {
+    "svg": "TW/TW-CHA/flag.svg",
+    "source": "Flag of Changhua County.svg"
+  },
+  "coat": {
+    "svg": "TW/TW-CHA/coat.svg",
+    "source": "Emblem of Changhua County.svg"
+  },
+  "data_source": "out"
+}

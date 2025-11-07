@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-CAY",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-cay",
+  "region_normalized": "gb-cay",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-CAY/coat.svg",
+    "source": "Caerphilly COA shield.svg"
+  },
+  "data_source": "out"
+}

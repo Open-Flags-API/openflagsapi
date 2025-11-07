@@ -1,0 +1,14 @@
+{
+  "code": "AR-Y",
+  "country": "AR",
+  "flag": {
+    "svg": "AR/AR-Y/flag.svg",
+    "png": "AR/AR-Y/flag.png",
+    "source_filename": "Flag of the Civil Freedom of Argentina (unofficial improved version).svg"
+  },
+  "coat": {
+    "svg": "AR/AR-Y/coat.svg",
+    "png": "AR/AR-Y/coat.png",
+    "source_filename": "Escudo de la Provincia de Jujuy.svg"
+  }
+}

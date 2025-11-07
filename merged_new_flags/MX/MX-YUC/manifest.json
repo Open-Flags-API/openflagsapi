@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-YUC",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "mx-yuc",
+  "region_normalized": "mx-yuc",
+  "flag": {
+    "svg": "MX/MX-YUC/flag.svg",
+    "source": "Flag of Yucatan.svg"
+  },
+  "coat": {
+    "svg": "MX/MX-YUC/coat.svg",
+    "source": "Coat of arms of Yucatan.svg"
+  },
+  "data_source": "out"
+}

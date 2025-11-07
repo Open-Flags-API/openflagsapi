@@ -1,0 +1,14 @@
+{
+  "code": "ID-ST",
+  "country": "ID",
+  "flag": {
+    "svg": "ID/ID-ST/flag.svg",
+    "png": "ID/ID-ST/flag.png",
+    "source_filename": "Flag of Central Sulawesi.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-ST/coat.svg",
+    "png": "ID/ID-ST/coat.png",
+    "source_filename": "Coat of arms of Central Sulawesi.svg"
+  }
+}

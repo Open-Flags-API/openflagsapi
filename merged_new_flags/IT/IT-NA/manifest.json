@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-NA",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-na",
+  "region_normalized": "it-na",
+  "flag": {
+    "svg": "IT/IT-NA/flag.svg",
+    "source": "Flag of the province of Naples (Variant).svg"
+  },
+  "coat": {
+    "svg": "IT/IT-NA/coat.svg",
+    "source": "Coat of Arms of the Metropolitan City of Naples.svg"
+  },
+  "data_source": "out"
+}

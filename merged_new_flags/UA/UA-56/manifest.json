@@ -1,0 +1,16 @@
+{
+  "iso_code": "UA-56",
+  "country_iso": "UA",
+  "country_name": "UA",
+  "region_name": "ua-56",
+  "region_normalized": "ua-56",
+  "flag": {
+    "svg": "UA/UA-56/flag.svg",
+    "source": "Flag of Rivne Oblast.svg"
+  },
+  "coat": {
+    "svg": "UA/UA-56/coat.svg",
+    "source": "Coat of Arms of Rivne Oblast.svg"
+  },
+  "data_source": "out"
+}

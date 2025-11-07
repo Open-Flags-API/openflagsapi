@@ -1,0 +1,14 @@
+{
+  "code": "ES-AS",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-AS/flag.svg",
+    "png": "ES/ES-AS/flag.png",
+    "source_filename": "Flag of Asturias (gala).svg"
+  },
+  "coat": {
+    "svg": "ES/ES-AS/coat.svg",
+    "png": "ES/ES-AS/coat.png",
+    "source_filename": "Escudo de Asturias (oficial).svg"
+  }
+}

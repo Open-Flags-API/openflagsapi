@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-SAK",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-sak",
+  "region_normalized": "ru-sak",
+  "flag": {
+    "svg": "RU/RU-SAK/flag.svg",
+    "source": "Flag of Sakhalin Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-SAK/coat.svg",
+    "source": "Sakhalin Oblast Coat of Arms.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-46",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-46",
+  "region_normalized": "fr-46",
+  "flag": {
+    "svg": "FR/FR-46/flag.svg",
+    "source": "Cultural flag of Lot.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-46/coat.svg",
+    "source": "Blason département fr Lot.svg"
+  },
+  "data_source": "out"
+}

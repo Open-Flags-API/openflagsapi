@@ -1,0 +1,14 @@
+{
+  "code": "RU-KIR",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-KIR/flag.svg",
+    "png": "RU/RU-KIR/flag.png",
+    "source_filename": "Flag of Kirov Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-KIR/coat.svg",
+    "png": "RU/RU-KIR/coat.png",
+    "source_filename": "Coat of arms of Kirov Region.svg"
+  }
+}

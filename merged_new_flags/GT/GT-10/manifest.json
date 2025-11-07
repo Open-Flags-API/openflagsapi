@@ -1,0 +1,16 @@
+{
+  "iso_code": "GT-10",
+  "country_iso": "GT",
+  "country_name": "GT",
+  "region_name": "gt-10",
+  "region_normalized": "gt-10",
+  "flag": {
+    "svg": null,
+    "source": "Suchitepéquez Flag (GUATEMALA).png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Suchitepequez.png"
+  },
+  "data_source": "out"
+}

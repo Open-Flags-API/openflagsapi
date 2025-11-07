@@ -1,0 +1,16 @@
+{
+  "iso_code": "MD-CA",
+  "country_iso": "MD",
+  "country_name": "MD",
+  "region_name": "md-ca",
+  "region_normalized": "md-ca",
+  "flag": {
+    "svg": "MD/MD-CA/flag.svg",
+    "source": "Flag of District Cahul.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coa Cahul MD.png"
+  },
+  "data_source": "out"
+}

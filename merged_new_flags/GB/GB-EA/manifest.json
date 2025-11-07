@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-EA",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "east-sussex",
+  "region_normalized": "east-sussex",
+  "flag": {
+    "svg": "GB/GB-EA/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

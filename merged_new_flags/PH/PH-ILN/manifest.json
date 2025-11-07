@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-ILN",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-iln",
+  "region_normalized": "ph-iln",
+  "flag": {
+    "svg": null,
+    "source": "Vlag Fil IlocosNorte.gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

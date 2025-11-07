@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-13",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-13",
+  "region_normalized": "mt-13",
+  "flag": {
+    "svg": "MT/MT-13/flag.svg",
+    "source": "Flag of Għajnsielem.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-13/coat.svg",
+    "source": "Ghajsielem coa.svg"
+  },
+  "data_source": "out"
+}

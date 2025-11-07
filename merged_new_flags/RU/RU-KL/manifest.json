@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-KL",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-kl",
+  "region_normalized": "ru-kl",
+  "flag": {
+    "svg": "RU/RU-KL/flag.svg",
+    "source": "Flag of Kalmykia.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-KL/coat.svg",
+    "source": "Coat of Arms of Kalmykia.svg"
+  },
+  "data_source": "out"
+}

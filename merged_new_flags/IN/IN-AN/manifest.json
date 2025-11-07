@@ -1,0 +1,16 @@
+{
+  "iso_code": "IN-AN",
+  "country_iso": "IN",
+  "country_name": "IN",
+  "region_name": "in-an",
+  "region_normalized": "in-an",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IN/IN-AN/coat.svg",
+    "source": "Seal of Andaman and Nicobar Islands.svg"
+  },
+  "data_source": "out"
+}

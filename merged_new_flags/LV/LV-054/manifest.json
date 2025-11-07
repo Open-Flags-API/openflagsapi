@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-054",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-054",
+  "region_normalized": "lv-054",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "LV/LV-054/coat.svg",
+    "source": "Limbažu novada ģerbonis.svg"
+  },
+  "data_source": "out"
+}

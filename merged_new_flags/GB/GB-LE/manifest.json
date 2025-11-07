@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-LE",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "leicestershire",
+  "region_normalized": "leicestershire",
+  "flag": {
+    "svg": "GB/GB-LE/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

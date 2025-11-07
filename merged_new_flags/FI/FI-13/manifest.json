@@ -1,0 +1,16 @@
+{
+  "iso_code": "FI-13",
+  "country_iso": "FI",
+  "country_name": "FI",
+  "region_name": "fi-13",
+  "region_normalized": "fi-13",
+  "flag": {
+    "svg": "FI/FI-13/flag.svg",
+    "source": "North karelia flag.svg"
+  },
+  "coat": {
+    "svg": "FI/FI-13/coat.svg",
+    "source": "Pohjois-Karjala.vaakuna.svg"
+  },
+  "data_source": "out"
+}

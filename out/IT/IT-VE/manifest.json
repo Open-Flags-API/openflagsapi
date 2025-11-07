@@ -1,0 +1,14 @@
+{
+  "code": "IT-VE",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-VE/flag.svg",
+    "png": "IT/IT-VE/flag.png",
+    "source_filename": "Flag of the Province of Venice.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-VE/coat.svg",
+    "png": "IT/IT-VE/coat.png",
+    "source_filename": "Provincia di Venezia-Stemma.svg"
+  }
+}

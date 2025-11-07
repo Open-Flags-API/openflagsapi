@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-VS",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-vs",
+  "region_normalized": "it-vs",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

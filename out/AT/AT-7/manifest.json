@@ -1,0 +1,14 @@
+{
+  "code": "AT-7",
+  "country": "AT",
+  "flag": {
+    "svg": "AT/AT-7/flag.svg",
+    "png": "AT/AT-7/flag.png",
+    "source_filename": "Flag of Tirol (state).svg"
+  },
+  "coat": {
+    "svg": "AT/AT-7/coat.svg",
+    "png": "AT/AT-7/coat.png",
+    "source_filename": "AUT Tirol COA.svg"
+  }
+}

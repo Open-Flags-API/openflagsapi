@@ -1,0 +1,16 @@
+{
+  "iso_code": "KZ-15",
+  "country_iso": "KZ",
+  "country_name": "KZ",
+  "region_name": "kz-15",
+  "region_normalized": "kz-15",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Aktyubinsk-obl-coat-of-arms.png"
+  },
+  "data_source": "out"
+}

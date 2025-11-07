@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-CA",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-ca",
+  "region_normalized": "es-ca",
+  "flag": {
+    "svg": "ES/ES-CA/flag.svg",
+    "source": "Flag Cádiz Province.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-CA/coat.svg",
+    "source": "Escudo de la provincia de Cádiz.svg"
+  },
+  "data_source": "out"
+}

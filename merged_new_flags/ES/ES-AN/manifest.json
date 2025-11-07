@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-AN",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-an",
+  "region_normalized": "es-an",
+  "flag": {
+    "svg": "ES/ES-AN/flag.svg",
+    "source": "Flag of Andalucía.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-AN/coat.svg",
+    "source": "Emblem of Andalusia.svg"
+  },
+  "data_source": "out"
+}

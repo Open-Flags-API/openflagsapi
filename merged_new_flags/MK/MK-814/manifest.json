@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-814",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-814",
+  "region_normalized": "mk-814",
+  "flag": {
+    "svg": "MK/MK-814/flag.svg",
+    "source": "Flag of Centar Municipality, North Macedonia.svg"
+  },
+  "coat": {
+    "svg": "MK/MK-814/coat.svg",
+    "source": "Coat of arms of Centar Municipality, Macedonia.svg"
+  },
+  "data_source": "out"
+}

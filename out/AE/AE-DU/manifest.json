@@ -1,0 +1,14 @@
+{
+  "code": "AE-DU",
+  "country": "AE",
+  "flag": {
+    "svg": "AE/AE-DU/flag.svg",
+    "png": "AE/AE-DU/flag.png",
+    "source_filename": "Flag of Dubai.svg"
+  },
+  "coat": {
+    "svg": "AE/AE-DU/coat.svg",
+    "png": "AE/AE-DU/coat.png",
+    "source_filename": "Coat of arms of Dubai.svg"
+  }
+}

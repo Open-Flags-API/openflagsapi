@@ -1,0 +1,14 @@
+{
+  "code": "AL-02",
+  "country": "AL",
+  "flag": {
+    "svg": "AL/AL-02/flag.svg",
+    "png": "AL/AL-02/flag.png",
+    "source_filename": "Flag of Durrës.svg"
+  },
+  "coat": {
+    "svg": "AL/AL-02/coat.svg",
+    "png": "AL/AL-02/coat.png",
+    "source_filename": "Stema e Qarkut Durrës.svg"
+  }
+}

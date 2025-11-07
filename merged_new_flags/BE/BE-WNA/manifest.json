@@ -1,0 +1,16 @@
+{
+  "iso_code": "BE-WNA",
+  "country_iso": "BE",
+  "country_name": "BE",
+  "region_name": "be-wna",
+  "region_normalized": "be-wna",
+  "flag": {
+    "svg": "BE/BE-WNA/flag.svg",
+    "source": "Flag of Namur Province.svg"
+  },
+  "coat": {
+    "svg": "BE/BE-WNA/coat.svg",
+    "source": "Wapen van Namen (provincie).svg"
+  },
+  "data_source": "out"
+}

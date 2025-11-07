@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-STA",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-sta",
+  "region_normalized": "ru-sta",
+  "flag": {
+    "svg": "RU/RU-STA/flag.svg",
+    "source": "Flag of Stavropol Krai.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-STA/coat.svg",
+    "source": "Coat of arms of Stavropol Krai.svg"
+  },
+  "data_source": "out"
+}

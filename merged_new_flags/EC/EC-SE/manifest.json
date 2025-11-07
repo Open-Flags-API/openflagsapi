@@ -1,0 +1,16 @@
+{
+  "iso_code": "EC-SE",
+  "country_iso": "EC",
+  "country_name": "EC",
+  "region_name": "ec-se",
+  "region_normalized": "ec-se",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

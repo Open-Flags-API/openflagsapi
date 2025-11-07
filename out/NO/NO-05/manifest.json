@@ -1,0 +1,14 @@
+{
+  "code": "NO-05",
+  "country": "NO",
+  "flag": {
+    "svg": "NO/NO-05/flag.svg",
+    "png": "NO/NO-05/flag.png",
+    "source_filename": "Flag of Oppland.svg"
+  },
+  "coat": {
+    "svg": "NO/NO-05/coat.svg",
+    "png": "NO/NO-05/coat.png",
+    "source_filename": "Oppland våpen.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "OM-DA",
+  "country_iso": "OM",
+  "country_name": "OM",
+  "region_name": "om-da",
+  "region_normalized": "om-da",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

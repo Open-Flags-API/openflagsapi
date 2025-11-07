@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-ER",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-er",
+  "region_normalized": "hu-er",
+  "flag": {
+    "svg": "HU/HU-ER/flag.svg",
+    "source": "Flag of Érd.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-ER/coat.svg",
+    "source": "Coat of arms of Érd.svg"
+  },
+  "data_source": "out"
+}

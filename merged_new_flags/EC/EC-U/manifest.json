@@ -1,0 +1,16 @@
+{
+  "iso_code": "EC-U",
+  "country_iso": "EC",
+  "country_name": "EC",
+  "region_name": "ec-u",
+  "region_normalized": "ec-u",
+  "flag": {
+    "svg": "EC/EC-U/flag.svg",
+    "source": "Bandera Provincia Sucumbíos.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

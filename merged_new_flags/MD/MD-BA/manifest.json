@@ -1,0 +1,16 @@
+{
+  "iso_code": "MD-BA",
+  "country_iso": "MD",
+  "country_name": "MD",
+  "region_name": "md-ba",
+  "region_normalized": "md-ba",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Bălți.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "CR-C",
+  "country_iso": "CR",
+  "country_name": "CR",
+  "region_name": "cr-c",
+  "region_normalized": "cr-c",
+  "flag": {
+    "svg": "CR/CR-C/flag.svg",
+    "source": "Bandera de la Provincia de Cartago.svg"
+  },
+  "coat": {
+    "svg": "CR/CR-C/coat.svg",
+    "source": "Escudo de la Provincia de Cartago.svg"
+  },
+  "data_source": "out"
+}

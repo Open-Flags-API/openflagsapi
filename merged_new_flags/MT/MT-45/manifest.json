@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-45",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-45",
+  "region_normalized": "mt-45",
+  "flag": {
+    "svg": "MT/MT-45/flag.svg",
+    "source": "Flag of Victoria, Gozo.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-45/coat.svg",
+    "source": "Rabat Gozo coa.svg"
+  },
+  "data_source": "out"
+}

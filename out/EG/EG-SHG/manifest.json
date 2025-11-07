@@ -1,0 +1,14 @@
+{
+  "code": "EG-SHG",
+  "country": "EG",
+  "flag": {
+    "svg": null,
+    "png": "EG/EG-SHG/flag.png",
+    "source_filename": "Governadorat de Suhaj.png"
+  },
+  "coat": {
+    "svg": "EG/EG-SHG/coat.svg",
+    "png": "EG/EG-SHG/coat.png",
+    "source_filename": "Emblem Sohag Governorate.svg"
+  }
+}

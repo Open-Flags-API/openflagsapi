@@ -1,0 +1,16 @@
+{
+  "iso_code": "DE-BB",
+  "country_iso": "DE",
+  "country_name": "germany",
+  "region_name": "de-bb",
+  "region_normalized": "de-bb",
+  "flag": {
+    "svg": "DE/DE-BB/flag.svg",
+    "source": "Flag of Brandenburg.svg"
+  },
+  "coat": {
+    "svg": "DE/DE-BB/coat.svg",
+    "source": "DEU Brandenburg COA.svg"
+  },
+  "data_source": "out"
+}

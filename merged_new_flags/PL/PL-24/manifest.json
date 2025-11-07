@@ -1,0 +1,16 @@
+{
+  "iso_code": "PL-24",
+  "country_iso": "PL",
+  "country_name": "PL",
+  "region_name": "pl-24",
+  "region_normalized": "pl-24",
+  "flag": {
+    "svg": "PL/PL-24/flag.svg",
+    "source": "POL województwo śląskie flag.svg"
+  },
+  "coat": {
+    "svg": "PL/PL-24/coat.svg",
+    "source": "POL województwo śląskie COA.svg"
+  },
+  "data_source": "out"
+}

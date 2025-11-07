@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-MTY",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-mty",
+  "region_normalized": "gb-mty",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Merthyr Tydfil arms.png"
+  },
+  "data_source": "out"
+}

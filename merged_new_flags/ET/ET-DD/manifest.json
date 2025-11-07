@@ -1,0 +1,16 @@
+{
+  "iso_code": "ET-DD",
+  "country_iso": "ET",
+  "country_name": "ET",
+  "region_name": "et-dd",
+  "region_normalized": "et-dd",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Dire Dawa.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

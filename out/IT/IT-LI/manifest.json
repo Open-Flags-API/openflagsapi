@@ -1,0 +1,14 @@
+{
+  "code": "IT-LI",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-LI/flag.svg",
+    "png": "IT/IT-LI/flag.png",
+    "source_filename": "Flag of the province of Livorno.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-LI/coat.svg",
+    "png": "IT/IT-LI/coat.png",
+    "source_filename": "Coat of Arms of the Province of Livorno.svg"
+  }
+}

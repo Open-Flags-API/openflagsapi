@@ -1,0 +1,14 @@
+{
+  "code": "BO-B",
+  "country": "BO",
+  "flag": {
+    "svg": "BO/BO-B/flag.svg",
+    "png": "BO/BO-B/flag.png",
+    "source_filename": "Flag of Beni Department, Bolivia.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "BO/BO-B/coat.png",
+    "source_filename": "Escudo de Beni.JPG"
+  }
+}

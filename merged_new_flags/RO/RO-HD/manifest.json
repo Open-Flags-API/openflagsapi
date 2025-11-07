@@ -1,0 +1,16 @@
+{
+  "iso_code": "RO-HD",
+  "country_iso": "RO",
+  "country_name": "RO",
+  "region_name": "ro-hd",
+  "region_normalized": "ro-hd",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "RO/RO-HD/coat.svg",
+    "source": "Actual Hunedoara county CoA.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "RO-MM",
+  "country": "RO",
+  "flag": {
+    "svg": "RO/RO-MM/flag.svg",
+    "png": "RO/RO-MM/flag.png",
+    "source_filename": "Flag of Maramureș County.svg"
+  },
+  "coat": {
+    "svg": "RO/RO-MM/coat.svg",
+    "png": "RO/RO-MM/coat.png",
+    "source_filename": "Coat of Arms of Maramureș County.svg"
+  }
+}

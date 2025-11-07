@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-SVE",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-sve",
+  "region_normalized": "ru-sve",
+  "flag": {
+    "svg": "RU/RU-SVE/flag.svg",
+    "source": "Flag of Sverdlovsk Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-SVE/coat.svg",
+    "source": "Coat of Arms of Sverdlovsk oblast.svg"
+  },
+  "data_source": "out"
+}

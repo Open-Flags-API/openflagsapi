@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-05",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-05",
+  "region_normalized": "fr-05",
+  "flag": {
+    "svg": "FR/FR-05/flag.svg",
+    "source": "Flag of Hautes-Alpes.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-05/coat.svg",
+    "source": "Blason département fr Hautes-Alpes.svg"
+  },
+  "data_source": "out"
+}

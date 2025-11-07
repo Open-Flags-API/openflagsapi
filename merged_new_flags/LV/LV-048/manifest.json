@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-048",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-048",
+  "region_normalized": "lv-048",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Krimuldas novads.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Krimuldas novads COA.png"
+  },
+  "data_source": "out"
+}

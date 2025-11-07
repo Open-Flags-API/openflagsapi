@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-CP",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-cp",
+  "region_normalized": "fr-cp",
+  "flag": {
+    "svg": "FR/FR-CP/flag.svg",
+    "source": "Flag of France.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

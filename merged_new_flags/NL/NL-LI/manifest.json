@@ -1,0 +1,16 @@
+{
+  "iso_code": "NL-LI",
+  "country_iso": "NL",
+  "country_name": "NL",
+  "region_name": "nl-li",
+  "region_normalized": "nl-li",
+  "flag": {
+    "svg": "NL/NL-LI/flag.svg",
+    "source": "Flag of Limburg (Netherlands).svg"
+  },
+  "coat": {
+    "svg": "NL/NL-LI/coat.svg",
+    "source": "Limburg-nl-wapen.svg"
+  },
+  "data_source": "out"
+}

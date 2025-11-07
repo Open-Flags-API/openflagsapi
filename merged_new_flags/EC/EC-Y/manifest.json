@@ -1,0 +1,16 @@
+{
+  "iso_code": "EC-Y",
+  "country_iso": "EC",
+  "country_name": "EC",
+  "region_name": "ec-y",
+  "region_normalized": "ec-y",
+  "flag": {
+    "svg": "EC/EC-Y/flag.svg",
+    "source": "Bandera Provincia Pastaza.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

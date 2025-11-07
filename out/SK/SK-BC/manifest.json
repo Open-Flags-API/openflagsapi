@@ -1,0 +1,14 @@
+{
+  "code": "SK-BC",
+  "country": "SK",
+  "flag": {
+    "svg": "SK/SK-BC/flag.svg",
+    "png": "SK/SK-BC/flag.png",
+    "source_filename": "Banskobystricky vlajka.svg"
+  },
+  "coat": {
+    "svg": "SK/SK-BC/coat.svg",
+    "png": "SK/SK-BC/coat.png",
+    "source_filename": "Coat of Arms of Banská Bystrica Region.svg"
+  }
+}

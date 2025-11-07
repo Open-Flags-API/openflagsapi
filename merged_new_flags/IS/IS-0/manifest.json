@@ -1,0 +1,16 @@
+{
+  "iso_code": "IS-0",
+  "country_iso": "IS",
+  "country_name": "IS",
+  "region_name": "is-0",
+  "region_normalized": "is-0",
+  "flag": {
+    "svg": "IS/IS-0/flag.svg",
+    "source": "Flag of Reykjavik, Iceland.svg"
+  },
+  "coat": {
+    "svg": "IS/IS-0/coat.svg",
+    "source": "Reykjavik Coat of Arms.svg"
+  },
+  "data_source": "out"
+}

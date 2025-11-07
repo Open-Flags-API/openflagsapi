@@ -1,0 +1,16 @@
+{
+  "iso_code": "LR-BG",
+  "country_iso": "LR",
+  "country_name": "LR",
+  "region_name": "lr-bg",
+  "region_normalized": "lr-bg",
+  "flag": {
+    "svg": "LR/LR-BG/flag.svg",
+    "source": "Flag of Bong County.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "PG-EPW",
+  "country_iso": "PG",
+  "country_name": "PG",
+  "region_name": "pg-epw",
+  "region_normalized": "pg-epw",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Enga.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

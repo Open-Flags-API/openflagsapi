@@ -1,0 +1,16 @@
+{
+  "iso_code": "SE-Y",
+  "country_iso": "SE",
+  "country_name": "SE",
+  "region_name": "se-y",
+  "region_normalized": "se-y",
+  "flag": {
+    "svg": "SE/SE-Y/flag.svg",
+    "source": "Västernorrlands län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-Y/coat.svg",
+    "source": "Västernorrland län vapen.svg"
+  },
+  "data_source": "out"
+}

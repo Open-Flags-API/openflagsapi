@@ -1,0 +1,16 @@
+{
+  "iso_code": "PE-LAM",
+  "country_iso": "PE",
+  "country_name": "PE",
+  "region_name": "pe-lam",
+  "region_normalized": "pe-lam",
+  "flag": {
+    "svg": "PE/PE-LAM/flag.svg",
+    "source": "Flag of Lambayeque Department.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Escudo Región Lambayeque.png"
+  },
+  "data_source": "out"
+}

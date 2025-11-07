@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-LAN",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-lan",
+  "region_normalized": "ph-lan",
+  "flag": {
+    "svg": null,
+    "source": "PH-LAN Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Ph seal lanao del norte.png"
+  },
+  "data_source": "out"
+}

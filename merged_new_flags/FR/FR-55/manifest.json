@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-55",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-55",
+  "region_normalized": "fr-55",
+  "flag": {
+    "svg": "FR/FR-55/flag.svg",
+    "source": "Drapeau fr département Meuse.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-55/coat.svg",
+    "source": "Blason département fr Meuse.svg"
+  },
+  "data_source": "out"
+}

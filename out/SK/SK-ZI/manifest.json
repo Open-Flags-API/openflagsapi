@@ -1,0 +1,14 @@
+{
+  "code": "SK-ZI",
+  "country": "SK",
+  "flag": {
+    "svg": "SK/SK-ZI/flag.svg",
+    "png": "SK/SK-ZI/flag.png",
+    "source_filename": "Zilinsky vlajka.svg"
+  },
+  "coat": {
+    "svg": "SK/SK-ZI/coat.svg",
+    "png": "SK/SK-ZI/coat.png",
+    "source_filename": "Coat of Arms of Žilina Region.svg"
+  }
+}

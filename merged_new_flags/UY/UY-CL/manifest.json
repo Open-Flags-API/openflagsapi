@@ -1,0 +1,16 @@
+{
+  "iso_code": "UY-CL",
+  "country_iso": "UY",
+  "country_name": "UY",
+  "region_name": "uy-cl",
+  "region_normalized": "uy-cl",
+  "flag": {
+    "svg": "UY/UY-CL/flag.svg",
+    "source": "Flag of Cerro Largo Department.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Cerro Largo Department.png"
+  },
+  "data_source": "out"
+}

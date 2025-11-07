@@ -1,0 +1,16 @@
+{
+  "iso_code": "IS-5",
+  "country_iso": "IS",
+  "country_name": "IS",
+  "region_name": "is-5",
+  "region_normalized": "is-5",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

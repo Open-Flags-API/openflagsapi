@@ -1,0 +1,16 @@
+{
+  "iso_code": "LT-33",
+  "country_iso": "LT",
+  "country_name": "LT",
+  "region_name": "lt-33",
+  "region_normalized": "lt-33",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "LT/LT-33/coat.svg",
+    "source": "Panevėžys District COA.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-SO",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "south-dakota",
+  "region_normalized": "south-dakota",
+  "flag": {
+    "svg": "US/US-SO/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

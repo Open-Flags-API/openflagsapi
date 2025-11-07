@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-20",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-20",
+  "region_normalized": "th-20",
+  "flag": {
+    "svg": "TH/TH-20/flag.svg",
+    "source": "Chonburi flag.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "BR-AL",
+  "country": "BR",
+  "flag": {
+    "svg": "BR/BR-AL/flag.svg",
+    "png": "BR/BR-AL/flag.png",
+    "source_filename": "Bandeira de Alagoas.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-AL/coat.svg",
+    "png": "BR/BR-AL/coat.png",
+    "source_filename": "Brasão do Estado de Alagoas.svg"
+  }
+}

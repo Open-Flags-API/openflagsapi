@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-LO",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-lo",
+  "region_normalized": "it-lo",
+  "flag": {
+    "svg": "IT/IT-LO/flag.svg",
+    "source": "Flag of the Province of Lodi.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-LO/coat.svg",
+    "source": "Provincia di Lodi-Stemma.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "NI-CI",
+  "country_iso": "NI",
+  "country_name": "NI",
+  "region_name": "ni-ci",
+  "region_normalized": "ni-ci",
+  "flag": {
+    "svg": "NI/NI-CI/flag.svg",
+    "source": "Flag of Chinandega.svg"
+  },
+  "coat": {
+    "svg": "NI/NI-CI/coat.svg",
+    "source": "Escudo de Chinandega.svg"
+  },
+  "data_source": "out"
+}

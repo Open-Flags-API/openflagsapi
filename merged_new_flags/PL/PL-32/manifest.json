@@ -1,0 +1,16 @@
+{
+  "iso_code": "PL-32",
+  "country_iso": "PL",
+  "country_name": "PL",
+  "region_name": "pl-32",
+  "region_normalized": "pl-32",
+  "flag": {
+    "svg": "PL/PL-32/flag.svg",
+    "source": "POL województwo zachodniopomorskie flag.svg"
+  },
+  "coat": {
+    "svg": "PL/PL-32/coat.svg",
+    "source": "POL województwo zachodniopomorskie COA.svg"
+  },
+  "data_source": "out"
+}

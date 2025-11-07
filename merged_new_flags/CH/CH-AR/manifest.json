@@ -1,0 +1,16 @@
+{
+  "iso_code": "CH-AR",
+  "country_iso": "CH",
+  "country_name": "CH",
+  "region_name": "ch-ar",
+  "region_normalized": "ch-ar",
+  "flag": {
+    "svg": "CH/CH-AR/flag.svg",
+    "source": "Flag of Canton of Appenzell Ausserrhoden.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-AR/coat.svg",
+    "source": "Wappen Appenzell Ausserrhoden matt.svg"
+  },
+  "data_source": "out"
+}

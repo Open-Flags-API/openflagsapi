@@ -1,0 +1,16 @@
+{
+  "iso_code": "CA-BC",
+  "country_iso": "CA",
+  "country_name": "canada",
+  "region_name": "ca-bc",
+  "region_normalized": "ca-bc",
+  "flag": {
+    "svg": "CA/CA-BC/flag.svg",
+    "source": "Flag of British Columbia.svg"
+  },
+  "coat": {
+    "svg": "CA/CA-BC/coat.svg",
+    "source": "Coat of arms of British Columbia.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "NI-MT",
+  "country_iso": "NI",
+  "country_name": "NI",
+  "region_name": "ni-mt",
+  "region_normalized": "ni-mt",
+  "flag": {
+    "svg": "NI/NI-MT/flag.svg",
+    "source": "Flag of Matagalpa.svg"
+  },
+  "coat": {
+    "svg": "NI/NI-MT/coat.svg",
+    "source": "Seal of Matagalpa.svg"
+  },
+  "data_source": "out"
+}

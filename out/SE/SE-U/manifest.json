@@ -1,0 +1,14 @@
+{
+  "code": "SE-U",
+  "country": "SE",
+  "flag": {
+    "svg": "SE/SE-U/flag.svg",
+    "png": "SE/SE-U/flag.png",
+    "source_filename": "Västmanlands län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-U/coat.svg",
+    "png": "SE/SE-U/coat.png",
+    "source_filename": "Västmanland vapen.svg"
+  }
+}

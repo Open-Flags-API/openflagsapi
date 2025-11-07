@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-18",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-18",
+  "region_normalized": "fr-18",
+  "flag": {
+    "svg": "FR/FR-18/flag.svg",
+    "source": "Drapeau fr département Cher.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-18/coat.svg",
+    "source": "Blason département fr Cher.svg"
+  },
+  "data_source": "out"
+}

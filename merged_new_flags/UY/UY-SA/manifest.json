@@ -1,0 +1,16 @@
+{
+  "iso_code": "UY-SA",
+  "country_iso": "UY",
+  "country_name": "UY",
+  "region_name": "uy-sa",
+  "region_normalized": "uy-sa",
+  "flag": {
+    "svg": "UY/UY-SA/flag.svg",
+    "source": "Flag of Salto Department.svg"
+  },
+  "coat": {
+    "svg": "UY/UY-SA/coat.svg",
+    "source": "Coat of Arms of Salto Department, Uruguay.svg"
+  },
+  "data_source": "out"
+}

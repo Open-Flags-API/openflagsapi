@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-09",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-09",
+  "region_normalized": "fr-09",
+  "flag": {
+    "svg": "FR/FR-09/flag.svg",
+    "source": "Proposition de drapeau pour le département de l'Ariège.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-09/coat.svg",
+    "source": "Blason département fr Ariège.svg"
+  },
+  "data_source": "out"
+}

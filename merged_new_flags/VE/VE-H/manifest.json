@@ -1,0 +1,16 @@
+{
+  "iso_code": "VE-H",
+  "country_iso": "VE",
+  "country_name": "VE",
+  "region_name": "ve-h",
+  "region_normalized": "ve-h",
+  "flag": {
+    "svg": "VE/VE-H/flag.svg",
+    "source": "Flag of Cojedes State.svg"
+  },
+  "coat": {
+    "svg": "VE/VE-H/coat.svg",
+    "source": "Escudo del estado Cojedes.svg"
+  },
+  "data_source": "out"
+}

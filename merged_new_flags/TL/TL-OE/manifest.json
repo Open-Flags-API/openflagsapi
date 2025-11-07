@@ -1,0 +1,16 @@
+{
+  "iso_code": "TL-OE",
+  "country_iso": "TL",
+  "country_name": "TL",
+  "region_name": "tl-oe",
+  "region_normalized": "tl-oe",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Oecusse.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

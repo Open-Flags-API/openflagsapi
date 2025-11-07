@@ -1,0 +1,16 @@
+{
+  "iso_code": "HR-19",
+  "country_iso": "HR",
+  "country_name": "HR",
+  "region_name": "hr-19",
+  "region_normalized": "hr-19",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Dubrovnik-Neretva County.png"
+  },
+  "coat": {
+    "svg": "HR/HR-19/coat.svg",
+    "source": "Dubrovnik-Neretva.svg"
+  },
+  "data_source": "out"
+}

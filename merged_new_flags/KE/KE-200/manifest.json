@@ -1,0 +1,16 @@
+{
+  "iso_code": "KE-200",
+  "country_iso": "KE",
+  "country_name": "KE",
+  "region_name": "ke-200",
+  "region_normalized": "ke-200",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

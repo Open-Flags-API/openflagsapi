@@ -1,0 +1,14 @@
+{
+  "code": "HU-NO",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-NO/flag.svg",
+    "png": "HU/HU-NO/flag.png",
+    "source_filename": "FLAG-Nograd.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-NO/coat.svg",
+    "png": "HU/HU-NO/coat.png",
+    "source_filename": "Coa Hungary County Nógrád.svg"
+  }
+}

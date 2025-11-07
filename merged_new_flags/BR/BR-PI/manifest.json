@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-PI",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "br-pi",
+  "region_normalized": "br-pi",
+  "flag": {
+    "svg": "BR/BR-PI/flag.svg",
+    "source": "Bandeira do Piauí.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-PI/coat.svg",
+    "source": "Brasão do Piauí.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "GB-UKM",
+  "country": "GB",
+  "flag": {
+    "svg": "GB/GB-UKM/flag.svg",
+    "png": "GB/GB-UKM/flag.png",
+    "source_filename": "Flag of the United Kingdom (3-5).svg"
+  },
+  "coat": {
+    "svg": "GB/GB-UKM/coat.svg",
+    "png": "GB/GB-UKM/coat.png",
+    "source_filename": "Coat of arms of the United Kingdom (2022, variant 2).svg"
+  }
+}

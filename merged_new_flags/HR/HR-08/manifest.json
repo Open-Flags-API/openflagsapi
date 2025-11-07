@@ -1,0 +1,16 @@
+{
+  "iso_code": "HR-08",
+  "country_iso": "HR",
+  "country_name": "HR",
+  "region_name": "hr-08",
+  "region_normalized": "hr-08",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Primorje-Gorski Kotar County.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Primorje-Gorski Kotar County coat of arms.png"
+  },
+  "data_source": "out"
+}

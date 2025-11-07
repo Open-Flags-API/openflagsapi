@@ -1,0 +1,16 @@
+{
+  "iso_code": "ZA-NW",
+  "country_iso": "ZA",
+  "country_name": "ZA",
+  "region_name": "za-nw",
+  "region_normalized": "za-nw",
+  "flag": {
+    "svg": null,
+    "source": "Flag of the North West Province.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

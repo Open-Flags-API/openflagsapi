@@ -1,0 +1,16 @@
+{
+  "iso_code": "NL-FR",
+  "country_iso": "NL",
+  "country_name": "NL",
+  "region_name": "nl-fr",
+  "region_normalized": "nl-fr",
+  "flag": {
+    "svg": "NL/NL-FR/flag.svg",
+    "source": "Frisian flag.svg"
+  },
+  "coat": {
+    "svg": "NL/NL-FR/coat.svg",
+    "source": "Friesland wapen.svg"
+  },
+  "data_source": "out"
+}

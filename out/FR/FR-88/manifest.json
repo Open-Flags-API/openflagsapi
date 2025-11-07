@@ -1,0 +1,14 @@
+{
+  "code": "FR-88",
+  "country": "FR",
+  "flag": {
+    "svg": "FR/FR-88/flag.svg",
+    "png": "FR/FR-88/flag.png",
+    "source_filename": "Flag of Vosges.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-88/coat.svg",
+    "png": "FR/FR-88/coat.png",
+    "source_filename": "Blason département fr Vosges.svg"
+  }
+}

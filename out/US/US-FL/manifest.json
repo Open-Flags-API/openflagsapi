@@ -1,0 +1,14 @@
+{
+  "code": "US-FL",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-FL/flag.svg",
+    "png": "US/US-FL/flag.png",
+    "source_filename": "Flag of Florida.svg"
+  },
+  "coat": {
+    "svg": "US/US-FL/coat.svg",
+    "png": "US/US-FL/coat.png",
+    "source_filename": "Seal of Florida.svg"
+  }
+}

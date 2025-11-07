@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-ME",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-me",
+  "region_normalized": "us-me",
+  "flag": {
+    "svg": "US/US-ME/flag.svg",
+    "source": "Flag of Maine.svg"
+  },
+  "coat": {
+    "svg": "US/US-ME/coat.svg",
+    "source": "Coat of arms of Maine.svg"
+  },
+  "data_source": "out"
+}

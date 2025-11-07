@@ -1,0 +1,14 @@
+{
+  "code": "LI-01",
+  "country": "LI",
+  "flag": {
+    "svg": "LI/LI-01/flag.svg",
+    "png": "LI/LI-01/flag.png",
+    "source_filename": "Flag of Balzers Liechtenstein-1.svg"
+  },
+  "coat": {
+    "svg": "LI/LI-01/coat.svg",
+    "png": "LI/LI-01/coat.png",
+    "source_filename": "Wappen Balzers.svg"
+  }
+}

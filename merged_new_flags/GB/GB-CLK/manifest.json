@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-CLK",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-clk",
+  "region_normalized": "gb-clk",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-CLK/coat.svg",
+    "source": "Coat of arms of Clackmannanshire.svg"
+  },
+  "data_source": "out"
+}

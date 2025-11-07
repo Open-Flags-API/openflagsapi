@@ -1,0 +1,16 @@
+{
+  "iso_code": "KR-BU",
+  "country_iso": "KR",
+  "country_name": "south-korea",
+  "region_name": "busan",
+  "region_normalized": "busan",
+  "flag": {
+    "svg": "KR/KR-BU/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

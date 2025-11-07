@@ -1,0 +1,16 @@
+{
+  "iso_code": "EC-N",
+  "country_iso": "EC",
+  "country_name": "EC",
+  "region_name": "ec-n",
+  "region_normalized": "ec-n",
+  "flag": {
+    "svg": "EC/EC-N/flag.svg",
+    "source": "Bandera Provincia Napo.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "MY-13",
+  "country": "MY",
+  "flag": {
+    "svg": "MY/MY-13/flag.svg",
+    "png": "MY/MY-13/flag.png",
+    "source_filename": "Flag of Sarawak.svg"
+  },
+  "coat": {
+    "svg": "MY/MY-13/coat.svg",
+    "png": "MY/MY-13/coat.png",
+    "source_filename": "Coat of arms of Sarawak.svg"
+  }
+}

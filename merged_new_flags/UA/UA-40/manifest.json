@@ -1,0 +1,16 @@
+{
+  "iso_code": "UA-40",
+  "country_iso": "UA",
+  "country_name": "UA",
+  "region_name": "ua-40",
+  "region_normalized": "ua-40",
+  "flag": {
+    "svg": "UA/UA-40/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": "UA/UA-40/coat.svg",
+    "source": null
+  },
+  "data_source": "out"
+}

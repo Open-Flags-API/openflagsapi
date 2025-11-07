@@ -1,0 +1,16 @@
+{
+  "iso_code": "MM-13",
+  "country_iso": "MM",
+  "country_name": "MM",
+  "region_name": "mm-13",
+  "region_normalized": "mm-13",
+  "flag": {
+    "svg": "MM/MM-13/flag.svg",
+    "source": "Flag of Kayin State.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

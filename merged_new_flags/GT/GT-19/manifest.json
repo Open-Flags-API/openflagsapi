@@ -1,0 +1,16 @@
+{
+  "iso_code": "GT-19",
+  "country_iso": "GT",
+  "country_name": "GT",
+  "region_name": "gt-19",
+  "region_normalized": "gt-19",
+  "flag": {
+    "svg": null,
+    "source": "..Zacapa Flag(GUATEMALA).png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Zacapa.png"
+  },
+  "data_source": "out"
+}

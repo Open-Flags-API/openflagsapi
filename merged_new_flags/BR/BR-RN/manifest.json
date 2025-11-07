@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-RN",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "br-rn",
+  "region_normalized": "br-rn",
+  "flag": {
+    "svg": "BR/BR-RN/flag.svg",
+    "source": "Bandeira do Rio Grande do Norte.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-RN/coat.svg",
+    "source": "Brasão do Rio Grande do Norte.svg"
+  },
+  "data_source": "out"
+}

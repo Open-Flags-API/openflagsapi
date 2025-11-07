@@ -1,0 +1,16 @@
+{
+  "iso_code": "PE-TUM",
+  "country_iso": "PE",
+  "country_name": "PE",
+  "region_name": "pe-tum",
+  "region_normalized": "pe-tum",
+  "flag": {
+    "svg": "PE/PE-TUM/flag.svg",
+    "source": "Bandera de Tumbes.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

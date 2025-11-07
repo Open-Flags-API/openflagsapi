@@ -1,0 +1,16 @@
+{
+  "iso_code": "VN-34",
+  "country_iso": "VN",
+  "country_name": "VN",
+  "region_name": "vn-34",
+  "region_normalized": "vn-34",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "VN/VN-34/coat.svg",
+    "source": "Emblem of Khanhhoa Province.svg"
+  },
+  "data_source": "out"
+}

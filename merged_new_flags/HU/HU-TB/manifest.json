@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-TB",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-tb",
+  "region_normalized": "hu-tb",
+  "flag": {
+    "svg": "HU/HU-TB/flag.svg",
+    "source": "Flag of Tatabánya.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-TB/coat.svg",
+    "source": "HUN Tatabánya Címer.svg"
+  },
+  "data_source": "out"
+}

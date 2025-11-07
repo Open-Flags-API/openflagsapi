@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-C",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-c",
+  "region_normalized": "es-c",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "ES/ES-C/coat.svg",
+    "source": "Escudo de la provincia de A Coruña.svg"
+  },
+  "data_source": "out"
+}

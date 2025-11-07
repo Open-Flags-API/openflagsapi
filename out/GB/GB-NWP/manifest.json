@@ -1,0 +1,14 @@
+{
+  "code": "GB-NWP",
+  "country": "GB",
+  "flag": {
+    "svg": null,
+    "png": null,
+    "source_filename": null
+  },
+  "coat": {
+    "svg": "GB/GB-NWP/coat.svg",
+    "png": "GB/GB-NWP/coat.png",
+    "source_filename": "Newport COA shield.svg"
+  }
+}

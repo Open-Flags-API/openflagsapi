@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-PC",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-pc",
+  "region_normalized": "it-pc",
+  "flag": {
+    "svg": "IT/IT-PC/flag.svg",
+    "source": "Flag of the province of Piacenza (Variant).svg"
+  },
+  "coat": {
+    "svg": "IT/IT-PC/coat.svg",
+    "source": "Provincia di Piacenza-Stemma.svg"
+  },
+  "data_source": "out"
+}

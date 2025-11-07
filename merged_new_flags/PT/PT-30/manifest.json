@@ -1,0 +1,16 @@
+{
+  "iso_code": "PT-30",
+  "country_iso": "PT",
+  "country_name": "PT",
+  "region_name": "pt-30",
+  "region_normalized": "pt-30",
+  "flag": {
+    "svg": "PT/PT-30/flag.svg",
+    "source": "Flag of Madeira.svg"
+  },
+  "coat": {
+    "svg": "PT/PT-30/coat.svg",
+    "source": "Coat of arms of Madeira.svg"
+  },
+  "data_source": "out"
+}

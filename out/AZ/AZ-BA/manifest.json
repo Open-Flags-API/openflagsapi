@@ -1,0 +1,14 @@
+{
+  "code": "AZ-BA",
+  "country": "AZ",
+  "flag": {
+    "svg": "AZ/AZ-BA/flag.svg",
+    "png": "AZ/AZ-BA/flag.png",
+    "source_filename": "Flag of Baku, Azerbaijan.svg"
+  },
+  "coat": {
+    "svg": "AZ/AZ-BA/coat.svg",
+    "png": "AZ/AZ-BA/coat.png",
+    "source_filename": "Coat of arms of Baku.svg"
+  }
+}

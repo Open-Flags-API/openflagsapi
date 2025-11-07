@@ -1,0 +1,16 @@
+{
+  "iso_code": "GT-13",
+  "country_iso": "GT",
+  "country_name": "GT",
+  "region_name": "gt-13",
+  "region_normalized": "gt-13",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "EscudoHueHue.png"
+  },
+  "data_source": "out"
+}

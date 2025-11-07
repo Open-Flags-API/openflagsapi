@@ -1,0 +1,16 @@
+{
+  "iso_code": "CV-TA",
+  "country_iso": "CV",
+  "country_name": "CV",
+  "region_name": "cv-ta",
+  "region_normalized": "cv-ta",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Tarrafal municipality.gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

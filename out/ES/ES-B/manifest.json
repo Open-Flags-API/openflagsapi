@@ -1,0 +1,14 @@
+{
+  "code": "ES-B",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-B/flag.svg",
+    "png": "ES/ES-B/flag.png",
+    "source_filename": "Flag of Barcelona (province).svg"
+  },
+  "coat": {
+    "svg": "ES/ES-B/coat.svg",
+    "png": "ES/ES-B/coat.png",
+    "source_filename": "Escudo de la provincia de Barcelona.svg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "code": "IT-FC",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-FC/flag.svg",
+    "png": "IT/IT-FC/flag.png",
+    "source_filename": "Flag of the Province of Forlì-Cesena.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-FC/coat.svg",
+    "png": "IT/IT-FC/coat.png",
+    "source_filename": "Provincia di Forlì-Cesena-Stemma.svg"
+  }
+}

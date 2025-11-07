@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-CT",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-ct",
+  "region_normalized": "es-ct",
+  "flag": {
+    "svg": "ES/ES-CT/flag.svg",
+    "source": "Flag of Catalonia.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-CT/coat.svg",
+    "source": "Escut de Catalunya (apuntat).svg"
+  },
+  "data_source": "out"
+}

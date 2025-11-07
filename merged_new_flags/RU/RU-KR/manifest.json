@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-KR",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-kr",
+  "region_normalized": "ru-kr",
+  "flag": {
+    "svg": "RU/RU-KR/flag.svg",
+    "source": "Flag of Karelia.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-KR/coat.svg",
+    "source": "Coat of arms of the Republic of Karelia.svg"
+  },
+  "data_source": "out"
+}

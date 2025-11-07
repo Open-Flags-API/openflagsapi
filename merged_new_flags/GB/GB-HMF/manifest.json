@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-HMF",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-hmf",
+  "region_normalized": "gb-hmf",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-HMF/coat.svg",
+    "source": "Coat of arms of the London Borough of Hammersmith and Fulham.svg"
+  },
+  "data_source": "out"
+}

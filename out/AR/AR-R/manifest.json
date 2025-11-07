@@ -1,0 +1,14 @@
+{
+  "code": "AR-R",
+  "country": "AR",
+  "flag": {
+    "svg": "AR/AR-R/flag.svg",
+    "png": "AR/AR-R/flag.png",
+    "source_filename": "Bandera de la Provincia del Río Negro.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-R/coat.svg",
+    "png": "AR/AR-R/coat.png",
+    "source_filename": "Escudo de la Provincia del Río Negro.svg"
+  }
+}

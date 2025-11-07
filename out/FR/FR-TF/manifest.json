@@ -1,0 +1,14 @@
+{
+  "code": "FR-TF",
+  "country": "FR",
+  "flag": {
+    "svg": "FR/FR-TF/flag.svg",
+    "png": "FR/FR-TF/flag.png",
+    "source_filename": "Flag of the French Southern and Antarctic Lands.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-TF/coat.svg",
+    "png": "FR/FR-TF/coat.png",
+    "source_filename": "Armoiries Terres australes et antarctiques françaises.svg"
+  }
+}

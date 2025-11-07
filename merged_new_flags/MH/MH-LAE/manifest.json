@@ -1,0 +1,16 @@
+{
+  "iso_code": "MH-LAE",
+  "country_iso": "MH",
+  "country_name": "marshall-islands",
+  "region_name": "mh-lae",
+  "region_normalized": "mh-lae",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

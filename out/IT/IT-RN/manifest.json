@@ -1,0 +1,14 @@
+{
+  "code": "IT-RN",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-RN/flag.svg",
+    "png": "IT/IT-RN/flag.png",
+    "source_filename": "Flag of the province of Rimini.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-RN/coat.svg",
+    "png": "IT/IT-RN/coat.png",
+    "source_filename": "Provincia di Rimini-Stemma.svg"
+  }
+}

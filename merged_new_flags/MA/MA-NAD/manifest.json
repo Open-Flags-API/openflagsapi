@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-NAD",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-nad",
+  "region_normalized": "ma-nad",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of the Nador Province.png"
+  },
+  "data_source": "out"
+}

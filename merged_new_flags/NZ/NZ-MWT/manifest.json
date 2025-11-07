@@ -1,0 +1,16 @@
+{
+  "iso_code": "NZ-MWT",
+  "country_iso": "NZ",
+  "country_name": "NZ",
+  "region_name": "nz-mwt",
+  "region_normalized": "nz-mwt",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

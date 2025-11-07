@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-10",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-10",
+  "region_normalized": "fr-10",
+  "flag": {
+    "svg": "FR/FR-10/flag.svg",
+    "source": "Drapeau fr département Aube.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-10/coat.svg",
+    "source": "Blason département fr Aube.svg"
+  },
+  "data_source": "out"
+}

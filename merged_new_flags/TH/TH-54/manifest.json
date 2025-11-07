@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-54",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-54",
+  "region_normalized": "th-54",
+  "flag": {
+    "svg": "TH/TH-54/flag.svg",
+    "source": "Phrae flag.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

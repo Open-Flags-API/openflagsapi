@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-WE",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "west-virginia",
+  "region_normalized": "west-virginia",
+  "flag": {
+    "svg": "US/US-WE/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

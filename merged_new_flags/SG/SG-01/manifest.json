@@ -1,0 +1,16 @@
+{
+  "iso_code": "SG-01",
+  "country_iso": "SG",
+  "country_name": "SG",
+  "region_name": "sg-01",
+  "region_normalized": "sg-01",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-KU",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "kursk",
+  "region_normalized": "kursk",
+  "flag": {
+    "svg": "RU/RU-KU/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

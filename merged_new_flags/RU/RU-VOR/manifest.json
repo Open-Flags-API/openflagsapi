@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-VOR",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-vor",
+  "region_normalized": "ru-vor",
+  "flag": {
+    "svg": "RU/RU-VOR/flag.svg",
+    "source": "Flag of Voronezh Oblast (large).svg"
+  },
+  "coat": {
+    "svg": "RU/RU-VOR/coat.svg",
+    "source": "Coat of arms of Voronezh Oblast (large).svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-51",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-51",
+  "region_normalized": "mt-51",
+  "flag": {
+    "svg": "MT/MT-51/flag.svg",
+    "source": "Flag of Saint Paul's Bay.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-51/coat.svg",
+    "source": "St Pauls Bay coa.svg"
+  },
+  "data_source": "out"
+}

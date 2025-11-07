@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-23",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-23",
+  "region_normalized": "it-23",
+  "flag": {
+    "svg": "IT/IT-23/flag.svg",
+    "source": "Flag of Valle d'Aosta.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-23/coat.svg",
+    "source": "Valle d'Aosta-Stemma.svg"
+  },
+  "data_source": "out"
+}

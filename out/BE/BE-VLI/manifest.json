@@ -1,0 +1,14 @@
+{
+  "code": "BE-VLI",
+  "country": "BE",
+  "flag": {
+    "svg": "BE/BE-VLI/flag.svg",
+    "png": "BE/BE-VLI/flag.png",
+    "source_filename": "Flag of Limburg (Belgium).svg"
+  },
+  "coat": {
+    "svg": "BE/BE-VLI/coat.svg",
+    "png": "BE/BE-VLI/coat.png",
+    "source_filename": "Limburg B wapen.svg"
+  }
+}

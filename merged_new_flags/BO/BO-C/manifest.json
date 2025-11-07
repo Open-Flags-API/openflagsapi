@@ -1,0 +1,16 @@
+{
+  "iso_code": "BO-C",
+  "country_iso": "BO",
+  "country_name": "BO",
+  "region_name": "bo-c",
+  "region_normalized": "bo-c",
+  "flag": {
+    "svg": "BO/BO-C/flag.svg",
+    "source": "Flag of Cochabamba.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

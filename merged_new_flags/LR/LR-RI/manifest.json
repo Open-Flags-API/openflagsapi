@@ -1,0 +1,16 @@
+{
+  "iso_code": "LR-RI",
+  "country_iso": "LR",
+  "country_name": "LR",
+  "region_name": "lr-ri",
+  "region_normalized": "lr-ri",
+  "flag": {
+    "svg": "LR/LR-RI/flag.svg",
+    "source": "Flag of Rivercess County.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-001",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-001",
+  "region_normalized": "lv-001",
+  "flag": {
+    "svg": null,
+    "source": "Aglona novads Flag.png"
+  },
+  "coat": {
+    "svg": "LV/LV-001/coat.svg",
+    "source": "Aglonas novads COA.svg"
+  },
+  "data_source": "out"
+}

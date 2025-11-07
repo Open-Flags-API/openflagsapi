@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-030",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-030",
+  "region_normalized": "lv-030",
+  "flag": {
+    "svg": null,
+    "source": "Ērgļu novads Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "LVA Ērgļu novads COA.png"
+  },
+  "data_source": "out"
+}

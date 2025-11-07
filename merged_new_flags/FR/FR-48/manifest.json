@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-48",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-48",
+  "region_normalized": "fr-48",
+  "flag": {
+    "svg": "FR/FR-48/flag.svg",
+    "source": "Drapeau non-officiel fr département Lozère.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-48/coat.svg",
+    "source": "Escut de Gavaldà.svg"
+  },
+  "data_source": "out"
+}

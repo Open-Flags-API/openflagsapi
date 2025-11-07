@@ -1,0 +1,16 @@
+{
+  "iso_code": "MH-UTI",
+  "country_iso": "MH",
+  "country_name": "marshall-islands",
+  "region_name": "mh-uti",
+  "region_normalized": "mh-uti",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

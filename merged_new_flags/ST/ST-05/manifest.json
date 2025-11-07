@@ -1,0 +1,16 @@
+{
+  "iso_code": "ST-05",
+  "country_iso": "ST",
+  "country_name": "ST",
+  "region_name": "st-05",
+  "region_normalized": "st-05",
+  "flag": {
+    "svg": null,
+    "source": "Lobata Bandeira.jpg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

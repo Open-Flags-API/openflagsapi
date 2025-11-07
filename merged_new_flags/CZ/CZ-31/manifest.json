@@ -1,0 +1,16 @@
+{
+  "iso_code": "CZ-31",
+  "country_iso": "CZ",
+  "country_name": "CZ",
+  "region_name": "cz-31",
+  "region_normalized": "cz-31",
+  "flag": {
+    "svg": "CZ/CZ-31/flag.svg",
+    "source": "Flag of South Bohemian Region.svg"
+  },
+  "coat": {
+    "svg": "CZ/CZ-31/coat.svg",
+    "source": "South Bohemian Region CoA CZ.svg"
+  },
+  "data_source": "out"
+}

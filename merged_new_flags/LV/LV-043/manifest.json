@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-043",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-043",
+  "region_normalized": "lv-043",
+  "flag": {
+    "svg": null,
+    "source": "Kandavas novads Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Kandavas novads COA.png"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "AR-C",
+  "country_iso": "AR",
+  "country_name": "AR",
+  "region_name": "ar-c",
+  "region_normalized": "ar-c",
+  "flag": {
+    "svg": "AR/AR-C/flag.svg",
+    "source": "Bandera de la Ciudad de Buenos Aires.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-C/coat.svg",
+    "source": "Escudo de la Ciudad de Buenos Aires.svg"
+  },
+  "data_source": "out"
+}

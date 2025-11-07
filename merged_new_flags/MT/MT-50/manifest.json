@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-50",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-50",
+  "region_normalized": "mt-50",
+  "flag": {
+    "svg": "MT/MT-50/flag.svg",
+    "source": "Flag of San Lawrenz.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "MLT San Lawrenz COA.gif"
+  },
+  "data_source": "out"
+}

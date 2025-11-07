@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-HU",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-hu",
+  "region_normalized": "es-hu",
+  "flag": {
+    "svg": "ES/ES-HU/flag.svg",
+    "source": "Flag of Huesca (province).svg"
+  },
+  "coat": {
+    "svg": "ES/ES-HU/coat.svg",
+    "source": "Escudo d'a probinzia de Uesca.svg"
+  },
+  "data_source": "out"
+}

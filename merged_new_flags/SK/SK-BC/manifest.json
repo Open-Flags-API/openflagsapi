@@ -1,0 +1,16 @@
+{
+  "iso_code": "SK-BC",
+  "country_iso": "SK",
+  "country_name": "SK",
+  "region_name": "sk-bc",
+  "region_normalized": "sk-bc",
+  "flag": {
+    "svg": "SK/SK-BC/flag.svg",
+    "source": "Banskobystricky vlajka.svg"
+  },
+  "coat": {
+    "svg": "SK/SK-BC/coat.svg",
+    "source": "Coat of Arms of Banská Bystrica Region.svg"
+  },
+  "data_source": "out"
+}

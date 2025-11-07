@@ -1,0 +1,16 @@
+{
+  "iso_code": "EC-X",
+  "country_iso": "EC",
+  "country_name": "EC",
+  "region_name": "ec-x",
+  "region_normalized": "ec-x",
+  "flag": {
+    "svg": "EC/EC-X/flag.svg",
+    "source": "Bandera Provincia Cotopaxi.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

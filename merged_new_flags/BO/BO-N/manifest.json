@@ -1,0 +1,16 @@
+{
+  "iso_code": "BO-N",
+  "country_iso": "BO",
+  "country_name": "BO",
+  "region_name": "bo-n",
+  "region_normalized": "bo-n",
+  "flag": {
+    "svg": "BO/BO-N/flag.svg",
+    "source": "Flag of Pando.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

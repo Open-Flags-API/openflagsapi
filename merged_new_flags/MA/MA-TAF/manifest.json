@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-TAF",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-taf",
+  "region_normalized": "ma-taf",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

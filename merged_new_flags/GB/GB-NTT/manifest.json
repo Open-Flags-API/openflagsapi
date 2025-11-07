@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-NTT",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-ntt",
+  "region_normalized": "gb-ntt",
+  "flag": {
+    "svg": "GB/GB-NTT/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-NTT/coat.svg",
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "NI-ES",
+  "country_iso": "NI",
+  "country_name": "NI",
+  "region_name": "ni-es",
+  "region_normalized": "ni-es",
+  "flag": {
+    "svg": "NI/NI-ES/flag.svg",
+    "source": "Flag of Esteli.svg"
+  },
+  "coat": {
+    "svg": "NI/NI-ES/coat.svg",
+    "source": "Seal of Esteli.svg"
+  },
+  "data_source": "out"
+}

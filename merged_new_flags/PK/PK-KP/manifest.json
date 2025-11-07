@@ -1,0 +1,16 @@
+{
+  "iso_code": "PK-KP",
+  "country_iso": "PK",
+  "country_name": "PK",
+  "region_name": "pk-kp",
+  "region_normalized": "pk-kp",
+  "flag": {
+    "svg": "PK/PK-KP/flag.svg",
+    "source": "Flag of Khyber Pakhtunkhwa.svg"
+  },
+  "coat": {
+    "svg": "PK/PK-KP/coat.svg",
+    "source": "Coat of arms of Khyber Pakhtunkhwa.svg"
+  },
+  "data_source": "out"
+}

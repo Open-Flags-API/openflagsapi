@@ -1,0 +1,16 @@
+{
+  "iso_code": "SV-CU",
+  "country_iso": "SV",
+  "country_name": "SV",
+  "region_name": "sv-cu",
+  "region_normalized": "sv-cu",
+  "flag": {
+    "svg": null,
+    "source": "Bandera del Departamento de Cuscatlán.PNG"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

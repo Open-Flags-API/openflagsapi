@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-018",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-018",
+  "region_normalized": "lv-018",
+  "flag": {
+    "svg": null,
+    "source": "BROCENU NOVADA KAROGS.png"
+  },
+  "coat": {
+    "svg": "LV/LV-018/coat.svg",
+    "source": "Brocēnu novads COA.svg"
+  },
+  "data_source": "out"
+}

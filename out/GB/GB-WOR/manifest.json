@@ -1,0 +1,14 @@
+{
+  "code": "GB-WOR",
+  "country": "GB",
+  "flag": {
+    "svg": "GB/GB-WOR/flag.svg",
+    "png": "GB/GB-WOR/flag.png",
+    "source_filename": "Flag of Worcestershire.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-WOR/coat.svg",
+    "png": "GB/GB-WOR/coat.png",
+    "source_filename": "Arms of Worcestershire County Council.svg"
+  }
+}

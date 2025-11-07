@@ -1,0 +1,16 @@
+{
+  "iso_code": "ZA-WC",
+  "country_iso": "ZA",
+  "country_name": "ZA",
+  "region_name": "za-wc",
+  "region_normalized": "za-wc",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Flag of the Western Cape Province.png"
+  },
+  "data_source": "out"
+}

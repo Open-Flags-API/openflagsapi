@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-NSA",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-nsa",
+  "region_normalized": "co-nsa",
+  "flag": {
+    "svg": "CO/CO-NSA/flag.svg",
+    "source": "Flag of Norte de Santander.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-NSA/coat.svg",
+    "source": "Escudo de Norte de Santander.svg"
+  },
+  "data_source": "out"
+}

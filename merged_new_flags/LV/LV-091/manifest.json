@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-091",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-091",
+  "region_normalized": "lv-091",
+  "flag": {
+    "svg": null,
+    "source": "Siguldas novads Flag.png"
+  },
+  "coat": {
+    "svg": "LV/LV-091/coat.svg",
+    "source": "Siguldas novads COA.svg"
+  },
+  "data_source": "out"
+}

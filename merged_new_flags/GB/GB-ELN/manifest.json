@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-ELN",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-eln",
+  "region_normalized": "gb-eln",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-ELN/coat.svg",
+    "source": "Coat of arms of East Lothian.svg"
+  },
+  "data_source": "out"
+}

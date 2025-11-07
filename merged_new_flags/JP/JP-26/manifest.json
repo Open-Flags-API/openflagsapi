@@ -1,0 +1,16 @@
+{
+  "iso_code": "JP-26",
+  "country_iso": "JP",
+  "country_name": "JP",
+  "region_name": "jp-26",
+  "region_normalized": "jp-26",
+  "flag": {
+    "svg": "JP/JP-26/flag.svg",
+    "source": "Flag of Kyoto Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-26/coat.svg",
+    "source": "Emblem of Kyoto Prefecture.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-GO",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "id-go",
+  "region_normalized": "id-go",
+  "flag": {
+    "svg": "ID/ID-GO/flag.svg",
+    "source": "Flag of Gorontalo.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-GO/coat.svg",
+    "source": "Coat of arms of Gorontalo.svg"
+  },
+  "data_source": "out"
+}

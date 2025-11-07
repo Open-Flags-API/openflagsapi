@@ -1,0 +1,14 @@
+{
+  "code": "IT-RC",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-RC/flag.svg",
+    "png": "IT/IT-RC/flag.png",
+    "source_filename": "Flag of the province of Reggio Calabria.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-RC/coat.svg",
+    "png": "IT/IT-RC/coat.png",
+    "source_filename": "Coat of Arms of the Province of Reggio-Calabria.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "AZ-YE",
+  "country_iso": "AZ",
+  "country_name": "AZ",
+  "region_name": "az-ye",
+  "region_normalized": "az-ye",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "AZ/AZ-YE/coat.svg",
+    "source": "Coat of arms of Yevlakh.svg"
+  },
+  "data_source": "out"
+}

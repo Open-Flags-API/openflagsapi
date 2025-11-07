@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-023",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-023",
+  "region_normalized": "lv-023",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Ciblas novads.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Ciblas novads COA.png"
+  },
+  "data_source": "out"
+}

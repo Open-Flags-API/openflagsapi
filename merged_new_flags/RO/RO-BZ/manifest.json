@@ -1,0 +1,16 @@
+{
+  "iso_code": "RO-BZ",
+  "country_iso": "RO",
+  "country_name": "RO",
+  "region_name": "ro-bz",
+  "region_normalized": "ro-bz",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Actual Buzău county CoA.png"
+  },
+  "data_source": "out"
+}

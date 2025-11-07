@@ -1,0 +1,16 @@
+{
+  "iso_code": "MD-BD",
+  "country_iso": "MD",
+  "country_name": "MD",
+  "region_name": "md-bd",
+  "region_normalized": "md-bd",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

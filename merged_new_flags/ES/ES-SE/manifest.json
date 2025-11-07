@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-SE",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-se",
+  "region_normalized": "es-se",
+  "flag": {
+    "svg": "ES/ES-SE/flag.svg",
+    "source": "Flag of Diputacion de Sevilla Spain.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-SE/coat.svg",
+    "source": "Escudo de la provincia de Sevilla.svg"
+  },
+  "data_source": "out"
+}

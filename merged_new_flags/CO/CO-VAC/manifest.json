@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-VAC",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-vac",
+  "region_normalized": "co-vac",
+  "flag": {
+    "svg": "CO/CO-VAC/flag.svg",
+    "source": "Flag of Valle del Cauca.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-VAC/coat.svg",
+    "source": "Escudo del Valle del Cauca.svg"
+  },
+  "data_source": "out"
+}

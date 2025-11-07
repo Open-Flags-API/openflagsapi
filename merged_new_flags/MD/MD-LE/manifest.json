@@ -1,0 +1,16 @@
+{
+  "iso_code": "MD-LE",
+  "country_iso": "MD",
+  "country_name": "MD",
+  "region_name": "md-le",
+  "region_normalized": "md-le",
+  "flag": {
+    "svg": null,
+    "source": "Drapel Raionul Leova.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Stema Raionul Leova.png"
+  },
+  "data_source": "out"
+}

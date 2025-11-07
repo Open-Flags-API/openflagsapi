@@ -1,0 +1,16 @@
+{
+  "iso_code": "GT-01",
+  "country_iso": "GT",
+  "country_name": "GT",
+  "region_name": "gt-01",
+  "region_normalized": "gt-01",
+  "flag": {
+    "svg": "GT/GT-01/flag.svg",
+    "source": "Bandera del Departamento Guatemala.svg"
+  },
+  "coat": {
+    "svg": "GT/GT-01/coat.svg",
+    "source": "Coat of Arms of Guatemala City.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-BT",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "id-bt",
+  "region_normalized": "id-bt",
+  "flag": {
+    "svg": "ID/ID-BT/flag.svg",
+    "source": "Flag of Banten, Indonesia.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-BT/coat.svg",
+    "source": "Coat of arms of Banten.svg"
+  },
+  "data_source": "out"
+}

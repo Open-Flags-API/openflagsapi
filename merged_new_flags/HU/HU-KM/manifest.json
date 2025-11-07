@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-KM",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-km",
+  "region_normalized": "hu-km",
+  "flag": {
+    "svg": "HU/HU-KM/flag.svg",
+    "source": "Flag Hungary Town Kecskemét.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-KM/coat.svg",
+    "source": "Coa Hungary Town Kecskemét.svg"
+  },
+  "data_source": "out"
+}

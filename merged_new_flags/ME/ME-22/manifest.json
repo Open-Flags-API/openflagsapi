@@ -1,0 +1,16 @@
+{
+  "iso_code": "ME-22",
+  "country_iso": "ME",
+  "country_name": "ME",
+  "region_name": "me-22",
+  "region_normalized": "me-22",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "ME/ME-22/coat.svg",
+    "source": "Coat of arms of Gusinje.svg"
+  },
+  "data_source": "out"
+}

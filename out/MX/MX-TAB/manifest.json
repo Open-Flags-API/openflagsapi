@@ -1,0 +1,14 @@
+{
+  "code": "MX-TAB",
+  "country": "MX",
+  "flag": {
+    "svg": "MX/MX-TAB/flag.svg",
+    "png": "MX/MX-TAB/flag.png",
+    "source_filename": "Flag of Tabasco.svg"
+  },
+  "coat": {
+    "svg": "MX/MX-TAB/coat.svg",
+    "png": "MX/MX-TAB/coat.png",
+    "source_filename": "Coat of arms of Tabasco.svg"
+  }
+}

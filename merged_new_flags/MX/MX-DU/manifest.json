@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-DU",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "durango",
+  "region_normalized": "durango",
+  "flag": {
+    "svg": "MX/MX-DU/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

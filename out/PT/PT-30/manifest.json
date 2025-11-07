@@ -1,0 +1,14 @@
+{
+  "code": "PT-30",
+  "country": "PT",
+  "flag": {
+    "svg": "PT/PT-30/flag.svg",
+    "png": "PT/PT-30/flag.png",
+    "source_filename": "Flag of Madeira.svg"
+  },
+  "coat": {
+    "svg": "PT/PT-30/coat.svg",
+    "png": "PT/PT-30/coat.png",
+    "source_filename": "Coat of arms of Madeira.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-21",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-21",
+  "region_normalized": "it-21",
+  "flag": {
+    "svg": "IT/IT-21/flag.svg",
+    "source": "Flag of Piedmont.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-21/coat.svg",
+    "source": "Regione-Piemonte-Stemma.svg"
+  },
+  "data_source": "out"
+}

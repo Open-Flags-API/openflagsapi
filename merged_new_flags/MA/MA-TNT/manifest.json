@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-TNT",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-tnt",
+  "region_normalized": "ma-tnt",
+  "flag": {
+    "svg": "MA/MA-TNT/flag.svg",
+    "source": "Flag of Tan Tan province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-MT",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-mt",
+  "region_normalized": "us-mt",
+  "flag": {
+    "svg": "US/US-MT/flag.svg",
+    "source": "Flag of Montana.svg"
+  },
+  "coat": {
+    "svg": "US/US-MT/coat.svg",
+    "source": "Great Seal of Montana.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-005",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-005",
+  "region_normalized": "lv-005",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Alojas novads COA.png"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "VN-37",
+  "country_iso": "VN",
+  "country_name": "VN",
+  "region_name": "vn-37",
+  "region_normalized": "vn-37",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "VN/VN-37/coat.svg",
+    "source": "Biểu trưng tỉnh Tây Ninh, Việt Nam.svg"
+  },
+  "data_source": "out"
+}

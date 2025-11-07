@@ -1,0 +1,14 @@
+{
+  "code": "HU-HV",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-HV/flag.svg",
+    "png": "HU/HU-HV/flag.png",
+    "source_filename": "Flag of Hódmezővásárhely.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-HV/coat.svg",
+    "png": "HU/HU-HV/coat.png",
+    "source_filename": "HUN Hódmezővásárhely Címer.svg"
+  }
+}

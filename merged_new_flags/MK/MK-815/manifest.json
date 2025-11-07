@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-815",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-815",
+  "region_normalized": "mk-815",
+  "flag": {
+    "svg": "MK/MK-815/flag.svg",
+    "source": "Flag of Čair Municipality, North Macedonia.svg"
+  },
+  "coat": {
+    "svg": "MK/MK-815/coat.svg",
+    "source": "Coat of arms of Čair Municipality.svg"
+  },
+  "data_source": "out"
+}

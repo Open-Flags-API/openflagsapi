@@ -1,0 +1,14 @@
+{
+  "code": "EE-81",
+  "country": "EE",
+  "flag": {
+    "svg": "EE/EE-81/flag.svg",
+    "png": "EE/EE-81/flag.png",
+    "source_filename": "Valgamaa lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-81/coat.svg",
+    "png": "EE/EE-81/coat.png",
+    "source_filename": "Valgamaa vapp.svg"
+  }
+}

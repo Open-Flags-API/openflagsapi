@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-MG",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "br-mg",
+  "region_normalized": "br-mg",
+  "flag": {
+    "svg": "BR/BR-MG/flag.svg",
+    "source": "Bandeira de Minas Gerais.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-MG/coat.svg",
+    "source": "Brasão de Minas Gerais.svg"
+  },
+  "data_source": "out"
+}

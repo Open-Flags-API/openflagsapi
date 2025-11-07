@@ -1,0 +1,16 @@
+{
+  "iso_code": "LC-02",
+  "country_iso": "LC",
+  "country_name": "LC",
+  "region_name": "lc-02",
+  "region_normalized": "lc-02",
+  "flag": {
+    "svg": "LC/LC-02/flag.svg",
+    "source": "Flag of Saint Lucia.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

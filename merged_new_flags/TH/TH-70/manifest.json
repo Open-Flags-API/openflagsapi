@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-70",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-70",
+  "region_normalized": "th-70",
+  "flag": {
+    "svg": "TH/TH-70/flag.svg",
+    "source": "Flag of Ratchaburi.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

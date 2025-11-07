@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-ERR",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-err",
+  "region_normalized": "ma-err",
+  "flag": {
+    "svg": "MA/MA-ERR/flag.svg",
+    "source": "Flag of Er Rachidia province (1976-1997).svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

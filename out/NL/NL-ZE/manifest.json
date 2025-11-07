@@ -1,0 +1,14 @@
+{
+  "code": "NL-ZE",
+  "country": "NL",
+  "flag": {
+    "svg": "NL/NL-ZE/flag.svg",
+    "png": "NL/NL-ZE/flag.png",
+    "source_filename": "Flag of Zeeland.svg"
+  },
+  "coat": {
+    "svg": "NL/NL-ZE/coat.svg",
+    "png": "NL/NL-ZE/coat.png",
+    "source_filename": "Zeeland wapen.svg"
+  }
+}

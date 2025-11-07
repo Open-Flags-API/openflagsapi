@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-ANS",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-ans",
+  "region_normalized": "gb-ans",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Angus.png"
+  },
+  "coat": {
+    "svg": "GB/GB-ANS/coat.svg",
+    "source": "Coat of arms of the Angus Area Council.svg"
+  },
+  "data_source": "out"
+}

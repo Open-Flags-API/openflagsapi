@@ -1,0 +1,16 @@
+{
+  "iso_code": "AM-KT",
+  "country_iso": "AM",
+  "country_name": "AM",
+  "region_name": "am-kt",
+  "region_normalized": "am-kt",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Kotayk marz gerb.jpg"
+  },
+  "data_source": "out"
+}

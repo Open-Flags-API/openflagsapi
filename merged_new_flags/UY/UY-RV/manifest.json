@@ -1,0 +1,16 @@
+{
+  "iso_code": "UY-RV",
+  "country_iso": "UY",
+  "country_name": "UY",
+  "region_name": "uy-rv",
+  "region_normalized": "uy-rv",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Rivera Department.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Rivera Department.png"
+  },
+  "data_source": "out"
+}

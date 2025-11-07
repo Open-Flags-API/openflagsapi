@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-601",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-601",
+  "region_normalized": "mk-601",
+  "flag": {
+    "svg": "MK/MK-601/flag.svg",
+    "source": "Flag of Bogovinje Municipality, North Macedonia.svg"
+  },
+  "coat": {
+    "svg": "MK/MK-601/coat.svg",
+    "source": "Coat of arms of Bogovinje Municipality.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "IE-MO",
+  "country_iso": "IE",
+  "country_name": "IE",
+  "region_name": "ie-mo",
+  "region_normalized": "ie-mo",
+  "flag": {
+    "svg": "IE/IE-MO/flag.svg",
+    "source": "Flag of county Mayo.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "County Mayo coat of arms.png"
+  },
+  "data_source": "out"
+}

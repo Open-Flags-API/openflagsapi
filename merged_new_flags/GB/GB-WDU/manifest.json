@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-WDU",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-wdu",
+  "region_normalized": "gb-wdu",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-WDU/coat.svg",
+    "source": "Coat of arms of West Dunbartonshire.svg"
+  },
+  "data_source": "out"
+}

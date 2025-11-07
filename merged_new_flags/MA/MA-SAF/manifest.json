@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-SAF",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-saf",
+  "region_normalized": "ma-saf",
+  "flag": {
+    "svg": "MA/MA-SAF/flag.svg",
+    "source": "Flag of Safi province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

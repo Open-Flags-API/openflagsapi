@@ -1,0 +1,14 @@
+{
+  "code": "GB-SRY",
+  "country": "GB",
+  "flag": {
+    "svg": "GB/GB-SRY/flag.svg",
+    "png": "GB/GB-SRY/flag.png",
+    "source_filename": "Flag of the County of Surrey.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-SRY/coat.svg",
+    "png": "GB/GB-SRY/coat.png",
+    "source_filename": "Surrey shield.svg"
+  }
+}

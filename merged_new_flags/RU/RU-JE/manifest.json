@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-JE",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "jewish-autonomous-oblast",
+  "region_normalized": "jewish-autonomous-oblast",
+  "flag": {
+    "svg": "RU/RU-JE/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

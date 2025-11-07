@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-11",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-11",
+  "region_normalized": "mt-11",
+  "flag": {
+    "svg": "MT/MT-11/flag.svg",
+    "source": "Flag of Gudja.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-11/coat.svg",
+    "source": "Gudia coa.svg"
+  },
+  "data_source": "out"
+}

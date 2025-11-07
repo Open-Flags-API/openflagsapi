@@ -1,0 +1,14 @@
+{
+  "code": "LV-014",
+  "country": "LV",
+  "flag": {
+    "svg": null,
+    "png": "LV/LV-014/flag.png",
+    "source_filename": "Baltinavas novads Flag.png"
+  },
+  "coat": {
+    "svg": "LV/LV-014/coat.svg",
+    "png": "LV/LV-014/coat.png",
+    "source_filename": "Baltinavas novads COA.svg"
+  }
+}

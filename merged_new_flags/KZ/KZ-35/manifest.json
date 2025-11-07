@@ -1,0 +1,16 @@
+{
+  "iso_code": "KZ-35",
+  "country_iso": "KZ",
+  "country_name": "KZ",
+  "region_name": "kz-35",
+  "region_normalized": "kz-35",
+  "flag": {
+    "svg": "KZ/KZ-35/flag.svg",
+    "source": "Flag of Karagandy Oblast.svg"
+  },
+  "coat": {
+    "svg": "KZ/KZ-35/coat.svg",
+    "source": "Coat of Arms of Karagandy Province.svg"
+  },
+  "data_source": "out"
+}

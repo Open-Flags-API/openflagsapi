@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-CAG",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-cag",
+  "region_normalized": "ph-cag",
+  "flag": {
+    "svg": "PH/PH-CAG/flag.svg",
+    "source": "Flag of Cagayan.svg"
+  },
+  "coat": {
+    "svg": "PH/PH-CAG/coat.svg",
+    "source": "Official Seal of Cagayan.svg"
+  },
+  "data_source": "out"
+}

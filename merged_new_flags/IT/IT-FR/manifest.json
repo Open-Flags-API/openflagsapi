@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-FR",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-fr",
+  "region_normalized": "it-fr",
+  "flag": {
+    "svg": "IT/IT-FR/flag.svg",
+    "source": "Flag of the Province of Frosinone.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-FR/coat.svg",
+    "source": "Provincia di Frosinone-Stemma.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "NL-NB",
+  "country": "NL",
+  "flag": {
+    "svg": "NL/NL-NB/flag.svg",
+    "png": "NL/NL-NB/flag.png",
+    "source_filename": "North Brabant-Flag.svg"
+  },
+  "coat": {
+    "svg": "NL/NL-NB/coat.svg",
+    "png": "NL/NL-NB/coat.png",
+    "source_filename": "Noord-Brabant wapen.svg"
+  }
+}

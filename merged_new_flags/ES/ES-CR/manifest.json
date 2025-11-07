@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-CR",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-cr",
+  "region_normalized": "es-cr",
+  "flag": {
+    "svg": "ES/ES-CR/flag.svg",
+    "source": "Flag Ciudad Real Province.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-CR/coat.svg",
+    "source": "Escudo de la provincia de Ciudad Real.svg"
+  },
+  "data_source": "out"
+}

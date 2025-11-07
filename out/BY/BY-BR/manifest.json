@@ -1,0 +1,14 @@
+{
+  "code": "BY-BR",
+  "country": "BY",
+  "flag": {
+    "svg": "BY/BY-BR/flag.svg",
+    "png": "BY/BY-BR/flag.png",
+    "source_filename": "Flag of Brest Voblast, Belarus.svg"
+  },
+  "coat": {
+    "svg": "BY/BY-BR/coat.svg",
+    "png": "BY/BY-BR/coat.png",
+    "source_filename": "Coat of Arms of Brest Region.svg"
+  }
+}

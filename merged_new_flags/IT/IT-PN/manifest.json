@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-PN",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-pn",
+  "region_normalized": "it-pn",
+  "flag": {
+    "svg": "IT/IT-PN/flag.svg",
+    "source": "Provincia di Pordenone-Bandiera.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-PN/coat.svg",
+    "source": "Provincia di Pordenone-Stemma.svg"
+  },
+  "data_source": "out"
+}

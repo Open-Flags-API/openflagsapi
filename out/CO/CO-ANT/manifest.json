@@ -1,0 +1,14 @@
+{
+  "code": "CO-ANT",
+  "country": "CO",
+  "flag": {
+    "svg": "CO/CO-ANT/flag.svg",
+    "png": "CO/CO-ANT/flag.png",
+    "source_filename": "Flag of Antioquia Department.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-ANT/coat.svg",
+    "png": "CO/CO-ANT/coat.png",
+    "source_filename": "Escudo de Antioquia.svg"
+  }
+}

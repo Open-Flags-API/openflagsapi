@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-RIC",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-ric",
+  "region_normalized": "gb-ric",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-RIC/coat.svg",
+    "source": "Coat of arms of the London Borough of Richmond upon Thames.svg"
+  },
+  "data_source": "out"
+}

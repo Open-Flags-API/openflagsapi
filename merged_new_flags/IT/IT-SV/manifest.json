@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-SV",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-sv",
+  "region_normalized": "it-sv",
+  "flag": {
+    "svg": "IT/IT-SV/flag.svg",
+    "source": "Provincia di Savona-Bandiera.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-SV/coat.svg",
+    "source": "Provincia di Savona-Stemma.svg"
+  },
+  "data_source": "out"
+}

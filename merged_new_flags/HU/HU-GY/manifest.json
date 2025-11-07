@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-GY",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-gy",
+  "region_normalized": "hu-gy",
+  "flag": {
+    "svg": "HU/HU-GY/flag.svg",
+    "source": "Flag of Győr.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-GY/coat.svg",
+    "source": "HUN Győr Címer.svg"
+  },
+  "data_source": "out"
+}

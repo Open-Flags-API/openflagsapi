@@ -1,0 +1,16 @@
+{
+  "iso_code": "CH-FR",
+  "country_iso": "CH",
+  "country_name": "CH",
+  "region_name": "ch-fr",
+  "region_normalized": "ch-fr",
+  "flag": {
+    "svg": "CH/CH-FR/flag.svg",
+    "source": "Flag of Canton of Fribourg.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-FR/coat.svg",
+    "source": "Wappen Freiburg matt.svg"
+  },
+  "data_source": "out"
+}

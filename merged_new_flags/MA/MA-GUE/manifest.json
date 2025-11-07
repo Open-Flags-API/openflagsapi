@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-GUE",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-gue",
+  "region_normalized": "ma-gue",
+  "flag": {
+    "svg": "MA/MA-GUE/flag.svg",
+    "source": "Flag of Guelmim province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

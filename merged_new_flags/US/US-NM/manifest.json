@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-NM",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-nm",
+  "region_normalized": "us-nm",
+  "flag": {
+    "svg": "US/US-NM/flag.svg",
+    "source": "Flag of New Mexico.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Seal of the Governor of New Mexico.png"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "SB-WE",
+  "country_iso": "SB",
+  "country_name": "SB",
+  "region_name": "sb-we",
+  "region_normalized": "sb-we",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Western Province Solomon Islands.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

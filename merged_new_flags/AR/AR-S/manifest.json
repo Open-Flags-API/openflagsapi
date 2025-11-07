@@ -1,0 +1,16 @@
+{
+  "iso_code": "AR-S",
+  "country_iso": "AR",
+  "country_name": "AR",
+  "region_name": "ar-s",
+  "region_normalized": "ar-s",
+  "flag": {
+    "svg": "AR/AR-S/flag.svg",
+    "source": "Bandera de la Provincia de Santa Fe.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-S/coat.svg",
+    "source": "Escudo de la Provincia de Santa Fe.svg"
+  },
+  "data_source": "out"
+}

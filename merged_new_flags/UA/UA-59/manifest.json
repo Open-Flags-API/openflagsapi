@@ -1,0 +1,16 @@
+{
+  "iso_code": "UA-59",
+  "country_iso": "UA",
+  "country_name": "UA",
+  "region_name": "ua-59",
+  "region_normalized": "ua-59",
+  "flag": {
+    "svg": "UA/UA-59/flag.svg",
+    "source": "Flag of Sumy Oblast.svg"
+  },
+  "coat": {
+    "svg": "UA/UA-59/coat.svg",
+    "source": "Coat of Arms of Sumy Oblast.svg"
+  },
+  "data_source": "out"
+}

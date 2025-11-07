@@ -1,0 +1,16 @@
+{
+  "iso_code": "VE-C",
+  "country_iso": "VE",
+  "country_name": "VE",
+  "region_name": "ve-c",
+  "region_normalized": "ve-c",
+  "flag": {
+    "svg": "VE/VE-C/flag.svg",
+    "source": "Flag of Apure State.svg"
+  },
+  "coat": {
+    "svg": "VE/VE-C/coat.svg",
+    "source": "Escudo del Estado Apure.svg"
+  },
+  "data_source": "out"
+}

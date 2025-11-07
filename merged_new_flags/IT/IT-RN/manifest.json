@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-RN",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-rn",
+  "region_normalized": "it-rn",
+  "flag": {
+    "svg": "IT/IT-RN/flag.svg",
+    "source": "Flag of the province of Rimini.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-RN/coat.svg",
+    "source": "Provincia di Rimini-Stemma.svg"
+  },
+  "data_source": "out"
+}

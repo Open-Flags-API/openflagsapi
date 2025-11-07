@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-74",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-74",
+  "region_normalized": "th-74",
+  "flag": {
+    "svg": "TH/TH-74/flag.svg",
+    "source": "ธงจังหวัดสมุทรสาคร.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

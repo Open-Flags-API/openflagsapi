@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-24",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-24",
+  "region_normalized": "fr-24",
+  "flag": {
+    "svg": "FR/FR-24/flag.svg",
+    "source": "Drapeau fr département Dordogne.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-24/coat.svg",
+    "source": "Blason département fr Dordogne.svg"
+  },
+  "data_source": "out"
+}

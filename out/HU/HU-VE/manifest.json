@@ -1,0 +1,14 @@
+{
+  "code": "HU-VE",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-VE/flag.svg",
+    "png": "HU/HU-VE/flag.png",
+    "source_filename": "FLAG-Veszprém-megye.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-VE/coat.svg",
+    "png": "HU/HU-VE/coat.png",
+    "source_filename": "Coa Hungary County Veszprém.svg"
+  }
+}

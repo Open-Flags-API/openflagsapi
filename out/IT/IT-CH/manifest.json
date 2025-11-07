@@ -1,0 +1,14 @@
+{
+  "code": "IT-CH",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-CH/flag.svg",
+    "png": "IT/IT-CH/flag.png",
+    "source_filename": "Flag of the province of Chieti (Variant).svg"
+  },
+  "coat": {
+    "svg": "IT/IT-CH/coat.svg",
+    "png": "IT/IT-CH/coat.png",
+    "source_filename": "Provincia di Chieti-Stemma.svg"
+  }
+}

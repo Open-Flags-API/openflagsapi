@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-71",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-71",
+  "region_normalized": "th-71",
+  "flag": {
+    "svg": "TH/TH-71/flag.svg",
+    "source": "Flag of Kanchanaburi province (2-1).svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

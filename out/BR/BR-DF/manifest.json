@@ -1,0 +1,14 @@
+{
+  "code": "BR-DF",
+  "country": "BR",
+  "flag": {
+    "svg": "BR/BR-DF/flag.svg",
+    "png": "BR/BR-DF/flag.png",
+    "source_filename": "Bandeira do Distrito Federal (Brasil).svg"
+  },
+  "coat": {
+    "svg": "BR/BR-DF/coat.svg",
+    "png": "BR/BR-DF/coat.png",
+    "source_filename": "Brasão do Distrito Federal (Brasil).svg"
+  }
+}

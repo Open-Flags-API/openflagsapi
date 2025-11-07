@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-LA",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "id-la",
+  "region_normalized": "id-la",
+  "flag": {
+    "svg": "ID/ID-LA/flag.svg",
+    "source": "Flag of Lampung.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-LA/coat.svg",
+    "source": "Coat of arms of Lampung.svg"
+  },
+  "data_source": "out"
+}

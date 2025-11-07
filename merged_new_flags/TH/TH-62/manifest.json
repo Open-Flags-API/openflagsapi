@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-62",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-62",
+  "region_normalized": "th-62",
+  "flag": {
+    "svg": "TH/TH-62/flag.svg",
+    "source": "Flag of Kamphaeng Phet.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

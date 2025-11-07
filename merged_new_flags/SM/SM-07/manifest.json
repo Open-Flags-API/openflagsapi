@@ -1,0 +1,16 @@
+{
+  "iso_code": "SM-07",
+  "country_iso": "SM",
+  "country_name": "SM",
+  "region_name": "sm-07",
+  "region_normalized": "sm-07",
+  "flag": {
+    "svg": "SM/SM-07/flag.svg",
+    "source": "San Marino (RSM)-Bandiera.svg"
+  },
+  "coat": {
+    "svg": "SM/SM-07/coat.svg",
+    "source": "Coat of arms of the city of San Marino.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "RU-MOW",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-MOW/flag.svg",
+    "png": "RU/RU-MOW/flag.png",
+    "source_filename": "Flag of Moscow, Russia.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-MOW/coat.svg",
+    "png": "RU/RU-MOW/coat.png",
+    "source_filename": "Coat of arms of Moscow.svg"
+  }
+}

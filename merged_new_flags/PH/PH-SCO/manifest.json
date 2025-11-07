@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-SCO",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-sco",
+  "region_normalized": "ph-sco",
+  "flag": {
+    "svg": null,
+    "source": "South Cotabato Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Ph seal south cotabato.png"
+  },
+  "data_source": "out"
+}

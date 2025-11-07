@@ -1,0 +1,14 @@
+{
+  "code": "SM-09",
+  "country": "SM",
+  "flag": {
+    "svg": "SM/SM-09/flag.svg",
+    "png": "SM/SM-09/flag.png",
+    "source_filename": "Serravalle (RSM)-Bandiera.svg"
+  },
+  "coat": {
+    "svg": "SM/SM-09/coat.svg",
+    "png": "SM/SM-09/coat.png",
+    "source_filename": "Serravalle (RSM)-Stemma.svg"
+  }
+}

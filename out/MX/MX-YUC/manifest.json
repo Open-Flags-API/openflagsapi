@@ -1,0 +1,14 @@
+{
+  "code": "MX-YUC",
+  "country": "MX",
+  "flag": {
+    "svg": "MX/MX-YUC/flag.svg",
+    "png": "MX/MX-YUC/flag.png",
+    "source_filename": "Flag of Yucatan.svg"
+  },
+  "coat": {
+    "svg": "MX/MX-YUC/coat.svg",
+    "png": "MX/MX-YUC/coat.png",
+    "source_filename": "Coat of arms of Yucatan.svg"
+  }
+}

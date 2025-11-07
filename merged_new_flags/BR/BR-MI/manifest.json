@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-MI",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "minas-gerais",
+  "region_normalized": "minas-gerais",
+  "flag": {
+    "svg": "BR/BR-MI/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

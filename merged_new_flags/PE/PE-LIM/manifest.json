@@ -1,0 +1,16 @@
+{
+  "iso_code": "PE-LIM",
+  "country_iso": "PE",
+  "country_name": "PE",
+  "region_name": "pe-lim",
+  "region_normalized": "pe-lim",
+  "flag": {
+    "svg": "PE/PE-LIM/flag.svg",
+    "source": "Lima region flag.svg"
+  },
+  "coat": {
+    "svg": "PE/PE-LIM/coat.svg",
+    "source": "Coat of arms of Lima, Lima region.svg"
+  },
+  "data_source": "out"
+}

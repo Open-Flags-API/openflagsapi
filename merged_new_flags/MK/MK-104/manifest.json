@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-104",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-104",
+  "region_normalized": "mk-104",
+  "flag": {
+    "svg": "MK/MK-104/flag.svg",
+    "source": "Flag of Kavadarci Municipality, North Macedonia.svg"
+  },
+  "coat": {
+    "svg": "MK/MK-104/coat.svg",
+    "source": "Coat of arms of Kavadarci Municipality.svg"
+  },
+  "data_source": "out"
+}

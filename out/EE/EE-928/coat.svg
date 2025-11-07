@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="510"
+   height="580"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="svg.svg">
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3896">
+      <path
+         sodipodi:nodetypes="cscscc"
+         inkscape:connector-curvature="0"
+         id="path3898"
+         d="m 405,277.36218 0,170 c 0,90 -117.5,130 -117.5,130 0,0 -117.5,-40 -117.5,-130 l 0,-170 z"
+         style="fill:#006dc5;fill-opacity:1;stroke:none" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#f6f3f1"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="254.61995"
+     inkscape:cy="551.30695"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3810"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="-30px"
+       originy="-350.00001px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-30,-122.36219)">
+    <g
+       id="g4458">
+      <g
+         transform="matrix(-0.75181306,-0.65937631,-0.65937631,0.75181306,1171.3981,658.31081)"
+         id="g4056"
+         inkscape:transform-center-y="-68.534919"
+         style="stroke:#ffffff;stroke-width:1"
+         inkscape:transform-center-x="-63.361296" />
+      <path
+         sodipodi:nodetypes="zzzccz"
+         inkscape:connector-curvature="0"
+         id="path4206"
+         d="M 527.32234,439.35712 C 521.0797,577.76523 428.25697,702.36218 285,702.36218 141.74304,702.36218 48.92031,577.76523 42.67767,439.35712 36.43503,300.94901 30,122.36219 30,122.36219 l 510.00001,0 c 0,0 -6.43503,178.58682 -12.67767,316.99493 z"
+         style="fill:#41ace4;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect4392"
+         d="m 285.01719,123.36219 0,254.12069 244.18631,0 c 5.24965,-123.97098 9.93438,-254.12069 9.93438,-254.12069 l -254.12069,0 z m 0,254.12069 -244.186317,0 c 0.888573,20.98377 1.808801,41.81923 2.709375,61.78621 6.221114,137.93084 98.713972,262.0931 241.476942,262.0931 l 0,-323.87931 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         sodipodi:nodetypes="zzzcz"
+         inkscape:connector-curvature="0"
+         id="path4426"
+         d="m 217.67696,258.66126 c 6.19975,32.84657 -7.09444,73.7845 -42.79848,83.90996 -35.70404,10.12546 -80.982206,-11.48892 -80.218133,-61.20933 0.764083,-49.72045 73.682493,-77.26954 66.385853,-122.02101 30.76742,10.30825 50.43102,66.47382 56.63076,99.32038 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    </g>
+  </g>
+</svg>

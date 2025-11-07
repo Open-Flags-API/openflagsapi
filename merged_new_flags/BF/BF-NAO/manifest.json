@@ -1,0 +1,16 @@
+{
+  "iso_code": "BF-NAO",
+  "country_iso": "BF",
+  "country_name": "BF",
+  "region_name": "bf-nao",
+  "region_normalized": "bf-nao",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "JP-18",
+  "country_iso": "JP",
+  "country_name": "JP",
+  "region_name": "jp-18",
+  "region_normalized": "jp-18",
+  "flag": {
+    "svg": "JP/JP-18/flag.svg",
+    "source": "Flag of Fukui Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-18/coat.svg",
+    "source": "Emblem of Fukui Prefecture.svg"
+  },
+  "data_source": "out"
+}

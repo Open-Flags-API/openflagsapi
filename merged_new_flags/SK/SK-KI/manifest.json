@@ -1,0 +1,16 @@
+{
+  "iso_code": "SK-KI",
+  "country_iso": "SK",
+  "country_name": "SK",
+  "region_name": "sk-ki",
+  "region_normalized": "sk-ki",
+  "flag": {
+    "svg": "SK/SK-KI/flag.svg",
+    "source": "Kosicky vlajka.svg"
+  },
+  "coat": {
+    "svg": "SK/SK-KI/coat.svg",
+    "source": "Coat of Arms of Košice Region.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "ES-TE",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-TE/flag.svg",
+    "png": "ES/ES-TE/flag.png",
+    "source_filename": "Flag of Teruel (province).svg"
+  },
+  "coat": {
+    "svg": "ES/ES-TE/coat.svg",
+    "png": "ES/ES-TE/coat.png",
+    "source_filename": "Escudo de la Provincia de Teruel.svg"
+  }
+}

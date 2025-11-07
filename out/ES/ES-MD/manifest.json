@@ -1,0 +1,14 @@
+{
+  "code": "ES-MD",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-MD/flag.svg",
+    "png": "ES/ES-MD/flag.png",
+    "source_filename": "Flag of the Community of Madrid.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-MD/coat.svg",
+    "png": "ES/ES-MD/coat.png",
+    "source_filename": "Escudo de la Comunidad de Madrid (oficial).svg"
+  }
+}

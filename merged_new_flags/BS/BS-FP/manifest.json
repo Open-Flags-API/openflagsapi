@@ -1,0 +1,16 @@
+{
+  "iso_code": "BS-FP",
+  "country_iso": "BS",
+  "country_name": "BS",
+  "region_name": "bs-fp",
+  "region_normalized": "bs-fp",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Grand Bahama-2.jpg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

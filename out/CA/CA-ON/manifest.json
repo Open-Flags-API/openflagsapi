@@ -1,0 +1,14 @@
+{
+  "code": "CA-ON",
+  "country": "CA",
+  "flag": {
+    "svg": "CA/CA-ON/flag.svg",
+    "png": "CA/CA-ON/flag.png",
+    "source_filename": "Flag of Ontario.svg"
+  },
+  "coat": {
+    "svg": "CA/CA-ON/coat.svg",
+    "png": "CA/CA-ON/coat.png",
+    "source_filename": "Coat of arms of Ontario.svg"
+  }
+}

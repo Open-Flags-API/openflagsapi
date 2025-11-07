@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-CAU",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-cau",
+  "region_normalized": "co-cau",
+  "flag": {
+    "svg": "CO/CO-CAU/flag.svg",
+    "source": "Flag of Cauca.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-CAU/coat.svg",
+    "source": "Escudo del Cauca.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-55",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-55",
+  "region_normalized": "it-55",
+  "flag": {
+    "svg": "IT/IT-55/flag.svg",
+    "source": "Flag of Umbria.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-55/coat.svg",
+    "source": "Regione-Umbria-Stemma.svg"
+  },
+  "data_source": "out"
+}

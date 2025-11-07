@@ -1,0 +1,14 @@
+{
+  "code": "IE-G",
+  "country": "IE",
+  "flag": {
+    "svg": "IE/IE-G/flag.svg",
+    "png": "IE/IE-G/flag.png",
+    "source_filename": "Flag of the Counties of Westmeath and Galway.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "IE/IE-G/coat.png",
+    "source_filename": "Logogalwayco.png"
+  }
+}

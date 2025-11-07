@@ -1,0 +1,14 @@
+{
+  "code": "US-VT",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-VT/flag.svg",
+    "png": "US/US-VT/flag.png",
+    "source_filename": "Flag of Vermont.svg"
+  },
+  "coat": {
+    "svg": "US/US-VT/coat.svg",
+    "png": "US/US-VT/coat.png",
+    "source_filename": "Coat of arms of Vermont.svg"
+  }
+}

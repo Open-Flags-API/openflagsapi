@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-MAD",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-mad",
+  "region_normalized": "ph-mad",
+  "flag": {
+    "svg": null,
+    "source": "PH-MAD Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Ph seal marinduque.png"
+  },
+  "data_source": "out"
+}

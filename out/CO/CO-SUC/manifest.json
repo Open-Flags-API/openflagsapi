@@ -1,0 +1,14 @@
+{
+  "code": "CO-SUC",
+  "country": "CO",
+  "flag": {
+    "svg": "CO/CO-SUC/flag.svg",
+    "png": "CO/CO-SUC/flag.png",
+    "source_filename": "Flag of Sucre (Colombia).svg"
+  },
+  "coat": {
+    "svg": "CO/CO-SUC/coat.svg",
+    "png": "CO/CO-SUC/coat.png",
+    "source_filename": "Escudo de Sucre.svg"
+  }
+}

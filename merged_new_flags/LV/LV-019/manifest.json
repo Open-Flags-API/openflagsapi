@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-019",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-019",
+  "region_normalized": "lv-019",
+  "flag": {
+    "svg": "LV/LV-019/flag.svg",
+    "source": "Flag of Burtnieki Municipality.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-019/coat.svg",
+    "source": "Burtnieku novads COA.svg"
+  },
+  "data_source": "out"
+}

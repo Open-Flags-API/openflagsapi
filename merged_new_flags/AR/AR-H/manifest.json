@@ -1,0 +1,16 @@
+{
+  "iso_code": "AR-H",
+  "country_iso": "AR",
+  "country_name": "AR",
+  "region_name": "ar-h",
+  "region_normalized": "ar-h",
+  "flag": {
+    "svg": "AR/AR-H/flag.svg",
+    "source": "Bandera de la Provincia del Chaco.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-H/coat.svg",
+    "source": "Escudo de la Provincia del Chaco.svg"
+  },
+  "data_source": "out"
+}

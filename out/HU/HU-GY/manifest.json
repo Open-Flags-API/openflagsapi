@@ -1,0 +1,14 @@
+{
+  "code": "HU-GY",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-GY/flag.svg",
+    "png": "HU/HU-GY/flag.png",
+    "source_filename": "Flag of Győr.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-GY/coat.svg",
+    "png": "HU/HU-GY/coat.png",
+    "source_filename": "HUN Győr Címer.svg"
+  }
+}

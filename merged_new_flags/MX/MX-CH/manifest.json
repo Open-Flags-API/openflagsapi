@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-CH",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "chihuahua",
+  "region_normalized": "chihuahua",
+  "flag": {
+    "svg": "MX/MX-CH/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

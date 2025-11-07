@@ -1,0 +1,16 @@
+{
+  "iso_code": "CH-SG",
+  "country_iso": "CH",
+  "country_name": "CH",
+  "region_name": "ch-sg",
+  "region_normalized": "ch-sg",
+  "flag": {
+    "svg": "CH/CH-SG/flag.svg",
+    "source": "Flag of Canton of Sankt Gallen.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-SG/coat.svg",
+    "source": "Coat of arms of canton of St. Gallen.svg"
+  },
+  "data_source": "out"
+}

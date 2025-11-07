@@ -1,0 +1,16 @@
+{
+  "iso_code": "MD-CM",
+  "country_iso": "MD",
+  "country_name": "MD",
+  "region_name": "md-cm",
+  "region_normalized": "md-cm",
+  "flag": {
+    "svg": null,
+    "source": "Cimislia flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

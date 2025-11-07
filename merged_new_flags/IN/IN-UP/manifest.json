@@ -1,0 +1,16 @@
+{
+  "iso_code": "IN-UP",
+  "country_iso": "IN",
+  "country_name": "IN",
+  "region_name": "in-up",
+  "region_normalized": "in-up",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IN/IN-UP/coat.svg",
+    "source": "Seal of Uttar Pradesh.svg"
+  },
+  "data_source": "out"
+}

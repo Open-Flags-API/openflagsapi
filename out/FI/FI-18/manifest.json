@@ -1,0 +1,14 @@
+{
+  "code": "FI-18",
+  "country": "FI",
+  "flag": {
+    "svg": "FI/FI-18/flag.svg",
+    "png": "FI/FI-18/flag.png",
+    "source_filename": "Flag of Uusimaa.svg"
+  },
+  "coat": {
+    "svg": "FI/FI-18/coat.svg",
+    "png": "FI/FI-18/coat.png",
+    "source_filename": "Uusimaa.vaakuna.svg"
+  }
+}

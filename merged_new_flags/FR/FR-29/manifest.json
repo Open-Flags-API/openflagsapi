@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-29",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-29",
+  "region_normalized": "fr-29",
+  "flag": {
+    "svg": "FR/FR-29/flag.svg",
+    "source": "Drapeau Finistère.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-29/coat.svg",
+    "source": "Blason29.svg"
+  },
+  "data_source": "out"
+}

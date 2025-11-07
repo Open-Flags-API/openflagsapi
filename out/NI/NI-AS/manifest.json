@@ -1,0 +1,14 @@
+{
+  "code": "NI-AS",
+  "country": "NI",
+  "flag": {
+    "svg": "NI/NI-AS/flag.svg",
+    "png": "NI/NI-AS/flag.png",
+    "source_filename": "Flag of Region Autonoma Atlantico Sur.svg"
+  },
+  "coat": {
+    "svg": "NI/NI-AS/coat.svg",
+    "png": "NI/NI-AS/coat.png",
+    "source_filename": "Seal of Region Autonoma del Atlantico Sur.svg"
+  }
+}

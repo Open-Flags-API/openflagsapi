@@ -1,0 +1,16 @@
+{
+  "iso_code": "ZA-MP",
+  "country_iso": "ZA",
+  "country_name": "ZA",
+  "region_name": "za-mp",
+  "region_normalized": "za-mp",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Mpumalanga Province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

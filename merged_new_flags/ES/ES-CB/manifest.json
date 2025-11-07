@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-CB",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-cb",
+  "region_normalized": "es-cb",
+  "flag": {
+    "svg": "ES/ES-CB/flag.svg",
+    "source": "Flag of Cantabria (Official).svg"
+  },
+  "coat": {
+    "svg": "ES/ES-CB/coat.svg",
+    "source": "Escudo de Cantabria (oficial).svg"
+  },
+  "data_source": "out"
+}

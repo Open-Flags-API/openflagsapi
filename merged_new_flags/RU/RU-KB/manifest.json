@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-KB",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-kb",
+  "region_normalized": "ru-kb",
+  "flag": {
+    "svg": "RU/RU-KB/flag.svg",
+    "source": "Flag of Kabardino-Balkaria (large).svg"
+  },
+  "coat": {
+    "svg": "RU/RU-KB/coat.svg",
+    "source": "Coat of arms of Kabardino-Balkaria.svg"
+  },
+  "data_source": "out"
+}

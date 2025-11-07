@@ -1,0 +1,14 @@
+{
+  "code": "SV-US",
+  "country": "SV",
+  "flag": {
+    "svg": "SV/SV-US/flag.svg",
+    "png": "SV/SV-US/flag.png",
+    "source_filename": "Flag of Usulatán Department.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "SV/SV-US/coat.png",
+    "source_filename": "Usulután.png"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "code": "MU-RO",
+  "country": "MU",
+  "flag": {
+    "svg": "MU/MU-RO/flag.svg",
+    "png": "MU/MU-RO/flag.png",
+    "source_filename": "Flag of Rodrigues.svg"
+  },
+  "coat": {
+    "svg": "MU/MU-RO/coat.svg",
+    "png": "MU/MU-RO/coat.png",
+    "source_filename": "Coat of Arms of Rodrigues.svg"
+  }
+}

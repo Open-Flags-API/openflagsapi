@@ -1,0 +1,16 @@
+{
+  "iso_code": "HR-15",
+  "country_iso": "HR",
+  "country_name": "HR",
+  "region_name": "hr-15",
+  "region_normalized": "hr-15",
+  "flag": {
+    "svg": "HR/HR-15/flag.svg",
+    "source": "Flag of Šibenik County.svg"
+  },
+  "coat": {
+    "svg": "HR/HR-15/coat.svg",
+    "source": "Coat of arms of Šibenik County.svg"
+  },
+  "data_source": "out"
+}

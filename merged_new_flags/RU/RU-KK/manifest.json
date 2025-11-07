@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-KK",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-kk",
+  "region_normalized": "ru-kk",
+  "flag": {
+    "svg": "RU/RU-KK/flag.svg",
+    "source": "Flag of Khakassia.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-KK/coat.svg",
+    "source": "Coat of arms of Khakassia.svg"
+  },
+  "data_source": "out"
+}

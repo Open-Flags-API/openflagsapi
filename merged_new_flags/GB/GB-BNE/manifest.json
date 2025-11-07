@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-BNE",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-bne",
+  "region_normalized": "gb-bne",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-BNE/coat.svg",
+    "source": "Coat of arms of the London Borough of Barnet.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "CV-PR",
+  "country_iso": "CV",
+  "country_name": "CV",
+  "region_name": "cv-pr",
+  "region_normalized": "cv-pr",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "CV/CV-PR/coat.svg",
+    "source": "Coat of Arms of Praia.svg"
+  },
+  "data_source": "out"
+}

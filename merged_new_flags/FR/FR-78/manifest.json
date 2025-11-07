@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-78",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-78",
+  "region_normalized": "fr-78",
+  "flag": {
+    "svg": "FR/FR-78/flag.svg",
+    "source": "Drapeau fr département Yvelines.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-78/coat.svg",
+    "source": "Blason département fr Yvelines.svg"
+  },
+  "data_source": "out"
+}

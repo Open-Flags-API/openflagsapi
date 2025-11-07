@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-076",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-076",
+  "region_normalized": "lv-076",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Raunas novads.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "LVA Raunas novads COA.png"
+  },
+  "data_source": "out"
+}

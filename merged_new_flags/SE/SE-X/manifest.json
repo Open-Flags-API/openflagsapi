@@ -1,0 +1,16 @@
+{
+  "iso_code": "SE-X",
+  "country_iso": "SE",
+  "country_name": "SE",
+  "region_name": "se-x",
+  "region_normalized": "se-x",
+  "flag": {
+    "svg": "SE/SE-X/flag.svg",
+    "source": "Gävleborgs län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-X/coat.svg",
+    "source": "Gävleborg län vapen.svg"
+  },
+  "data_source": "out"
+}

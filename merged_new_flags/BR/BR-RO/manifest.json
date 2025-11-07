@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-RO",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "br-ro",
+  "region_normalized": "br-ro",
+  "flag": {
+    "svg": "BR/BR-RO/flag.svg",
+    "source": "Bandeira de Rondônia.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-RO/coat.svg",
+    "source": "Brasão de Rondônia.svg"
+  },
+  "data_source": "out"
+}

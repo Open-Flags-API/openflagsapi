@@ -1,0 +1,14 @@
+{
+  "code": "CR-A",
+  "country": "CR",
+  "flag": {
+    "svg": "CR/CR-A/flag.svg",
+    "png": "CR/CR-A/flag.png",
+    "source_filename": "Bandera de la Provincia de Alajuela.svg"
+  },
+  "coat": {
+    "svg": "CR/CR-A/coat.svg",
+    "png": "CR/CR-A/coat.png",
+    "source_filename": "Escudo de la Provincia de Alajuela.svg"
+  }
+}

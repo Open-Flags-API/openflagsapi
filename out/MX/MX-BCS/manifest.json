@@ -1,0 +1,14 @@
+{
+  "code": "MX-BCS",
+  "country": "MX",
+  "flag": {
+    "svg": "MX/MX-BCS/flag.svg",
+    "png": "MX/MX-BCS/flag.png",
+    "source_filename": "Flag of Baja California Sur.svg"
+  },
+  "coat": {
+    "svg": "MX/MX-BCS/coat.svg",
+    "png": "MX/MX-BCS/coat.png",
+    "source_filename": "Coat of arms of Baja California Sur.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "CL-MA",
+  "country_iso": "CL",
+  "country_name": "CL",
+  "region_name": "cl-ma",
+  "region_normalized": "cl-ma",
+  "flag": {
+    "svg": "CL/CL-MA/flag.svg",
+    "source": "Flag of Magallanes y la Antártica Chilena, Chile.svg"
+  },
+  "coat": {
+    "svg": "CL/CL-MA/coat.svg",
+    "source": "Coat of Arms of Magallanes Region.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "CA-YU",
+  "country_iso": "CA",
+  "country_name": "canada",
+  "region_name": "yukon",
+  "region_normalized": "yukon",
+  "flag": {
+    "svg": "CA/CA-YU/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

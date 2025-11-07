@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-AR",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-ar",
+  "region_normalized": "us-ar",
+  "flag": {
+    "svg": "US/US-AR/flag.svg",
+    "source": "Flag of Arkansas.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

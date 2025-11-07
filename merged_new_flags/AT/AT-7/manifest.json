@@ -1,0 +1,16 @@
+{
+  "iso_code": "AT-7",
+  "country_iso": "AT",
+  "country_name": "AT",
+  "region_name": "at-7",
+  "region_normalized": "at-7",
+  "flag": {
+    "svg": "AT/AT-7/flag.svg",
+    "source": "Flag of Tirol (state).svg"
+  },
+  "coat": {
+    "svg": "AT/AT-7/coat.svg",
+    "source": "AUT Tirol COA.svg"
+  },
+  "data_source": "out"
+}

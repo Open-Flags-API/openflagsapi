@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-031",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-031",
+  "region_normalized": "lv-031",
+  "flag": {
+    "svg": "LV/LV-031/flag.svg",
+    "source": "Flag of Garkalne Municipality.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "LVA Garkalnes novads COA.png"
+  },
+  "data_source": "out"
+}

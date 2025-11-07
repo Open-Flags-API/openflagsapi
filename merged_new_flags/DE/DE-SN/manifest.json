@@ -1,0 +1,16 @@
+{
+  "iso_code": "DE-SN",
+  "country_iso": "DE",
+  "country_name": "germany",
+  "region_name": "de-sn",
+  "region_normalized": "de-sn",
+  "flag": {
+    "svg": "DE/DE-SN/flag.svg",
+    "source": "Flag of Saxony.svg"
+  },
+  "coat": {
+    "svg": "DE/DE-SN/coat.svg",
+    "source": "Coat of arms of Saxony.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "GB-IOW",
+  "country": "GB",
+  "flag": {
+    "svg": "GB/GB-IOW/flag.svg",
+    "png": "GB/GB-IOW/flag.png",
+    "source_filename": "Flag of the Isle of Wight.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-IOW/coat.svg",
+    "png": "GB/GB-IOW/coat.png",
+    "source_filename": "Arms of Isle of Wight Council.svg"
+  }
+}

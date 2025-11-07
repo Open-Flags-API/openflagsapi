@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-COR",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-cor",
+  "region_normalized": "co-cor",
+  "flag": {
+    "svg": "CO/CO-COR/flag.svg",
+    "source": "Flag of Córdoba.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-COR/coat.svg",
+    "source": "Escudo oficial de Córdoba (Colombia).svg"
+  },
+  "data_source": "out"
+}

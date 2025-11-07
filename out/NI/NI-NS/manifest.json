@@ -1,0 +1,14 @@
+{
+  "code": "NI-NS",
+  "country": "NI",
+  "flag": {
+    "svg": "NI/NI-NS/flag.svg",
+    "png": "NI/NI-NS/flag.png",
+    "source_filename": "Flag of Nueva Segovia.svg"
+  },
+  "coat": {
+    "svg": "NI/NI-NS/coat.svg",
+    "png": "NI/NI-NS/coat.png",
+    "source_filename": "Seal of Nueva Segovia.svg"
+  }
+}

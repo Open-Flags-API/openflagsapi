@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-ARA",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-ara",
+  "region_normalized": "co-ara",
+  "flag": {
+    "svg": "CO/CO-ARA/flag.svg",
+    "source": "Flag of Arauca.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-ARA/coat.svg",
+    "source": "Escudo de Arauca.svg"
+  },
+  "data_source": "out"
+}

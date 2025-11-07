@@ -1,0 +1,14 @@
+{
+  "code": "HU-TO",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-TO/flag.svg",
+    "png": "HU/HU-TO/flag.png",
+    "source_filename": "FLAG-Tolna-megye.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "HU/HU-TO/coat.png",
+    "source_filename": "HUN Tolna megye COA.png"
+  }
+}

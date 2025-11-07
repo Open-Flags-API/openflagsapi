@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-TR",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-tr",
+  "region_normalized": "it-tr",
+  "flag": {
+    "svg": "IT/IT-TR/flag.svg",
+    "source": "Flag of the province of Terni.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-TR/coat.svg",
+    "source": "Provincia di Terni-Stemma.svg"
+  },
+  "data_source": "out"
+}

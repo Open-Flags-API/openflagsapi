@@ -1,0 +1,14 @@
+{
+  "code": "HR-04",
+  "country": "HR",
+  "flag": {
+    "svg": "HR/HR-04/flag.svg",
+    "png": "HR/HR-04/flag.png",
+    "source_filename": "Flag of Karlovac county.svg"
+  },
+  "coat": {
+    "svg": "HR/HR-04/coat.svg",
+    "png": "HR/HR-04/coat.png",
+    "source_filename": "Coat of Arms of Karlovac county.svg"
+  }
+}

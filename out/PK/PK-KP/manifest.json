@@ -1,0 +1,14 @@
+{
+  "code": "PK-KP",
+  "country": "PK",
+  "flag": {
+    "svg": "PK/PK-KP/flag.svg",
+    "png": "PK/PK-KP/flag.png",
+    "source_filename": "Flag of Khyber Pakhtunkhwa.svg"
+  },
+  "coat": {
+    "svg": "PK/PK-KP/coat.svg",
+    "png": "PK/PK-KP/coat.png",
+    "source_filename": "Coat of arms of Khyber Pakhtunkhwa.svg"
+  }
+}

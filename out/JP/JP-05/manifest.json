@@ -1,0 +1,14 @@
+{
+  "code": "JP-05",
+  "country": "JP",
+  "flag": {
+    "svg": "JP/JP-05/flag.svg",
+    "png": "JP/JP-05/flag.png",
+    "source_filename": "Flag of Akita Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-05/coat.svg",
+    "png": "JP/JP-05/coat.png",
+    "source_filename": "Emblem of Akita Prefecture.svg"
+  }
+}

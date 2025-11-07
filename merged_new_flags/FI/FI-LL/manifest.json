@@ -1,0 +1,16 @@
+{
+  "iso_code": "FI-LL",
+  "country_iso": "FI",
+  "country_name": "FI",
+  "region_name": "fi-ll",
+  "region_normalized": "fi-ll",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "FI/FI-LL/coat.svg",
+    "source": "Lapin läänin vaakuna.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-MRT",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-mrt",
+  "region_normalized": "gb-mrt",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-MRT/coat.svg",
+    "source": "Coat of arms of the London Borough of Merton.svg"
+  },
+  "data_source": "out"
+}

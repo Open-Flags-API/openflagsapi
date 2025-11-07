@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-21",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-21",
+  "region_normalized": "th-21",
+  "flag": {
+    "svg": "TH/TH-21/flag.svg",
+    "source": "Flag of Rayong.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "GB-WAR",
+  "country": "GB",
+  "flag": {
+    "svg": "GB/GB-WAR/flag.svg",
+    "png": "GB/GB-WAR/flag.png",
+    "source_filename": "Flag of Warwickshire.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-WAR/coat.svg",
+    "png": "GB/GB-WAR/coat.png",
+    "source_filename": "Arms of Warwickshire County Council.svg"
+  }
+}

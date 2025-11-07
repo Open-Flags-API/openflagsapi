@@ -1,0 +1,16 @@
+{
+  "iso_code": "GR-J",
+  "country_iso": "GR",
+  "country_name": "GR",
+  "region_name": "gr-j",
+  "region_normalized": "gr-j",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GR/GR-J/coat.svg",
+    "source": "Coat of Arms of Greece (Ministries).svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "SV-CH",
+  "country_iso": "SV",
+  "country_name": "SV",
+  "region_name": "sv-ch",
+  "region_normalized": "sv-ch",
+  "flag": {
+    "svg": "SV/SV-CH/flag.svg",
+    "source": "Flag of Chalatenango.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

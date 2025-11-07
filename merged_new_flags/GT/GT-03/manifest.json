@@ -1,0 +1,16 @@
+{
+  "iso_code": "GT-03",
+  "country_iso": "GT",
+  "country_name": "GT",
+  "region_name": "gt-03",
+  "region_normalized": "gt-03",
+  "flag": {
+    "svg": "GT/GT-03/flag.svg",
+    "source": "Bandera de Sacatepéquez.svg"
+  },
+  "coat": {
+    "svg": "GT/GT-03/coat.svg",
+    "source": "Escudo de armas de Sacatepéquez.svg"
+  },
+  "data_source": "out"
+}

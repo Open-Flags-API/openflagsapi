@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-BI",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-bi",
+  "region_normalized": "it-bi",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IT/IT-BI/coat.svg",
+    "source": "Provincia di Biella-Stemma.svg"
+  },
+  "data_source": "out"
+}

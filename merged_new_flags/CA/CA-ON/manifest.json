@@ -1,0 +1,16 @@
+{
+  "iso_code": "CA-ON",
+  "country_iso": "CA",
+  "country_name": "canada",
+  "region_name": "ca-on",
+  "region_normalized": "ca-on",
+  "flag": {
+    "svg": "CA/CA-ON/flag.svg",
+    "source": "Flag of Ontario.svg"
+  },
+  "coat": {
+    "svg": "CA/CA-ON/coat.svg",
+    "source": "Coat of arms of Ontario.svg"
+  },
+  "data_source": "out"
+}

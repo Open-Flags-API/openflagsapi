@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-DU",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "durham",
+  "region_normalized": "durham",
+  "flag": {
+    "svg": "GB/GB-DU/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

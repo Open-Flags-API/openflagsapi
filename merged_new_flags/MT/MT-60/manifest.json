@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-60",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-60",
+  "region_normalized": "mt-60",
+  "flag": {
+    "svg": "MT/MT-60/flag.svg",
+    "source": "Flag of Valletta, Malta.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-60/coat.svg",
+    "source": "Insigne Valettae coronatum.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "AT-2",
+  "country": "AT",
+  "flag": {
+    "svg": "AT/AT-2/flag.svg",
+    "png": "AT/AT-2/flag.png",
+    "source_filename": "Flag of Carinthia.svg"
+  },
+  "coat": {
+    "svg": "AT/AT-2/coat.svg",
+    "png": "AT/AT-2/coat.png",
+    "source_filename": "Kaernten CoA.svg"
+  }
+}

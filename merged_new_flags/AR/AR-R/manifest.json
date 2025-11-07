@@ -1,0 +1,16 @@
+{
+  "iso_code": "AR-R",
+  "country_iso": "AR",
+  "country_name": "AR",
+  "region_name": "ar-r",
+  "region_normalized": "ar-r",
+  "flag": {
+    "svg": "AR/AR-R/flag.svg",
+    "source": "Bandera de la Provincia del Río Negro.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-R/coat.svg",
+    "source": "Escudo de la Provincia del Río Negro.svg"
+  },
+  "data_source": "out"
+}

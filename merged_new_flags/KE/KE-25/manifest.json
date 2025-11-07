@@ -1,0 +1,16 @@
+{
+  "iso_code": "KE-25",
+  "country_iso": "KE",
+  "country_name": "KE",
+  "region_name": "ke-25",
+  "region_normalized": "ke-25",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Marsabit County.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of Arms of Marsabit County.png"
+  },
+  "data_source": "out"
+}

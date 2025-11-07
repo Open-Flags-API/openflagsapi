@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-CAS",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-cas",
+  "region_normalized": "co-cas",
+  "flag": {
+    "svg": "CO/CO-CAS/flag.svg",
+    "source": "Flag of Casanare.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-CAS/coat.svg",
+    "source": "Escudo de Casanare.svg"
+  },
+  "data_source": "out"
+}

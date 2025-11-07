@@ -1,0 +1,16 @@
+{
+  "iso_code": "UY-SO",
+  "country_iso": "UY",
+  "country_name": "UY",
+  "region_name": "uy-so",
+  "region_normalized": "uy-so",
+  "flag": {
+    "svg": "UY/UY-SO/flag.svg",
+    "source": "Flag of Soriano Department.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Soriano Department.png"
+  },
+  "data_source": "out"
+}

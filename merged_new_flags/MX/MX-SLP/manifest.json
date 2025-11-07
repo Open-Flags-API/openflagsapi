@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-SLP",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "mx-slp",
+  "region_normalized": "mx-slp",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "MX/MX-SLP/coat.svg",
+    "source": "Coat of arms of San Luis Potosi.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-AGN",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-agn",
+  "region_normalized": "ph-agn",
+  "flag": {
+    "svg": null,
+    "source": "Vlag Fil AgusandelNorte.gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

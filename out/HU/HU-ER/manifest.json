@@ -1,0 +1,14 @@
+{
+  "code": "HU-ER",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-ER/flag.svg",
+    "png": "HU/HU-ER/flag.png",
+    "source_filename": "Flag of Érd.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-ER/coat.svg",
+    "png": "HU/HU-ER/coat.png",
+    "source_filename": "Coat of arms of Érd.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "KP-01",
+  "country_iso": "KP",
+  "country_name": "KP",
+  "region_name": "kp-01",
+  "region_normalized": "kp-01",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

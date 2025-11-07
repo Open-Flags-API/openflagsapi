@@ -1,0 +1,16 @@
+{
+  "iso_code": "NI-NS",
+  "country_iso": "NI",
+  "country_name": "NI",
+  "region_name": "ni-ns",
+  "region_normalized": "ni-ns",
+  "flag": {
+    "svg": "NI/NI-NS/flag.svg",
+    "source": "Flag of Nueva Segovia.svg"
+  },
+  "coat": {
+    "svg": "NI/NI-NS/coat.svg",
+    "source": "Seal of Nueva Segovia.svg"
+  },
+  "data_source": "out"
+}

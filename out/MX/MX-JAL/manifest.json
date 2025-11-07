@@ -1,0 +1,14 @@
+{
+  "code": "MX-JAL",
+  "country": "MX",
+  "flag": {
+    "svg": "MX/MX-JAL/flag.svg",
+    "png": "MX/MX-JAL/flag.png",
+    "source_filename": "Flag of Jalisco.svg"
+  },
+  "coat": {
+    "svg": "MX/MX-JAL/coat.svg",
+    "png": "MX/MX-JAL/coat.png",
+    "source_filename": "Coat of arms of Jalisco.svg"
+  }
+}

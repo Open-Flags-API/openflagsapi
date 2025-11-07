@@ -1,0 +1,14 @@
+{
+  "code": "BY-VI",
+  "country": "BY",
+  "flag": {
+    "svg": "BY/BY-VI/flag.svg",
+    "png": "BY/BY-VI/flag.png",
+    "source_filename": "Flag of Vitsebsk region.svg"
+  },
+  "coat": {
+    "svg": "BY/BY-VI/coat.svg",
+    "png": "BY/BY-VI/coat.png",
+    "source_filename": "Coat of Arms of Vitsebsk Voblasts.svg"
+  }
+}

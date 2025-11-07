@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-101",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-101",
+  "region_normalized": "lv-101",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Valkas novads.png"
+  },
+  "coat": {
+    "svg": "LV/LV-101/coat.svg",
+    "source": "Valkas novads COA.svg"
+  },
+  "data_source": "out"
+}

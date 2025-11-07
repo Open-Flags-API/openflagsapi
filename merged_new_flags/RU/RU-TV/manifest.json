@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-TV",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "tver",
+  "region_normalized": "tver",
+  "flag": {
+    "svg": "RU/RU-TV/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

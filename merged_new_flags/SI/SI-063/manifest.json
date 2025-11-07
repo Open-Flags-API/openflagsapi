@@ -1,0 +1,16 @@
+{
+  "iso_code": "SI-063",
+  "country_iso": "SI",
+  "country_name": "SI",
+  "region_name": "si-063",
+  "region_normalized": "si-063",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Ljutomer grb.png"
+  },
+  "data_source": "out"
+}

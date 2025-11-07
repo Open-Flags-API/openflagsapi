@@ -1,0 +1,14 @@
+{
+  "code": "PE-PUN",
+  "country": "PE",
+  "flag": {
+    "svg": "PE/PE-PUN/flag.svg",
+    "png": "PE/PE-PUN/flag.png",
+    "source_filename": "Bandera Región Puno.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "PE/PE-PUN/coat.png",
+    "source_filename": "Escudo regional Puno.png"
+  }
+}

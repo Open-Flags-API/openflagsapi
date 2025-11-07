@@ -1,0 +1,16 @@
+{
+  "iso_code": "PL-08",
+  "country_iso": "PL",
+  "country_name": "PL",
+  "region_name": "pl-08",
+  "region_normalized": "pl-08",
+  "flag": {
+    "svg": "PL/PL-08/flag.svg",
+    "source": "POL województwo lubuskie flag.svg"
+  },
+  "coat": {
+    "svg": "PL/PL-08/coat.svg",
+    "source": "POL województwo lubuskie COA.svg"
+  },
+  "data_source": "out"
+}

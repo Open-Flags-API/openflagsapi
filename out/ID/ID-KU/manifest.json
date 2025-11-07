@@ -1,0 +1,14 @@
+{
+  "code": "ID-KU",
+  "country": "ID",
+  "flag": {
+    "svg": "ID/ID-KU/flag.svg",
+    "png": "ID/ID-KU/flag.png",
+    "source_filename": "Flag of North Kalimantan.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-KU/coat.svg",
+    "png": "ID/ID-KU/coat.png",
+    "source_filename": "Coat of arms of North Kalimantan (2021 version).svg"
+  }
+}

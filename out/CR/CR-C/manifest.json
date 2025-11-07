@@ -1,0 +1,14 @@
+{
+  "code": "CR-C",
+  "country": "CR",
+  "flag": {
+    "svg": "CR/CR-C/flag.svg",
+    "png": "CR/CR-C/flag.png",
+    "source_filename": "Bandera de la Provincia de Cartago.svg"
+  },
+  "coat": {
+    "svg": "CR/CR-C/coat.svg",
+    "png": "CR/CR-C/coat.png",
+    "source_filename": "Escudo de la Provincia de Cartago.svg"
+  }
+}

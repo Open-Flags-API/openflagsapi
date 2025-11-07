@@ -1,0 +1,14 @@
+{
+  "code": "IE-KY",
+  "country": "IE",
+  "flag": {
+    "svg": "IE/IE-KY/flag.svg",
+    "png": "IE/IE-KY/flag.png",
+    "source_filename": "Flag of county Kerry.svg"
+  },
+  "coat": {
+    "svg": "IE/IE-KY/coat.svg",
+    "png": "IE/IE-KY/coat.png",
+    "source_filename": "Kerrycocologo.svg"
+  }
+}

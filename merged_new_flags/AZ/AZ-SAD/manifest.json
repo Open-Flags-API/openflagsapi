@@ -1,0 +1,16 @@
+{
+  "iso_code": "AZ-SAD",
+  "country_iso": "AZ",
+  "country_name": "AZ",
+  "region_name": "az-sad",
+  "region_normalized": "az-sad",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

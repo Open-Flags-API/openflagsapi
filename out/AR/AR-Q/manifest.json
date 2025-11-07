@@ -1,0 +1,14 @@
+{
+  "code": "AR-Q",
+  "country": "AR",
+  "flag": {
+    "svg": "AR/AR-Q/flag.svg",
+    "png": "AR/AR-Q/flag.png",
+    "source_filename": "Bandera de la Provincia del Neuquen.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-Q/coat.svg",
+    "png": "AR/AR-Q/coat.png",
+    "source_filename": "Escudo de la Provincia de Neuquén.svg"
+  }
+}

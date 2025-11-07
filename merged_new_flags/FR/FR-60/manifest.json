@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-60",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-60",
+  "region_normalized": "fr-60",
+  "flag": {
+    "svg": "FR/FR-60/flag.svg",
+    "source": "Drapeau fr département Oise.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-60/coat.svg",
+    "source": "Blason département fr Oise.svg"
+  },
+  "data_source": "out"
+}

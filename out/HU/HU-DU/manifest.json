@@ -1,0 +1,14 @@
+{
+  "code": "HU-DU",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-DU/flag.svg",
+    "png": "HU/HU-DU/flag.png",
+    "source_filename": "Flag of Dunaújváros.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-DU/coat.svg",
+    "png": "HU/HU-DU/coat.png",
+    "source_filename": "Dunaújváros.svg"
+  }
+}

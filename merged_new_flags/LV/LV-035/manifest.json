@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-035",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-035",
+  "region_normalized": "lv-035",
+  "flag": {
+    "svg": null,
+    "source": "Ikšķiles novada karogs.png"
+  },
+  "coat": {
+    "svg": "LV/LV-035/coat.svg",
+    "source": "Coat of Arms of Ikšķiles novads.svg"
+  },
+  "data_source": "out"
+}

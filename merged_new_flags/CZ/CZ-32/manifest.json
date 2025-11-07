@@ -1,0 +1,16 @@
+{
+  "iso_code": "CZ-32",
+  "country_iso": "CZ",
+  "country_name": "CZ",
+  "region_name": "cz-32",
+  "region_normalized": "cz-32",
+  "flag": {
+    "svg": "CZ/CZ-32/flag.svg",
+    "source": "Flag of Plzen Region.svg"
+  },
+  "coat": {
+    "svg": "CZ/CZ-32/coat.svg",
+    "source": "Plzen Region CoA CZ.svg"
+  },
+  "data_source": "out"
+}

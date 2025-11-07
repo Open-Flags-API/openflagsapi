@@ -1,0 +1,16 @@
+{
+  "iso_code": "PK-SD",
+  "country_iso": "PK",
+  "country_name": "PK",
+  "region_name": "pk-sd",
+  "region_normalized": "pk-sd",
+  "flag": {
+    "svg": "PK/PK-SD/flag.svg",
+    "source": "Flag of Sindh.svg"
+  },
+  "coat": {
+    "svg": "PK/PK-SD/coat.svg",
+    "source": "Coat of arms of Sindh Province.svg"
+  },
+  "data_source": "out"
+}

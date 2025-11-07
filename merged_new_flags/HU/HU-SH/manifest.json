@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-SH",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-sh",
+  "region_normalized": "hu-sh",
+  "flag": {
+    "svg": "HU/HU-SH/flag.svg",
+    "source": "Flag of Szombathely.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-SH/coat.svg",
+    "source": "HUN Szombathely Címer.svg"
+  },
+  "data_source": "out"
+}

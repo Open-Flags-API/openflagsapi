@@ -1,0 +1,16 @@
+{
+  "iso_code": "VE-R",
+  "country_iso": "VE",
+  "country_name": "VE",
+  "region_name": "ve-r",
+  "region_normalized": "ve-r",
+  "flag": {
+    "svg": "VE/VE-R/flag.svg",
+    "source": "Flag of Sucre State.svg"
+  },
+  "coat": {
+    "svg": "VE/VE-R/coat.svg",
+    "source": "Escudo del Estado Sucre.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "IT-VA",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-VA/flag.svg",
+    "png": "IT/IT-VA/flag.png",
+    "source_filename": "Flag of the Province of Varese.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-VA/coat.svg",
+    "png": "IT/IT-VA/coat.png",
+    "source_filename": "Provincia di Varese-Stemma.svg"
+  }
+}

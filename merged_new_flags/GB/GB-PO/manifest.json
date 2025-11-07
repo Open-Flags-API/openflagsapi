@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-PO",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "portsmouth",
+  "region_normalized": "portsmouth",
+  "flag": {
+    "svg": "GB/GB-PO/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

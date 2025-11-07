@@ -1,0 +1,16 @@
+{
+  "iso_code": "EE-74",
+  "country_iso": "EE",
+  "country_name": "EE",
+  "region_name": "ee-74",
+  "region_normalized": "ee-74",
+  "flag": {
+    "svg": "EE/EE-74/flag.svg",
+    "source": "Saaremaa lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-74/coat.svg",
+    "source": "Saaremaa vapp.svg"
+  },
+  "data_source": "out"
+}

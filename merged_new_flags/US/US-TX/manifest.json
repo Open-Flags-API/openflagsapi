@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-TX",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-tx",
+  "region_normalized": "us-tx",
+  "flag": {
+    "svg": "US/US-TX/flag.svg",
+    "source": "Flag of Texas.svg"
+  },
+  "coat": {
+    "svg": "US/US-TX/coat.svg",
+    "source": "Coat of arms of the Republic of Texas.svg"
+  },
+  "data_source": "out"
+}

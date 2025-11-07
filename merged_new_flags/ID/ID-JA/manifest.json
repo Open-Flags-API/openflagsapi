@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-JA",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "id-ja",
+  "region_normalized": "id-ja",
+  "flag": {
+    "svg": "ID/ID-JA/flag.svg",
+    "source": "Flag of Jambi.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-JA/coat.svg",
+    "source": "Coat of arms of Jambi.svg"
+  },
+  "data_source": "out"
+}

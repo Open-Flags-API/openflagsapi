@@ -1,0 +1,14 @@
+{
+  "code": "HR-20",
+  "country": "HR",
+  "flag": {
+    "svg": "HR/HR-20/flag.svg",
+    "png": "HR/HR-20/flag.png",
+    "source_filename": "Flag of Medjimurje.svg"
+  },
+  "coat": {
+    "svg": "HR/HR-20/coat.svg",
+    "png": "HR/HR-20/coat.png",
+    "source_filename": "Međimurska županija (grb).svg"
+  }
+}

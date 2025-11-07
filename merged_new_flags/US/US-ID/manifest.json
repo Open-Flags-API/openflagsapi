@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-ID",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-id",
+  "region_normalized": "us-id",
+  "flag": {
+    "svg": "US/US-ID/flag.svg",
+    "source": "Flag of Idaho.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

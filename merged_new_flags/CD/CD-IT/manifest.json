@@ -1,0 +1,16 @@
+{
+  "iso_code": "CD-IT",
+  "country_iso": "CD",
+  "country_name": "CD",
+  "region_name": "cd-it",
+  "region_normalized": "cd-it",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

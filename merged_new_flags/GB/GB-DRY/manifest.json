@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-DRY",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-dry",
+  "region_normalized": "gb-dry",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

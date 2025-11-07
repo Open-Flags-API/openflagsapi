@@ -1,0 +1,14 @@
+{
+  "code": "HN-CP",
+  "country": "HN",
+  "flag": {
+    "svg": "HN/HN-CP/flag.svg",
+    "png": "HN/HN-CP/flag.png",
+    "source_filename": "Bandera de Copán.svg"
+  },
+  "coat": {
+    "svg": "HN/HN-CP/coat.svg",
+    "png": "HN/HN-CP/coat.png",
+    "source_filename": "Glifo emblema de Copán.svg"
+  }
+}

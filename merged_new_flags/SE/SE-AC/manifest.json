@@ -1,0 +1,16 @@
+{
+  "iso_code": "SE-AC",
+  "country_iso": "SE",
+  "country_name": "SE",
+  "region_name": "se-ac",
+  "region_normalized": "se-ac",
+  "flag": {
+    "svg": "SE/SE-AC/flag.svg",
+    "source": "Västerbottens län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-AC/coat.svg",
+    "source": "Västerbotten län vapen.svg"
+  },
+  "data_source": "out"
+}

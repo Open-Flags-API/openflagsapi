@@ -1,0 +1,16 @@
+{
+  "iso_code": "LT-27",
+  "country_iso": "LT",
+  "country_name": "LT",
+  "region_name": "lt-27",
+  "region_normalized": "lt-27",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Molėtai.png"
+  },
+  "coat": {
+    "svg": "LT/LT-27/coat.svg",
+    "source": "Coat of arms of Moletai (Lithuania).svg"
+  },
+  "data_source": "out"
+}

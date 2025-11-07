@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-BI",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-bi",
+  "region_normalized": "es-bi",
+  "flag": {
+    "svg": "ES/ES-BI/flag.svg",
+    "source": "Bandera de Vizcaya.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-BI/coat.svg",
+    "source": "Escudo de Bizkaia 2007.svg"
+  },
+  "data_source": "out"
+}

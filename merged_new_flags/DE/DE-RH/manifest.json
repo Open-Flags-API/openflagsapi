@@ -1,0 +1,16 @@
+{
+  "iso_code": "DE-RH",
+  "country_iso": "DE",
+  "country_name": "germany",
+  "region_name": "rheinland-pfalz",
+  "region_normalized": "rheinland-pfalz",
+  "flag": {
+    "svg": "DE/DE-RH/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

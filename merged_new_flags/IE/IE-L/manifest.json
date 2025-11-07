@@ -1,0 +1,16 @@
+{
+  "iso_code": "IE-L",
+  "country_iso": "IE",
+  "country_name": "IE",
+  "region_name": "ie-l",
+  "region_normalized": "ie-l",
+  "flag": {
+    "svg": "IE/IE-L/flag.svg",
+    "source": "Flag of Leinster.svg"
+  },
+  "coat": {
+    "svg": "IE/IE-L/coat.svg",
+    "source": "Coat of arms of Leinster.svg"
+  },
+  "data_source": "out"
+}

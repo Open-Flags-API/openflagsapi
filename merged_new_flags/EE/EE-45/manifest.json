@@ -1,0 +1,16 @@
+{
+  "iso_code": "EE-45",
+  "country_iso": "EE",
+  "country_name": "EE",
+  "region_name": "ee-45",
+  "region_normalized": "ee-45",
+  "flag": {
+    "svg": "EE/EE-45/flag.svg",
+    "source": "Ida-Virumaa lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-45/coat.svg",
+    "source": "Ida-Virumaa vapp.svg"
+  },
+  "data_source": "out"
+}

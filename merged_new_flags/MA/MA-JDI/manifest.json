@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-JDI",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-jdi",
+  "region_normalized": "ma-jdi",
+  "flag": {
+    "svg": "MA/MA-JDI/flag.svg",
+    "source": "Flag of El Jadida province (1976-1997).svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

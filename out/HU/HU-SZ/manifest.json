@@ -1,0 +1,14 @@
+{
+  "code": "HU-SZ",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-SZ/flag.svg",
+    "png": "HU/HU-SZ/flag.png",
+    "source_filename": "Flag-Szabolcs-Szatmar-Bereg-megye.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-SZ/coat.svg",
+    "png": "HU/HU-SZ/coat.png",
+    "source_filename": "HUN Szabolcs-Szatmár-Bereg megye COA.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "SB-GU",
+  "country_iso": "SB",
+  "country_name": "SB",
+  "region_name": "sb-gu",
+  "region_normalized": "sb-gu",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Guadalcanal.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

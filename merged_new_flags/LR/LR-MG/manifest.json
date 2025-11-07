@@ -1,0 +1,16 @@
+{
+  "iso_code": "LR-MG",
+  "country_iso": "LR",
+  "country_name": "LR",
+  "region_name": "lr-mg",
+  "region_normalized": "lr-mg",
+  "flag": {
+    "svg": "LR/LR-MG/flag.svg",
+    "source": "Flag of Margibi County.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "AM-LO",
+  "country_iso": "AM",
+  "country_name": "AM",
+  "region_name": "am-lo",
+  "region_normalized": "am-lo",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Lori marz coa.gif"
+  },
+  "data_source": "out"
+}

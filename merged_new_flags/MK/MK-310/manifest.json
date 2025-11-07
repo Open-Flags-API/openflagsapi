@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-310",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-310",
+  "region_normalized": "mk-310",
+  "flag": {
+    "svg": null,
+    "source": "Mk-ohri.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of Arms of the Municipality of Ohrid (North Macedonia).png"
+  },
+  "data_source": "out"
+}

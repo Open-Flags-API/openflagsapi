@@ -1,0 +1,14 @@
+{
+  "code": "IE-LK",
+  "country": "IE",
+  "flag": {
+    "svg": "IE/IE-LK/flag.svg",
+    "png": "IE/IE-LK/flag.png",
+    "source_filename": "Flag of County Limerick.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "IE/IE-LK/coat.png",
+    "source_filename": "County Limerick Coat of Arms.png"
+  }
+}

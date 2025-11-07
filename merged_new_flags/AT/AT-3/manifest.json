@@ -1,0 +1,16 @@
+{
+  "iso_code": "AT-3",
+  "country_iso": "AT",
+  "country_name": "AT",
+  "region_name": "at-3",
+  "region_normalized": "at-3",
+  "flag": {
+    "svg": "AT/AT-3/flag.svg",
+    "source": "Flag of Lower Austria.svg"
+  },
+  "coat": {
+    "svg": "AT/AT-3/coat.svg",
+    "source": "Niederösterreich CoA.svg"
+  },
+  "data_source": "out"
+}

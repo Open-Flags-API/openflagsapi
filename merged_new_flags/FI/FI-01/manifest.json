@@ -1,0 +1,16 @@
+{
+  "iso_code": "FI-01",
+  "country_iso": "FI",
+  "country_name": "FI",
+  "region_name": "fi-01",
+  "region_normalized": "fi-01",
+  "flag": {
+    "svg": "FI/FI-01/flag.svg",
+    "source": "Flag of Åland.svg"
+  },
+  "coat": {
+    "svg": "FI/FI-01/coat.svg",
+    "source": "Coat of arms of Åland 3.svg"
+  },
+  "data_source": "out"
+}

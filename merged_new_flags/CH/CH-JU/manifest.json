@@ -1,0 +1,16 @@
+{
+  "iso_code": "CH-JU",
+  "country_iso": "CH",
+  "country_name": "CH",
+  "region_name": "ch-ju",
+  "region_normalized": "ch-ju",
+  "flag": {
+    "svg": "CH/CH-JU/flag.svg",
+    "source": "Flag of Canton of Jura.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-JU/coat.svg",
+    "source": "Wappen Jura matt.svg"
+  },
+  "data_source": "out"
+}

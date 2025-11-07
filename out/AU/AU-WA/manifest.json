@@ -1,0 +1,14 @@
+{
+  "code": "AU-WA",
+  "country": "AU",
+  "flag": {
+    "svg": "AU/AU-WA/flag.svg",
+    "png": "AU/AU-WA/flag.png",
+    "source_filename": "Flag of Western Australia.svg"
+  },
+  "coat": {
+    "svg": "AU/AU-WA/coat.svg",
+    "png": "AU/AU-WA/coat.png",
+    "source_filename": "Coat of arms of Western Australia.svg"
+  }
+}

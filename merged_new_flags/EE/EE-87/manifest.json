@@ -1,0 +1,16 @@
+{
+  "iso_code": "EE-87",
+  "country_iso": "EE",
+  "country_name": "EE",
+  "region_name": "ee-87",
+  "region_normalized": "ee-87",
+  "flag": {
+    "svg": "EE/EE-87/flag.svg",
+    "source": "Võrumaa lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-87/coat.svg",
+    "source": "Võrumaa vapp.svg"
+  },
+  "data_source": "out"
+}

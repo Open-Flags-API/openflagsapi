@@ -1,0 +1,14 @@
+{
+  "code": "JP-20",
+  "country": "JP",
+  "flag": {
+    "svg": "JP/JP-20/flag.svg",
+    "png": "JP/JP-20/flag.png",
+    "source_filename": "Flag of Nagano Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-20/coat.svg",
+    "png": "JP/JP-20/coat.png",
+    "source_filename": "Emblem of Nagano Prefecture.svg"
+  }
+}

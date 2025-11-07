@@ -1,0 +1,14 @@
+{
+  "code": "IT-AO",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-AO/flag.svg",
+    "png": "IT/IT-AO/flag.png",
+    "source_filename": "Flag of the Province of Aosta.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-AO/coat.svg",
+    "png": "IT/IT-AO/coat.png",
+    "source_filename": "Provincia di Aosta-Stemma.svg"
+  }
+}

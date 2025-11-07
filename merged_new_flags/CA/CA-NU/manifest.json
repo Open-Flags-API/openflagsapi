@@ -1,0 +1,16 @@
+{
+  "iso_code": "CA-NU",
+  "country_iso": "CA",
+  "country_name": "canada",
+  "region_name": "ca-nu",
+  "region_normalized": "ca-nu",
+  "flag": {
+    "svg": "CA/CA-NU/flag.svg",
+    "source": "Flag of Nunavut.svg"
+  },
+  "coat": {
+    "svg": "CA/CA-NU/coat.svg",
+    "source": "Coat of arms of Nunavut.svg"
+  },
+  "data_source": "out"
+}

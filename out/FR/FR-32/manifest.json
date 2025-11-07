@@ -1,0 +1,14 @@
+{
+  "code": "FR-32",
+  "country": "FR",
+  "flag": {
+    "svg": "FR/FR-32/flag.svg",
+    "png": "FR/FR-32/flag.png",
+    "source_filename": "Flag of Gers.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-32/coat.svg",
+    "png": "FR/FR-32/coat.png",
+    "source_filename": "Blason département fr Gers.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "NG-GO",
+  "country_iso": "NG",
+  "country_name": "NG",
+  "region_name": "ng-go",
+  "region_normalized": "ng-go",
+  "flag": {
+    "svg": "NG/NG-GO/flag.svg",
+    "source": "Flag of Gombe State.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

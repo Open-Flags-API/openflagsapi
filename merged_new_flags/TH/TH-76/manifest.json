@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-76",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-76",
+  "region_normalized": "th-76",
+  "flag": {
+    "svg": "TH/TH-76/flag.svg",
+    "source": "Flag of Petchaburi.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

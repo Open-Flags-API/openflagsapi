@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-50",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-50",
+  "region_normalized": "fr-50",
+  "flag": {
+    "svg": "FR/FR-50/flag.svg",
+    "source": "Drapeau non-officiel fr département Manche.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-50/coat.svg",
+    "source": "Blason département fr Manche.svg"
+  },
+  "data_source": "out"
+}

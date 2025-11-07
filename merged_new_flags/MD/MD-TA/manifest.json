@@ -1,0 +1,16 @@
+{
+  "iso_code": "MD-TA",
+  "country_iso": "MD",
+  "country_name": "MD",
+  "region_name": "md-ta",
+  "region_normalized": "md-ta",
+  "flag": {
+    "svg": null,
+    "source": "Drapel Raionul Taraclia.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Stema Raionului Taraclia.png"
+  },
+  "data_source": "out"
+}

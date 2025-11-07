@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-WLN",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-wln",
+  "region_normalized": "gb-wln",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

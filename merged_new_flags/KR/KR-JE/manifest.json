@@ -1,0 +1,16 @@
+{
+  "iso_code": "KR-JE",
+  "country_iso": "KR",
+  "country_name": "south-korea",
+  "region_name": "jeju",
+  "region_normalized": "jeju",
+  "flag": {
+    "svg": "KR/KR-JE/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-31",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-31",
+  "region_normalized": "fr-31",
+  "flag": {
+    "svg": "FR/FR-31/flag.svg",
+    "source": "Drapeau non-officiel fr département Haute-Garonne.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-31/coat.svg",
+    "source": "Blason département fr Haute-Garonne.svg"
+  },
+  "data_source": "out"
+}

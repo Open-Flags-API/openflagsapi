@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-KO",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-ko",
+  "region_normalized": "ru-ko",
+  "flag": {
+    "svg": "RU/RU-KO/flag.svg",
+    "source": "Flag of Komi (large).svg"
+  },
+  "coat": {
+    "svg": "RU/RU-KO/coat.svg",
+    "source": "Coat of arms of Komi (large).svg"
+  },
+  "data_source": "out"
+}

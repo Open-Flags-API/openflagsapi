@@ -1,0 +1,16 @@
+{
+  "iso_code": "ME-18",
+  "country_iso": "ME",
+  "country_name": "ME",
+  "region_name": "me-18",
+  "region_normalized": "me-18",
+  "flag": {
+    "svg": "ME/ME-18/flag.svg",
+    "source": "Flag of Šavnik, Montenegro.svg"
+  },
+  "coat": {
+    "svg": "ME/ME-18/coat.svg",
+    "source": "Šavnik Montenegro COA.svg"
+  },
+  "data_source": "out"
+}

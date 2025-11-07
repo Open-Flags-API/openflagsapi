@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-BOL",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-bol",
+  "region_normalized": "co-bol",
+  "flag": {
+    "svg": "CO/CO-BOL/flag.svg",
+    "source": "Flag of Bolívar (Colombia).svg"
+  },
+  "coat": {
+    "svg": "CO/CO-BOL/coat.svg",
+    "source": "Escudo de Bolívar (Colombia).svg"
+  },
+  "data_source": "out"
+}

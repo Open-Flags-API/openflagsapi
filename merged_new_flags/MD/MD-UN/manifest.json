@@ -1,0 +1,16 @@
+{
+  "iso_code": "MD-UN",
+  "country_iso": "MD",
+  "country_name": "MD",
+  "region_name": "md-un",
+  "region_normalized": "md-un",
+  "flag": {
+    "svg": "MD/MD-UN/flag.svg",
+    "source": "Flag of District Ungheni.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Ungheni rajon coa.gif"
+  },
+  "data_source": "out"
+}

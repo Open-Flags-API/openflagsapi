@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-YAR",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-yar",
+  "region_normalized": "ru-yar",
+  "flag": {
+    "svg": "RU/RU-YAR/flag.svg",
+    "source": "Flag of Yaroslavl Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-YAR/coat.svg",
+    "source": "Coat of arms of Yaroslavl Oblast.svg"
+  },
+  "data_source": "out"
+}

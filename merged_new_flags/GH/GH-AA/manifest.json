@@ -1,0 +1,16 @@
+{
+  "iso_code": "GH-AA",
+  "country_iso": "GH",
+  "country_name": "GH",
+  "region_name": "gh-aa",
+  "region_normalized": "gh-aa",
+  "flag": {
+    "svg": "GH/GH-AA/flag.svg",
+    "source": "Flag of Greater Accra Region.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

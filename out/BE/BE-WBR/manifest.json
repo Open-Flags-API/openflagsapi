@@ -1,0 +1,14 @@
+{
+  "code": "BE-WBR",
+  "country": "BE",
+  "flag": {
+    "svg": "BE/BE-WBR/flag.svg",
+    "png": "BE/BE-WBR/flag.png",
+    "source_filename": "Drapeau Province BE Brabant Wallon.svg"
+  },
+  "coat": {
+    "svg": "BE/BE-WBR/coat.svg",
+    "png": "BE/BE-WBR/coat.png",
+    "source_filename": "Arms of Walloon Brabant.svg"
+  }
+}

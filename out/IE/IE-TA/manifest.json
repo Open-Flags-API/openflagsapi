@@ -1,0 +1,14 @@
+{
+  "code": "IE-TA",
+  "country": "IE",
+  "flag": {
+    "svg": "IE/IE-TA/flag.svg",
+    "png": "IE/IE-TA/flag.png",
+    "source_filename": "Flag of county Tipperary.svg"
+  },
+  "coat": {
+    "svg": "IE/IE-TA/coat.svg",
+    "png": "IE/IE-TA/coat.png",
+    "source_filename": "Tipperary COA.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-72",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-72",
+  "region_normalized": "it-72",
+  "flag": {
+    "svg": "IT/IT-72/flag.svg",
+    "source": "Flag of Campania.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-72/coat.svg",
+    "source": "Regione-Campania-Stemma.svg"
+  },
+  "data_source": "out"
+}

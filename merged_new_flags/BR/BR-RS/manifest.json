@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-RS",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "br-rs",
+  "region_normalized": "br-rs",
+  "flag": {
+    "svg": "BR/BR-RS/flag.svg",
+    "source": "Bandeira do Rio Grande do Sul.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-RS/coat.svg",
+    "source": "Brasão do Rio Grande do Sul.svg"
+  },
+  "data_source": "out"
+}

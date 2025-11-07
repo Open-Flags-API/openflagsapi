@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-LIP",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-lip",
+  "region_normalized": "ru-lip",
+  "flag": {
+    "svg": "RU/RU-LIP/flag.svg",
+    "source": "Flag of Lipetsk Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-LIP/coat.svg",
+    "source": "Coat of Arms of Lipetsk oblast.svg"
+  },
+  "data_source": "out"
+}

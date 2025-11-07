@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-WSX",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-wsx",
+  "region_normalized": "gb-wsx",
+  "flag": {
+    "svg": "GB/GB-WSX/flag.svg",
+    "source": "Flag of West Sussex.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-WSX/coat.svg",
+    "source": "Arms of the West Sussex County Council.svg"
+  },
+  "data_source": "out"
+}

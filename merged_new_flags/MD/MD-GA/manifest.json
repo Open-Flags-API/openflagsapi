@@ -1,0 +1,16 @@
+{
+  "iso_code": "MD-GA",
+  "country_iso": "MD",
+  "country_name": "MD",
+  "region_name": "md-ga",
+  "region_normalized": "md-ga",
+  "flag": {
+    "svg": "MD/MD-GA/flag.svg",
+    "source": "Flag of Gagauzia.svg"
+  },
+  "coat": {
+    "svg": "MD/MD-GA/coat.svg",
+    "source": "Coat of arms of Gagauzia.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "NL-GE",
+  "country": "NL",
+  "flag": {
+    "svg": "NL/NL-GE/flag.svg",
+    "png": "NL/NL-GE/flag.png",
+    "source_filename": "Flag of Gelderland.svg"
+  },
+  "coat": {
+    "svg": "NL/NL-GE/coat.svg",
+    "png": "NL/NL-GE/coat.png",
+    "source_filename": "Gelderland wapen.svg"
+  }
+}

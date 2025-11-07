@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-MP",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-mp",
+  "region_normalized": "us-mp",
+  "flag": {
+    "svg": "US/US-MP/flag.svg",
+    "source": "Flag of the Northern Mariana Islands.svg"
+  },
+  "coat": {
+    "svg": "US/US-MP/coat.svg",
+    "source": "Seal of the Northern Mariana Islands.svg"
+  },
+  "data_source": "out"
+}

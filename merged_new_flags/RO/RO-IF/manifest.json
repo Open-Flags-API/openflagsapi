@@ -1,0 +1,16 @@
+{
+  "iso_code": "RO-IF",
+  "country_iso": "RO",
+  "country_name": "RO",
+  "region_name": "ro-if",
+  "region_normalized": "ro-if",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Actual Ilfov county CoA.png"
+  },
+  "data_source": "out"
+}

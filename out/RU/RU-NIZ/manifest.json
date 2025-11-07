@@ -1,0 +1,14 @@
+{
+  "code": "RU-NIZ",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-NIZ/flag.svg",
+    "png": "RU/RU-NIZ/flag.png",
+    "source_filename": "Flag of Nizhny Novgorod Region.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-NIZ/coat.svg",
+    "png": "RU/RU-NIZ/coat.png",
+    "source_filename": "Coat of arms of Nizhny Novgorod Region.svg"
+  }
+}

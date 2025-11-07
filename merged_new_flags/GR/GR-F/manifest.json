@@ -1,0 +1,16 @@
+{
+  "iso_code": "GR-F",
+  "country_iso": "GR",
+  "country_name": "GR",
+  "region_name": "gr-f",
+  "region_normalized": "gr-f",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GR/GR-F/coat.svg",
+    "source": "Coat of Arms of Greece (Monochromatic).svg"
+  },
+  "data_source": "out"
+}

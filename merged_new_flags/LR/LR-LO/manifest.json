@@ -1,0 +1,16 @@
+{
+  "iso_code": "LR-LO",
+  "country_iso": "LR",
+  "country_name": "LR",
+  "region_name": "lr-lo",
+  "region_normalized": "lr-lo",
+  "flag": {
+    "svg": "LR/LR-LO/flag.svg",
+    "source": "Flag of Lofa County.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

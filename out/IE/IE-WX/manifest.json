@@ -1,0 +1,14 @@
+{
+  "code": "IE-WX",
+  "country": "IE",
+  "flag": {
+    "svg": "IE/IE-WX/flag.svg",
+    "png": "IE/IE-WX/flag.png",
+    "source_filename": "Flag of county Wexford.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "IE/IE-WX/coat.png",
+    "source_filename": "County Wexford Coat of Arms.png"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "code": "NL-CW",
+  "country": "NL",
+  "flag": {
+    "svg": "NL/NL-CW/flag.svg",
+    "png": "NL/NL-CW/flag.png",
+    "source_filename": "Flag of Curaçao.svg"
+  },
+  "coat": {
+    "svg": "NL/NL-CW/coat.svg",
+    "png": "NL/NL-CW/coat.png",
+    "source_filename": "Curaçao wapen.svg"
+  }
+}

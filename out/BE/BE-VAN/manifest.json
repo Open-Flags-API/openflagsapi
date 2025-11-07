@@ -1,0 +1,14 @@
+{
+  "code": "BE-VAN",
+  "country": "BE",
+  "flag": {
+    "svg": "BE/BE-VAN/flag.svg",
+    "png": "BE/BE-VAN/flag.png",
+    "source_filename": "Flag of Antwerp.svg"
+  },
+  "coat": {
+    "svg": "BE/BE-VAN/coat.svg",
+    "png": "BE/BE-VAN/coat.png",
+    "source_filename": "Wapen van de provincie Antwerpen.svg"
+  }
+}

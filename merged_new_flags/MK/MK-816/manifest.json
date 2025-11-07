@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-816",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-816",
+  "region_normalized": "mk-816",
+  "flag": {
+    "svg": "MK/MK-816/flag.svg",
+    "source": "Flag of Čučer Sandevo Municipality, North Macedonia.svg"
+  },
+  "coat": {
+    "svg": "MK/MK-816/coat.svg",
+    "source": "Coat of arms of Čučer Sandevo Municipality.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MM-01",
+  "country_iso": "MM",
+  "country_name": "MM",
+  "region_name": "mm-01",
+  "region_normalized": "mm-01",
+  "flag": {
+    "svg": "MM/MM-01/flag.svg",
+    "source": "Flag of Sagaing Region (2019).svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

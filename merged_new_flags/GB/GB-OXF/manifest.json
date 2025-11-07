@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-OXF",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-oxf",
+  "region_normalized": "gb-oxf",
+  "flag": {
+    "svg": "GB/GB-OXF/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-OXF/coat.svg",
+    "source": "Coat of arms of Oxford.svg"
+  },
+  "data_source": "out"
+}

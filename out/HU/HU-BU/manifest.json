@@ -1,0 +1,14 @@
+{
+  "code": "HU-BU",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-BU/flag.svg",
+    "png": "HU/HU-BU/flag.png",
+    "source_filename": "Flag of Budapest (2011-).svg"
+  },
+  "coat": {
+    "svg": "HU/HU-BU/coat.svg",
+    "png": "HU/HU-BU/coat.png",
+    "source_filename": "Coa Hungary Town Budapest big.svg"
+  }
+}

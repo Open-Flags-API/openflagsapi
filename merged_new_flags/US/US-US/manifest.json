@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-US",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "usa",
+  "region_normalized": "usa",
+  "flag": {
+    "svg": "US/US-US/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

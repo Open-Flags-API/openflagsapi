@@ -1,0 +1,16 @@
+{
+  "iso_code": "RO-CL",
+  "country_iso": "RO",
+  "country_name": "RO",
+  "region_name": "ro-cl",
+  "region_normalized": "ro-cl",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "RO/RO-CL/coat.svg",
+    "source": "Stema Calarasi.svg"
+  },
+  "data_source": "out"
+}

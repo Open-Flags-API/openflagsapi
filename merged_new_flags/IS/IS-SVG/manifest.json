@@ -1,0 +1,16 @@
+{
+  "iso_code": "IS-SVG",
+  "country_iso": "IS",
+  "country_name": "IS",
+  "region_name": "is-svg",
+  "region_normalized": "is-svg",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

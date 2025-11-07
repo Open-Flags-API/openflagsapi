@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-PA",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "br-pa",
+  "region_normalized": "br-pa",
+  "flag": {
+    "svg": "BR/BR-PA/flag.svg",
+    "source": "Bandeira do Pará.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-PA/coat.svg",
+    "source": "Brasão do Pará.svg"
+  },
+  "data_source": "out"
+}

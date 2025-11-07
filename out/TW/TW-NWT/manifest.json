@@ -1,0 +1,14 @@
+{
+  "code": "TW-NWT",
+  "country": "TW",
+  "flag": {
+    "svg": "TW/TW-NWT/flag.svg",
+    "png": "TW/TW-NWT/flag.png",
+    "source_filename": "Flag of New Taipei City.svg"
+  },
+  "coat": {
+    "svg": "TW/TW-NWT/coat.svg",
+    "png": "TW/TW-NWT/coat.png",
+    "source_filename": "New Taipei City seal.svg"
+  }
+}

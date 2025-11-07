@@ -1,0 +1,16 @@
+{
+  "iso_code": "LT-KL",
+  "country_iso": "LT",
+  "country_name": "LT",
+  "region_name": "lt-kl",
+  "region_normalized": "lt-kl",
+  "flag": {
+    "svg": "LT/LT-KL/flag.svg",
+    "source": "LTU Klaipėdos apskritis flag.svg"
+  },
+  "coat": {
+    "svg": "LT/LT-KL/coat.svg",
+    "source": "LTU Klaipėdos apskritis COA.svg"
+  },
+  "data_source": "out"
+}

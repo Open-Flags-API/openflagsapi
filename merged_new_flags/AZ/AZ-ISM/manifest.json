@@ -1,0 +1,16 @@
+{
+  "iso_code": "AZ-ISM",
+  "country_iso": "AZ",
+  "country_name": "AZ",
+  "region_name": "az-ism",
+  "region_normalized": "az-ism",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

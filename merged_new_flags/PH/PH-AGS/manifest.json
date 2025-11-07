@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-AGS",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-ags",
+  "region_normalized": "ph-ags",
+  "flag": {
+    "svg": null,
+    "source": "PH-AGS Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

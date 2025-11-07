@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-014",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-014",
+  "region_normalized": "lv-014",
+  "flag": {
+    "svg": null,
+    "source": "Baltinavas novads Flag.png"
+  },
+  "coat": {
+    "svg": "LV/LV-014/coat.svg",
+    "source": "Baltinavas novads COA.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-OR",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-or",
+  "region_normalized": "es-or",
+  "flag": {
+    "svg": "ES/ES-OR/flag.svg",
+    "source": "Provincia de Ourense - Bandera.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-OR/coat.svg",
+    "source": "Provincia de Ourense - Escudo.svg"
+  },
+  "data_source": "out"
+}

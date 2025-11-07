@@ -1,0 +1,16 @@
+{
+  "iso_code": "EG-JS",
+  "country_iso": "EG",
+  "country_name": "EG",
+  "region_name": "eg-js",
+  "region_normalized": "eg-js",
+  "flag": {
+    "svg": null,
+    "source": "Flag of South Sinai Governorate.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of South Sinai Governorate.png"
+  },
+  "data_source": "out"
+}

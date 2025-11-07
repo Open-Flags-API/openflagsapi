@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-102",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-102",
+  "region_normalized": "lv-102",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "LV/LV-102/coat.svg",
+    "source": "Varakļānu novads COA.svg"
+  },
+  "data_source": "out"
+}

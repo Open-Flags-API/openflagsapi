@@ -1,0 +1,16 @@
+{
+  "iso_code": "NL-BQ1",
+  "country_iso": "NL",
+  "country_name": "NL",
+  "region_name": "nl-bq1",
+  "region_normalized": "nl-bq1",
+  "flag": {
+    "svg": "NL/NL-BQ1/flag.svg",
+    "source": "Flag of Bonaire.svg"
+  },
+  "coat": {
+    "svg": "NL/NL-BQ1/coat.svg",
+    "source": "Bonaire wapen.svg"
+  },
+  "data_source": "out"
+}

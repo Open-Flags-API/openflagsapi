@@ -1,0 +1,16 @@
+{
+  "iso_code": "EG-SU",
+  "country_iso": "EG",
+  "country_name": "EG",
+  "region_name": "eg-su",
+  "region_normalized": "eg-su",
+  "flag": {
+    "svg": null,
+    "source": "Flag of 6th of October Governorate.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

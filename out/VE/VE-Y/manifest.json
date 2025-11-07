@@ -1,0 +1,14 @@
+{
+  "code": "VE-Y",
+  "country": "VE",
+  "flag": {
+    "svg": "VE/VE-Y/flag.svg",
+    "png": "VE/VE-Y/flag.png",
+    "source_filename": "Flag of Delta Amacuro State.svg"
+  },
+  "coat": {
+    "svg": "VE/VE-Y/coat.svg",
+    "png": "VE/VE-Y/coat.png",
+    "source_filename": "Escudo del Estado Delta Amacuro.svg"
+  }
+}

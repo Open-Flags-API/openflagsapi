@@ -1,0 +1,16 @@
+{
+  "iso_code": "AU-NSW",
+  "country_iso": "AU",
+  "country_name": "AU",
+  "region_name": "au-nsw",
+  "region_normalized": "au-nsw",
+  "flag": {
+    "svg": "AU/AU-NSW/flag.svg",
+    "source": "Flag of New South Wales.svg"
+  },
+  "coat": {
+    "svg": "AU/AU-NSW/coat.svg",
+    "source": "Coat of Arms of New South Wales.svg"
+  },
+  "data_source": "out"
+}

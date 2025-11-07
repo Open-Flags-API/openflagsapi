@@ -1,0 +1,14 @@
+{
+  "code": "IT-PI",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-PI/flag.svg",
+    "png": "IT/IT-PI/flag.png",
+    "source_filename": "Flag of the province of Pisa.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-PI/coat.svg",
+    "png": "IT/IT-PI/coat.png",
+    "source_filename": "Provincia di Pisa-Stemma.svg"
+  }
+}

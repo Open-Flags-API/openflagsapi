@@ -1,0 +1,16 @@
+{
+  "iso_code": "KG-Y",
+  "country_iso": "KG",
+  "country_name": "KG",
+  "region_name": "kg-y",
+  "region_normalized": "kg-y",
+  "flag": {
+    "svg": "KG/KG-Y/flag.svg",
+    "source": "Flag of Issyk-Kul Region.svg"
+  },
+  "coat": {
+    "svg": "KG/KG-Y/coat.svg",
+    "source": "Issyk kul obl coa.svg"
+  },
+  "data_source": "out"
+}

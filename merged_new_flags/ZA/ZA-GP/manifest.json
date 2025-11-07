@@ -1,0 +1,16 @@
+{
+  "iso_code": "ZA-GP",
+  "country_iso": "ZA",
+  "country_name": "ZA",
+  "region_name": "za-gp",
+  "region_normalized": "za-gp",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "GP ibheji.jpg"
+  },
+  "data_source": "out"
+}

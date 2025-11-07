@@ -1,0 +1,14 @@
+{
+  "code": "LV-DGV",
+  "country": "LV",
+  "flag": {
+    "svg": "LV/LV-DGV/flag.svg",
+    "png": "LV/LV-DGV/flag.png",
+    "source_filename": "Flag of Daugavpils.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-DGV/coat.svg",
+    "png": "LV/LV-DGV/coat.png",
+    "source_filename": "Coat of arms of Daugavpils.svg"
+  }
+}

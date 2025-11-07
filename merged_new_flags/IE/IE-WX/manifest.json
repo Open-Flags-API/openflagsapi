@@ -1,0 +1,16 @@
+{
+  "iso_code": "IE-WX",
+  "country_iso": "IE",
+  "country_name": "IE",
+  "region_name": "ie-wx",
+  "region_normalized": "ie-wx",
+  "flag": {
+    "svg": "IE/IE-WX/flag.svg",
+    "source": "Flag of county Wexford.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "County Wexford Coat of Arms.png"
+  },
+  "data_source": "out"
+}

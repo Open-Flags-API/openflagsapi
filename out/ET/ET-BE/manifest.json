@@ -1,0 +1,14 @@
+{
+  "code": "ET-BE",
+  "country": "ET",
+  "flag": {
+    "svg": "ET/ET-BE/flag.svg",
+    "png": "ET/ET-BE/flag.png",
+    "source_filename": "Flag of the Benishangul-Gumuz Region.svg"
+  },
+  "coat": {
+    "svg": "ET/ET-BE/coat.svg",
+    "png": "ET/ET-BE/coat.png",
+    "source_filename": "Герб Бенишангуль-Гумуза.svg"
+  }
+}

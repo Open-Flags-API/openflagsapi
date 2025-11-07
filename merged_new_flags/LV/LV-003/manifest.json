@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-003",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-003",
+  "region_normalized": "lv-003",
+  "flag": {
+    "svg": "LV/LV-003/flag.svg",
+    "source": "Flag of Aizpute Municipality.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-003/coat.svg",
+    "source": "Aizputes novads COA.svg"
+  },
+  "data_source": "out"
+}

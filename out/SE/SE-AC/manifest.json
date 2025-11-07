@@ -1,0 +1,14 @@
+{
+  "code": "SE-AC",
+  "country": "SE",
+  "flag": {
+    "svg": "SE/SE-AC/flag.svg",
+    "png": "SE/SE-AC/flag.png",
+    "source_filename": "Västerbottens län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-AC/coat.svg",
+    "png": "SE/SE-AC/coat.png",
+    "source_filename": "Västerbotten län vapen.svg"
+  }
+}

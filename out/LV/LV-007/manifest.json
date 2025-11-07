@@ -1,0 +1,14 @@
+{
+  "code": "LV-007",
+  "country": "LV",
+  "flag": {
+    "svg": "LV/LV-007/flag.svg",
+    "png": "LV/LV-007/flag.png",
+    "source_filename": "Alūksnes novada karogs.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-007/coat.svg",
+    "png": "LV/LV-007/coat.png",
+    "source_filename": "Alūksne novads COA.svg"
+  }
+}

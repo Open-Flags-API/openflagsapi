@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-BAS",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-bas",
+  "region_normalized": "ph-bas",
+  "flag": {
+    "svg": "PH/PH-BAS/flag.svg",
+    "source": "Flag of Basilan.svg"
+  },
+  "coat": {
+    "svg": "PH/PH-BAS/coat.svg",
+    "source": "Official Seal of Basilan.svg"
+  },
+  "data_source": "out"
+}

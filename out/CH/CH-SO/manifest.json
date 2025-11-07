@@ -1,0 +1,14 @@
+{
+  "code": "CH-SO",
+  "country": "CH",
+  "flag": {
+    "svg": "CH/CH-SO/flag.svg",
+    "png": "CH/CH-SO/flag.png",
+    "source_filename": "Flag of Canton of Solothurn.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-SO/coat.svg",
+    "png": "CH/CH-SO/coat.png",
+    "source_filename": "Wappen Solothurn matt.svg"
+  }
+}

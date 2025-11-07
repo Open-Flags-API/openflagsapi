@@ -1,0 +1,14 @@
+{
+  "code": "IE-KK",
+  "country": "IE",
+  "flag": {
+    "svg": "IE/IE-KK/flag.svg",
+    "png": "IE/IE-KK/flag.png",
+    "source_filename": "Flag of county Kilkenny.svg"
+  },
+  "coat": {
+    "svg": "IE/IE-KK/coat.svg",
+    "png": "IE/IE-KK/coat.png",
+    "source_filename": "County Kilkenny arms.svg"
+  }
+}

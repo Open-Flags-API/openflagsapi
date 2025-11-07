@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-FES",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-fes",
+  "region_normalized": "ma-fes",
+  "flag": {
+    "svg": "MA/MA-FES/flag.svg",
+    "source": "Flag of Fes province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

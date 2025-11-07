@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-069",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-069",
+  "region_normalized": "lv-069",
+  "flag": {
+    "svg": null,
+    "source": "Ozolnieku novada karogs.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Ozolnieku novada ģerbonis.png"
+  },
+  "data_source": "out"
+}

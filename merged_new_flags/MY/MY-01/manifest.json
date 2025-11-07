@@ -1,0 +1,16 @@
+{
+  "iso_code": "MY-01",
+  "country_iso": "MY",
+  "country_name": "MY",
+  "region_name": "my-01",
+  "region_normalized": "my-01",
+  "flag": {
+    "svg": "MY/MY-01/flag.svg",
+    "source": "Flag of Johor.svg"
+  },
+  "coat": {
+    "svg": "MY/MY-01/coat.svg",
+    "source": "Coat of arms of Johor.svg"
+  },
+  "data_source": "out"
+}

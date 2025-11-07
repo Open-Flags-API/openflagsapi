@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-ST",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-st",
+  "region_normalized": "hu-st",
+  "flag": {
+    "svg": "HU/HU-ST/flag.svg",
+    "source": "Flag of Salgótarján.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-ST/coat.svg",
+    "source": "HUN Salgótarján Címer.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "FI-08",
+  "country_iso": "FI",
+  "country_name": "FI",
+  "region_name": "fi-08",
+  "region_normalized": "fi-08",
+  "flag": {
+    "svg": "FI/FI-08/flag.svg",
+    "source": "Keski-suomi lippu.svg"
+  },
+  "coat": {
+    "svg": "FI/FI-08/coat.svg",
+    "source": "Keski-Suomi Coat of Arms.svg"
+  },
+  "data_source": "out"
+}

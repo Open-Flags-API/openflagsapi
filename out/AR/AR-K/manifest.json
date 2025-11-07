@@ -1,0 +1,14 @@
+{
+  "code": "AR-K",
+  "country": "AR",
+  "flag": {
+    "svg": "AR/AR-K/flag.svg",
+    "png": "AR/AR-K/flag.png",
+    "source_filename": "Bandera de la Provincia de Catamarca.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-K/coat.svg",
+    "png": "AR/AR-K/coat.png",
+    "source_filename": "Escudo de la Provincia de Catamarca.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MY-12",
+  "country_iso": "MY",
+  "country_name": "MY",
+  "region_name": "my-12",
+  "region_normalized": "my-12",
+  "flag": {
+    "svg": "MY/MY-12/flag.svg",
+    "source": "Flag of Sabah.svg"
+  },
+  "coat": {
+    "svg": "MY/MY-12/coat.svg",
+    "source": "Coat of arms of Sabah.svg"
+  },
+  "data_source": "out"
+}

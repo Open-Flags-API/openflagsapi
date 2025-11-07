@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-BEX",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-bex",
+  "region_normalized": "gb-bex",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-BEX/coat.svg",
+    "source": "Coat of arms of the Ldn Borough of Bexley.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-SU",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "id-su",
+  "region_normalized": "id-su",
+  "flag": {
+    "svg": "ID/ID-SU/flag.svg",
+    "source": "Flag of North Sumatra.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of North Sumatra.svg"
+  },
+  "data_source": "out"
+}

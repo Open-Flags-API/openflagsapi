@@ -1,0 +1,16 @@
+{
+  "iso_code": "GT-17",
+  "country_iso": "GT",
+  "country_name": "GT",
+  "region_name": "gt-17",
+  "region_normalized": "gt-17",
+  "flag": {
+    "svg": null,
+    "source": "Bandera del Departamento El Petén.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Peten Department.png"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-CH",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-ch",
+  "region_normalized": "it-ch",
+  "flag": {
+    "svg": "IT/IT-CH/flag.svg",
+    "source": "Flag of the province of Chieti (Variant).svg"
+  },
+  "coat": {
+    "svg": "IT/IT-CH/coat.svg",
+    "source": "Provincia di Chieti-Stemma.svg"
+  },
+  "data_source": "out"
+}

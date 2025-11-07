@@ -1,0 +1,14 @@
+{
+  "code": "PG-NSB",
+  "country": "PG",
+  "flag": {
+    "svg": "PG/PG-NSB/flag.svg",
+    "png": "PG/PG-NSB/flag.png",
+    "source_filename": "Flag of Bougainville.svg"
+  },
+  "coat": {
+    "svg": "PG/PG-NSB/coat.svg",
+    "png": "PG/PG-NSB/coat.png",
+    "source_filename": "Emblem of Autonomous region of Bougainville.svg"
+  }
+}

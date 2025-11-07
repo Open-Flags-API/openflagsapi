@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-066",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-066",
+  "region_normalized": "lv-066",
+  "flag": {
+    "svg": null,
+    "source": "Nīcas novada karogs.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

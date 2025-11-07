@@ -1,0 +1,16 @@
+{
+  "iso_code": "VE-O",
+  "country_iso": "VE",
+  "country_name": "VE",
+  "region_name": "ve-o",
+  "region_normalized": "ve-o",
+  "flag": {
+    "svg": "VE/VE-O/flag.svg",
+    "source": "Flag of Nueva Esparta.svg"
+  },
+  "coat": {
+    "svg": "VE/VE-O/coat.svg",
+    "source": "Coat of arms of Nueva Esparta State.svg"
+  },
+  "data_source": "out"
+}

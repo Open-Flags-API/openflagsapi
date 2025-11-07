@@ -1,0 +1,16 @@
+{
+  "iso_code": "KM-G",
+  "country_iso": "KM",
+  "country_name": "KM",
+  "region_name": "km-g",
+  "region_normalized": "km-g",
+  "flag": {
+    "svg": "KM/KM-G/flag.svg",
+    "source": "Flag of Grande Comore.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "CL-VS",
+  "country_iso": "CL",
+  "country_name": "CL",
+  "region_name": "cl-vs",
+  "region_normalized": "cl-vs",
+  "flag": {
+    "svg": "CL/CL-VS/flag.svg",
+    "source": "Flag of Valparaiso Region, Chile.svg"
+  },
+  "coat": {
+    "svg": "CL/CL-VS/coat.svg",
+    "source": "Coat of arms of Valparaiso Region, Chile.svg"
+  },
+  "data_source": "out"
+}

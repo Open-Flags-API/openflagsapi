@@ -1,0 +1,16 @@
+{
+  "iso_code": "SE-K",
+  "country_iso": "SE",
+  "country_name": "SE",
+  "region_name": "se-k",
+  "region_normalized": "se-k",
+  "flag": {
+    "svg": "SE/SE-K/flag.svg",
+    "source": "Blekinge län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-K/coat.svg",
+    "source": "Blekinge vapen.svg"
+  },
+  "data_source": "out"
+}

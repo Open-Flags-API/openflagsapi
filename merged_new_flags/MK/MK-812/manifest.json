@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-812",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-812",
+  "region_normalized": "mk-812",
+  "flag": {
+    "svg": "MK/MK-812/flag.svg",
+    "source": "Flag of Sopište Municipality, North Macedonia.svg"
+  },
+  "coat": {
+    "svg": "MK/MK-812/coat.svg",
+    "source": "Coat of arms of Sopište Municipality.svg"
+  },
+  "data_source": "out"
+}

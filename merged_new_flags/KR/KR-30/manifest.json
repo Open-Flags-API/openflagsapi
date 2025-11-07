@@ -1,0 +1,16 @@
+{
+  "iso_code": "KR-30",
+  "country_iso": "KR",
+  "country_name": "south-korea",
+  "region_name": "kr-30",
+  "region_normalized": "kr-30",
+  "flag": {
+    "svg": "KR/KR-30/flag.svg",
+    "source": "Flag of Daejeon.svg"
+  },
+  "coat": {
+    "svg": "KR/KR-30/coat.svg",
+    "source": "Emblem of Daejeon.svg"
+  },
+  "data_source": "out"
+}

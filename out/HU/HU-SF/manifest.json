@@ -1,0 +1,14 @@
+{
+  "code": "HU-SF",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-SF/flag.svg",
+    "png": "HU/HU-SF/flag.png",
+    "source_filename": "Flag of Székesfehérvár.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-SF/coat.svg",
+    "png": "HU/HU-SF/coat.png",
+    "source_filename": "HUN Székesfehérvár Címer.svg"
+  }
+}

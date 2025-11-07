@@ -1,0 +1,14 @@
+{
+  "code": "FR-HDF",
+  "country": "FR",
+  "flag": {
+    "svg": "FR/FR-HDF/flag.svg",
+    "png": "FR/FR-HDF/flag.png",
+    "source_filename": "Flag of the Region of Hauts-de-France.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-HDF/coat.svg",
+    "png": "FR/FR-HDF/coat.png",
+    "source_filename": "Escutcheon fr region Hauts-de-France.svg"
+  }
+}

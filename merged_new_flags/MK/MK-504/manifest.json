@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-504",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-504",
+  "region_normalized": "mk-504",
+  "flag": {
+    "svg": "MK/MK-504/flag.svg",
+    "source": "Flag of Krivogaštani Municipality, North Macedonia.svg"
+  },
+  "coat": {
+    "svg": "MK/MK-504/coat.svg",
+    "source": "Coat of arms of Krivogaštani Municipality.svg"
+  },
+  "data_source": "out"
+}

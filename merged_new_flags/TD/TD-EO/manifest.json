@@ -1,0 +1,16 @@
+{
+  "iso_code": "TD-EO",
+  "country_iso": "TD",
+  "country_name": "TD",
+  "region_name": "td-eo",
+  "region_normalized": "td-eo",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

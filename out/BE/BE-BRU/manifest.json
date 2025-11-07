@@ -1,0 +1,14 @@
+{
+  "code": "BE-BRU",
+  "country": "BE",
+  "flag": {
+    "svg": "BE/BE-BRU/flag.svg",
+    "png": "BE/BE-BRU/flag.png",
+    "source_filename": "Flag of the Brussels-Capital Region.svg"
+  },
+  "coat": {
+    "svg": "BE/BE-BRU/coat.svg",
+    "png": "BE/BE-BRU/coat.png",
+    "source_filename": "Blason de Bruxelles-Capitale.svg"
+  }
+}

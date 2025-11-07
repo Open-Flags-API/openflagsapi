@@ -1,0 +1,14 @@
+{
+  "code": "ES-TO",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-TO/flag.svg",
+    "png": "ES/ES-TO/flag.png",
+    "source_filename": "Bandera de la provincia de Toledo.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-TO/coat.svg",
+    "png": "ES/ES-TO/coat.png",
+    "source_filename": "Escudo de la provincia de Toledo.svg"
+  }
+}

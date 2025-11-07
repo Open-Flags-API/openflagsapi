@@ -1,0 +1,14 @@
+{
+  "code": "RU-LEN",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-LEN/flag.svg",
+    "png": "RU/RU-LEN/flag.png",
+    "source_filename": "Flag of Leningrad Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-LEN/coat.svg",
+    "png": "RU/RU-LEN/coat.png",
+    "source_filename": "Coat of arms of Leningrad Oblast.svg"
+  }
+}

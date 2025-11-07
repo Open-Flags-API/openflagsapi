@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-56",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-56",
+  "region_normalized": "mt-56",
+  "flag": {
+    "svg": "MT/MT-56/flag.svg",
+    "source": "Flag of Sliema.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-56/coat.svg",
+    "source": "Sliema coa.svg"
+  },
+  "data_source": "out"
+}

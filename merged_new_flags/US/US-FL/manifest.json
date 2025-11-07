@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-FL",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-fl",
+  "region_normalized": "us-fl",
+  "flag": {
+    "svg": "US/US-FL/flag.svg",
+    "source": "Flag of Florida.svg"
+  },
+  "coat": {
+    "svg": "US/US-FL/coat.svg",
+    "source": "Seal of Florida.svg"
+  },
+  "data_source": "out"
+}

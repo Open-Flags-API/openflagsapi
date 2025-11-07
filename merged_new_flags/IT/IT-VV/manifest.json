@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-VV",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-vv",
+  "region_normalized": "it-vv",
+  "flag": {
+    "svg": "IT/IT-VV/flag.svg",
+    "source": "Flag of the Province of Vibo Valentia.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-VV/coat.svg",
+    "source": "Provincia di Vibo Valentia-Stemma.svg"
+  },
+  "data_source": "out"
+}

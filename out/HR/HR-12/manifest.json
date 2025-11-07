@@ -1,0 +1,14 @@
+{
+  "code": "HR-12",
+  "country": "HR",
+  "flag": {
+    "svg": "HR/HR-12/flag.svg",
+    "png": "HR/HR-12/flag.png",
+    "source_filename": "Flag of Brod-Posavina County.svg"
+  },
+  "coat": {
+    "svg": "HR/HR-12/coat.svg",
+    "png": "HR/HR-12/coat.png",
+    "source_filename": "Coat of arms of Brod-Posavina County.svg"
+  }
+}

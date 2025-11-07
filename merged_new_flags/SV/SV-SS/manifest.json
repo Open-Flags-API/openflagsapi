@@ -1,0 +1,16 @@
+{
+  "iso_code": "SV-SS",
+  "country_iso": "SV",
+  "country_name": "SV",
+  "region_name": "sv-ss",
+  "region_normalized": "sv-ss",
+  "flag": {
+    "svg": null,
+    "source": "San Salvador Flag.png"
+  },
+  "coat": {
+    "svg": "SV/SV-SS/coat.svg",
+    "source": "Escudo de San Salvador (1943).svg"
+  },
+  "data_source": "out"
+}

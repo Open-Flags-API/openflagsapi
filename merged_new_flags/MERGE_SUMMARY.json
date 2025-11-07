@@ -1,0 +1,1265 @@
+{
+  "total_regions": 5697,
+  "statistics": {
+    "from_public": 348,
+    "from_out": 5349,
+    "merged": 0,
+    "conflicts": 0
+  },
+  "countries": {
+    "BR": {
+      "name": "brazil",
+      "region_count": 55,
+      "has_flags": 55,
+      "has_coats": 26
+    },
+    "CA": {
+      "name": "canada",
+      "region_count": 29,
+      "has_flags": 29,
+      "has_coats": 13
+    },
+    "GB": {
+      "name": "england",
+      "region_count": 315,
+      "has_flags": 107,
+      "has_coats": 108
+    },
+    "DE": {
+      "name": "germany",
+      "region_count": 36,
+      "has_flags": 36,
+      "has_coats": 16
+    },
+    "ID": {
+      "name": "indonesia",
+      "region_count": 67,
+      "has_flags": 56,
+      "has_coats": 30
+    },
+    "MH": {
+      "name": "marshall-islands",
+      "region_count": 27,
+      "has_flags": 3,
+      "has_coats": 0
+    },
+    "MX": {
+      "name": "mexico",
+      "region_count": 65,
+      "has_flags": 47,
+      "has_coats": 31
+    },
+    "RU": {
+      "name": "russia",
+      "region_count": 167,
+      "has_flags": 167,
+      "has_coats": 81
+    },
+    "KR": {
+      "name": "south-korea",
+      "region_count": 35,
+      "has_flags": 35,
+      "has_coats": 5
+    },
+    "US": {
+      "name": "usa",
+      "region_count": 119,
+      "has_flags": 119,
+      "has_coats": 32
+    },
+    "AD": {
+      "name": "AD",
+      "region_count": 7,
+      "has_flags": 3,
+      "has_coats": 7
+    },
+    "AE": {
+      "name": "AE",
+      "region_count": 7,
+      "has_flags": 7,
+      "has_coats": 6
+    },
+    "AF": {
+      "name": "AF",
+      "region_count": 34,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "AG": {
+      "name": "AG",
+      "region_count": 8,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "AL": {
+      "name": "AL",
+      "region_count": 48,
+      "has_flags": 7,
+      "has_coats": 11
+    },
+    "AM": {
+      "name": "AM",
+      "region_count": 11,
+      "has_flags": 1,
+      "has_coats": 0
+    },
+    "AO": {
+      "name": "AO",
+      "region_count": 18,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "AR": {
+      "name": "AR",
+      "region_count": 24,
+      "has_flags": 24,
+      "has_coats": 24
+    },
+    "AT": {
+      "name": "AT",
+      "region_count": 9,
+      "has_flags": 9,
+      "has_coats": 9
+    },
+    "AU": {
+      "name": "AU",
+      "region_count": 8,
+      "has_flags": 8,
+      "has_coats": 8
+    },
+    "AZ": {
+      "name": "AZ",
+      "region_count": 78,
+      "has_flags": 2,
+      "has_coats": 3
+    },
+    "BA": {
+      "name": "BA",
+      "region_count": 13,
+      "has_flags": 11,
+      "has_coats": 12
+    },
+    "BB": {
+      "name": "BB",
+      "region_count": 11,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "BD": {
+      "name": "BD",
+      "region_count": 72,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "BE": {
+      "name": "BE",
+      "region_count": 13,
+      "has_flags": 13,
+      "has_coats": 13
+    },
+    "BF": {
+      "name": "BF",
+      "region_count": 58,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "BG": {
+      "name": "BG",
+      "region_count": 28,
+      "has_flags": 0,
+      "has_coats": 3
+    },
+    "BH": {
+      "name": "BH",
+      "region_count": 5,
+      "has_flags": 2,
+      "has_coats": 0
+    },
+    "BI": {
+      "name": "BI",
+      "region_count": 18,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "BJ": {
+      "name": "BJ",
+      "region_count": 12,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "BN": {
+      "name": "BN",
+      "region_count": 4,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "BO": {
+      "name": "BO",
+      "region_count": 9,
+      "has_flags": 9,
+      "has_coats": 4
+    },
+    "BQ": {
+      "name": "BQ",
+      "region_count": 1,
+      "has_flags": 1,
+      "has_coats": 1
+    },
+    "BS": {
+      "name": "BS",
+      "region_count": 43,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "BT": {
+      "name": "BT",
+      "region_count": 20,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "BW": {
+      "name": "BW",
+      "region_count": 17,
+      "has_flags": 1,
+      "has_coats": 0
+    },
+    "BY": {
+      "name": "BY",
+      "region_count": 7,
+      "has_flags": 7,
+      "has_coats": 7
+    },
+    "BZ": {
+      "name": "BZ",
+      "region_count": 6,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "CD": {
+      "name": "CD",
+      "region_count": 30,
+      "has_flags": 1,
+      "has_coats": 1
+    },
+    "CF": {
+      "name": "CF",
+      "region_count": 17,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "CG": {
+      "name": "CG",
+      "region_count": 11,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "CH": {
+      "name": "CH",
+      "region_count": 26,
+      "has_flags": 26,
+      "has_coats": 26
+    },
+    "CI": {
+      "name": "CI",
+      "region_count": 33,
+      "has_flags": 0,
+      "has_coats": 1
+    },
+    "CL": {
+      "name": "CL",
+      "region_count": 16,
+      "has_flags": 16,
+      "has_coats": 14
+    },
+    "CM": {
+      "name": "CM",
+      "region_count": 10,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "CN": {
+      "name": "CN",
+      "region_count": 34,
+      "has_flags": 2,
+      "has_coats": 2
+    },
+    "CO": {
+      "name": "CO",
+      "region_count": 33,
+      "has_flags": 33,
+      "has_coats": 33
+    },
+    "CR": {
+      "name": "CR",
+      "region_count": 7,
+      "has_flags": 7,
+      "has_coats": 7
+    },
+    "CS": {
+      "name": "CS",
+      "region_count": 2,
+      "has_flags": 2,
+      "has_coats": 2
+    },
+    "CU": {
+      "name": "CU",
+      "region_count": 17,
+      "has_flags": 0,
+      "has_coats": 9
+    },
+    "CV": {
+      "name": "CV",
+      "region_count": 24,
+      "has_flags": 2,
+      "has_coats": 2
+    },
+    "CY": {
+      "name": "CY",
+      "region_count": 6,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "CZ": {
+      "name": "CZ",
+      "region_count": 109,
+      "has_flags": 30,
+      "has_coats": 26
+    },
+    "DJ": {
+      "name": "DJ",
+      "region_count": 6,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "DK": {
+      "name": "DK",
+      "region_count": 6,
+      "has_flags": 6,
+      "has_coats": 1
+    },
+    "DM": {
+      "name": "DM",
+      "region_count": 10,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "DO": {
+      "name": "DO",
+      "region_count": 34,
+      "has_flags": 2,
+      "has_coats": 5
+    },
+    "DZ": {
+      "name": "DZ",
+      "region_count": 58,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "EC": {
+      "name": "EC",
+      "region_count": 24,
+      "has_flags": 21,
+      "has_coats": 0
+    },
+    "EE": {
+      "name": "EE",
+      "region_count": 41,
+      "has_flags": 40,
+      "has_coats": 41
+    },
+    "EG": {
+      "name": "EG",
+      "region_count": 29,
+      "has_flags": 9,
+      "has_coats": 3
+    },
+    "ER": {
+      "name": "ER",
+      "region_count": 6,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "ES": {
+      "name": "ES",
+      "region_count": 68,
+      "has_flags": 54,
+      "has_coats": 62
+    },
+    "ET": {
+      "name": "ET",
+      "region_count": 13,
+      "has_flags": 12,
+      "has_coats": 4
+    },
+    "FI": {
+      "name": "FI",
+      "region_count": 23,
+      "has_flags": 16,
+      "has_coats": 23
+    },
+    "FJ": {
+      "name": "FJ",
+      "region_count": 19,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "FM": {
+      "name": "FM",
+      "region_count": 4,
+      "has_flags": 4,
+      "has_coats": 0
+    },
+    "FR": {
+      "name": "FR",
+      "region_count": 138,
+      "has_flags": 121,
+      "has_coats": 123
+    },
+    "GA": {
+      "name": "GA",
+      "region_count": 9,
+      "has_flags": 1,
+      "has_coats": 9
+    },
+    "GD": {
+      "name": "GD",
+      "region_count": 7,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "GE": {
+      "name": "GE",
+      "region_count": 17,
+      "has_flags": 7,
+      "has_coats": 4
+    },
+    "GH": {
+      "name": "GH",
+      "region_count": 17,
+      "has_flags": 2,
+      "has_coats": 0
+    },
+    "GL": {
+      "name": "GL",
+      "region_count": 6,
+      "has_flags": 2,
+      "has_coats": 3
+    },
+    "GM": {
+      "name": "GM",
+      "region_count": 6,
+      "has_flags": 1,
+      "has_coats": 1
+    },
+    "GN": {
+      "name": "GN",
+      "region_count": 41,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "GQ": {
+      "name": "GQ",
+      "region_count": 10,
+      "has_flags": 1,
+      "has_coats": 1
+    },
+    "GR": {
+      "name": "GR",
+      "region_count": 66,
+      "has_flags": 1,
+      "has_coats": 2
+    },
+    "GT": {
+      "name": "GT",
+      "region_count": 22,
+      "has_flags": 5,
+      "has_coats": 5
+    },
+    "GW": {
+      "name": "GW",
+      "region_count": 12,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "GY": {
+      "name": "GY",
+      "region_count": 10,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "GZZ": {
+      "name": "GZZ",
+      "region_count": 1,
+      "has_flags": 1,
+      "has_coats": 0
+    },
+    "HN": {
+      "name": "HN",
+      "region_count": 18,
+      "has_flags": 4,
+      "has_coats": 4
+    },
+    "HR": {
+      "name": "HR",
+      "region_count": 21,
+      "has_flags": 13,
+      "has_coats": 13
+    },
+    "HT": {
+      "name": "HT",
+      "region_count": 10,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "HU": {
+      "name": "HU",
+      "region_count": 43,
+      "has_flags": 43,
+      "has_coats": 38
+    },
+    "IE": {
+      "name": "IE",
+      "region_count": 30,
+      "has_flags": 28,
+      "has_coats": 14
+    },
+    "IL": {
+      "name": "IL",
+      "region_count": 6,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "IN": {
+      "name": "IN",
+      "region_count": 38,
+      "has_flags": 3,
+      "has_coats": 14
+    },
+    "IQ": {
+      "name": "IQ",
+      "region_count": 19,
+      "has_flags": 1,
+      "has_coats": 0
+    },
+    "IR": {
+      "name": "IR",
+      "region_count": 31,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "IS": {
+      "name": "IS",
+      "region_count": 52,
+      "has_flags": 2,
+      "has_coats": 2
+    },
+    "IT": {
+      "name": "IT",
+      "region_count": 131,
+      "has_flags": 98,
+      "has_coats": 122
+    },
+    "JM": {
+      "name": "JM",
+      "region_count": 14,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "JO": {
+      "name": "JO",
+      "region_count": 12,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "JP": {
+      "name": "JP",
+      "region_count": 47,
+      "has_flags": 47,
+      "has_coats": 44
+    },
+    "KE": {
+      "name": "KE",
+      "region_count": 55,
+      "has_flags": 4,
+      "has_coats": 3
+    },
+    "KG": {
+      "name": "KG",
+      "region_count": 9,
+      "has_flags": 9,
+      "has_coats": 7
+    },
+    "KH": {
+      "name": "KH",
+      "region_count": 25,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "KI": {
+      "name": "KI",
+      "region_count": 3,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "KM": {
+      "name": "KM",
+      "region_count": 3,
+      "has_flags": 3,
+      "has_coats": 0
+    },
+    "KN": {
+      "name": "KN",
+      "region_count": 16,
+      "has_flags": 1,
+      "has_coats": 0
+    },
+    "KP": {
+      "name": "KP",
+      "region_count": 13,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "KW": {
+      "name": "KW",
+      "region_count": 6,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "KY": {
+      "name": "KY",
+      "region_count": 1,
+      "has_flags": 1,
+      "has_coats": 1
+    },
+    "KZ": {
+      "name": "KZ",
+      "region_count": 21,
+      "has_flags": 3,
+      "has_coats": 8
+    },
+    "LA": {
+      "name": "LA",
+      "region_count": 19,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "LB": {
+      "name": "LB",
+      "region_count": 8,
+      "has_flags": 1,
+      "has_coats": 0
+    },
+    "LC": {
+      "name": "LC",
+      "region_count": 12,
+      "has_flags": 1,
+      "has_coats": 0
+    },
+    "LI": {
+      "name": "LI",
+      "region_count": 11,
+      "has_flags": 11,
+      "has_coats": 11
+    },
+    "LK": {
+      "name": "LK",
+      "region_count": 34,
+      "has_flags": 2,
+      "has_coats": 0
+    },
+    "LR": {
+      "name": "LR",
+      "region_count": 15,
+      "has_flags": 15,
+      "has_coats": 0
+    },
+    "LS": {
+      "name": "LS",
+      "region_count": 10,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "LT": {
+      "name": "LT",
+      "region_count": 70,
+      "has_flags": 25,
+      "has_coats": 54
+    },
+    "LU": {
+      "name": "LU",
+      "region_count": 15,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "LV": {
+      "name": "LV",
+      "region_count": 122,
+      "has_flags": 36,
+      "has_coats": 76
+    },
+    "LY": {
+      "name": "LY",
+      "region_count": 22,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "MA": {
+      "name": "MA",
+      "region_count": 93,
+      "has_flags": 33,
+      "has_coats": 4
+    },
+    "MC": {
+      "name": "MC",
+      "region_count": 17,
+      "has_flags": 1,
+      "has_coats": 1
+    },
+    "MD": {
+      "name": "MD",
+      "region_count": 37,
+      "has_flags": 7,
+      "has_coats": 4
+    },
+    "ME": {
+      "name": "ME",
+      "region_count": 25,
+      "has_flags": 3,
+      "has_coats": 9
+    },
+    "MG": {
+      "name": "MG",
+      "region_count": 6,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "MK": {
+      "name": "MK",
+      "region_count": 86,
+      "has_flags": 69,
+      "has_coats": 57
+    },
+    "ML": {
+      "name": "ML",
+      "region_count": 11,
+      "has_flags": 0,
+      "has_coats": 1
+    },
+    "MM": {
+      "name": "MM",
+      "region_count": 15,
+      "has_flags": 13,
+      "has_coats": 0
+    },
+    "MN": {
+      "name": "MN",
+      "region_count": 22,
+      "has_flags": 21,
+      "has_coats": 20
+    },
+    "MR": {
+      "name": "MR",
+      "region_count": 16,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "MT": {
+      "name": "MT",
+      "region_count": 68,
+      "has_flags": 68,
+      "has_coats": 52
+    },
+    "MU": {
+      "name": "MU",
+      "region_count": 12,
+      "has_flags": 1,
+      "has_coats": 1
+    },
+    "MV": {
+      "name": "MV",
+      "region_count": 28,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "MW": {
+      "name": "MW",
+      "region_count": 31,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "MY": {
+      "name": "MY",
+      "region_count": 16,
+      "has_flags": 15,
+      "has_coats": 14
+    },
+    "MZ": {
+      "name": "MZ",
+      "region_count": 11,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "NA": {
+      "name": "NA",
+      "region_count": 15,
+      "has_flags": 0,
+      "has_coats": 1
+    },
+    "NE": {
+      "name": "NE",
+      "region_count": 8,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "NG": {
+      "name": "NG",
+      "region_count": 37,
+      "has_flags": 4,
+      "has_coats": 0
+    },
+    "NI": {
+      "name": "NI",
+      "region_count": 19,
+      "has_flags": 15,
+      "has_coats": 13
+    },
+    "NL": {
+      "name": "NL",
+      "region_count": 17,
+      "has_flags": 17,
+      "has_coats": 17
+    },
+    "NO": {
+      "name": "NO",
+      "region_count": 29,
+      "has_flags": 22,
+      "has_coats": 27
+    },
+    "NP": {
+      "name": "NP",
+      "region_count": 25,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "NR": {
+      "name": "NR",
+      "region_count": 14,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "NZ": {
+      "name": "NZ",
+      "region_count": 19,
+      "has_flags": 2,
+      "has_coats": 0
+    },
+    "OM": {
+      "name": "OM",
+      "region_count": 13,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "PA": {
+      "name": "PA",
+      "region_count": 14,
+      "has_flags": 11,
+      "has_coats": 2
+    },
+    "PE": {
+      "name": "PE",
+      "region_count": 26,
+      "has_flags": 22,
+      "has_coats": 11
+    },
+    "PG": {
+      "name": "PG",
+      "region_count": 22,
+      "has_flags": 17,
+      "has_coats": 1
+    },
+    "PH": {
+      "name": "PH",
+      "region_count": 100,
+      "has_flags": 15,
+      "has_coats": 17
+    },
+    "PK": {
+      "name": "PK",
+      "region_count": 8,
+      "has_flags": 6,
+      "has_coats": 5
+    },
+    "PL": {
+      "name": "PL",
+      "region_count": 17,
+      "has_flags": 17,
+      "has_coats": 17
+    },
+    "PS": {
+      "name": "PS",
+      "region_count": 16,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "PT": {
+      "name": "PT",
+      "region_count": 20,
+      "has_flags": 2,
+      "has_coats": 2
+    },
+    "PW": {
+      "name": "PW",
+      "region_count": 16,
+      "has_flags": 6,
+      "has_coats": 0
+    },
+    "PY": {
+      "name": "PY",
+      "region_count": 18,
+      "has_flags": 14,
+      "has_coats": 1
+    },
+    "QA": {
+      "name": "QA",
+      "region_count": 8,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "RO": {
+      "name": "RO",
+      "region_count": 42,
+      "has_flags": 1,
+      "has_coats": 29
+    },
+    "RS": {
+      "name": "RS",
+      "region_count": 32,
+      "has_flags": 2,
+      "has_coats": 1
+    },
+    "RW": {
+      "name": "RW",
+      "region_count": 5,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "SA": {
+      "name": "SA",
+      "region_count": 13,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "SB": {
+      "name": "SB",
+      "region_count": 10,
+      "has_flags": 4,
+      "has_coats": 0
+    },
+    "SC": {
+      "name": "SC",
+      "region_count": 27,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "SD": {
+      "name": "SD",
+      "region_count": 18,
+      "has_flags": 1,
+      "has_coats": 1
+    },
+    "SE": {
+      "name": "SE",
+      "region_count": 21,
+      "has_flags": 20,
+      "has_coats": 21
+    },
+    "SG": {
+      "name": "SG",
+      "region_count": 5,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "SH": {
+      "name": "SH",
+      "region_count": 3,
+      "has_flags": 3,
+      "has_coats": 3
+    },
+    "SI": {
+      "name": "SI",
+      "region_count": 212,
+      "has_flags": 2,
+      "has_coats": 11
+    },
+    "Sicilia": {
+      "name": "Sicilia",
+      "region_count": 1,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "SK": {
+      "name": "SK",
+      "region_count": 8,
+      "has_flags": 8,
+      "has_coats": 8
+    },
+    "SL": {
+      "name": "SL",
+      "region_count": 6,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "SM": {
+      "name": "SM",
+      "region_count": 9,
+      "has_flags": 9,
+      "has_coats": 9
+    },
+    "SN": {
+      "name": "SN",
+      "region_count": 14,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "SO": {
+      "name": "SO",
+      "region_count": 17,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "SR": {
+      "name": "SR",
+      "region_count": 10,
+      "has_flags": 1,
+      "has_coats": 0
+    },
+    "SS": {
+      "name": "SS",
+      "region_count": 10,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "ST": {
+      "name": "ST",
+      "region_count": 7,
+      "has_flags": 1,
+      "has_coats": 0
+    },
+    "SV": {
+      "name": "SV",
+      "region_count": 14,
+      "has_flags": 6,
+      "has_coats": 1
+    },
+    "SX": {
+      "name": "SX",
+      "region_count": 1,
+      "has_flags": 1,
+      "has_coats": 1
+    },
+    "SY": {
+      "name": "SY",
+      "region_count": 14,
+      "has_flags": 1,
+      "has_coats": 0
+    },
+    "SZ": {
+      "name": "SZ",
+      "region_count": 4,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "TD": {
+      "name": "TD",
+      "region_count": 24,
+      "has_flags": 0,
+      "has_coats": 1
+    },
+    "TG": {
+      "name": "TG",
+      "region_count": 5,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "TH": {
+      "name": "TH",
+      "region_count": 78,
+      "has_flags": 57,
+      "has_coats": 0
+    },
+    "TJ": {
+      "name": "TJ",
+      "region_count": 5,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "TL": {
+      "name": "TL",
+      "region_count": 13,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "TM": {
+      "name": "TM",
+      "region_count": 6,
+      "has_flags": 0,
+      "has_coats": 1
+    },
+    "TN": {
+      "name": "TN",
+      "region_count": 24,
+      "has_flags": 0,
+      "has_coats": 1
+    },
+    "TO": {
+      "name": "TO",
+      "region_count": 5,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "TR": {
+      "name": "TR",
+      "region_count": 81,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "TT": {
+      "name": "TT",
+      "region_count": 17,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "TV": {
+      "name": "TV",
+      "region_count": 8,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "TW": {
+      "name": "TW",
+      "region_count": 25,
+      "has_flags": 20,
+      "has_coats": 19
+    },
+    "TZ": {
+      "name": "TZ",
+      "region_count": 31,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "UA": {
+      "name": "UA",
+      "region_count": 27,
+      "has_flags": 24,
+      "has_coats": 27
+    },
+    "UG": {
+      "name": "UG",
+      "region_count": 133,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "UM": {
+      "name": "UM",
+      "region_count": 9,
+      "has_flags": 2,
+      "has_coats": 2
+    },
+    "UY": {
+      "name": "UY",
+      "region_count": 19,
+      "has_flags": 13,
+      "has_coats": 5
+    },
+    "UZ": {
+      "name": "UZ",
+      "region_count": 14,
+      "has_flags": 2,
+      "has_coats": 2
+    },
+    "VC": {
+      "name": "VC",
+      "region_count": 6,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "VE": {
+      "name": "VE",
+      "region_count": 25,
+      "has_flags": 23,
+      "has_coats": 15
+    },
+    "VG": {
+      "name": "VG",
+      "region_count": 1,
+      "has_flags": 1,
+      "has_coats": 1
+    },
+    "VI": {
+      "name": "VI",
+      "region_count": 1,
+      "has_flags": 1,
+      "has_coats": 1
+    },
+    "VN": {
+      "name": "VN",
+      "region_count": 64,
+      "has_flags": 0,
+      "has_coats": 5
+    },
+    "VU": {
+      "name": "VU",
+      "region_count": 6,
+      "has_flags": 5,
+      "has_coats": 0
+    },
+    "WBK": {
+      "name": "WBK",
+      "region_count": 1,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "WF": {
+      "name": "WF",
+      "region_count": 3,
+      "has_flags": 3,
+      "has_coats": 1
+    },
+    "WS": {
+      "name": "WS",
+      "region_count": 11,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "YE": {
+      "name": "YE",
+      "region_count": 22,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "YU": {
+      "name": "YU",
+      "region_count": 2,
+      "has_flags": 2,
+      "has_coats": 2
+    },
+    "ZA": {
+      "name": "ZA",
+      "region_count": 9,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "ZM": {
+      "name": "ZM",
+      "region_count": 10,
+      "has_flags": 0,
+      "has_coats": 0
+    },
+    "ZW": {
+      "name": "ZW",
+      "region_count": 10,
+      "has_flags": 0,
+      "has_coats": 0
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-BUL",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-bul",
+  "region_normalized": "ph-bul",
+  "flag": {
+    "svg": null,
+    "source": "PH-BUL Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

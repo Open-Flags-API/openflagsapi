@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-WOR",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-wor",
+  "region_normalized": "gb-wor",
+  "flag": {
+    "svg": "GB/GB-WOR/flag.svg",
+    "source": "Flag of Worcestershire.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-WOR/coat.svg",
+    "source": "Arms of Worcestershire County Council.svg"
+  },
+  "data_source": "out"
+}

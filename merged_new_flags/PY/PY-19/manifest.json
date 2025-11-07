@@ -1,0 +1,16 @@
+{
+  "iso_code": "PY-19",
+  "country_iso": "PY",
+  "country_name": "PY",
+  "region_name": "py-19",
+  "region_normalized": "py-19",
+  "flag": {
+    "svg": "PY/PY-19/flag.svg",
+    "source": "Flag of Boquerón Department.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Escudo de Boqueron, Paraguay.PNG"
+  },
+  "data_source": "out"
+}

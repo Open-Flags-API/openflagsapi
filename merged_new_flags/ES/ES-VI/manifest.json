@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-VI",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-vi",
+  "region_normalized": "es-vi",
+  "flag": {
+    "svg": "ES/ES-VI/flag.svg",
+    "source": "Flag of Álava.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-VI/coat.svg",
+    "source": "Coat of Arms of Álava.svg"
+  },
+  "data_source": "out"
+}

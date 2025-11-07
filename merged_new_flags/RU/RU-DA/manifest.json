@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-DA",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-da",
+  "region_normalized": "ru-da",
+  "flag": {
+    "svg": "RU/RU-DA/flag.svg",
+    "source": "Flag of Dagestan.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-DA/coat.svg",
+    "source": "Coat of arms of Dagestan.svg"
+  },
+  "data_source": "out"
+}

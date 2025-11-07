@@ -1,0 +1,16 @@
+{
+  "iso_code": "TT-PRT",
+  "country_iso": "TT",
+  "country_name": "TT",
+  "region_name": "tt-prt",
+  "region_normalized": "tt-prt",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

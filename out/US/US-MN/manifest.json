@@ -1,0 +1,14 @@
+{
+  "code": "US-MN",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-MN/flag.svg",
+    "png": "US/US-MN/flag.png",
+    "source_filename": "Flag of Minnesota.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": null,
+    "source_filename": null
+  }
+}

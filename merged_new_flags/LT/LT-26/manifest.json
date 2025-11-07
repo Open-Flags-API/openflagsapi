@@ -1,0 +1,16 @@
+{
+  "iso_code": "LT-26",
+  "country_iso": "LT",
+  "country_name": "LT",
+  "region_name": "lt-26",
+  "region_normalized": "lt-26",
+  "flag": {
+    "svg": null,
+    "source": "Mažeikiai flag.png"
+  },
+  "coat": {
+    "svg": "LT/LT-26/coat.svg",
+    "source": "Coat of arms of Mazeikiai (Lithuania).svg"
+  },
+  "data_source": "out"
+}

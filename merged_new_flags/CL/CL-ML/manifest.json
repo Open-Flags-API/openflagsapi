@@ -1,0 +1,16 @@
+{
+  "iso_code": "CL-ML",
+  "country_iso": "CL",
+  "country_name": "CL",
+  "region_name": "cl-ml",
+  "region_normalized": "cl-ml",
+  "flag": {
+    "svg": "CL/CL-ML/flag.svg",
+    "source": "Flag of Maule, Chile.svg"
+  },
+  "coat": {
+    "svg": "CL/CL-ML/coat.svg",
+    "source": "Coat of arms of Maule Region, Chile.svg"
+  },
+  "data_source": "out"
+}

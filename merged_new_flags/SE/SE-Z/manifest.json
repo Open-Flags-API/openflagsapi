@@ -1,0 +1,16 @@
+{
+  "iso_code": "SE-Z",
+  "country_iso": "SE",
+  "country_name": "SE",
+  "region_name": "se-z",
+  "region_normalized": "se-z",
+  "flag": {
+    "svg": "SE/SE-Z/flag.svg",
+    "source": "Jämtlands län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-Z/coat.svg",
+    "source": "Jämtland län vapen.svg"
+  },
+  "data_source": "out"
+}

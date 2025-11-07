@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-BOL",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-bol",
+  "region_normalized": "gb-bol",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Bolton Metropolitan Borough Council.png"
+  },
+  "data_source": "out"
+}

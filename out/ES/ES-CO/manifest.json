@@ -1,0 +1,14 @@
+{
+  "code": "ES-CO",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-CO/flag.svg",
+    "png": "ES/ES-CO/flag.png",
+    "source_filename": "Provincia de Córdoba - Bandera.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-CO/coat.svg",
+    "png": "ES/ES-CO/coat.png",
+    "source_filename": "Provincia de Córdoba - Escudo.svg"
+  }
+}

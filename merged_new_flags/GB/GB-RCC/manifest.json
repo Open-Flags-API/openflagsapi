@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-RCC",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-rcc",
+  "region_normalized": "gb-rcc",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-RCC/coat.svg",
+    "source": "Coat of Arms of Redcar and Cleveland.svg"
+  },
+  "data_source": "out"
+}

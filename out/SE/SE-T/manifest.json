@@ -1,0 +1,14 @@
+{
+  "code": "SE-T",
+  "country": "SE",
+  "flag": {
+    "svg": "SE/SE-T/flag.svg",
+    "png": "SE/SE-T/flag.png",
+    "source_filename": "Örebro län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-T/coat.svg",
+    "png": "SE/SE-T/coat.png",
+    "source_filename": "Örebro län vapen.svg"
+  }
+}

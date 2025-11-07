@@ -1,0 +1,14 @@
+{
+  "code": "CL-AR",
+  "country": "CL",
+  "flag": {
+    "svg": "CL/CL-AR/flag.svg",
+    "png": "CL/CL-AR/flag.png",
+    "source_filename": "Flag of La Araucanía Region.svg"
+  },
+  "coat": {
+    "svg": "CL/CL-AR/coat.svg",
+    "png": "CL/CL-AR/coat.png",
+    "source_filename": "Coat of arms of La Araucania, Chile.svg"
+  }
+}

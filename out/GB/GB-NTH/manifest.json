@@ -1,0 +1,14 @@
+{
+  "code": "GB-NTH",
+  "country": "GB",
+  "flag": {
+    "svg": "GB/GB-NTH/flag.svg",
+    "png": "GB/GB-NTH/flag.png",
+    "source_filename": "Flag of Northamptonshire.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-NTH/coat.svg",
+    "png": "GB/GB-NTH/coat.png",
+    "source_filename": "Arms of Northamptonshire County Council.svg"
+  }
+}

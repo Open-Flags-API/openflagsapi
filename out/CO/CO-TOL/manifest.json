@@ -1,0 +1,14 @@
+{
+  "code": "CO-TOL",
+  "country": "CO",
+  "flag": {
+    "svg": "CO/CO-TOL/flag.svg",
+    "png": "CO/CO-TOL/flag.png",
+    "source_filename": "Flag of Tolima.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-TOL/coat.svg",
+    "png": "CO/CO-TOL/coat.png",
+    "source_filename": "Escudo del Tolima.svg"
+  }
+}

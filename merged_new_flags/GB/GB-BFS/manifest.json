@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-BFS",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-bfs",
+  "region_normalized": "gb-bfs",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

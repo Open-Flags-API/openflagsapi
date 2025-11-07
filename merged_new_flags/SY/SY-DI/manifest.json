@@ -1,0 +1,16 @@
+{
+  "iso_code": "SY-DI",
+  "country_iso": "SY",
+  "country_name": "SY",
+  "region_name": "sy-di",
+  "region_normalized": "sy-di",
+  "flag": {
+    "svg": "SY/SY-DI/flag.svg",
+    "source": "Flag of Damascus (until 2024).svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

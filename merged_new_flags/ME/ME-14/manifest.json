@@ -1,0 +1,16 @@
+{
+  "iso_code": "ME-14",
+  "country_iso": "ME",
+  "country_name": "ME",
+  "region_name": "me-14",
+  "region_normalized": "me-14",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Pljevlja-grb.png"
+  },
+  "data_source": "out"
+}

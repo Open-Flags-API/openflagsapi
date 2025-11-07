@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-ZE",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-ze",
+  "region_normalized": "hu-ze",
+  "flag": {
+    "svg": "HU/HU-ZE/flag.svg",
+    "source": "Flag of Zalaegerszeg.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-ZE/coat.svg",
+    "source": "HUN Zalaegerszeg Címer.svg"
+  },
+  "data_source": "out"
+}

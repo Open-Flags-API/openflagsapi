@@ -1,0 +1,14 @@
+{
+  "code": "HU-SK",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-SK/flag.svg",
+    "png": "HU/HU-SK/flag.png",
+    "source_filename": "Szolnokzászlaja.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-SK/coat.svg",
+    "png": "HU/HU-SK/coat.png",
+    "source_filename": "HUN Szolnok Címer.svg"
+  }
+}

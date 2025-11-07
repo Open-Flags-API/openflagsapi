@@ -1,0 +1,14 @@
+{
+  "code": "ES-AN",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-AN/flag.svg",
+    "png": "ES/ES-AN/flag.png",
+    "source_filename": "Flag of Andalucía.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-AN/coat.svg",
+    "png": "ES/ES-AN/coat.png",
+    "source_filename": "Emblem of Andalusia.svg"
+  }
+}

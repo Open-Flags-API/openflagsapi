@@ -1,0 +1,14 @@
+{
+  "code": "VE-G",
+  "country": "VE",
+  "flag": {
+    "svg": "VE/VE-G/flag.svg",
+    "png": "VE/VE-G/flag.png",
+    "source_filename": "Flag of Carabobo State.svg"
+  },
+  "coat": {
+    "svg": "VE/VE-G/coat.svg",
+    "png": "VE/VE-G/coat.png",
+    "source_filename": "Escudo del Estado Carabobo.svg"
+  }
+}

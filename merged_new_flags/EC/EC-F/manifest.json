@@ -1,0 +1,16 @@
+{
+  "iso_code": "EC-F",
+  "country_iso": "EC",
+  "country_name": "EC",
+  "region_name": "ec-f",
+  "region_normalized": "ec-f",
+  "flag": {
+    "svg": "EC/EC-F/flag.svg",
+    "source": "Bandera Provincia Cañar.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

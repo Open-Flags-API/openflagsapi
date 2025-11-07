@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-811",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-811",
+  "region_normalized": "mk-811",
+  "flag": {
+    "svg": "MK/MK-811/flag.svg",
+    "source": "Flag of Saraj Municipality.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

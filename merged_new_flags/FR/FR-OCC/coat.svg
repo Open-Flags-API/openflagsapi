@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="660">
+<defs>
+  <radialGradient id="rg" gradientUnits="userSpaceOnUse" cx="220" cy="220" r="405">
+    <stop style="stop-color:#ffffff;stop-opacity:.3" offset="0"/>
+    <stop style="stop-color:#ffffff;stop-opacity:.2" offset=".2"/>
+    <stop style="stop-color:#666666;stop-opacity:.1" offset=".6"/>
+    <stop style="stop-color:#000000;stop-opacity:.13" offset="1"/>
+  </radialGradient>
+  <clipPath id="clip-shield" clipPathUnits="userSpaceOnUse">
+    <path id="shield" d="m 1.5,1.5 v 258.9 c 0,286 298.5,398 298.5,398 0,0 298.5,-112 298.5,-398 V 1.5 z"/>
+  </clipPath>
+  <path id="cross" d="m 300,90 a 320,320 0 0 0 60,45 a 320,320 0 0 0 -33.65,118.65 a 320,320 0 0 0 118.65,-33.65 a 320,320 0 0 0 45,60 a 320,320 0 0 0 -45,60 a 320,320 0 0 0 -118.65,-33.65 a 320,320 0 0 0 33.65,118.65 a 320,320 0 0 0 -60,45 a 320,320 0 0 0 -60,-45 a 320,320 0 0 0 33.65,-118.65 a 320,320 0 0 0 -118.65,33.65 a 320,320 0 0 0 -45,-60 a 320,320 0 0 0 45,-60 a 320,320 0 0 0 118.65,33.65 a 320,320 0 0 0 -33.65,-118.65 a 320,320 0 0 0 60,-45 z"/>
+  <g id="circles">
+    <g id="circles-1">
+      <circle cx="300" cy="69" r="21"/>
+      <circle cx="219.85" cy="129.05" r="21"/>
+      <circle cx="380.15" cy="129.05" r="21"/>
+    </g>
+    <use xlink:href="#circles-1" transform="rotate(90,300,280)"/>
+    <use xlink:href="#circles-1" transform="rotate(180,300,280)"/>
+    <use xlink:href="#circles-1" transform="rotate(270,300,280)"/>
+  </g>
+</defs>
+<use id="bg" xlink:href="#shield" style="fill:#e20909;"/>
+<path id="stripes" style="fill:#fcef3c;" clip-path="url(#clip-shield)"
+d="m 300,280 v 380 h 33.167 v -380 z m 66.333,0 v 380 h 33.167 v -380 z m 66.333,0 v 380 h 33.167 v -380 z m 66.333,0 v 380 h 33.167 v -380 z m 66.333,0 v 380 h 33.167 v -380 z"/>
+<use xlink:href="#cross" style="fill:#e20909;stroke:#e20909;stroke-width:28;"/>
+<use xlink:href="#circles" style="fill:#fcef3c;stroke:#e20909;stroke-width:2;"/>
+<use xlink:href="#cross" style="fill:#e20909;stroke:#fcef3c;stroke-width:24;"/>
+<use id="shine" xlink:href="#shield" style="fill:url(#rg);stroke:#000000;stroke-width:3;"/>
+</svg>

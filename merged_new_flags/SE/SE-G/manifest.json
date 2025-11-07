@@ -1,0 +1,16 @@
+{
+  "iso_code": "SE-G",
+  "country_iso": "SE",
+  "country_name": "SE",
+  "region_name": "se-g",
+  "region_normalized": "se-g",
+  "flag": {
+    "svg": "SE/SE-G/flag.svg",
+    "source": "Kronobergs län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-G/coat.svg",
+    "source": "Kronoberg vapen.svg"
+  },
+  "data_source": "out"
+}

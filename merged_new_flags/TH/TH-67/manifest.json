@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-67",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-67",
+  "region_normalized": "th-67",
+  "flag": {
+    "svg": "TH/TH-67/flag.svg",
+    "source": "Flag of Phetchabun province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

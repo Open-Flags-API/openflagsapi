@@ -1,0 +1,14 @@
+{
+  "code": "PH-SLE",
+  "country": "PH",
+  "flag": {
+    "svg": null,
+    "png": "PH/PH-SLE/flag.png",
+    "source_filename": "Southern Leyte.gif"
+  },
+  "coat": {
+    "svg": "PH/PH-SLE/coat.svg",
+    "png": "PH/PH-SLE/coat.png",
+    "source_filename": "Official Seal of Southern Leyte.svg"
+  }
+}

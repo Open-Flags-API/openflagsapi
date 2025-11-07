@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-IFU",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-ifu",
+  "region_normalized": "ph-ifu",
+  "flag": {
+    "svg": null,
+    "source": "PH-IFU Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Ph seal ifugao.png"
+  },
+  "data_source": "out"
+}

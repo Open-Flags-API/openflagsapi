@@ -1,0 +1,16 @@
+{
+  "iso_code": "CS-SR",
+  "country_iso": "CS",
+  "country_name": "CS",
+  "region_name": "cs-sr",
+  "region_normalized": "cs-sr",
+  "flag": {
+    "svg": "CS/CS-SR/flag.svg",
+    "source": "Flag of Serbia (1992–2004).svg"
+  },
+  "coat": {
+    "svg": "CS/CS-SR/coat.svg",
+    "source": "Coat of arms of Serbia (1947–2004).svg"
+  },
+  "data_source": "out"
+}

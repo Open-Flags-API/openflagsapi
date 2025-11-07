@@ -1,0 +1,14 @@
+{
+  "code": "IT-TR",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-TR/flag.svg",
+    "png": "IT/IT-TR/flag.png",
+    "source_filename": "Flag of the province of Terni.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-TR/coat.svg",
+    "png": "IT/IT-TR/coat.png",
+    "source_filename": "Provincia di Terni-Stemma.svg"
+  }
+}

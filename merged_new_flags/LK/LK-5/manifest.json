@@ -1,0 +1,16 @@
+{
+  "iso_code": "LK-5",
+  "country_iso": "LK",
+  "country_name": "LK",
+  "region_name": "lk-5",
+  "region_normalized": "lk-5",
+  "flag": {
+    "svg": null,
+    "source": "Eastern Province Flag (SRI LANKA).png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

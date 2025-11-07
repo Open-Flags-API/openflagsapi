@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-IN",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "indonesia",
+  "region_normalized": "indonesia",
+  "flag": {
+    "svg": "ID/ID-IN/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MD-RE",
+  "country_iso": "MD",
+  "country_name": "MD",
+  "region_name": "md-re",
+  "region_normalized": "md-re",
+  "flag": {
+    "svg": "MD/MD-RE/flag.svg",
+    "source": "Flag of District Rezina.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Rezina rajon coa.gif"
+  },
+  "data_source": "out"
+}

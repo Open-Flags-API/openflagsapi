@@ -1,0 +1,14 @@
+{
+  "code": "MT-02",
+  "country": "MT",
+  "flag": {
+    "svg": "MT/MT-02/flag.svg",
+    "png": "MT/MT-02/flag.png",
+    "source_filename": "Flag of Balzan.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-02/coat.svg",
+    "png": "MT/MT-02/coat.png",
+    "source_filename": "Balzan coa.svg"
+  }
+}

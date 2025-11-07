@@ -1,0 +1,14 @@
+{
+  "code": "US-TN",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-TN/flag.svg",
+    "png": "US/US-TN/flag.png",
+    "source_filename": "Flag of Tennessee.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": null,
+    "source_filename": null
+  }
+}

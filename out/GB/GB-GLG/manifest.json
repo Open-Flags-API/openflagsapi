@@ -1,0 +1,14 @@
+{
+  "code": "GB-GLG",
+  "country": "GB",
+  "flag": {
+    "svg": "GB/GB-GLG/flag.svg",
+    "png": "GB/GB-GLG/flag.png",
+    "source_filename": "Flag of Glasgow.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-GLG/coat.svg",
+    "png": "GB/GB-GLG/coat.png",
+    "source_filename": "Glasgow Coat of Arms 1996.svg"
+  }
+}

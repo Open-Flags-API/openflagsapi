@@ -1,0 +1,16 @@
+{
+  "iso_code": "UY-AR",
+  "country_iso": "UY",
+  "country_name": "UY",
+  "region_name": "uy-ar",
+  "region_normalized": "uy-ar",
+  "flag": {
+    "svg": "UY/UY-AR/flag.svg",
+    "source": "Flag of Artigas Department.svg"
+  },
+  "coat": {
+    "svg": "UY/UY-AR/coat.svg",
+    "source": "Coat of Arms of Artigas Department, Uruguay.svg"
+  },
+  "data_source": "out"
+}

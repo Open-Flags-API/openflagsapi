@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-07",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-07",
+  "region_normalized": "fr-07",
+  "flag": {
+    "svg": "FR/FR-07/flag.svg",
+    "source": "Drapeau fr département Ardèche.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-07/coat.svg",
+    "source": "Blason département fr Ardèche.svg"
+  },
+  "data_source": "out"
+}

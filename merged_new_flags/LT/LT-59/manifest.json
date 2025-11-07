@@ -1,0 +1,16 @@
+{
+  "iso_code": "LT-59",
+  "country_iso": "LT",
+  "country_name": "LT",
+  "region_name": "lt-59",
+  "region_normalized": "lt-59",
+  "flag": {
+    "svg": "LT/LT-59/flag.svg",
+    "source": "Flag of Visaginas.svg"
+  },
+  "coat": {
+    "svg": "LT/LT-59/coat.svg",
+    "source": "Visaginas COA.svg"
+  },
+  "data_source": "out"
+}

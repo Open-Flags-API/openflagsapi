@@ -1,0 +1,16 @@
+{
+  "iso_code": "CH-TG",
+  "country_iso": "CH",
+  "country_name": "CH",
+  "region_name": "ch-tg",
+  "region_normalized": "ch-tg",
+  "flag": {
+    "svg": "CH/CH-TG/flag.svg",
+    "source": "Flag of Canton of Thurgau.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-TG/coat.svg",
+    "source": "Wappen Thurgau matt.svg"
+  },
+  "data_source": "out"
+}

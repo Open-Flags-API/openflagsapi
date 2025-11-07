@@ -1,0 +1,14 @@
+{
+  "code": "BR-RS",
+  "country": "BR",
+  "flag": {
+    "svg": "BR/BR-RS/flag.svg",
+    "png": "BR/BR-RS/flag.png",
+    "source_filename": "Bandeira do Rio Grande do Sul.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-RS/coat.svg",
+    "png": "BR/BR-RS/coat.png",
+    "source_filename": "Brasão do Rio Grande do Sul.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "TW-TTT",
+  "country_iso": "TW",
+  "country_name": "TW",
+  "region_name": "tw-ttt",
+  "region_normalized": "tw-ttt",
+  "flag": {
+    "svg": "TW/TW-TTT/flag.svg",
+    "source": "Flag of Taitung County (2014).svg"
+  },
+  "coat": {
+    "svg": "TW/TW-TTT/coat.svg",
+    "source": "Emblem of Taitung County (2014).svg"
+  },
+  "data_source": "out"
+}

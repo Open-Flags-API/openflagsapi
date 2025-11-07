@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-BGW",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-bgw",
+  "region_normalized": "gb-bgw",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-BGW/coat.svg",
+    "source": "Arms of Blaenau Gwent County Borough Council.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "AR-L",
+  "country_iso": "AR",
+  "country_name": "AR",
+  "region_name": "ar-l",
+  "region_normalized": "ar-l",
+  "flag": {
+    "svg": "AR/AR-L/flag.svg",
+    "source": "Bandera de la Provincia de La Pampa.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-L/coat.svg",
+    "source": "Escudo de la Provincia de La Pampa.svg"
+  },
+  "data_source": "out"
+}

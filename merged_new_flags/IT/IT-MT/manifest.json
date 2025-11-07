@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-MT",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-mt",
+  "region_normalized": "it-mt",
+  "flag": {
+    "svg": "IT/IT-MT/flag.svg",
+    "source": "Flag of the Province of Matera.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-MT/coat.svg",
+    "source": "Provincia di Matera-Stemma.svg"
+  },
+  "data_source": "out"
+}

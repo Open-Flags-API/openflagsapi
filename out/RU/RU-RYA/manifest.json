@@ -1,0 +1,14 @@
+{
+  "code": "RU-RYA",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-RYA/flag.svg",
+    "png": "RU/RU-RYA/flag.png",
+    "source_filename": "Flag of Ryazan Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-RYA/coat.svg",
+    "png": "RU/RU-RYA/coat.png",
+    "source_filename": "Coat of arms of Ryazan Oblast.svg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "code": "ES-RI",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-RI/flag.svg",
+    "png": "ES/ES-RI/flag.png",
+    "source_filename": "Flag of La Rioja (with coat of arms).svg"
+  },
+  "coat": {
+    "svg": "ES/ES-RI/coat.svg",
+    "png": "ES/ES-RI/coat.png",
+    "source_filename": "Escudo de la Comunidad Autonoma de La Rioja.svg"
+  }
+}

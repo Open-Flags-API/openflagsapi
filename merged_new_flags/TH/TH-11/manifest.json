@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-11",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-11",
+  "region_normalized": "th-11",
+  "flag": {
+    "svg": null,
+    "source": "Flag Samut Prakan Province.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

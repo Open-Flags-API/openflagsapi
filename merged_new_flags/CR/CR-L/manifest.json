@@ -1,0 +1,16 @@
+{
+  "iso_code": "CR-L",
+  "country_iso": "CR",
+  "country_name": "CR",
+  "region_name": "cr-l",
+  "region_normalized": "cr-l",
+  "flag": {
+    "svg": "CR/CR-L/flag.svg",
+    "source": "Bandera de la Provincia de Limón.svg"
+  },
+  "coat": {
+    "svg": "CR/CR-L/coat.svg",
+    "source": "Escudo de la Provincia de Limón.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "IT-FI",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-FI/flag.svg",
+    "png": "IT/IT-FI/flag.png",
+    "source_filename": "Flag of the Province of Florence.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-FI/coat.svg",
+    "png": "IT/IT-FI/coat.png",
+    "source_filename": "Provincia di Firenze-Stemma.svg"
+  }
+}

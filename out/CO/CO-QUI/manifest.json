@@ -1,0 +1,14 @@
+{
+  "code": "CO-QUI",
+  "country": "CO",
+  "flag": {
+    "svg": "CO/CO-QUI/flag.svg",
+    "png": "CO/CO-QUI/flag.png",
+    "source_filename": "Flag of Quindío.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-QUI/coat.svg",
+    "png": "CO/CO-QUI/coat.png",
+    "source_filename": "Escudo del Quindío.svg"
+  }
+}

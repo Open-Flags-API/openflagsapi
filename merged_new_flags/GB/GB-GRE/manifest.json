@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-GRE",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-gre",
+  "region_normalized": "gb-gre",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-GRE/coat.svg",
+    "source": "Coat of arms of the Royal Borough of Greenwich.svg"
+  },
+  "data_source": "out"
+}

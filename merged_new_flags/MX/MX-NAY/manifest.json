@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-NAY",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "mx-nay",
+  "region_normalized": "mx-nay",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "MX/MX-NAY/coat.svg",
+    "source": "Coat of arms of Nayarit.svg"
+  },
+  "data_source": "out"
+}

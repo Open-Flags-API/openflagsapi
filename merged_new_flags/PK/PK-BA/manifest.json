@@ -1,0 +1,16 @@
+{
+  "iso_code": "PK-BA",
+  "country_iso": "PK",
+  "country_name": "PK",
+  "region_name": "pk-ba",
+  "region_normalized": "pk-ba",
+  "flag": {
+    "svg": "PK/PK-BA/flag.svg",
+    "source": "Flag of Balochistan.svg"
+  },
+  "coat": {
+    "svg": "PK/PK-BA/coat.svg",
+    "source": "Coat of arms of Balochistan.svg"
+  },
+  "data_source": "out"
+}

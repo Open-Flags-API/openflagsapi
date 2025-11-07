@@ -1,0 +1,16 @@
+{
+  "iso_code": "BO-P",
+  "country_iso": "BO",
+  "country_name": "BO",
+  "region_name": "bo-p",
+  "region_normalized": "bo-p",
+  "flag": {
+    "svg": "BO/BO-P/flag.svg",
+    "source": "Flag of Potosí.svg"
+  },
+  "coat": {
+    "svg": "BO/BO-P/coat.svg",
+    "source": "Coat of Arms of Potosi (Bolivia).svg"
+  },
+  "data_source": "out"
+}

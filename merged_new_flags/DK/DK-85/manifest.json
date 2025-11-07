@@ -1,0 +1,16 @@
+{
+  "iso_code": "DK-85",
+  "country_iso": "DK",
+  "country_name": "DK",
+  "region_name": "dk-85",
+  "region_normalized": "dk-85",
+  "flag": {
+    "svg": "DK/DK-85/flag.svg",
+    "source": "Flag of Region Sjælland.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

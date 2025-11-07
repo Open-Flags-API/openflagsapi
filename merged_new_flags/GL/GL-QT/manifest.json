@@ -1,0 +1,16 @@
+{
+  "iso_code": "GL-QT",
+  "country_iso": "GL",
+  "country_name": "GL",
+  "region_name": "gl-qt",
+  "region_normalized": "gl-qt",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Qeqertalik-coat-of-arms.jpg"
+  },
+  "data_source": "out"
+}

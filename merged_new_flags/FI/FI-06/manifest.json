@@ -1,0 +1,16 @@
+{
+  "iso_code": "FI-06",
+  "country_iso": "FI",
+  "country_name": "FI",
+  "region_name": "fi-06",
+  "region_normalized": "fi-06",
+  "flag": {
+    "svg": "FI/FI-06/flag.svg",
+    "source": "Flag of Tavastia Proper.svg"
+  },
+  "coat": {
+    "svg": "FI/FI-06/coat.svg",
+    "source": "Kanta-Häme.vaakuna.svg"
+  },
+  "data_source": "out"
+}

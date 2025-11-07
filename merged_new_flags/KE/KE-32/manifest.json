@@ -1,0 +1,16 @@
+{
+  "iso_code": "KE-32",
+  "country_iso": "KE",
+  "country_name": "KE",
+  "region_name": "ke-32",
+  "region_normalized": "ke-32",
+  "flag": {
+    "svg": null,
+    "source": "Contea di Nandi flag.gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

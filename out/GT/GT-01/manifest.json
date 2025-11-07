@@ -1,0 +1,14 @@
+{
+  "code": "GT-01",
+  "country": "GT",
+  "flag": {
+    "svg": "GT/GT-01/flag.svg",
+    "png": "GT/GT-01/flag.png",
+    "source_filename": "Bandera del Departamento Guatemala.svg"
+  },
+  "coat": {
+    "svg": "GT/GT-01/coat.svg",
+    "png": "GT/GT-01/coat.png",
+    "source_filename": "Coat of Arms of Guatemala City.svg"
+  }
+}

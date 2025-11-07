@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-NA",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "nayarit",
+  "region_normalized": "nayarit",
+  "flag": {
+    "svg": "MX/MX-NA/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "AZ-NEF",
+  "country_iso": "AZ",
+  "country_name": "AZ",
+  "region_name": "az-nef",
+  "region_normalized": "az-nef",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-RO",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-ro",
+  "region_normalized": "it-ro",
+  "flag": {
+    "svg": "IT/IT-RO/flag.svg",
+    "source": "Flag of the Province of Rovigo.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-RO/coat.svg",
+    "source": "Provincia di Rovigo-Stemma.svg"
+  },
+  "data_source": "out"
+}

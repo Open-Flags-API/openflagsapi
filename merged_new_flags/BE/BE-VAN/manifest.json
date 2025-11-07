@@ -1,0 +1,16 @@
+{
+  "iso_code": "BE-VAN",
+  "country_iso": "BE",
+  "country_name": "BE",
+  "region_name": "be-van",
+  "region_normalized": "be-van",
+  "flag": {
+    "svg": "BE/BE-VAN/flag.svg",
+    "source": "Flag of Antwerp.svg"
+  },
+  "coat": {
+    "svg": "BE/BE-VAN/coat.svg",
+    "source": "Wapen van de provincie Antwerpen.svg"
+  },
+  "data_source": "out"
+}

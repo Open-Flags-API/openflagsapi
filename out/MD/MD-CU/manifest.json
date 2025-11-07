@@ -1,0 +1,14 @@
+{
+  "code": "MD-CU",
+  "country": "MD",
+  "flag": {
+    "svg": "MD/MD-CU/flag.svg",
+    "png": "MD/MD-CU/flag.png",
+    "source_filename": "Flag of Chișinău.svg"
+  },
+  "coat": {
+    "svg": "MD/MD-CU/coat.svg",
+    "png": "MD/MD-CU/coat.png",
+    "source_filename": "Coat of arms of Chișinău 1991.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-CAS",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-cas",
+  "region_normalized": "ph-cas",
+  "flag": {
+    "svg": null,
+    "source": "PH-CAS Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

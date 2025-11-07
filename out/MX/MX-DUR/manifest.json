@@ -1,0 +1,14 @@
+{
+  "code": "MX-DUR",
+  "country": "MX",
+  "flag": {
+    "svg": "MX/MX-DUR/flag.svg",
+    "png": "MX/MX-DUR/flag.png",
+    "source_filename": "Flag of Durango.svg"
+  },
+  "coat": {
+    "svg": "MX/MX-DUR/coat.svg",
+    "png": "MX/MX-DUR/coat.png",
+    "source_filename": "Coat of arms of Durango.svg"
+  }
+}

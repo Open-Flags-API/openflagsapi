@@ -1,0 +1,16 @@
+{
+  "iso_code": "SD-RS",
+  "country_iso": "SD",
+  "country_name": "SD",
+  "region_name": "sd-rs",
+  "region_normalized": "sd-rs",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "CH-TI",
+  "country_iso": "CH",
+  "country_name": "CH",
+  "region_name": "ch-ti",
+  "region_normalized": "ch-ti",
+  "flag": {
+    "svg": "CH/CH-TI/flag.svg",
+    "source": "Flag of Canton of Ticino.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-TI/coat.svg",
+    "source": "Wappen Tessin matt.svg"
+  },
+  "data_source": "out"
+}

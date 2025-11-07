@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-096",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-096",
+  "region_normalized": "lv-096",
+  "flag": {
+    "svg": null,
+    "source": "Strenču novads Flag.png"
+  },
+  "coat": {
+    "svg": "LV/LV-096/coat.svg",
+    "source": "Strenču novads COA.svg"
+  },
+  "data_source": "out"
+}

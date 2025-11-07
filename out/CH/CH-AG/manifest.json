@@ -1,0 +1,14 @@
+{
+  "code": "CH-AG",
+  "country": "CH",
+  "flag": {
+    "svg": "CH/CH-AG/flag.svg",
+    "png": "CH/CH-AG/flag.png",
+    "source_filename": "Flag of Canton of Aargau.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-AG/coat.svg",
+    "png": "CH/CH-AG/coat.png",
+    "source_filename": "Wappen Aargau matt.svg"
+  }
+}

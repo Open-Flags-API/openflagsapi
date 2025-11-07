@@ -1,0 +1,16 @@
+{
+  "iso_code": "LK-2",
+  "country_iso": "LK",
+  "country_name": "LK",
+  "region_name": "lk-2",
+  "region_normalized": "lk-2",
+  "flag": {
+    "svg": null,
+    "source": "Central Province.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MC-MO",
+  "country_iso": "MC",
+  "country_name": "MC",
+  "region_name": "mc-mo",
+  "region_normalized": "mc-mo",
+  "flag": {
+    "svg": "MC/MC-MO/flag.svg",
+    "source": "Flag of Monaco.svg"
+  },
+  "coat": {
+    "svg": "MC/MC-MO/coat.svg",
+    "source": "Coat of arms of Monaco.svg"
+  },
+  "data_source": "out"
+}

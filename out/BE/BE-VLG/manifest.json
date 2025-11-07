@@ -1,0 +1,14 @@
+{
+  "code": "BE-VLG",
+  "country": "BE",
+  "flag": {
+    "svg": "BE/BE-VLG/flag.svg",
+    "png": "BE/BE-VLG/flag.png",
+    "source_filename": "Flag of Flanders.svg"
+  },
+  "coat": {
+    "svg": "BE/BE-VLG/coat.svg",
+    "png": "BE/BE-VLG/coat.png",
+    "source_filename": "Vlaanderen wapen.svg"
+  }
+}

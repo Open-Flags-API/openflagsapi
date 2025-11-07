@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-KI",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "kirov",
+  "region_normalized": "kirov",
+  "flag": {
+    "svg": "RU/RU-KI/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

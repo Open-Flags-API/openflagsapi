@@ -1,0 +1,14 @@
+{
+  "code": "CO-CHO",
+  "country": "CO",
+  "flag": {
+    "svg": "CO/CO-CHO/flag.svg",
+    "png": "CO/CO-CHO/flag.png",
+    "source_filename": "Flag of Chocó.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-CHO/coat.svg",
+    "png": "CO/CO-CHO/coat.png",
+    "source_filename": "Escudo del Chocó.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "TT-ARI",
+  "country_iso": "TT",
+  "country_name": "TT",
+  "region_name": "tt-ari",
+  "region_normalized": "tt-ari",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Arima Borough.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

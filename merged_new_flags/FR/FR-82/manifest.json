@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-82",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-82",
+  "region_normalized": "fr-82",
+  "flag": {
+    "svg": null,
+    "source": "Proposed flag for Tarn-et-Garonne.gif"
+  },
+  "coat": {
+    "svg": "FR/FR-82/coat.svg",
+    "source": "Blason département fr Tarn-et-Garonne.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-OR",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-or",
+  "region_normalized": "us-or",
+  "flag": {
+    "svg": "US/US-OR/flag.svg",
+    "source": "Flag of Oregon.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "BI-RT",
+  "country_iso": "BI",
+  "country_name": "BI",
+  "region_name": "bi-rt",
+  "region_normalized": "bi-rt",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

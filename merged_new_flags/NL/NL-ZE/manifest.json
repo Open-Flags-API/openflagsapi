@@ -1,0 +1,16 @@
+{
+  "iso_code": "NL-ZE",
+  "country_iso": "NL",
+  "country_name": "NL",
+  "region_name": "nl-ze",
+  "region_normalized": "nl-ze",
+  "flag": {
+    "svg": "NL/NL-ZE/flag.svg",
+    "source": "Flag of Zeeland.svg"
+  },
+  "coat": {
+    "svg": "NL/NL-ZE/coat.svg",
+    "source": "Zeeland wapen.svg"
+  },
+  "data_source": "out"
+}

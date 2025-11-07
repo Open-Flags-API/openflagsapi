@@ -1,0 +1,16 @@
+{
+  "iso_code": "MY-15",
+  "country_iso": "MY",
+  "country_name": "MY",
+  "region_name": "my-15",
+  "region_normalized": "my-15",
+  "flag": {
+    "svg": "MY/MY-15/flag.svg",
+    "source": "Flag of Labuan.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

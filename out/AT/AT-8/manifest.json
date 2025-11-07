@@ -1,0 +1,14 @@
+{
+  "code": "AT-8",
+  "country": "AT",
+  "flag": {
+    "svg": "AT/AT-8/flag.svg",
+    "png": "AT/AT-8/flag.png",
+    "source_filename": "Flag of Salzburg, Vienna, Vorarlberg.svg"
+  },
+  "coat": {
+    "svg": "AT/AT-8/coat.svg",
+    "png": "AT/AT-8/coat.png",
+    "source_filename": "Vorarlberg CoA.svg"
+  }
+}

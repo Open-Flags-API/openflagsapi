@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-024",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-024",
+  "region_normalized": "lv-024",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Dagdas novads.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Dagdas novads COA.png"
+  },
+  "data_source": "out"
+}

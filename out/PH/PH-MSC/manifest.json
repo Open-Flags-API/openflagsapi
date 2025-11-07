@@ -1,0 +1,14 @@
+{
+  "code": "PH-MSC",
+  "country": "PH",
+  "flag": {
+    "svg": "PH/PH-MSC/flag.svg",
+    "png": "PH/PH-MSC/flag.png",
+    "source_filename": "Flag of Misamis Occidental.svg"
+  },
+  "coat": {
+    "svg": "PH/PH-MSC/coat.svg",
+    "png": "PH/PH-MSC/coat.png",
+    "source_filename": "Official Seal of Misamis Occidental.svg"
+  }
+}

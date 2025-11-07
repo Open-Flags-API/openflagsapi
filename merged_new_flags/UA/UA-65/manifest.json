@@ -1,0 +1,16 @@
+{
+  "iso_code": "UA-65",
+  "country_iso": "UA",
+  "country_name": "UA",
+  "region_name": "ua-65",
+  "region_normalized": "ua-65",
+  "flag": {
+    "svg": "UA/UA-65/flag.svg",
+    "source": "Flag of Kherson Oblast.svg"
+  },
+  "coat": {
+    "svg": "UA/UA-65/coat.svg",
+    "source": "Coat of Arms of Kherson Oblast.svg"
+  },
+  "data_source": "out"
+}

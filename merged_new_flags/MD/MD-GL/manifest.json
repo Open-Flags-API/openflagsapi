@@ -1,0 +1,16 @@
+{
+  "iso_code": "MD-GL",
+  "country_iso": "MD",
+  "country_name": "MD",
+  "region_name": "md-gl",
+  "region_normalized": "md-gl",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Glodeni District.gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": "CoA of Glodeni District.png"
+  },
+  "data_source": "out"
+}

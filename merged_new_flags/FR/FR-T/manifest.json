@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-T",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-t",
+  "region_normalized": "fr-t",
+  "flag": {
+    "svg": "FR/FR-T/flag.svg",
+    "source": "Poitou-Charentes flag.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-T/coat.svg",
+    "source": "Poitou-Charentes blason.svg"
+  },
+  "data_source": "out"
+}

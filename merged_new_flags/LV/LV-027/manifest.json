@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-027",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-027",
+  "region_normalized": "lv-027",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Dundaga Municipality.jpg"
+  },
+  "coat": {
+    "svg": "LV/LV-027/coat.svg",
+    "source": "Dundagas novads COA.svg"
+  },
+  "data_source": "out"
+}

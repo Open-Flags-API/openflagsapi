@@ -1,0 +1,16 @@
+{
+  "iso_code": "IN-GJ",
+  "country_iso": "IN",
+  "country_name": "IN",
+  "region_name": "in-gj",
+  "region_normalized": "in-gj",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IN/IN-GJ/coat.svg",
+    "source": "Government Of Gujarat Seal In All Languages.svg"
+  },
+  "data_source": "out"
+}

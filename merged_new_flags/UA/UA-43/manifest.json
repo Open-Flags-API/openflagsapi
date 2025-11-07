@@ -1,0 +1,16 @@
+{
+  "iso_code": "UA-43",
+  "country_iso": "UA",
+  "country_name": "UA",
+  "region_name": "ua-43",
+  "region_normalized": "ua-43",
+  "flag": {
+    "svg": "UA/UA-43/flag.svg",
+    "source": "Flag of Crimea.svg"
+  },
+  "coat": {
+    "svg": "UA/UA-43/coat.svg",
+    "source": "Emblem of Crimea.svg"
+  },
+  "data_source": "out"
+}

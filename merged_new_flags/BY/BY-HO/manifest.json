@@ -1,0 +1,16 @@
+{
+  "iso_code": "BY-HO",
+  "country_iso": "BY",
+  "country_name": "BY",
+  "region_name": "by-ho",
+  "region_normalized": "by-ho",
+  "flag": {
+    "svg": "BY/BY-HO/flag.svg",
+    "source": "Flag of Homyel Voblast.svg"
+  },
+  "coat": {
+    "svg": "BY/BY-HO/coat.svg",
+    "source": "Coat of arms of Homyel Voblast.svg"
+  },
+  "data_source": "out"
+}

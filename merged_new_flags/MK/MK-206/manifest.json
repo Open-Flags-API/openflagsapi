@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-206",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-206",
+  "region_normalized": "mk-206",
+  "flag": {
+    "svg": "MK/MK-206/flag.svg",
+    "source": "Flag of Kocani Municipality, North Macedonia.svg"
+  },
+  "coat": {
+    "svg": "MK/MK-206/coat.svg",
+    "source": "Coat of arms of Kočani Municipality.svg"
+  },
+  "data_source": "out"
+}

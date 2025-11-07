@@ -1,0 +1,16 @@
+{
+  "iso_code": "IS-KOP",
+  "country_iso": "IS",
+  "country_name": "IS",
+  "region_name": "is-kop",
+  "region_normalized": "is-kop",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

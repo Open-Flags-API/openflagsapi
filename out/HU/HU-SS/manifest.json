@@ -1,0 +1,14 @@
+{
+  "code": "HU-SS",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-SS/flag.svg",
+    "png": "HU/HU-SS/flag.png",
+    "source_filename": "Flag of Szekszárd.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-SS/coat.svg",
+    "png": "HU/HU-SS/coat.png",
+    "source_filename": "HUN Szekszárd Címer.svg"
+  }
+}

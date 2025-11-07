@@ -1,0 +1,14 @@
+{
+  "code": "ID-NB",
+  "country": "ID",
+  "flag": {
+    "svg": "ID/ID-NB/flag.svg",
+    "png": "ID/ID-NB/flag.png",
+    "source_filename": "Flag of West Nusa Tenggara.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-NB/coat.svg",
+    "png": "ID/ID-NB/coat.png",
+    "source_filename": "Coat of arms of West Nusa Tenggara.svg"
+  }
+}

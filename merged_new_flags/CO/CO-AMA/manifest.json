@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-AMA",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-ama",
+  "region_normalized": "co-ama",
+  "flag": {
+    "svg": "CO/CO-AMA/flag.svg",
+    "source": "Flag of Amazonas (Colombia).svg"
+  },
+  "coat": {
+    "svg": "CO/CO-AMA/coat.svg",
+    "source": "Escudo de Amazonas (Colombia).svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "BE-WHT",
+  "country": "BE",
+  "flag": {
+    "svg": "BE/BE-WHT/flag.svg",
+    "png": "BE/BE-WHT/flag.png",
+    "source_filename": "Generieke vlag van Henegouwen.svg"
+  },
+  "coat": {
+    "svg": "BE/BE-WHT/coat.svg",
+    "png": "BE/BE-WHT/coat.png",
+    "source_filename": "Wapen van Henegouwen (provincie).svg"
+  }
+}

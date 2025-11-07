@@ -1,0 +1,16 @@
+{
+  "iso_code": "PE-TAC",
+  "country_iso": "PE",
+  "country_name": "PE",
+  "region_name": "pe-tac",
+  "region_normalized": "pe-tac",
+  "flag": {
+    "svg": "PE/PE-TAC/flag.svg",
+    "source": "Flag of Tacna.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

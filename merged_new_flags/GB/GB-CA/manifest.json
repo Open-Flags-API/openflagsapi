@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-CA",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "cambridgeshire",
+  "region_normalized": "cambridgeshire",
+  "flag": {
+    "svg": "GB/GB-CA/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

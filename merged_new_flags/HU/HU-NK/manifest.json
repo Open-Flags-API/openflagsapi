@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-NK",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-nk",
+  "region_normalized": "hu-nk",
+  "flag": {
+    "svg": "HU/HU-NK/flag.svg",
+    "source": "Flag of Nagykanizsa.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-NK/coat.svg",
+    "source": "HUN Nagykanizsa Címer.svg"
+  },
+  "data_source": "out"
+}

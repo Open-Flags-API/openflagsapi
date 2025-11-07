@@ -1,0 +1,16 @@
+{
+  "iso_code": "MY-03",
+  "country_iso": "MY",
+  "country_name": "MY",
+  "region_name": "my-03",
+  "region_normalized": "my-03",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Kelantan.svg"
+  },
+  "coat": {
+    "svg": "MY/MY-03/coat.svg",
+    "source": "Coat of arms of Kelantan.svg"
+  },
+  "data_source": "out"
+}

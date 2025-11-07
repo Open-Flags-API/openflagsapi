@@ -1,0 +1,14 @@
+{
+  "code": "PH-CAM",
+  "country": "PH",
+  "flag": {
+    "svg": null,
+    "png": "PH/PH-CAM/flag.png",
+    "source_filename": "PH-CAM Flag.png"
+  },
+  "coat": {
+    "svg": "PH/PH-CAM/coat.svg",
+    "png": "PH/PH-CAM/coat.png",
+    "source_filename": "Camiguin Seal.svg"
+  }
+}

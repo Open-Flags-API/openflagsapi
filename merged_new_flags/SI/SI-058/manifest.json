@@ -1,0 +1,16 @@
+{
+  "iso_code": "SI-058",
+  "country_iso": "SI",
+  "country_name": "SI",
+  "region_name": "si-058",
+  "region_normalized": "si-058",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "SI/SI-058/coat.svg",
+    "source": "Coat of Arms of Lenart.svg"
+  },
+  "data_source": "out"
+}

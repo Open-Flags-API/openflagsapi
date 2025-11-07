@@ -1,0 +1,14 @@
+{
+  "code": "IT-BA",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-BA/flag.svg",
+    "png": "IT/IT-BA/flag.png",
+    "source_filename": "Flag of Metropolitan City of Bari.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-BA/coat.svg",
+    "png": "IT/IT-BA/coat.png",
+    "source_filename": "Città metropolitana di Bari-Stemma.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-KE",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-ke",
+  "region_normalized": "hu-ke",
+  "flag": {
+    "svg": "HU/HU-KE/flag.svg",
+    "source": "FLAG-Komárom-Esztergom-megye.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "HUN Komárom-Esztergom megye COA.jpg"
+  },
+  "data_source": "out"
+}

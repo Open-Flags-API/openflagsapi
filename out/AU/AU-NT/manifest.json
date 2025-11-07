@@ -1,0 +1,14 @@
+{
+  "code": "AU-NT",
+  "country": "AU",
+  "flag": {
+    "svg": "AU/AU-NT/flag.svg",
+    "png": "AU/AU-NT/flag.png",
+    "source_filename": "Flag of the Northern Territory.svg"
+  },
+  "coat": {
+    "svg": "AU/AU-NT/coat.svg",
+    "png": "AU/AU-NT/coat.png",
+    "source_filename": "Coat of arms of the Northern Territory.svg"
+  }
+}

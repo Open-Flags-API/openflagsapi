@@ -1,0 +1,16 @@
+{
+  "iso_code": "AF-PKA",
+  "country_iso": "AF",
+  "country_name": "AF",
+  "region_name": "af-pka",
+  "region_normalized": "af-pka",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "US-OH",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-OH/flag.svg",
+    "png": "US/US-OH/flag.png",
+    "source_filename": "Flag of Ohio.svg"
+  },
+  "coat": {
+    "svg": "US/US-OH/coat.svg",
+    "png": "US/US-OH/coat.png",
+    "source_filename": "Coat of arms of Ohio.svg"
+  }
+}

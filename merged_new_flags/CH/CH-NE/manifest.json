@@ -1,0 +1,16 @@
+{
+  "iso_code": "CH-NE",
+  "country_iso": "CH",
+  "country_name": "CH",
+  "region_name": "ch-ne",
+  "region_normalized": "ch-ne",
+  "flag": {
+    "svg": "CH/CH-NE/flag.svg",
+    "source": "Flag of Canton of Neuchâtel.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-NE/coat.svg",
+    "source": "Wappen Neuenburg matt.svg"
+  },
+  "data_source": "out"
+}

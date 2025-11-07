@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-CHE",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-che",
+  "region_normalized": "ru-che",
+  "flag": {
+    "svg": "RU/RU-CHE/flag.svg",
+    "source": "Flag of Chelyabinsk Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-CHE/coat.svg",
+    "source": "Coat of arms of Chelyabinsk Oblast (large).svg"
+  },
+  "data_source": "out"
+}

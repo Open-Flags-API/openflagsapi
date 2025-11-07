@@ -1,0 +1,16 @@
+{
+  "iso_code": "NI-MN",
+  "country_iso": "NI",
+  "country_name": "NI",
+  "region_name": "ni-mn",
+  "region_normalized": "ni-mn",
+  "flag": {
+    "svg": "NI/NI-MN/flag.svg",
+    "source": "Flag of Managua.svg"
+  },
+  "coat": {
+    "svg": "NI/NI-MN/coat.svg",
+    "source": "Coat of Arms of Managua.svg"
+  },
+  "data_source": "out"
+}

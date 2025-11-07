@@ -1,0 +1,16 @@
+{
+  "iso_code": "AM-GR",
+  "country_iso": "AM",
+  "country_name": "AM",
+  "region_name": "am-gr",
+  "region_normalized": "am-gr",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Gegharkunik Province Coat of Arms.jpg"
+  },
+  "data_source": "out"
+}

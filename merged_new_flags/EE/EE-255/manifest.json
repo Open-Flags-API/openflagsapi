@@ -1,0 +1,16 @@
+{
+  "iso_code": "EE-255",
+  "country_iso": "EE",
+  "country_name": "EE",
+  "region_name": "ee-255",
+  "region_normalized": "ee-255",
+  "flag": {
+    "svg": "EE/EE-255/flag.svg",
+    "source": "Järva valla lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-255/coat.svg",
+    "source": "Järva valla vapp.svg"
+  },
+  "data_source": "out"
+}

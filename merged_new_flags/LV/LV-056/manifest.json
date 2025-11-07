@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-056",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-056",
+  "region_normalized": "lv-056",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Līvānu novads.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "LVA Līvānu novads COA.png"
+  },
+  "data_source": "out"
+}

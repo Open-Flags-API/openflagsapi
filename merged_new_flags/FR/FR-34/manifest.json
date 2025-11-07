@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-34",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-34",
+  "region_normalized": "fr-34",
+  "flag": {
+    "svg": "FR/FR-34/flag.svg",
+    "source": "Drapeau culturel fr département Hérault.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-34/coat.svg",
+    "source": "Blason département fr Hérault.svg"
+  },
+  "data_source": "out"
+}

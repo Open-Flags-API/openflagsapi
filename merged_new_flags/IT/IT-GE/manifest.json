@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-GE",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-ge",
+  "region_normalized": "it-ge",
+  "flag": {
+    "svg": "IT/IT-GE/flag.svg",
+    "source": "Flag of the Province of Genoa.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Provincia di Genova-Stemma.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-SI",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "sinaloa",
+  "region_normalized": "sinaloa",
+  "flag": {
+    "svg": "MX/MX-SI/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

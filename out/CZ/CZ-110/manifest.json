@@ -1,0 +1,14 @@
+{
+  "code": "CZ-110",
+  "country": "CZ",
+  "flag": {
+    "svg": "CZ/CZ-110/flag.svg",
+    "png": "CZ/CZ-110/flag.png",
+    "source_filename": "Flag of Prague 10.svg"
+  },
+  "coat": {
+    "svg": "CZ/CZ-110/coat.svg",
+    "png": "CZ/CZ-110/coat.png",
+    "source_filename": "Znak mestske casti Praha 10.svg"
+  }
+}

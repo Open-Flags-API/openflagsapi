@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-BU",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-bu",
+  "region_normalized": "ru-bu",
+  "flag": {
+    "svg": "RU/RU-BU/flag.svg",
+    "source": "Flag of Buryatia.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-BU/coat.svg",
+    "source": "Coat of Arms of Buryatia.svg"
+  },
+  "data_source": "out"
+}

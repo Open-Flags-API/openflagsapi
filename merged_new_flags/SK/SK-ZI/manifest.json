@@ -1,0 +1,16 @@
+{
+  "iso_code": "SK-ZI",
+  "country_iso": "SK",
+  "country_name": "SK",
+  "region_name": "sk-zi",
+  "region_normalized": "sk-zi",
+  "flag": {
+    "svg": "SK/SK-ZI/flag.svg",
+    "source": "Zilinsky vlajka.svg"
+  },
+  "coat": {
+    "svg": "SK/SK-ZI/coat.svg",
+    "source": "Coat of Arms of Žilina Region.svg"
+  },
+  "data_source": "out"
+}

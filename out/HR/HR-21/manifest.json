@@ -1,0 +1,14 @@
+{
+  "code": "HR-21",
+  "country": "HR",
+  "flag": {
+    "svg": "HR/HR-21/flag.svg",
+    "png": "HR/HR-21/flag.png",
+    "source_filename": "Flag of Zagreb.svg"
+  },
+  "coat": {
+    "svg": "HR/HR-21/coat.svg",
+    "png": "HR/HR-21/coat.png",
+    "source_filename": "Coat of arms of Zagreb.svg"
+  }
+}

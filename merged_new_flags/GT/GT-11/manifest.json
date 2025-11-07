@@ -1,0 +1,16 @@
+{
+  "iso_code": "GT-11",
+  "country_iso": "GT",
+  "country_name": "GT",
+  "region_name": "gt-11",
+  "region_normalized": "gt-11",
+  "flag": {
+    "svg": null,
+    "source": "Vlagretalhuleu.gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

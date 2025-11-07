@@ -1,0 +1,14 @@
+{
+  "code": "LT-19",
+  "country": "LT",
+  "flag": {
+    "svg": null,
+    "png": "LT/LT-19/flag.png",
+    "source_filename": "Flag of Kelme.gif"
+  },
+  "coat": {
+    "svg": "LT/LT-19/coat.svg",
+    "png": "LT/LT-19/coat.png",
+    "source_filename": "Kelmes-herbas.svg"
+  }
+}

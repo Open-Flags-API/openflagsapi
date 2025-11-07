@@ -1,0 +1,16 @@
+{
+  "iso_code": "PE-LOR",
+  "country_iso": "PE",
+  "country_name": "PE",
+  "region_name": "pe-lor",
+  "region_normalized": "pe-lor",
+  "flag": {
+    "svg": "PE/PE-LOR/flag.svg",
+    "source": "Bandera Región Loreto.svg"
+  },
+  "coat": {
+    "svg": "PE/PE-LOR/coat.svg",
+    "source": "Escudo departamento de loreto.svg"
+  },
+  "data_source": "out"
+}

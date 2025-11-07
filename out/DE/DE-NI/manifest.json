@@ -1,0 +1,14 @@
+{
+  "code": "DE-NI",
+  "country": "DE",
+  "flag": {
+    "svg": "DE/DE-NI/flag.svg",
+    "png": "DE/DE-NI/flag.png",
+    "source_filename": "Flag of Lower Saxony.svg"
+  },
+  "coat": {
+    "svg": "DE/DE-NI/coat.svg",
+    "png": "DE/DE-NI/coat.png",
+    "source_filename": "Coat of arms of Lower Saxony.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "CA-QU",
+  "country_iso": "CA",
+  "country_name": "canada",
+  "region_name": "quebec",
+  "region_normalized": "quebec",
+  "flag": {
+    "svg": "CA/CA-QU/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-MEK",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-mek",
+  "region_normalized": "ma-mek",
+  "flag": {
+    "svg": "MA/MA-MEK/flag.svg",
+    "source": "Flag of Meknes province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

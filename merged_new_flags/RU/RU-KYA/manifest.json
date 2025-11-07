@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-KYA",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-kya",
+  "region_normalized": "ru-kya",
+  "flag": {
+    "svg": "RU/RU-KYA/flag.svg",
+    "source": "Flag of Krasnoyarsk Krai.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-KYA/coat.svg",
+    "source": "Coat of arms of Krasnoyarsk Krai.svg"
+  },
+  "data_source": "out"
+}

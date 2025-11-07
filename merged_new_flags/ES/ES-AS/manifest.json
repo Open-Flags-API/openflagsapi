@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-AS",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-as",
+  "region_normalized": "es-as",
+  "flag": {
+    "svg": "ES/ES-AS/flag.svg",
+    "source": "Flag of Asturias (gala).svg"
+  },
+  "coat": {
+    "svg": "ES/ES-AS/coat.svg",
+    "source": "Escudo de Asturias (oficial).svg"
+  },
+  "data_source": "out"
+}

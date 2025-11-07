@@ -1,0 +1,14 @@
+{
+  "code": "CH-LU",
+  "country": "CH",
+  "flag": {
+    "svg": "CH/CH-LU/flag.svg",
+    "png": "CH/CH-LU/flag.png",
+    "source_filename": "Flag of Canton of Lucerne.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-LU/coat.svg",
+    "png": "CH/CH-LU/coat.png",
+    "source_filename": "Wappen Luzern matt.svg"
+  }
+}

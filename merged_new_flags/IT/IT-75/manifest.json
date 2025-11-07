@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-75",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-75",
+  "region_normalized": "it-75",
+  "flag": {
+    "svg": "IT/IT-75/flag.svg",
+    "source": "Flag of Apulia.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-75/coat.svg",
+    "source": "Coat of Arms of Apulia.svg"
+  },
+  "data_source": "out"
+}

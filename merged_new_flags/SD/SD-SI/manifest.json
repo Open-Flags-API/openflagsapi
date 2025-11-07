@@ -1,0 +1,16 @@
+{
+  "iso_code": "SD-SI",
+  "country_iso": "SD",
+  "country_name": "SD",
+  "region_name": "sd-si",
+  "region_normalized": "sd-si",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Seal of Sennar State.png"
+  },
+  "data_source": "out"
+}

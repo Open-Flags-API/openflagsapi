@@ -1,0 +1,16 @@
+{
+  "iso_code": "MU-CC",
+  "country_iso": "MU",
+  "country_name": "MU",
+  "region_name": "mu-cc",
+  "region_normalized": "mu-cc",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

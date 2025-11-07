@@ -1,0 +1,14 @@
+{
+  "code": "CA-NS",
+  "country": "CA",
+  "flag": {
+    "svg": "CA/CA-NS/flag.svg",
+    "png": "CA/CA-NS/flag.png",
+    "source_filename": "Flag of Nova Scotia.svg"
+  },
+  "coat": {
+    "svg": "CA/CA-NS/coat.svg",
+    "png": "CA/CA-NS/coat.png",
+    "source_filename": "Coat of arms of Nova Scotia.svg"
+  }
+}

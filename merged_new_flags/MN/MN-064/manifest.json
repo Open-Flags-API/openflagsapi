@@ -1,0 +1,16 @@
+{
+  "iso_code": "MN-064",
+  "country_iso": "MN",
+  "country_name": "MN",
+  "region_name": "mn-064",
+  "region_normalized": "mn-064",
+  "flag": {
+    "svg": "MN/MN-064/flag.svg",
+    "source": "Mn flag govisümber aimag.svg"
+  },
+  "coat": {
+    "svg": "MN/MN-064/coat.svg",
+    "source": "Mn coa govisümber aimag.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-VMR",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-vmr",
+  "region_normalized": "lv-vmr",
+  "flag": {
+    "svg": "LV/LV-VMR/flag.svg",
+    "source": "Valmiera flag.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-VMR/coat.svg",
+    "source": "COA LV Valmiera.svg"
+  },
+  "data_source": "out"
+}

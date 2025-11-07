@@ -1,0 +1,14 @@
+{
+  "code": "US-WA",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-WA/flag.svg",
+    "png": "US/US-WA/flag.png",
+    "source_filename": "Flag of Washington.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": null,
+    "source_filename": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "PA-NB",
+  "country_iso": "PA",
+  "country_name": "PA",
+  "region_name": "pa-nb",
+  "region_normalized": "pa-nb",
+  "flag": {
+    "svg": "PA/PA-NB/flag.svg",
+    "source": "Bandera de la Comarca Ngäbe-Buglé.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

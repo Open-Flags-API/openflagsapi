@@ -1,0 +1,14 @@
+{
+  "code": "ES-CE",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-CE/flag.svg",
+    "png": "ES/ES-CE/flag.png",
+    "source_filename": "Flag of Ceuta.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-CE/coat.svg",
+    "png": "ES/ES-CE/coat.png",
+    "source_filename": "Coat of Arms of Ceuta.svg"
+  }
+}

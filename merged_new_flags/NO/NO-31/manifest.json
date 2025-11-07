@@ -1,0 +1,16 @@
+{
+  "iso_code": "NO-31",
+  "country_iso": "NO",
+  "country_name": "NO",
+  "region_name": "no-31",
+  "region_normalized": "no-31",
+  "flag": {
+    "svg": "NO/NO-31/flag.svg",
+    "source": "Flag of Østfold.svg"
+  },
+  "coat": {
+    "svg": "NO/NO-31/coat.svg",
+    "source": "Østfold våpen.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "HU-ST",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-ST/flag.svg",
+    "png": "HU/HU-ST/flag.png",
+    "source_filename": "Flag of Salgótarján.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-ST/coat.svg",
+    "png": "HU/HU-ST/coat.png",
+    "source_filename": "HUN Salgótarján Címer.svg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "code": "US-AZ",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-AZ/flag.svg",
+    "png": "US/US-AZ/flag.png",
+    "source_filename": "Flag of Arizona.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": null,
+    "source_filename": null
+  }
+}

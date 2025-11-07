@@ -1,0 +1,14 @@
+{
+  "code": "MT-10",
+  "country": "MT",
+  "flag": {
+    "svg": "MT/MT-10/flag.svg",
+    "png": "MT/MT-10/flag.png",
+    "source_filename": "Flag of Fontana.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-10/coat.svg",
+    "png": "MT/MT-10/coat.png",
+    "source_filename": "Fontana coa.svg"
+  }
+}

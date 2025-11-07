@@ -1,0 +1,16 @@
+{
+  "iso_code": "VE-Y",
+  "country_iso": "VE",
+  "country_name": "VE",
+  "region_name": "ve-y",
+  "region_normalized": "ve-y",
+  "flag": {
+    "svg": "VE/VE-Y/flag.svg",
+    "source": "Flag of Delta Amacuro State.svg"
+  },
+  "coat": {
+    "svg": "VE/VE-Y/coat.svg",
+    "source": "Escudo del Estado Delta Amacuro.svg"
+  },
+  "data_source": "out"
+}

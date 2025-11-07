@@ -1,0 +1,14 @@
+{
+  "code": "SM-05",
+  "country": "SM",
+  "flag": {
+    "svg": "SM/SM-05/flag.svg",
+    "png": "SM/SM-05/flag.png",
+    "source_filename": "Fiorentino (RSM)-Bandiera.svg"
+  },
+  "coat": {
+    "svg": "SM/SM-05/coat.svg",
+    "png": "SM/SM-05/coat.png",
+    "source_filename": "Fiorentino (RSM)-Stemma.svg"
+  }
+}

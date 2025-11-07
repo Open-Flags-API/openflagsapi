@@ -1,0 +1,14 @@
+{
+  "code": "VE-Z",
+  "country": "VE",
+  "flag": {
+    "svg": "VE/VE-Z/flag.svg",
+    "png": "VE/VE-Z/flag.png",
+    "source_filename": "Flag of Amazonas Indigenous State.svg"
+  },
+  "coat": {
+    "svg": "VE/VE-Z/coat.svg",
+    "png": "VE/VE-Z/coat.png",
+    "source_filename": "Escudo del Estado Amazonas.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "PY-5",
+  "country_iso": "PY",
+  "country_name": "PY",
+  "region_name": "py-5",
+  "region_normalized": "py-5",
+  "flag": {
+    "svg": "PY/PY-5/flag.svg",
+    "source": "Flag of Caaguazú Department.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Escudo Gobernacion caaguazu.jpg"
+  },
+  "data_source": "out"
+}

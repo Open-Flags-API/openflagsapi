@@ -1,0 +1,14 @@
+{
+  "code": "IT-NU",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-NU/flag.svg",
+    "png": "IT/IT-NU/flag.png",
+    "source_filename": "Flag of the Province of Nuoro.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-NU/coat.svg",
+    "png": "IT/IT-NU/coat.png",
+    "source_filename": "Provincia di Nuoro-Stemma.svg"
+  }
+}

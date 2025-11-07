@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-008",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-008",
+  "region_normalized": "lv-008",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "LVA Amatas novads COA.png"
+  },
+  "data_source": "out"
+}

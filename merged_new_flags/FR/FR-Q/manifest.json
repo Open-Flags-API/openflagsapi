@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-Q",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-q",
+  "region_normalized": "fr-q",
+  "flag": {
+    "svg": "FR/FR-Q/flag.svg",
+    "source": "Flag of Normandie.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-Q/coat.svg",
+    "source": "Blason region fr Normandie.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "TW-TXG",
+  "country_iso": "TW",
+  "country_name": "TW",
+  "region_name": "tw-txg",
+  "region_normalized": "tw-txg",
+  "flag": {
+    "svg": "TW/TW-TXG/flag.svg",
+    "source": "Flag of Taichung City old.svg"
+  },
+  "coat": {
+    "svg": "TW/TW-TXG/coat.svg",
+    "source": "Seal of Taichung.svg"
+  },
+  "data_source": "out"
+}

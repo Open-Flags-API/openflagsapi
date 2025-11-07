@@ -1,0 +1,16 @@
+{
+  "iso_code": "UY-SJ",
+  "country_iso": "UY",
+  "country_name": "UY",
+  "region_name": "uy-sj",
+  "region_normalized": "uy-sj",
+  "flag": {
+    "svg": "UY/UY-SJ/flag.svg",
+    "source": "Flag of San José Department.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of San José Department.png"
+  },
+  "data_source": "out"
+}

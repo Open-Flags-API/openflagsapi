@@ -1,0 +1,14 @@
+{
+  "code": "RU-IN",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-IN/flag.svg",
+    "png": "RU/RU-IN/flag.png",
+    "source_filename": "Flag of Ingushetia.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-IN/coat.svg",
+    "png": "RU/RU-IN/coat.png",
+    "source_filename": "Coat of arms of Ingushetia.svg"
+  }
+}

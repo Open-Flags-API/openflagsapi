@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-PAC",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-pac",
+  "region_normalized": "fr-pac",
+  "flag": {
+    "svg": "FR/FR-PAC/flag.svg",
+    "source": "Flag of Provence-Alpes-Côte d'Azur.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-PAC/coat.svg",
+    "source": "Blason région fr Provence-Alpes-Côte d'Azur.svg"
+  },
+  "data_source": "out"
+}

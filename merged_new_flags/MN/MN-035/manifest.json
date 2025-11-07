@@ -1,0 +1,16 @@
+{
+  "iso_code": "MN-035",
+  "country_iso": "MN",
+  "country_name": "MN",
+  "region_name": "mn-035",
+  "region_normalized": "mn-035",
+  "flag": {
+    "svg": "MN/MN-035/flag.svg",
+    "source": "Orkhon Aimag Flag.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Mn coa erdenet.png"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-201",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-201",
+  "region_normalized": "mk-201",
+  "flag": {
+    "svg": "MK/MK-201/flag.svg",
+    "source": "Flag of Berovo Municipality, North Macedonia.svg"
+  },
+  "coat": {
+    "svg": "MK/MK-201/coat.svg",
+    "source": "Coat of arms of Berovo Municipality.svg"
+  },
+  "data_source": "out"
+}

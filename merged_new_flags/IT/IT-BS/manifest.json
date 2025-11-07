@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-BS",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-bs",
+  "region_normalized": "it-bs",
+  "flag": {
+    "svg": "IT/IT-BS/flag.svg",
+    "source": "Flag of the Province of Brescia.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-BS/coat.svg",
+    "source": "Provincia di Brescia-Stemma.svg"
+  },
+  "data_source": "out"
+}

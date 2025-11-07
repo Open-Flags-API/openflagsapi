@@ -1,0 +1,16 @@
+{
+  "iso_code": "EE-442",
+  "country_iso": "EE",
+  "country_name": "EE",
+  "region_name": "ee-442",
+  "region_normalized": "ee-442",
+  "flag": {
+    "svg": "EE/EE-442/flag.svg",
+    "source": "Lüganuse valla lipp 2017.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-442/coat.svg",
+    "source": "Lüganuse valla vapp.svg"
+  },
+  "data_source": "out"
+}

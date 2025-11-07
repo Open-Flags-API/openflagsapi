@@ -1,0 +1,16 @@
+{
+  "iso_code": "JP-28",
+  "country_iso": "JP",
+  "country_name": "JP",
+  "region_name": "jp-28",
+  "region_normalized": "jp-28",
+  "flag": {
+    "svg": "JP/JP-28/flag.svg",
+    "source": "Flag of Hyogo Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-28/coat.svg",
+    "source": "Emblem of Hyogo Prefecture.svg"
+  },
+  "data_source": "out"
+}

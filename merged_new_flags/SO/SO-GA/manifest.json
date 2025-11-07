@@ -1,0 +1,16 @@
+{
+  "iso_code": "SO-GA",
+  "country_iso": "SO",
+  "country_name": "SO",
+  "region_name": "so-ga",
+  "region_normalized": "so-ga",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

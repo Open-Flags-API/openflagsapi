@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-ORK",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-ork",
+  "region_normalized": "gb-ork",
+  "flag": {
+    "svg": "GB/GB-ORK/flag.svg",
+    "source": "2007 Flag of Orkney.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

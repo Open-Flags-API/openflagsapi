@@ -1,0 +1,14 @@
+{
+  "code": "CZ-103",
+  "country": "CZ",
+  "flag": {
+    "svg": "CZ/CZ-103/flag.svg",
+    "png": "CZ/CZ-103/flag.png",
+    "source_filename": "Flag of Prague 3.svg"
+  },
+  "coat": {
+    "svg": "CZ/CZ-103/coat.svg",
+    "png": "CZ/CZ-103/coat.png",
+    "source_filename": "Praha-03 CoA.svg"
+  }
+}

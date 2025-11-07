@@ -1,0 +1,16 @@
+{
+  "iso_code": "GH-EP",
+  "country_iso": "GH",
+  "country_name": "GH",
+  "region_name": "gh-ep",
+  "region_normalized": "gh-ep",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Eastern Region (Ghana).gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

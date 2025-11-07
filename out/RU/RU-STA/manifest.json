@@ -1,0 +1,14 @@
+{
+  "code": "RU-STA",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-STA/flag.svg",
+    "png": "RU/RU-STA/flag.png",
+    "source_filename": "Flag of Stavropol Krai.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-STA/coat.svg",
+    "png": "RU/RU-STA/coat.png",
+    "source_filename": "Coat of arms of Stavropol Krai.svg"
+  }
+}

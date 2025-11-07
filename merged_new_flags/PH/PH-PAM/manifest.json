@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-PAM",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-pam",
+  "region_normalized": "ph-pam",
+  "flag": {
+    "svg": null,
+    "source": "Pampanga Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

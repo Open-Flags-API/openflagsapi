@@ -1,0 +1,16 @@
+{
+  "iso_code": "GE-TB",
+  "country_iso": "GE",
+  "country_name": "GE",
+  "region_name": "ge-tb",
+  "region_normalized": "ge-tb",
+  "flag": {
+    "svg": "GE/GE-TB/flag.svg",
+    "source": "Flag of Tbilisi.svg"
+  },
+  "coat": {
+    "svg": "GE/GE-TB/coat.svg",
+    "source": "Seal of Tbilisi, Georgia.svg"
+  },
+  "data_source": "out"
+}

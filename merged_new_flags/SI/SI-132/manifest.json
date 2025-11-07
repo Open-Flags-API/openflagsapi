@@ -1,0 +1,16 @@
+{
+  "iso_code": "SI-132",
+  "country_iso": "SI",
+  "country_name": "SI",
+  "region_name": "si-132",
+  "region_normalized": "si-132",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Turnišče.png"
+  },
+  "data_source": "out"
+}

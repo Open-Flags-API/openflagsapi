@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-BR",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "bryansk",
+  "region_normalized": "bryansk",
+  "flag": {
+    "svg": "RU/RU-BR/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

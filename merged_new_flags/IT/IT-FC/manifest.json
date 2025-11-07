@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-FC",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-fc",
+  "region_normalized": "it-fc",
+  "flag": {
+    "svg": "IT/IT-FC/flag.svg",
+    "source": "Flag of the Province of Forlì-Cesena.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-FC/coat.svg",
+    "source": "Provincia di Forlì-Cesena-Stemma.svg"
+  },
+  "data_source": "out"
+}

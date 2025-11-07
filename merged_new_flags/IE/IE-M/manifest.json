@@ -1,0 +1,16 @@
+{
+  "iso_code": "IE-M",
+  "country_iso": "IE",
+  "country_name": "IE",
+  "region_name": "ie-m",
+  "region_normalized": "ie-m",
+  "flag": {
+    "svg": "IE/IE-M/flag.svg",
+    "source": "Flag of Munster.svg"
+  },
+  "coat": {
+    "svg": "IE/IE-M/coat.svg",
+    "source": "Coat of arms of Munster.svg"
+  },
+  "data_source": "out"
+}

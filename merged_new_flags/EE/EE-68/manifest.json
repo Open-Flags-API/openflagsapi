@@ -1,0 +1,16 @@
+{
+  "iso_code": "EE-68",
+  "country_iso": "EE",
+  "country_name": "EE",
+  "region_name": "ee-68",
+  "region_normalized": "ee-68",
+  "flag": {
+    "svg": "EE/EE-68/flag.svg",
+    "source": "Pärnumaa lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-68/coat.svg",
+    "source": "Et-Pärnu maakond-coa.svg"
+  },
+  "data_source": "out"
+}

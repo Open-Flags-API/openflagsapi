@@ -1,0 +1,16 @@
+{
+  "iso_code": "TW-KHH",
+  "country_iso": "TW",
+  "country_name": "TW",
+  "region_name": "tw-khh",
+  "region_normalized": "tw-khh",
+  "flag": {
+    "svg": "TW/TW-KHH/flag.svg",
+    "source": "Flag of Kaohsiung City.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Emblem of Kaohsiung City.svg"
+  },
+  "data_source": "out"
+}

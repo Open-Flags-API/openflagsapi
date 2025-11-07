@@ -1,0 +1,14 @@
+{
+  "code": "MY-01",
+  "country": "MY",
+  "flag": {
+    "svg": "MY/MY-01/flag.svg",
+    "png": "MY/MY-01/flag.png",
+    "source_filename": "Flag of Johor.svg"
+  },
+  "coat": {
+    "svg": "MY/MY-01/coat.svg",
+    "png": "MY/MY-01/coat.png",
+    "source_filename": "Coat of arms of Johor.svg"
+  }
+}

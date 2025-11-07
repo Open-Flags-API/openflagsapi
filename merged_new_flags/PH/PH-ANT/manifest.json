@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-ANT",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-ant",
+  "region_normalized": "ph-ant",
+  "flag": {
+    "svg": null,
+    "source": "Vlag Fil Antique.gif"
+  },
+  "coat": {
+    "svg": "PH/PH-ANT/coat.svg",
+    "source": "Official Seal of Antique.svg"
+  },
+  "data_source": "out"
+}

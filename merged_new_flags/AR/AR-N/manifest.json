@@ -1,0 +1,16 @@
+{
+  "iso_code": "AR-N",
+  "country_iso": "AR",
+  "country_name": "AR",
+  "region_name": "ar-n",
+  "region_normalized": "ar-n",
+  "flag": {
+    "svg": "AR/AR-N/flag.svg",
+    "source": "Bandera de la Provincia de Misiones.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-N/coat.svg",
+    "source": "Escudo de la Provincia de Misiones.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "CL-AN",
+  "country": "CL",
+  "flag": {
+    "svg": "CL/CL-AN/flag.svg",
+    "png": "CL/CL-AN/flag.png",
+    "source_filename": "Flag of Antofagasta Region, Chile.svg"
+  },
+  "coat": {
+    "svg": "CL/CL-AN/coat.svg",
+    "png": "CL/CL-AN/coat.png",
+    "source_filename": "Coat of arms of Antofagasta Region, Chile.svg"
+  }
+}

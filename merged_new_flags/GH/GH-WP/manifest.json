@@ -1,0 +1,16 @@
+{
+  "iso_code": "GH-WP",
+  "country_iso": "GH",
+  "country_name": "GH",
+  "region_name": "gh-wp",
+  "region_normalized": "gh-wp",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Western Region (Ghana).gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

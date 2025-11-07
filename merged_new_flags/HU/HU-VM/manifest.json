@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-VM",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-vm",
+  "region_normalized": "hu-vm",
+  "flag": {
+    "svg": "HU/HU-VM/flag.svg",
+    "source": "Flag of Veszprém.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-VM/coat.svg",
+    "source": "HUN Veszprém Címer.svg"
+  },
+  "data_source": "out"
+}

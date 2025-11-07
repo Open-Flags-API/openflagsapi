@@ -1,0 +1,16 @@
+{
+  "iso_code": "TD-EN",
+  "country_iso": "TD",
+  "country_name": "TD",
+  "region_name": "td-en",
+  "region_normalized": "td-en",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

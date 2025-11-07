@@ -1,0 +1,14 @@
+{
+  "code": "CV-SL",
+  "country": "CV",
+  "flag": {
+    "svg": null,
+    "png": "CV/CV-SL/flag.png",
+    "source_filename": "Flag Sal Cape Verde.png"
+  },
+  "coat": {
+    "svg": "CV/CV-SL/coat.svg",
+    "png": "CV/CV-SL/coat.png",
+    "source_filename": "Coat of Arms of Sal, Cape Verde.svg"
+  }
+}

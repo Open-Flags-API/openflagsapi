@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-KAM",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-kam",
+  "region_normalized": "ru-kam",
+  "flag": {
+    "svg": "RU/RU-KAM/flag.svg",
+    "source": "Flag of Kamchatka Krai.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-KAM/coat.svg",
+    "source": "Coat of Arms of Kamchatka Krai.svg"
+  },
+  "data_source": "out"
+}

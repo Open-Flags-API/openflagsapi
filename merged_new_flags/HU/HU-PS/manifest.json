@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-PS",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-ps",
+  "region_normalized": "hu-ps",
+  "flag": {
+    "svg": "HU/HU-PS/flag.svg",
+    "source": "HUN Pécs flag.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-PS/coat.svg",
+    "source": "COA Hungary Town Pécs.svg"
+  },
+  "data_source": "out"
+}

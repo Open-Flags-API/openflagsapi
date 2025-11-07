@@ -1,0 +1,14 @@
+{
+  "code": "RS-00",
+  "country": "RS",
+  "flag": {
+    "svg": "RS/RS-00/flag.svg",
+    "png": "RS/RS-00/flag.png",
+    "source_filename": "Flag of Belgrade, Serbia.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "RS/RS-00/coat.png",
+    "source_filename": "Coat of Arms Belgrade.png"
+  }
+}

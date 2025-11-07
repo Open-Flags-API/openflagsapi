@@ -1,0 +1,16 @@
+{
+  "iso_code": "LT-11",
+  "country_iso": "LT",
+  "country_name": "LT",
+  "region_name": "lt-11",
+  "region_normalized": "lt-11",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Joniskis.gif"
+  },
+  "coat": {
+    "svg": "LT/LT-11/coat.svg",
+    "source": "Coat of arms of Joniskis.svg"
+  },
+  "data_source": "out"
+}

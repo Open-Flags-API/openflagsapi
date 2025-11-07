@@ -1,0 +1,16 @@
+{
+  "iso_code": "RO-AB",
+  "country_iso": "RO",
+  "country_name": "RO",
+  "region_name": "ro-ab",
+  "region_normalized": "ro-ab",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Alba County.jpg"
+  },
+  "coat": {
+    "svg": "RO/RO-AB/coat.svg",
+    "source": "RO Alba County CoA.svg"
+  },
+  "data_source": "out"
+}

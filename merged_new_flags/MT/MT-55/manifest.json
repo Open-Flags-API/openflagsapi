@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-55",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-55",
+  "region_normalized": "mt-55",
+  "flag": {
+    "svg": "MT/MT-55/flag.svg",
+    "source": "Flag of Siġġiewi.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-55/coat.svg",
+    "source": "Siggiewi coa.svg"
+  },
+  "data_source": "out"
+}

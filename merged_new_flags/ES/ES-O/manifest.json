@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-O",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-o",
+  "region_normalized": "es-o",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

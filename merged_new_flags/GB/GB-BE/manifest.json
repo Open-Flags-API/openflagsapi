@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-BE",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "berkshire",
+  "region_normalized": "berkshire",
+  "flag": {
+    "svg": "GB/GB-BE/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

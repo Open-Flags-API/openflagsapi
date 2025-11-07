@@ -1,0 +1,14 @@
+{
+  "code": "RU-SVE",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-SVE/flag.svg",
+    "png": "RU/RU-SVE/flag.png",
+    "source_filename": "Flag of Sverdlovsk Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-SVE/coat.svg",
+    "png": "RU/RU-SVE/coat.png",
+    "source_filename": "Coat of Arms of Sverdlovsk oblast.svg"
+  }
+}

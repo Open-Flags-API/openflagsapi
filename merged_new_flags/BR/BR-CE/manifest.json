@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-CE",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "br-ce",
+  "region_normalized": "br-ce",
+  "flag": {
+    "svg": "BR/BR-CE/flag.svg",
+    "source": "Bandeira do Ceará.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-CE/coat.svg",
+    "source": "Brasão do Ceará.svg"
+  },
+  "data_source": "out"
+}

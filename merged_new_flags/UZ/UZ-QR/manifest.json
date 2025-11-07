@@ -1,0 +1,16 @@
+{
+  "iso_code": "UZ-QR",
+  "country_iso": "UZ",
+  "country_name": "UZ",
+  "region_name": "uz-qr",
+  "region_normalized": "uz-qr",
+  "flag": {
+    "svg": "UZ/UZ-QR/flag.svg",
+    "source": "Flag of Karakalpakstan.svg"
+  },
+  "coat": {
+    "svg": "UZ/UZ-QR/coat.svg",
+    "source": "Emblem of Karakalpakstan.svg"
+  },
+  "data_source": "out"
+}

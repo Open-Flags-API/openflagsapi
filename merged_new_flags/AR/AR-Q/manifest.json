@@ -1,0 +1,16 @@
+{
+  "iso_code": "AR-Q",
+  "country_iso": "AR",
+  "country_name": "AR",
+  "region_name": "ar-q",
+  "region_normalized": "ar-q",
+  "flag": {
+    "svg": "AR/AR-Q/flag.svg",
+    "source": "Bandera de la Provincia del Neuquen.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-Q/coat.svg",
+    "source": "Escudo de la Provincia de Neuquén.svg"
+  },
+  "data_source": "out"
+}

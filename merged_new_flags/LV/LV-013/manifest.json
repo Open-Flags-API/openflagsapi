@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-013",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-013",
+  "region_normalized": "lv-013",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Baldone municipality.png"
+  },
+  "coat": {
+    "svg": "LV/LV-013/coat.svg",
+    "source": "Baldones novads COA.svg"
+  },
+  "data_source": "out"
+}

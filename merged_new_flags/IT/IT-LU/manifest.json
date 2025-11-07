@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-LU",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-lu",
+  "region_normalized": "it-lu",
+  "flag": {
+    "svg": "IT/IT-LU/flag.svg",
+    "source": "Provincia di Lucca-Bandiera.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-LU/coat.svg",
+    "source": "Provincia di Lucca-Stemma.svg"
+  },
+  "data_source": "out"
+}

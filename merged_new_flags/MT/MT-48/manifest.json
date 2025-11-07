@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-48",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-48",
+  "region_normalized": "mt-48",
+  "flag": {
+    "svg": "MT/MT-48/flag.svg",
+    "source": "Flag of San Ġiljan.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-48/coat.svg",
+    "source": "Coat of arms of St. Julian's (Malta).svg"
+  },
+  "data_source": "out"
+}

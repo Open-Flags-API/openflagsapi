@@ -1,0 +1,14 @@
+{
+  "code": "BE-WLX",
+  "country": "BE",
+  "flag": {
+    "svg": "BE/BE-WLX/flag.svg",
+    "png": "BE/BE-WLX/flag.png",
+    "source_filename": "Flag of the Province of Luxembourg (Belgium).svg"
+  },
+  "coat": {
+    "svg": "BE/BE-WLX/coat.svg",
+    "png": "BE/BE-WLX/coat.png",
+    "source_filename": "Coat of arms of the Province of Luxembourg.svg"
+  }
+}

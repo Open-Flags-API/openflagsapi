@@ -1,0 +1,14 @@
+{
+  "code": "ES-L",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-L/flag.svg",
+    "png": "ES/ES-L/flag.png",
+    "source_filename": "Bandera de la provincia de Lérida1.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-L/coat.svg",
+    "png": "ES/ES-L/coat.png",
+    "source_filename": "Escut de la provincia de Lleida.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "PL-04",
+  "country_iso": "PL",
+  "country_name": "PL",
+  "region_name": "pl-04",
+  "region_normalized": "pl-04",
+  "flag": {
+    "svg": "PL/PL-04/flag.svg",
+    "source": "POL województwo kujawsko-pomorskie flag.svg"
+  },
+  "coat": {
+    "svg": "PL/PL-04/coat.svg",
+    "source": "POL województwo kujawsko-pomorskie COA.svg"
+  },
+  "data_source": "out"
+}

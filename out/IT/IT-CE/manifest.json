@@ -1,0 +1,14 @@
+{
+  "code": "IT-CE",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-CE/flag.svg",
+    "png": "IT/IT-CE/flag.png",
+    "source_filename": "Flag of the province of Caserta.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-CE/coat.svg",
+    "png": "IT/IT-CE/coat.png",
+    "source_filename": "Provincia di Caserta-Stemma.svg"
+  }
+}

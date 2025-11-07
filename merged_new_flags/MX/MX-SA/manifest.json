@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-SA",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "san-luis-potosi",
+  "region_normalized": "san-luis-potosi",
+  "flag": {
+    "svg": "MX/MX-SA/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "PE-LAM",
+  "country": "PE",
+  "flag": {
+    "svg": "PE/PE-LAM/flag.svg",
+    "png": "PE/PE-LAM/flag.png",
+    "source_filename": "Flag of Lambayeque Department.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "PE/PE-LAM/coat.png",
+    "source_filename": "Escudo Región Lambayeque.png"
+  }
+}

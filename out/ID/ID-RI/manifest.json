@@ -1,0 +1,14 @@
+{
+  "code": "ID-RI",
+  "country": "ID",
+  "flag": {
+    "svg": "ID/ID-RI/flag.svg",
+    "png": "ID/ID-RI/flag.png",
+    "source_filename": "Flag of Riau.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-RI/coat.svg",
+    "png": "ID/ID-RI/coat.png",
+    "source_filename": "Coat of arms of Riau.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-IB",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-ib",
+  "region_normalized": "es-ib",
+  "flag": {
+    "svg": "ES/ES-IB/flag.svg",
+    "source": "Flag of the Balearic Islands.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-IB/coat.svg",
+    "source": "Escudo de las Islas Baleares.svg"
+  },
+  "data_source": "out"
+}

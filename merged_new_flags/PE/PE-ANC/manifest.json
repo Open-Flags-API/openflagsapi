@@ -1,0 +1,16 @@
+{
+  "iso_code": "PE-ANC",
+  "country_iso": "PE",
+  "country_name": "PE",
+  "region_name": "pe-anc",
+  "region_normalized": "pe-anc",
+  "flag": {
+    "svg": "PE/PE-ANC/flag.svg",
+    "source": "Bandera Ancash.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

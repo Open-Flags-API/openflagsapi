@@ -1,0 +1,14 @@
+{
+  "code": "PY-ASU",
+  "country": "PY",
+  "flag": {
+    "svg": "PY/PY-ASU/flag.svg",
+    "png": "PY/PY-ASU/flag.png",
+    "source_filename": "Flag of Asunción.svg"
+  },
+  "coat": {
+    "svg": "PY/PY-ASU/coat.svg",
+    "png": "PY/PY-ASU/coat.png",
+    "source_filename": "Escudo de Asunción (Paraguay).svg"
+  }
+}

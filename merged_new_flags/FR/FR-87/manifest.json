@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-87",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-87",
+  "region_normalized": "fr-87",
+  "flag": {
+    "svg": "FR/FR-87/flag.svg",
+    "source": "Drapeau fr département Haute-Vienne.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-87/coat.svg",
+    "source": "Blason département fr Haute-Vienne.svg"
+  },
+  "data_source": "out"
+}

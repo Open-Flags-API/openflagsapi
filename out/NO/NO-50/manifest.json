@@ -1,0 +1,14 @@
+{
+  "code": "NO-50",
+  "country": "NO",
+  "flag": {
+    "svg": null,
+    "png": "NO/NO-50/flag.png",
+    "source_filename": "Flag of Trøndelag Fylke.png"
+  },
+  "coat": {
+    "svg": "NO/NO-50/coat.svg",
+    "png": "NO/NO-50/coat.png",
+    "source_filename": "Trøndelag våpen.svg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "code": "CL-LR",
+  "country": "CL",
+  "flag": {
+    "svg": "CL/CL-LR/flag.svg",
+    "png": "CL/CL-LR/flag.png",
+    "source_filename": "Flag of Los Ríos, Chile.svg"
+  },
+  "coat": {
+    "svg": "CL/CL-LR/coat.svg",
+    "png": "CL/CL-LR/coat.png",
+    "source_filename": "Coat of arms of Los Ríos, Chile.svg"
+  }
+}

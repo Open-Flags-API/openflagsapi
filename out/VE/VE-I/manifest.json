@@ -1,0 +1,14 @@
+{
+  "code": "VE-I",
+  "country": "VE",
+  "flag": {
+    "svg": "VE/VE-I/flag.svg",
+    "png": "VE/VE-I/flag.png",
+    "source_filename": "Flag of Falcón.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "VE/VE-I/coat.png",
+    "source_filename": "Escudo de armas de Falcón.png"
+  }
+}

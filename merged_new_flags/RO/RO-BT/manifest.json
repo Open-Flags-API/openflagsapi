@@ -1,0 +1,16 @@
+{
+  "iso_code": "RO-BT",
+  "country_iso": "RO",
+  "country_name": "RO",
+  "region_name": "ro-bt",
+  "region_normalized": "ro-bt",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "RO/RO-BT/coat.svg",
+    "source": "Stema judetului Botosani.svg"
+  },
+  "data_source": "out"
+}

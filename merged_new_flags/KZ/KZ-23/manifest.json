@@ -1,0 +1,16 @@
+{
+  "iso_code": "KZ-23",
+  "country_iso": "KZ",
+  "country_name": "KZ",
+  "region_name": "kz-23",
+  "region_normalized": "kz-23",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "KZ/KZ-23/coat.svg",
+    "source": "Coat of arms of Atyrau.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "CU-05",
+  "country_iso": "CU",
+  "country_name": "CU",
+  "region_name": "cu-05",
+  "region_normalized": "cu-05",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "CU/CU-05/coat.svg",
+    "source": "Coat of arms of Santa Clara.svg"
+  },
+  "data_source": "out"
+}

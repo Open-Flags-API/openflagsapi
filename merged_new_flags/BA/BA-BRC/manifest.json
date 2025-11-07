@@ -1,0 +1,16 @@
+{
+  "iso_code": "BA-BRC",
+  "country_iso": "BA",
+  "country_name": "BA",
+  "region_name": "ba-brc",
+  "region_normalized": "ba-brc",
+  "flag": {
+    "svg": "BA/BA-BRC/flag.svg",
+    "source": "Flag of Bosnia and Herzegovina.svg"
+  },
+  "coat": {
+    "svg": "BA/BA-BRC/coat.svg",
+    "source": "Coat of arms of Bosnia and Herzegovina.svg"
+  },
+  "data_source": "out"
+}

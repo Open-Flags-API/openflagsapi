@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-PSK",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-psk",
+  "region_normalized": "ru-psk",
+  "flag": {
+    "svg": "RU/RU-PSK/flag.svg",
+    "source": "Flag of Pskov Oblast (Latest version).svg"
+  },
+  "coat": {
+    "svg": "RU/RU-PSK/coat.svg",
+    "source": "Coat of arms of Pskov Oblast (Latest version).svg"
+  },
+  "data_source": "out"
+}

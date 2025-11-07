@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-UL",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ulyanovsk",
+  "region_normalized": "ulyanovsk",
+  "flag": {
+    "svg": "RU/RU-UL/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

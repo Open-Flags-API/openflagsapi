@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-46",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-46",
+  "region_normalized": "mt-46",
+  "flag": {
+    "svg": "MT/MT-46/flag.svg",
+    "source": "Flag of Rabat.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

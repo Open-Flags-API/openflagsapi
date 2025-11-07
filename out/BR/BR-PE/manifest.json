@@ -1,0 +1,14 @@
+{
+  "code": "BR-PE",
+  "country": "BR",
+  "flag": {
+    "svg": "BR/BR-PE/flag.svg",
+    "png": "BR/BR-PE/flag.png",
+    "source_filename": "Bandeira de Pernambuco.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-PE/coat.svg",
+    "png": "BR/BR-PE/coat.png",
+    "source_filename": "Brasão de Pernambuco.svg"
+  }
+}

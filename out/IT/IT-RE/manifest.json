@@ -1,0 +1,14 @@
+{
+  "code": "IT-RE",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-RE/flag.svg",
+    "png": "IT/IT-RE/flag.png",
+    "source_filename": "Flag of the province of Reggio Emilia.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-RE/coat.svg",
+    "png": "IT/IT-RE/coat.png",
+    "source_filename": "Provincia di Reggio Emilia-Stemma.svg"
+  }
+}

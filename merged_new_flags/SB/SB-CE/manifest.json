@@ -1,0 +1,16 @@
+{
+  "iso_code": "SB-CE",
+  "country_iso": "SB",
+  "country_name": "SB",
+  "region_name": "sb-ce",
+  "region_normalized": "sb-ce",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Central Province Solomon Islands.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

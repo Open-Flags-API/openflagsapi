@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-DC",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-dc",
+  "region_normalized": "co-dc",
+  "flag": {
+    "svg": "CO/CO-DC/flag.svg",
+    "source": "Flag of Bogotá.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-DC/coat.svg",
+    "source": "Escudo de Armas de Bogota.svg"
+  },
+  "data_source": "out"
+}

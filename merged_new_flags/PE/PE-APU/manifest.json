@@ -1,0 +1,16 @@
+{
+  "iso_code": "PE-APU",
+  "country_iso": "PE",
+  "country_name": "PE",
+  "region_name": "pe-apu",
+  "region_normalized": "pe-apu",
+  "flag": {
+    "svg": null,
+    "source": "Bandera region Apurimac.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Escudo Apurímac.png"
+  },
+  "data_source": "out"
+}

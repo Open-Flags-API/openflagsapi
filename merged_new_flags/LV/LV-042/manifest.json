@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-042",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-042",
+  "region_normalized": "lv-042",
+  "flag": {
+    "svg": "LV/LV-042/flag.svg",
+    "source": "Jēkabpils novada karogs.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-042/coat.svg",
+    "source": "Jēkabpils novada ģerbonis.svg"
+  },
+  "data_source": "out"
+}

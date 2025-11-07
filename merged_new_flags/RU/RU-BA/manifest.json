@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-BA",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-ba",
+  "region_normalized": "ru-ba",
+  "flag": {
+    "svg": "RU/RU-BA/flag.svg",
+    "source": "Flag of Bashkortostan.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-BA/coat.svg",
+    "source": "Coat of Arms of Bashkortostan.svg"
+  },
+  "data_source": "out"
+}

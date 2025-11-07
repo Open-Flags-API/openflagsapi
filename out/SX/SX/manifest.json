@@ -1,0 +1,14 @@
+{
+  "code": "SX",
+  "country": "SX",
+  "flag": {
+    "svg": "SX/SX/flag.svg",
+    "png": "SX/SX/flag.png",
+    "source_filename": "Flag of Sint Maarten.svg"
+  },
+  "coat": {
+    "svg": "SX/SX/coat.svg",
+    "png": "SX/SX/coat.png",
+    "source_filename": "Wapen van Sint Maarten.svg"
+  }
+}

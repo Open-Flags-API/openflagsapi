@@ -1,0 +1,14 @@
+{
+  "code": "SE-O",
+  "country": "SE",
+  "flag": {
+    "svg": "SE/SE-O/flag.svg",
+    "png": "SE/SE-O/flag.png",
+    "source_filename": "Västra Götalands län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-O/coat.svg",
+    "png": "SE/SE-O/coat.png",
+    "source_filename": "Västra Götaland vapen.svg"
+  }
+}

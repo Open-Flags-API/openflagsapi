@@ -1,0 +1,16 @@
+{
+  "iso_code": "GA-8",
+  "country_iso": "GA",
+  "country_name": "GA",
+  "region_name": "ga-8",
+  "region_normalized": "ga-8",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GA/GA-8/coat.svg",
+    "source": "Coat of arms of Ogooué-Maritime, Gabon.svg"
+  },
+  "data_source": "out"
+}

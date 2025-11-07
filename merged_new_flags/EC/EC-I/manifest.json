@@ -1,0 +1,16 @@
+{
+  "iso_code": "EC-I",
+  "country_iso": "EC",
+  "country_name": "EC",
+  "region_name": "ec-i",
+  "region_normalized": "ec-i",
+  "flag": {
+    "svg": "EC/EC-I/flag.svg",
+    "source": "Bandera Provincia Imbabura.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

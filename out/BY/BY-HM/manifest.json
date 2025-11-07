@@ -1,0 +1,14 @@
+{
+  "code": "BY-HM",
+  "country": "BY",
+  "flag": {
+    "svg": "BY/BY-HM/flag.svg",
+    "png": "BY/BY-HM/flag.png",
+    "source_filename": "Flag of Minsk, Belarus.svg"
+  },
+  "coat": {
+    "svg": "BY/BY-HM/coat.svg",
+    "png": "BY/BY-HM/coat.png",
+    "source_filename": "Coat of arms of Minsk.svg"
+  }
+}

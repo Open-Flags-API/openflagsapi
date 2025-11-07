@@ -1,0 +1,14 @@
+{
+  "code": "SE-M",
+  "country": "SE",
+  "flag": {
+    "svg": "SE/SE-M/flag.svg",
+    "png": "SE/SE-M/flag.png",
+    "source_filename": "Vapenflagga för Skåne län.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-M/coat.svg",
+    "png": "SE/SE-M/coat.png",
+    "source_filename": "Skåne länsvapen – Riksarkivet Sverige.svg"
+  }
+}

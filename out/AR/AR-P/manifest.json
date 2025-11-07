@@ -1,0 +1,14 @@
+{
+  "code": "AR-P",
+  "country": "AR",
+  "flag": {
+    "svg": "AR/AR-P/flag.svg",
+    "png": "AR/AR-P/flag.png",
+    "source_filename": "Bandera de la Provincia de Formosa.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-P/coat.svg",
+    "png": "AR/AR-P/coat.png",
+    "source_filename": "Escudo de la Provincia de Formosa.svg"
+  }
+}

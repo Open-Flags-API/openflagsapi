@@ -1,0 +1,14 @@
+{
+  "code": "LV-REZ",
+  "country": "LV",
+  "flag": {
+    "svg": "LV/LV-REZ/flag.svg",
+    "png": "LV/LV-REZ/flag.png",
+    "source_filename": "Flag of Rēzekne.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-REZ/coat.svg",
+    "png": "LV/LV-REZ/coat.png",
+    "source_filename": "Coat of Arms of Rēzekne.svg"
+  }
+}

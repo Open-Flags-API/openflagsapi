@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-07",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-07",
+  "region_normalized": "mt-07",
+  "flag": {
+    "svg": "MT/MT-07/flag.svg",
+    "source": "Flag of Dingli.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-07/coat.svg",
+    "source": "Dingli coa.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "CH-ZG",
+  "country_iso": "CH",
+  "country_name": "CH",
+  "region_name": "ch-zg",
+  "region_normalized": "ch-zg",
+  "flag": {
+    "svg": "CH/CH-ZG/flag.svg",
+    "source": "Flag of Canton of Zug.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-ZG/coat.svg",
+    "source": "Wappen Zug matt.svg"
+  },
+  "data_source": "out"
+}

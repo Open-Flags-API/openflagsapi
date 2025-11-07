@@ -1,0 +1,14 @@
+{
+  "code": "RO-CV",
+  "country": "RO",
+  "flag": {
+    "svg": null,
+    "png": "RO/RO-CV/flag.png",
+    "source_filename": "Flag of Kovászna County.png"
+  },
+  "coat": {
+    "svg": "RO/RO-CV/coat.svg",
+    "png": "RO/RO-CV/coat.png",
+    "source_filename": "Coa Romania County Kovászna.svg"
+  }
+}

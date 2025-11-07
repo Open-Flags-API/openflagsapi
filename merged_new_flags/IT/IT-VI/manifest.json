@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-VI",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-vi",
+  "region_normalized": "it-vi",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IT/IT-VI/coat.svg",
+    "source": "Provincia di Vicenza-Stemma.svg"
+  },
+  "data_source": "out"
+}

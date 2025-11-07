@@ -1,0 +1,14 @@
+{
+  "code": "IT-PD",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-PD/flag.svg",
+    "png": "IT/IT-PD/flag.png",
+    "source_filename": "Flag of the Province of Padua.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-PD/coat.svg",
+    "png": "IT/IT-PD/coat.png",
+    "source_filename": "Provincia di Padova-Stemma.svg"
+  }
+}

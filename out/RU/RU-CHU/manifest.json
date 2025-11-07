@@ -1,0 +1,14 @@
+{
+  "code": "RU-CHU",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-CHU/flag.svg",
+    "png": "RU/RU-CHU/flag.png",
+    "source_filename": "Flag of Chukotka.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-CHU/coat.svg",
+    "png": "RU/RU-CHU/coat.png",
+    "source_filename": "Coat of Arms of Chukotka.svg"
+  }
+}

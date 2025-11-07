@@ -1,0 +1,16 @@
+{
+  "iso_code": "PG-SHM",
+  "country_iso": "PG",
+  "country_name": "PG",
+  "region_name": "pg-shm",
+  "region_normalized": "pg-shm",
+  "flag": {
+    "svg": "PG/PG-SHM/flag.svg",
+    "source": "Flag of Southern Highlands Province (Papua New Guinea).svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

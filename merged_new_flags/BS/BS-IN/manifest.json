@@ -1,0 +1,16 @@
+{
+  "iso_code": "BS-IN",
+  "country_iso": "BS",
+  "country_name": "BS",
+  "region_name": "bs-in",
+  "region_normalized": "bs-in",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

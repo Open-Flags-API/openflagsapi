@@ -1,0 +1,16 @@
+{
+  "iso_code": "LI-01",
+  "country_iso": "LI",
+  "country_name": "LI",
+  "region_name": "li-01",
+  "region_normalized": "li-01",
+  "flag": {
+    "svg": "LI/LI-01/flag.svg",
+    "source": "Flag of Balzers Liechtenstein-1.svg"
+  },
+  "coat": {
+    "svg": "LI/LI-01/coat.svg",
+    "source": "Wappen Balzers.svg"
+  },
+  "data_source": "out"
+}

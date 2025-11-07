@@ -1,0 +1,16 @@
+{
+  "iso_code": "LT-TA",
+  "country_iso": "LT",
+  "country_name": "LT",
+  "region_name": "lt-ta",
+  "region_normalized": "lt-ta",
+  "flag": {
+    "svg": "LT/LT-TA/flag.svg",
+    "source": "Taurage County flag.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Taurage County COA.png"
+  },
+  "data_source": "out"
+}

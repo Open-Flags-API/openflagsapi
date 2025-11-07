@@ -1,0 +1,14 @@
+{
+  "code": "JP-33",
+  "country": "JP",
+  "flag": {
+    "svg": "JP/JP-33/flag.svg",
+    "png": "JP/JP-33/flag.png",
+    "source_filename": "Flag of Okayama Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-33/coat.svg",
+    "png": "JP/JP-33/coat.png",
+    "source_filename": "Emblem of Okayama Prefecture.svg"
+  }
+}

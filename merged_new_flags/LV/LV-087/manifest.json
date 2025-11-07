@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-087",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-087",
+  "region_normalized": "lv-087",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Salaspils Municipality.jpg"
+  },
+  "coat": {
+    "svg": "LV/LV-087/coat.svg",
+    "source": "Salaspils novads COA.svg"
+  },
+  "data_source": "out"
+}

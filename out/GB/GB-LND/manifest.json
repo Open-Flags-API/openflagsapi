@@ -1,0 +1,14 @@
+{
+  "code": "GB-LND",
+  "country": "GB",
+  "flag": {
+    "svg": "GB/GB-LND/flag.svg",
+    "png": "GB/GB-LND/flag.png",
+    "source_filename": "Flag of the City of London.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-LND/coat.svg",
+    "png": "GB/GB-LND/coat.png",
+    "source_filename": "Coat of Arms of The City of London.svg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "code": "MX-TAM",
+  "country": "MX",
+  "flag": {
+    "svg": "MX/MX-TAM/flag.svg",
+    "png": "MX/MX-TAM/flag.png",
+    "source_filename": "Flag of Tamaulipas.svg"
+  },
+  "coat": {
+    "svg": "MX/MX-TAM/coat.svg",
+    "png": "MX/MX-TAM/coat.png",
+    "source_filename": "Coat of arms of Tamaulipas.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "NG-AD",
+  "country_iso": "NG",
+  "country_name": "NG",
+  "region_name": "ng-ad",
+  "region_normalized": "ng-ad",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

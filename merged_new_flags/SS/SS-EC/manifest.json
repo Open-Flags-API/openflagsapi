@@ -1,0 +1,16 @@
+{
+  "iso_code": "SS-EC",
+  "country_iso": "SS",
+  "country_name": "SS",
+  "region_name": "ss-ec",
+  "region_normalized": "ss-ec",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Central Equatoria.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

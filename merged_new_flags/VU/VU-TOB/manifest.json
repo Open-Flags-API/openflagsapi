@@ -1,0 +1,16 @@
+{
+  "iso_code": "VU-TOB",
+  "country_iso": "VU",
+  "country_name": "VU",
+  "region_name": "vu-tob",
+  "region_normalized": "vu-tob",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Torba Province.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

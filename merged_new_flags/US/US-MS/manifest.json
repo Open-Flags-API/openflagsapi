@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-MS",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-ms",
+  "region_normalized": "us-ms",
+  "flag": {
+    "svg": "US/US-MS/flag.svg",
+    "source": "Flag of Mississippi.svg"
+  },
+  "coat": {
+    "svg": "US/US-MS/coat.svg",
+    "source": "Coat of arms of Mississippi.svg"
+  },
+  "data_source": "out"
+}

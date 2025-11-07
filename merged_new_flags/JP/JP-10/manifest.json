@@ -1,0 +1,16 @@
+{
+  "iso_code": "JP-10",
+  "country_iso": "JP",
+  "country_name": "JP",
+  "region_name": "jp-10",
+  "region_normalized": "jp-10",
+  "flag": {
+    "svg": "JP/JP-10/flag.svg",
+    "source": "Flag of Gunma Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-10/coat.svg",
+    "source": "Emblem of Gunma Prefecture.svg"
+  },
+  "data_source": "out"
+}

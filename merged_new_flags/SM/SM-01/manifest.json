@@ -1,0 +1,16 @@
+{
+  "iso_code": "SM-01",
+  "country_iso": "SM",
+  "country_name": "SM",
+  "region_name": "sm-01",
+  "region_normalized": "sm-01",
+  "flag": {
+    "svg": "SM/SM-01/flag.svg",
+    "source": "Acquaviva (RSM)-Bandiera.svg"
+  },
+  "coat": {
+    "svg": "SM/SM-01/coat.svg",
+    "source": "Acquaviva (RSM)-Stemma.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-CT",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-ct",
+  "region_normalized": "it-ct",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IT/IT-CT/coat.svg",
+    "source": "Provincia di Catania-Stemma.svg"
+  },
+  "data_source": "out"
+}

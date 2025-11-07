@@ -1,0 +1,14 @@
+{
+  "code": "MD-CA",
+  "country": "MD",
+  "flag": {
+    "svg": "MD/MD-CA/flag.svg",
+    "png": "MD/MD-CA/flag.png",
+    "source_filename": "Flag of District Cahul.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "MD/MD-CA/coat.png",
+    "source_filename": "Coa Cahul MD.png"
+  }
+}

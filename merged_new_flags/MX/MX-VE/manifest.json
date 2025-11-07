@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-VE",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "veracruz",
+  "region_normalized": "veracruz",
+  "flag": {
+    "svg": "MX/MX-VE/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

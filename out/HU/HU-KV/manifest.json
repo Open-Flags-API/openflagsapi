@@ -1,0 +1,14 @@
+{
+  "code": "HU-KV",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-KV/flag.svg",
+    "png": "HU/HU-KV/flag.png",
+    "source_filename": "Flag of Kaposvár.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-KV/coat.svg",
+    "png": "HU/HU-KV/coat.png",
+    "source_filename": "Coa Hungary Town Kaposvár.svg"
+  }
+}

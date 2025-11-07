@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-071",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-071",
+  "region_normalized": "lv-071",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "LV/LV-071/coat.svg",
+    "source": "Pāvilostas novads COA.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-UT",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-ut",
+  "region_normalized": "us-ut",
+  "flag": {
+    "svg": "US/US-UT/flag.svg",
+    "source": "Flag of Utah.svg"
+  },
+  "coat": {
+    "svg": "US/US-UT/coat.svg",
+    "source": "Coat of arms of Utah.svg"
+  },
+  "data_source": "out"
+}

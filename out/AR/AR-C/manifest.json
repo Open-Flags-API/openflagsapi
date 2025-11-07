@@ -1,0 +1,14 @@
+{
+  "code": "AR-C",
+  "country": "AR",
+  "flag": {
+    "svg": "AR/AR-C/flag.svg",
+    "png": "AR/AR-C/flag.png",
+    "source_filename": "Bandera de la Ciudad de Buenos Aires.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-C/coat.svg",
+    "png": "AR/AR-C/coat.png",
+    "source_filename": "Escudo de la Ciudad de Buenos Aires.svg"
+  }
+}

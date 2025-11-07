@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-ES",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "essex",
+  "region_normalized": "essex",
+  "flag": {
+    "svg": "GB/GB-ES/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

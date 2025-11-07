@@ -1,0 +1,16 @@
+{
+  "iso_code": "PA-9",
+  "country_iso": "PA",
+  "country_name": "PA",
+  "region_name": "pa-9",
+  "region_normalized": "pa-9",
+  "flag": {
+    "svg": "PA/PA-9/flag.svg",
+    "source": "Bandera de la Provincia de Veraguas.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

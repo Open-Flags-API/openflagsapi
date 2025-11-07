@@ -1,0 +1,14 @@
+{
+  "code": "PE-HUC",
+  "country": "PE",
+  "flag": {
+    "svg": "PE/PE-HUC/flag.svg",
+    "png": "PE/PE-HUC/flag.png",
+    "source_filename": "Flag of Huánuco.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "PE/PE-HUC/coat.png",
+    "source_filename": "COA Huanuco.png"
+  }
+}

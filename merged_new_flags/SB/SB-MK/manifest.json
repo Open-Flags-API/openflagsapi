@@ -1,0 +1,16 @@
+{
+  "iso_code": "SB-MK",
+  "country_iso": "SB",
+  "country_name": "SB",
+  "region_name": "sb-mk",
+  "region_normalized": "sb-mk",
+  "flag": {
+    "svg": null,
+    "source": "Flag Makira and Ulawa.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

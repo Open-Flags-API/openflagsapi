@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-G",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-g",
+  "region_normalized": "fr-g",
+  "flag": {
+    "svg": "FR/FR-G/flag.svg",
+    "source": "Champagne Ardenne flag.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-G/coat.svg",
+    "source": "Blason région fr Champagne-Ardenne.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "PW-002",
+  "country_iso": "PW",
+  "country_name": "PW",
+  "region_name": "pw-002",
+  "region_normalized": "pw-002",
+  "flag": {
+    "svg": "PW/PW-002/flag.svg",
+    "source": "Flag of Aimeliik.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

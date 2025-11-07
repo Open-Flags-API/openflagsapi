@@ -1,0 +1,14 @@
+{
+  "code": "AU-TAS",
+  "country": "AU",
+  "flag": {
+    "svg": "AU/AU-TAS/flag.svg",
+    "png": "AU/AU-TAS/flag.png",
+    "source_filename": "Flag of Tasmania.svg"
+  },
+  "coat": {
+    "svg": "AU/AU-TAS/coat.svg",
+    "png": "AU/AU-TAS/coat.png",
+    "source_filename": "Coat of arms of Tasmania.svg"
+  }
+}

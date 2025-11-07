@@ -1,0 +1,16 @@
+{
+  "iso_code": "BE-WLX",
+  "country_iso": "BE",
+  "country_name": "BE",
+  "region_name": "be-wlx",
+  "region_normalized": "be-wlx",
+  "flag": {
+    "svg": "BE/BE-WLX/flag.svg",
+    "source": "Flag of the Province of Luxembourg (Belgium).svg"
+  },
+  "coat": {
+    "svg": "BE/BE-WLX/coat.svg",
+    "source": "Coat of arms of the Province of Luxembourg.svg"
+  },
+  "data_source": "out"
+}

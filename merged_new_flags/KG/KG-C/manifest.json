@@ -1,0 +1,16 @@
+{
+  "iso_code": "KG-C",
+  "country_iso": "KG",
+  "country_name": "KG",
+  "region_name": "kg-c",
+  "region_normalized": "kg-c",
+  "flag": {
+    "svg": "KG/KG-C/flag.svg",
+    "source": "Flag of Chuy Province.svg"
+  },
+  "coat": {
+    "svg": "KG/KG-C/coat.svg",
+    "source": "Coat of arms of Chuy province.svg"
+  },
+  "data_source": "out"
+}

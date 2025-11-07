@@ -1,0 +1,14 @@
+{
+  "code": "US-IN",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-IN/flag.svg",
+    "png": "US/US-IN/flag.png",
+    "source_filename": "Flag of Indiana.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": null,
+    "source_filename": null
+  }
+}

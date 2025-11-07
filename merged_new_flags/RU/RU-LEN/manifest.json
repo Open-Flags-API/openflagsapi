@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-LEN",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-len",
+  "region_normalized": "ru-len",
+  "flag": {
+    "svg": "RU/RU-LEN/flag.svg",
+    "source": "Flag of Leningrad Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-LEN/coat.svg",
+    "source": "Coat of arms of Leningrad Oblast.svg"
+  },
+  "data_source": "out"
+}

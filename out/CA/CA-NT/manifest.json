@@ -1,0 +1,14 @@
+{
+  "code": "CA-NT",
+  "country": "CA",
+  "flag": {
+    "svg": "CA/CA-NT/flag.svg",
+    "png": "CA/CA-NT/flag.png",
+    "source_filename": "Flag of the Northwest Territories.svg"
+  },
+  "coat": {
+    "svg": "CA/CA-NT/coat.svg",
+    "png": "CA/CA-NT/coat.png",
+    "source_filename": "Coat of arms of Northwest Territories.svg"
+  }
+}

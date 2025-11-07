@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-301",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-301",
+  "region_normalized": "mk-301",
+  "flag": {
+    "svg": "MK/MK-301/flag.svg",
+    "source": "Flag of Vevčani Municipality, North Macedonia.svg"
+  },
+  "coat": {
+    "svg": "MK/MK-301/coat.svg",
+    "source": "Coat of arms of Vevčani Municipality.svg"
+  },
+  "data_source": "out"
+}

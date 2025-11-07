@@ -1,0 +1,16 @@
+{
+  "iso_code": "UA-09",
+  "country_iso": "UA",
+  "country_name": "UA",
+  "region_name": "ua-09",
+  "region_normalized": "ua-09",
+  "flag": {
+    "svg": "UA/UA-09/flag.svg",
+    "source": "Flag of Luhansk Oblast.svg"
+  },
+  "coat": {
+    "svg": "UA/UA-09/coat.svg",
+    "source": "Coat of Arms Luhansk Oblast.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "NL-SX",
+  "country_iso": "NL",
+  "country_name": "NL",
+  "region_name": "nl-sx",
+  "region_normalized": "nl-sx",
+  "flag": {
+    "svg": "NL/NL-SX/flag.svg",
+    "source": "Flag of Sint Maarten.svg"
+  },
+  "coat": {
+    "svg": "NL/NL-SX/coat.svg",
+    "source": "Wapen van Sint Maarten.svg"
+  },
+  "data_source": "out"
+}

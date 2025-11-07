@@ -1,0 +1,16 @@
+{
+  "iso_code": "JP-01",
+  "country_iso": "JP",
+  "country_name": "JP",
+  "region_name": "jp-01",
+  "region_normalized": "jp-01",
+  "flag": {
+    "svg": "JP/JP-01/flag.svg",
+    "source": "Flag of Hokkaido Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-01/coat.svg",
+    "source": "Emblem of Hokkaido Prefecture.svg"
+  },
+  "data_source": "out"
+}

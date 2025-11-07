@@ -1,0 +1,14 @@
+{
+  "code": "NO-03",
+  "country": "NO",
+  "flag": {
+    "svg": "NO/NO-03/flag.svg",
+    "png": "NO/NO-03/flag.png",
+    "source_filename": "Flag of Oslo.svg"
+  },
+  "coat": {
+    "svg": "NO/NO-03/coat.svg",
+    "png": "NO/NO-03/coat.png",
+    "source_filename": "Oslo komm.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "KZ-43",
+  "country_iso": "KZ",
+  "country_name": "KZ",
+  "region_name": "kz-43",
+  "region_normalized": "kz-43",
+  "flag": {
+    "svg": null,
+    "source": "Flag Kyzylorda Oblast.jpg"
+  },
+  "coat": {
+    "svg": "KZ/KZ-43/coat.svg",
+    "source": "Kyzylorda province seal.svg"
+  },
+  "data_source": "out"
+}

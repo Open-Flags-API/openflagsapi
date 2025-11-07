@@ -1,0 +1,16 @@
+{
+  "iso_code": "FI-07",
+  "country_iso": "FI",
+  "country_name": "FI",
+  "region_name": "fi-07",
+  "region_normalized": "fi-07",
+  "flag": {
+    "svg": "FI/FI-07/flag.svg",
+    "source": "Keski-Pohjanmaa.lippu.svg"
+  },
+  "coat": {
+    "svg": "FI/FI-07/coat.svg",
+    "source": "Keski-Pohjanmaa.vaakuna.svg"
+  },
+  "data_source": "out"
+}

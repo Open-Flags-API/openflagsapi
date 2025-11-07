@@ -1,0 +1,14 @@
+{
+  "code": "LV-113",
+  "country": "LV",
+  "flag": {
+    "svg": "LV/LV-113/flag.svg",
+    "png": "LV/LV-113/flag.png",
+    "source_filename": "Valmieras novada karogs.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-113/coat.svg",
+    "png": "LV/LV-113/coat.png",
+    "source_filename": "Valmieras novada ģerbonis.svg"
+  }
+}

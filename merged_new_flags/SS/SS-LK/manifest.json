@@ -1,0 +1,16 @@
+{
+  "iso_code": "SS-LK",
+  "country_iso": "SS",
+  "country_name": "SS",
+  "region_name": "ss-lk",
+  "region_normalized": "ss-lk",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Lakes State.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

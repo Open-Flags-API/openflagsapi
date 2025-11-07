@@ -1,0 +1,16 @@
+{
+  "iso_code": "SD-DS",
+  "country_iso": "SD",
+  "country_name": "SD",
+  "region_name": "sd-ds",
+  "region_normalized": "sd-ds",
+  "flag": {
+    "svg": null,
+    "source": "Flag of South Darfur State.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Seal of South Darfur State.png"
+  },
+  "data_source": "out"
+}

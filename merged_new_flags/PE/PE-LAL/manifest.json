@@ -1,0 +1,16 @@
+{
+  "iso_code": "PE-LAL",
+  "country_iso": "PE",
+  "country_name": "PE",
+  "region_name": "pe-lal",
+  "region_normalized": "pe-lal",
+  "flag": {
+    "svg": "PE/PE-LAL/flag.svg",
+    "source": "Bandera de La Libertad Peru.svg"
+  },
+  "coat": {
+    "svg": "PE/PE-LAL/coat.svg",
+    "source": "Escudo de La Libertad Peru.svg"
+  },
+  "data_source": "out"
+}

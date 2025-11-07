@@ -1,0 +1,14 @@
+{
+  "code": "ES-SS",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-SS/flag.svg",
+    "png": "ES/ES-SS/flag.png",
+    "source_filename": "Flag of Guipúzcoa.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-SS/coat.svg",
+    "png": "ES/ES-SS/coat.png",
+    "source_filename": "Escudo de Guipuzcoa.svg"
+  }
+}

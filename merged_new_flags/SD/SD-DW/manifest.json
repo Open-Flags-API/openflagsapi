@@ -1,0 +1,16 @@
+{
+  "iso_code": "SD-DW",
+  "country_iso": "SD",
+  "country_name": "SD",
+  "region_name": "sd-dw",
+  "region_normalized": "sd-dw",
+  "flag": {
+    "svg": null,
+    "source": "Flag of West Darfur State.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Seal of West Darfur State.png"
+  },
+  "data_source": "out"
+}

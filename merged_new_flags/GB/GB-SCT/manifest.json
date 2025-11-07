@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-SCT",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-sct",
+  "region_normalized": "gb-sct",
+  "flag": {
+    "svg": "GB/GB-SCT/flag.svg",
+    "source": "Flag of Scotland.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-SCT/coat.svg",
+    "source": "Royal Arms of the Kingdom of Scotland.svg"
+  },
+  "data_source": "out"
+}

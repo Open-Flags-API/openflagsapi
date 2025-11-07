@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-045",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-045",
+  "region_normalized": "lv-045",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Kocēnu novads.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Kocēnu novads COA.png"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MH-ENI",
+  "country_iso": "MH",
+  "country_name": "marshall-islands",
+  "region_name": "mh-eni",
+  "region_normalized": "mh-eni",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

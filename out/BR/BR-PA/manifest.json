@@ -1,0 +1,14 @@
+{
+  "code": "BR-PA",
+  "country": "BR",
+  "flag": {
+    "svg": "BR/BR-PA/flag.svg",
+    "png": "BR/BR-PA/flag.png",
+    "source_filename": "Bandeira do Pará.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-PA/coat.svg",
+    "png": "BR/BR-PA/coat.png",
+    "source_filename": "Brasão do Pará.svg"
+  }
+}

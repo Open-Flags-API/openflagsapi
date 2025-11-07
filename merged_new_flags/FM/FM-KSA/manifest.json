@@ -1,0 +1,16 @@
+{
+  "iso_code": "FM-KSA",
+  "country_iso": "FM",
+  "country_name": "FM",
+  "region_name": "fm-ksa",
+  "region_normalized": "fm-ksa",
+  "flag": {
+    "svg": "FM/FM-KSA/flag.svg",
+    "source": "Flag of Kosrae.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

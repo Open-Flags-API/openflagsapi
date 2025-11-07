@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-GA",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-ga",
+  "region_normalized": "es-ga",
+  "flag": {
+    "svg": "ES/ES-GA/flag.svg",
+    "source": "Flag of Galicia.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-GA/coat.svg",
+    "source": "Escudo de Galicia.svg"
+  },
+  "data_source": "out"
+}

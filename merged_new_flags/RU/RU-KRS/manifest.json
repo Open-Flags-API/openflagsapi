@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-KRS",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-krs",
+  "region_normalized": "ru-krs",
+  "flag": {
+    "svg": "RU/RU-KRS/flag.svg",
+    "source": "Flag of Kursk Oblast (large fix).svg"
+  },
+  "coat": {
+    "svg": "RU/RU-KRS/coat.svg",
+    "source": "Coat of arms of Kursk Oblast.svg"
+  },
+  "data_source": "out"
+}

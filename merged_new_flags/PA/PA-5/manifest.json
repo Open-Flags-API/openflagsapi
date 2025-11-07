@@ -1,0 +1,16 @@
+{
+  "iso_code": "PA-5",
+  "country_iso": "PA",
+  "country_name": "PA",
+  "region_name": "pa-5",
+  "region_normalized": "pa-5",
+  "flag": {
+    "svg": "PA/PA-5/flag.svg",
+    "source": "Bandera de la Provincia de Darién.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

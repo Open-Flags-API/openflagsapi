@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-MA",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-ma",
+  "region_normalized": "us-ma",
+  "flag": {
+    "svg": "US/US-MA/flag.svg",
+    "source": "Flag of Massachusetts.svg"
+  },
+  "coat": {
+    "svg": "US/US-MA/coat.svg",
+    "source": "Coat of arms of Massachusetts.svg"
+  },
+  "data_source": "out"
+}

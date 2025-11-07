@@ -1,0 +1,14 @@
+{
+  "code": "WF-UV",
+  "country": "WF",
+  "flag": {
+    "svg": "WF/WF-UV/flag.svg",
+    "png": "WF/WF-UV/flag.png",
+    "source_filename": "Flag of Uvea.svg"
+  },
+  "coat": {
+    "svg": "WF/WF-UV/coat.svg",
+    "png": "WF/WF-UV/coat.png",
+    "source_filename": "Blason circonscription fr Uvea (Wallis-et-Futuna).svg"
+  }
+}

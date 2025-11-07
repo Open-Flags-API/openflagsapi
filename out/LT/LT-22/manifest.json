@@ -1,0 +1,14 @@
+{
+  "code": "LT-22",
+  "country": "LT",
+  "flag": {
+    "svg": null,
+    "png": "LT/LT-22/flag.png",
+    "source_filename": "Kretingos Vėliava.png"
+  },
+  "coat": {
+    "svg": "LT/LT-22/coat.svg",
+    "png": "LT/LT-22/coat.png",
+    "source_filename": "Kretinga COA.svg"
+  }
+}

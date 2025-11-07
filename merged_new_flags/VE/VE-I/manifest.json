@@ -1,0 +1,16 @@
+{
+  "iso_code": "VE-I",
+  "country_iso": "VE",
+  "country_name": "VE",
+  "region_name": "ve-i",
+  "region_normalized": "ve-i",
+  "flag": {
+    "svg": "VE/VE-I/flag.svg",
+    "source": "Flag of Falcón.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Escudo de armas de Falcón.png"
+  },
+  "data_source": "out"
+}

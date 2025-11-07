@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-049",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-049",
+  "region_normalized": "lv-049",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Krustpils novads.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Krustpils novads COA.png"
+  },
+  "data_source": "out"
+}

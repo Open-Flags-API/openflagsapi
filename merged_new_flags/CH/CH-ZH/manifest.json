@@ -1,0 +1,16 @@
+{
+  "iso_code": "CH-ZH",
+  "country_iso": "CH",
+  "country_name": "CH",
+  "region_name": "ch-zh",
+  "region_normalized": "ch-zh",
+  "flag": {
+    "svg": "CH/CH-ZH/flag.svg",
+    "source": "Flag of Canton of Zürich.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-ZH/coat.svg",
+    "source": "Wappen Zürich matt.svg"
+  },
+  "data_source": "out"
+}

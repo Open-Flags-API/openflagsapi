@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-SS",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-ss",
+  "region_normalized": "it-ss",
+  "flag": {
+    "svg": "IT/IT-SS/flag.svg",
+    "source": "Flag of the province of Sassari.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-SS/coat.svg",
+    "source": "Provincia di Sassari-Stemma 2.svg"
+  },
+  "data_source": "out"
+}

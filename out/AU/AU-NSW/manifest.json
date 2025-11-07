@@ -1,0 +1,14 @@
+{
+  "code": "AU-NSW",
+  "country": "AU",
+  "flag": {
+    "svg": "AU/AU-NSW/flag.svg",
+    "png": "AU/AU-NSW/flag.png",
+    "source_filename": "Flag of New South Wales.svg"
+  },
+  "coat": {
+    "svg": "AU/AU-NSW/coat.svg",
+    "png": "AU/AU-NSW/coat.png",
+    "source_filename": "Coat of Arms of New South Wales.svg"
+  }
+}

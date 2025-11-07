@@ -1,0 +1,14 @@
+{
+  "code": "LT-TE",
+  "country": "LT",
+  "flag": {
+    "svg": "LT/LT-TE/flag.svg",
+    "png": "LT/LT-TE/flag.png",
+    "source_filename": "Telšiai County flag.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "LT/LT-TE/coat.png",
+    "source_filename": "Telsiai County COA.png"
+  }
+}

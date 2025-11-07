@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-TA",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-ta",
+  "region_normalized": "it-ta",
+  "flag": {
+    "svg": "IT/IT-TA/flag.svg",
+    "source": "Flag of the Province of Taranto.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-TA/coat.svg",
+    "source": "Provincia di Taranto-Stemma.svg"
+  },
+  "data_source": "out"
+}

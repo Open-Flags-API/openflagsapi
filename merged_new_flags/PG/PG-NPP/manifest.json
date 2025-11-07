@@ -1,0 +1,16 @@
+{
+  "iso_code": "PG-NPP",
+  "country_iso": "PG",
+  "country_name": "PG",
+  "region_name": "pg-npp",
+  "region_normalized": "pg-npp",
+  "flag": {
+    "svg": null,
+    "source": "Oro province flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

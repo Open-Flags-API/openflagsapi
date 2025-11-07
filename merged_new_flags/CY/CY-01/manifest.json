@@ -1,0 +1,16 @@
+{
+  "iso_code": "CY-01",
+  "country_iso": "CY",
+  "country_name": "CY",
+  "region_name": "cy-01",
+  "region_normalized": "cy-01",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

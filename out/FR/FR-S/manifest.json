@@ -1,0 +1,14 @@
+{
+  "code": "FR-S",
+  "country": "FR",
+  "flag": {
+    "svg": "FR/FR-S/flag.svg",
+    "png": "FR/FR-S/flag.png",
+    "source_filename": "Flag of Picardie.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-S/coat.svg",
+    "png": "FR/FR-S/coat.png",
+    "source_filename": "BlasonPicardie.svg"
+  }
+}

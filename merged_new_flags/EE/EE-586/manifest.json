@@ -1,0 +1,16 @@
+{
+  "iso_code": "EE-586",
+  "country_iso": "EE",
+  "country_name": "EE",
+  "region_name": "ee-586",
+  "region_normalized": "ee-586",
+  "flag": {
+    "svg": "EE/EE-586/flag.svg",
+    "source": "Peipsiääre valla lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-586/coat.svg",
+    "source": "Peipsiääre valla vapp.svg"
+  },
+  "data_source": "out"
+}

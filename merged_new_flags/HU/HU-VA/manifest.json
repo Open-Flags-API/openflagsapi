@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-VA",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-va",
+  "region_normalized": "hu-va",
+  "flag": {
+    "svg": "HU/HU-VA/flag.svg",
+    "source": "FLAG-Vas-megye.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "HUN Vas megye COA.png"
+  },
+  "data_source": "out"
+}

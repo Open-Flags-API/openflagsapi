@@ -1,0 +1,14 @@
+{
+  "code": "FI-10",
+  "country": "FI",
+  "flag": {
+    "svg": null,
+    "png": null,
+    "source_filename": null
+  },
+  "coat": {
+    "svg": "FI/FI-10/coat.svg",
+    "png": "FI/FI-10/coat.png",
+    "source_filename": "Lapin maakunnan vaakuna.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-113",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-113",
+  "region_normalized": "lv-113",
+  "flag": {
+    "svg": "LV/LV-113/flag.svg",
+    "source": "Valmieras novada karogs.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-113/coat.svg",
+    "source": "Valmieras novada ģerbonis.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "IT-SV",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-SV/flag.svg",
+    "png": "IT/IT-SV/flag.png",
+    "source_filename": "Provincia di Savona-Bandiera.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-SV/coat.svg",
+    "png": "IT/IT-SV/coat.png",
+    "source_filename": "Provincia di Savona-Stemma.svg"
+  }
+}

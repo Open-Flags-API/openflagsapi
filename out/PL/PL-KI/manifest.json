@@ -1,0 +1,14 @@
+{
+  "code": "PL-KI",
+  "country": "PL",
+  "flag": {
+    "svg": "PL/PL-KI/flag.svg",
+    "png": "PL/PL-KI/flag.png",
+    "source_filename": "POL Kielce flag.svg"
+  },
+  "coat": {
+    "svg": "PL/PL-KI/coat.svg",
+    "png": "PL/PL-KI/coat.png",
+    "source_filename": "POL Kielce COA.svg"
+  }
+}

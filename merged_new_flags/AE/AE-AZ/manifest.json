@@ -1,0 +1,16 @@
+{
+  "iso_code": "AE-AZ",
+  "country_iso": "AE",
+  "country_name": "AE",
+  "region_name": "ae-az",
+  "region_normalized": "ae-az",
+  "flag": {
+    "svg": "AE/AE-AZ/flag.svg",
+    "source": "Flag of Abu Dhabi.svg"
+  },
+  "coat": {
+    "svg": "AE/AE-AZ/coat.svg",
+    "source": "Emblem of Abu Dhabi.svg"
+  },
+  "data_source": "out"
+}

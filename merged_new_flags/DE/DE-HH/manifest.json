@@ -1,0 +1,16 @@
+{
+  "iso_code": "DE-HH",
+  "country_iso": "DE",
+  "country_name": "germany",
+  "region_name": "de-hh",
+  "region_normalized": "de-hh",
+  "flag": {
+    "svg": "DE/DE-HH/flag.svg",
+    "source": "Flag of Hamburg.svg"
+  },
+  "coat": {
+    "svg": "DE/DE-HH/coat.svg",
+    "source": "DEU Hamburg COA.svg"
+  },
+  "data_source": "out"
+}

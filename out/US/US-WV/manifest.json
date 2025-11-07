@@ -1,0 +1,14 @@
+{
+  "code": "US-WV",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-WV/flag.svg",
+    "png": "US/US-WV/flag.png",
+    "source_filename": "Flag of West Virginia.svg"
+  },
+  "coat": {
+    "svg": "US/US-WV/coat.svg",
+    "png": "US/US-WV/coat.png",
+    "source_filename": "Coat of arms of West Virginia.svg"
+  }
+}

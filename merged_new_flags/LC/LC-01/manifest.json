@@ -1,0 +1,16 @@
+{
+  "iso_code": "LC-01",
+  "country_iso": "LC",
+  "country_name": "LC",
+  "region_name": "lc-01",
+  "region_normalized": "lc-01",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

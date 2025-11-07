@@ -1,0 +1,16 @@
+{
+  "iso_code": "PE-AYA",
+  "country_iso": "PE",
+  "country_name": "PE",
+  "region_name": "pe-aya",
+  "region_normalized": "pe-aya",
+  "flag": {
+    "svg": "PE/PE-AYA/flag.svg",
+    "source": "Flag of Ayacucho.svg"
+  },
+  "coat": {
+    "svg": "PE/PE-AYA/coat.svg",
+    "source": "Escudo de Ayacucho.svg"
+  },
+  "data_source": "out"
+}

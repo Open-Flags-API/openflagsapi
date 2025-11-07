@@ -1,0 +1,16 @@
+{
+  "iso_code": "VE-A",
+  "country_iso": "VE",
+  "country_name": "VE",
+  "region_name": "ve-a",
+  "region_normalized": "ve-a",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

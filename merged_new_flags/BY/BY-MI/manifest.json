@@ -1,0 +1,16 @@
+{
+  "iso_code": "BY-MI",
+  "country_iso": "BY",
+  "country_name": "BY",
+  "region_name": "by-mi",
+  "region_normalized": "by-mi",
+  "flag": {
+    "svg": "BY/BY-MI/flag.svg",
+    "source": "Flag of Minsk Voblast.svg"
+  },
+  "coat": {
+    "svg": "BY/BY-MI/coat.svg",
+    "source": "Coat of Arms of Minsk province.svg"
+  },
+  "data_source": "out"
+}

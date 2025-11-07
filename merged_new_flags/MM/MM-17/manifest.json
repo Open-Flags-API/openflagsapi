@@ -1,0 +1,16 @@
+{
+  "iso_code": "MM-17",
+  "country_iso": "MM",
+  "country_name": "MM",
+  "region_name": "mm-17",
+  "region_normalized": "mm-17",
+  "flag": {
+    "svg": "MM/MM-17/flag.svg",
+    "source": "Flag of Shan State.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

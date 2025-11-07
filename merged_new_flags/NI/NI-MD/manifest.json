@@ -1,0 +1,16 @@
+{
+  "iso_code": "NI-MD",
+  "country_iso": "NI",
+  "country_name": "NI",
+  "region_name": "ni-md",
+  "region_normalized": "ni-md",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

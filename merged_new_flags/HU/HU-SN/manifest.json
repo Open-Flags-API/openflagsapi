@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-SN",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-sn",
+  "region_normalized": "hu-sn",
+  "flag": {
+    "svg": "HU/HU-SN/flag.svg",
+    "source": "HUN Sopron Flag.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-SN/coat.svg",
+    "source": "Coa Hungary Town Sopron.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-007",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-007",
+  "region_normalized": "lv-007",
+  "flag": {
+    "svg": "LV/LV-007/flag.svg",
+    "source": "Alūksnes novada karogs.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-007/coat.svg",
+    "source": "Alūksne novads COA.svg"
+  },
+  "data_source": "out"
+}

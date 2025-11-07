@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-LI",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "lipetsk",
+  "region_normalized": "lipetsk",
+  "flag": {
+    "svg": "RU/RU-LI/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

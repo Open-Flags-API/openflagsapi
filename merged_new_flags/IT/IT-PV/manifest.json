@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-PV",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-pv",
+  "region_normalized": "it-pv",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IT/IT-PV/coat.svg",
+    "source": "Provincia di Pavia-Stemma.svg"
+  },
+  "data_source": "out"
+}

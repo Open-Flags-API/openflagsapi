@@ -1,0 +1,14 @@
+{
+  "code": "ES-ML",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-ML/flag.svg",
+    "png": "ES/ES-ML/flag.png",
+    "source_filename": "Flag of Melilla.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-ML/coat.svg",
+    "png": "ES/ES-ML/coat.png",
+    "source_filename": "Coat of Arms of Melilla.svg"
+  }
+}

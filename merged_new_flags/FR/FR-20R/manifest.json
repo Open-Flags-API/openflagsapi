@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-20R",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-20r",
+  "region_normalized": "fr-20r",
+  "flag": {
+    "svg": "FR/FR-20R/flag.svg",
+    "source": "Flag of Corsica.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-20R/coat.svg",
+    "source": "Coat of Arms of Corsica.svg"
+  },
+  "data_source": "out"
+}

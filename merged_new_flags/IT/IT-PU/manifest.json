@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-PU",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-pu",
+  "region_normalized": "it-pu",
+  "flag": {
+    "svg": "IT/IT-PU/flag.svg",
+    "source": "Flag of the province of Pesaro-Urbino.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-PU/coat.svg",
+    "source": "Provincia di Pesaro e Urbino-Stemma.svg"
+  },
+  "data_source": "out"
+}

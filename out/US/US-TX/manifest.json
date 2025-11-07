@@ -1,0 +1,14 @@
+{
+  "code": "US-TX",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-TX/flag.svg",
+    "png": "US/US-TX/flag.png",
+    "source_filename": "Flag of Texas.svg"
+  },
+  "coat": {
+    "svg": "US/US-TX/coat.svg",
+    "png": "US/US-TX/coat.png",
+    "source_filename": "Coat of arms of the Republic of Texas.svg"
+  }
+}

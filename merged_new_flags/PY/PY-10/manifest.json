@@ -1,0 +1,16 @@
+{
+  "iso_code": "PY-10",
+  "country_iso": "PY",
+  "country_name": "PY",
+  "region_name": "py-10",
+  "region_normalized": "py-10",
+  "flag": {
+    "svg": null,
+    "source": "Bandera del Departamento de Alto Paraná.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Escudo del Departamento de Alto Paraná.png"
+  },
+  "data_source": "out"
+}

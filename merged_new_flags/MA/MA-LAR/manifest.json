@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-LAR",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-lar",
+  "region_normalized": "ma-lar",
+  "flag": {
+    "svg": "MA/MA-LAR/flag.svg",
+    "source": "Flag of Larache province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

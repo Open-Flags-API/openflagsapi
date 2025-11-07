@@ -1,0 +1,16 @@
+{
+  "iso_code": "LI-07",
+  "country_iso": "LI",
+  "country_name": "LI",
+  "region_name": "li-07",
+  "region_normalized": "li-07",
+  "flag": {
+    "svg": "LI/LI-07/flag.svg",
+    "source": "Flag of Schaan Liechtenstein-1.svg"
+  },
+  "coat": {
+    "svg": "LI/LI-07/coat.svg",
+    "source": "Wappen Schaan.svg"
+  },
+  "data_source": "out"
+}

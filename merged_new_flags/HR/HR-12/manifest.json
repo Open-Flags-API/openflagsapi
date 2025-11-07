@@ -1,0 +1,16 @@
+{
+  "iso_code": "HR-12",
+  "country_iso": "HR",
+  "country_name": "HR",
+  "region_name": "hr-12",
+  "region_normalized": "hr-12",
+  "flag": {
+    "svg": "HR/HR-12/flag.svg",
+    "source": "Flag of Brod-Posavina County.svg"
+  },
+  "coat": {
+    "svg": "HR/HR-12/coat.svg",
+    "source": "Coat of arms of Brod-Posavina County.svg"
+  },
+  "data_source": "out"
+}

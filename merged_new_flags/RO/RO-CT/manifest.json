@@ -1,0 +1,16 @@
+{
+  "iso_code": "RO-CT",
+  "country_iso": "RO",
+  "country_name": "RO",
+  "region_name": "ro-ct",
+  "region_normalized": "ro-ct",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Actual Constanța county CoA.png"
+  },
+  "data_source": "out"
+}

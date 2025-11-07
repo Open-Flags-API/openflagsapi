@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-62",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-62",
+  "region_normalized": "it-62",
+  "flag": {
+    "svg": "IT/IT-62/flag.svg",
+    "source": "Flag of Lazio.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-62/coat.svg",
+    "source": "Lazio Coat of Arms.svg"
+  },
+  "data_source": "out"
+}

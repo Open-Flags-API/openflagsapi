@@ -1,0 +1,14 @@
+{
+  "code": "RU-ALT",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-ALT/flag.svg",
+    "png": "RU/RU-ALT/flag.png",
+    "source_filename": "Flag of Altai Krai.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-ALT/coat.svg",
+    "png": "RU/RU-ALT/coat.png",
+    "source_filename": "Coat of Arms of Altai Krai.svg"
+  }
+}

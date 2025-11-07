@@ -1,0 +1,16 @@
+{
+  "iso_code": "MY-04",
+  "country_iso": "MY",
+  "country_name": "MY",
+  "region_name": "my-04",
+  "region_normalized": "my-04",
+  "flag": {
+    "svg": "MY/MY-04/flag.svg",
+    "source": "Flag of Malacca.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Malacca New.svg"
+  },
+  "data_source": "out"
+}

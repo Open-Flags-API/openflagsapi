@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-VLG",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-vlg",
+  "region_normalized": "ru-vlg",
+  "flag": {
+    "svg": "RU/RU-VLG/flag.svg",
+    "source": "Flag of Vologda oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-VLG/coat.svg",
+    "source": "Coat of arms of Vologda oblast.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "AZ-NX",
+  "country_iso": "AZ",
+  "country_name": "AZ",
+  "region_name": "az-nx",
+  "region_normalized": "az-nx",
+  "flag": {
+    "svg": "AZ/AZ-NX/flag.svg",
+    "source": "Flag of Azerbaijan.svg"
+  },
+  "coat": {
+    "svg": "AZ/AZ-NX/coat.svg",
+    "source": "Emblem of Azerbaijan.svg"
+  },
+  "data_source": "out"
+}

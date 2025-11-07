@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-KIR",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-kir",
+  "region_normalized": "ru-kir",
+  "flag": {
+    "svg": "RU/RU-KIR/flag.svg",
+    "source": "Flag of Kirov Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-KIR/coat.svg",
+    "source": "Coat of arms of Kirov Region.svg"
+  },
+  "data_source": "out"
+}

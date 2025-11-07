@@ -1,0 +1,16 @@
+{
+  "iso_code": "CA-BR",
+  "country_iso": "CA",
+  "country_name": "canada",
+  "region_name": "british-columbia",
+  "region_normalized": "british-columbia",
+  "flag": {
+    "svg": "CA/CA-BR/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

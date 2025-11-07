@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-B",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-b",
+  "region_normalized": "es-b",
+  "flag": {
+    "svg": "ES/ES-B/flag.svg",
+    "source": "Flag of Barcelona (province).svg"
+  },
+  "coat": {
+    "svg": "ES/ES-B/coat.svg",
+    "source": "Escudo de la provincia de Barcelona.svg"
+  },
+  "data_source": "out"
+}

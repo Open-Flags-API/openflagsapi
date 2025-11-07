@@ -1,0 +1,14 @@
+{
+  "code": "ID-MA",
+  "country": "ID",
+  "flag": {
+    "svg": "ID/ID-MA/flag.svg",
+    "png": "ID/ID-MA/flag.png",
+    "source_filename": "Flag of Maluku.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-MA/coat.svg",
+    "png": "ID/ID-MA/coat.png",
+    "source_filename": "Coat of arms of Maluku.svg"
+  }
+}

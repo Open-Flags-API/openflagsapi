@@ -1,0 +1,16 @@
+{
+  "iso_code": "SI-076",
+  "country_iso": "SI",
+  "country_name": "SI",
+  "region_name": "si-076",
+  "region_normalized": "si-076",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Mislinja.png"
+  },
+  "data_source": "out"
+}

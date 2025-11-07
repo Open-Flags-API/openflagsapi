@@ -1,0 +1,16 @@
+{
+  "iso_code": "HR-09",
+  "country_iso": "HR",
+  "country_name": "HR",
+  "region_name": "hr-09",
+  "region_normalized": "hr-09",
+  "flag": {
+    "svg": "HR/HR-09/flag.svg",
+    "source": "Flag of Lika-Senj County.svg"
+  },
+  "coat": {
+    "svg": "HR/HR-09/coat.svg",
+    "source": "Lika-Senj County coat of arms.svg"
+  },
+  "data_source": "out"
+}

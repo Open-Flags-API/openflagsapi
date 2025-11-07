@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-S",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-s",
+  "region_normalized": "th-s",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

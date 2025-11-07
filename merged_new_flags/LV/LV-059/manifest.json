@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-059",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-059",
+  "region_normalized": "lv-059",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "LV/LV-059/coat.svg",
+    "source": "Madonas novada ģerbonis.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-AD",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-ad",
+  "region_normalized": "ru-ad",
+  "flag": {
+    "svg": "RU/RU-AD/flag.svg",
+    "source": "Flag of Adygea.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-AD/coat.svg",
+    "source": "Coat of arms of Adygea.svg"
+  },
+  "data_source": "out"
+}

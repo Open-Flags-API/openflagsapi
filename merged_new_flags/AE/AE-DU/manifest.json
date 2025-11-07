@@ -1,0 +1,16 @@
+{
+  "iso_code": "AE-DU",
+  "country_iso": "AE",
+  "country_name": "AE",
+  "region_name": "ae-du",
+  "region_normalized": "ae-du",
+  "flag": {
+    "svg": "AE/AE-DU/flag.svg",
+    "source": "Flag of Dubai.svg"
+  },
+  "coat": {
+    "svg": "AE/AE-DU/coat.svg",
+    "source": "Coat of arms of Dubai.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-HB",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-hb",
+  "region_normalized": "hu-hb",
+  "flag": {
+    "svg": "HU/HU-HB/flag.svg",
+    "source": "FLAG-Hajdú-Bihar-megye.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-HB/coat.svg",
+    "source": "HUN Hajdú-Bihar COA.svg"
+  },
+  "data_source": "out"
+}

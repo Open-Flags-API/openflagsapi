@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-CAV",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-cav",
+  "region_normalized": "ph-cav",
+  "flag": {
+    "svg": null,
+    "source": "PH-CAV Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

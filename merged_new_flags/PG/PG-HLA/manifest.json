@@ -1,0 +1,16 @@
+{
+  "iso_code": "PG-HLA",
+  "country_iso": "PG",
+  "country_name": "PG",
+  "region_name": "pg-hla",
+  "region_normalized": "pg-hla",
+  "flag": {
+    "svg": "PG/PG-HLA/flag.svg",
+    "source": "Flag of Hela.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

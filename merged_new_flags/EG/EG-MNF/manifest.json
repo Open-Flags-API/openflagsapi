@@ -1,0 +1,16 @@
+{
+  "iso_code": "EG-MNF",
+  "country_iso": "EG",
+  "country_name": "EG",
+  "region_name": "eg-mnf",
+  "region_normalized": "eg-mnf",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Menoufia Governorate.PNG"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Menoufia Governorate.jpg"
+  },
+  "data_source": "out"
+}

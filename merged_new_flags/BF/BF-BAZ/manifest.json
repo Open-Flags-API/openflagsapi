@@ -1,0 +1,16 @@
+{
+  "iso_code": "BF-BAZ",
+  "country_iso": "BF",
+  "country_name": "BF",
+  "region_name": "bf-baz",
+  "region_normalized": "bf-baz",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

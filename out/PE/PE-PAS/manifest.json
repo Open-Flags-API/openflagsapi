@@ -1,0 +1,14 @@
+{
+  "code": "PE-PAS",
+  "country": "PE",
+  "flag": {
+    "svg": "PE/PE-PAS/flag.svg",
+    "png": "PE/PE-PAS/flag.png",
+    "source_filename": "Flag of Pasco Department.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "PE/PE-PAS/coat.png",
+    "source_filename": "Escudo regional Pasco.png"
+  }
+}

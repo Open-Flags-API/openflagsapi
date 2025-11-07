@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-SAY",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-say",
+  "region_normalized": "gb-say",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-SAY/coat.svg",
+    "source": "Coat of arms of South Ayrshire.svg"
+  },
+  "data_source": "out"
+}

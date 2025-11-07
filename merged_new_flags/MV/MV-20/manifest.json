@@ -1,0 +1,16 @@
+{
+  "iso_code": "MV-20",
+  "country_iso": "MV",
+  "country_name": "MV",
+  "region_name": "mv-20",
+  "region_normalized": "mv-20",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

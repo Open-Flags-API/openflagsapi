@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-084",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-084",
+  "region_normalized": "lv-084",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Rūjienas novads.png"
+  },
+  "coat": {
+    "svg": "LV/LV-084/coat.svg",
+    "source": "Rūjienas novads COA.svg"
+  },
+  "data_source": "out"
+}

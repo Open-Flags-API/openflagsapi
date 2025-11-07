@@ -1,0 +1,16 @@
+{
+  "iso_code": "VE-X",
+  "country_iso": "VE",
+  "country_name": "VE",
+  "region_name": "ve-x",
+  "region_normalized": "ve-x",
+  "flag": {
+    "svg": "VE/VE-X/flag.svg",
+    "source": "Flag of Vargas State.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Escudo Estado La Guaira.png"
+  },
+  "data_source": "out"
+}

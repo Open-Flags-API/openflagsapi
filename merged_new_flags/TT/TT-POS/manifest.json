@@ -1,0 +1,16 @@
+{
+  "iso_code": "TT-POS",
+  "country_iso": "TT",
+  "country_name": "TT",
+  "region_name": "tt-pos",
+  "region_normalized": "tt-pos",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Port of Spain Coat of Arms.png"
+  },
+  "data_source": "out"
+}

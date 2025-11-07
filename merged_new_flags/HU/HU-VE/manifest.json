@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-VE",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-ve",
+  "region_normalized": "hu-ve",
+  "flag": {
+    "svg": "HU/HU-VE/flag.svg",
+    "source": "FLAG-Veszprém-megye.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-VE/coat.svg",
+    "source": "Coa Hungary County Veszprém.svg"
+  },
+  "data_source": "out"
+}

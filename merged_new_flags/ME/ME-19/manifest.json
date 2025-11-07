@@ -1,0 +1,16 @@
+{
+  "iso_code": "ME-19",
+  "country_iso": "ME",
+  "country_name": "ME",
+  "region_name": "me-19",
+  "region_normalized": "me-19",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "ME/ME-19/coat.svg",
+    "source": "MNE Tivat COA.svg"
+  },
+  "data_source": "out"
+}

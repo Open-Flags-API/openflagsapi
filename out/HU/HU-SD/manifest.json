@@ -1,0 +1,14 @@
+{
+  "code": "HU-SD",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-SD/flag.svg",
+    "png": "HU/HU-SD/flag.png",
+    "source_filename": "Flag of Szeged.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-SD/coat.svg",
+    "png": "HU/HU-SD/coat.png",
+    "source_filename": "HUN Szeged Címer.svg"
+  }
+}

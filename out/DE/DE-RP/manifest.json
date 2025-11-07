@@ -1,0 +1,14 @@
+{
+  "code": "DE-RP",
+  "country": "DE",
+  "flag": {
+    "svg": "DE/DE-RP/flag.svg",
+    "png": "DE/DE-RP/flag.png",
+    "source_filename": "Flag of Rhineland-Palatinate.svg"
+  },
+  "coat": {
+    "svg": "DE/DE-RP/coat.svg",
+    "png": "DE/DE-RP/coat.png",
+    "source_filename": "Coat of arms of Rhineland-Palatinate.svg"
+  }
+}

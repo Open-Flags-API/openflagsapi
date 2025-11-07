@@ -1,0 +1,14 @@
+{
+  "code": "IT-CS",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-CS/flag.svg",
+    "png": "IT/IT-CS/flag.png",
+    "source_filename": "Provincia di Cosenza-Bandiera.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-CS/coat.svg",
+    "png": "IT/IT-CS/coat.png",
+    "source_filename": "Provincia di Cosenza-Stemma.svg"
+  }
+}

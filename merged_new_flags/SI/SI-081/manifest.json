@@ -1,0 +1,16 @@
+{
+  "iso_code": "SI-081",
+  "country_iso": "SI",
+  "country_name": "SI",
+  "region_name": "si-081",
+  "region_normalized": "si-081",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Grb.Muta.png"
+  },
+  "data_source": "out"
+}

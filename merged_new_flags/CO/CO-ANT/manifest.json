@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-ANT",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-ant",
+  "region_normalized": "co-ant",
+  "flag": {
+    "svg": "CO/CO-ANT/flag.svg",
+    "source": "Flag of Antioquia Department.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-ANT/coat.svg",
+    "source": "Escudo de Antioquia.svg"
+  },
+  "data_source": "out"
+}

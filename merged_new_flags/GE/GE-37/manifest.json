@@ -1,0 +1,16 @@
+{
+  "iso_code": "GE-37",
+  "country_iso": "GE",
+  "country_name": "GE",
+  "region_name": "ge-37",
+  "region_normalized": "ge-37",
+  "flag": {
+    "svg": "GE/GE-37/flag.svg",
+    "source": "Flag of Marneuli Municipality.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Marneuli COA.png"
+  },
+  "data_source": "out"
+}

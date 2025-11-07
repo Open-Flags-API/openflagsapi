@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-WAR",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-war",
+  "region_normalized": "gb-war",
+  "flag": {
+    "svg": "GB/GB-WAR/flag.svg",
+    "source": "Flag of Warwickshire.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-WAR/coat.svg",
+    "source": "Arms of Warwickshire County Council.svg"
+  },
+  "data_source": "out"
+}

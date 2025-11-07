@@ -1,0 +1,14 @@
+{
+  "code": "LT-01",
+  "country": "LT",
+  "flag": {
+    "svg": "LT/LT-01/flag.svg",
+    "png": "LT/LT-01/flag.png",
+    "source_filename": "Naujosios Akmenės vėliava.svg"
+  },
+  "coat": {
+    "svg": "LT/LT-01/coat.svg",
+    "png": "LT/LT-01/coat.png",
+    "source_filename": "Naujoji Akmenė COA.svg"
+  }
+}

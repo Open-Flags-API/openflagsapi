@@ -1,0 +1,14 @@
+{
+  "code": "IT-PA",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-PA/flag.svg",
+    "png": "IT/IT-PA/flag.png",
+    "source_filename": "Flag of the Province of Palermo.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-PA/coat.svg",
+    "png": "IT/IT-PA/coat.png",
+    "source_filename": "Provincia di Palermo-Stemma.svg"
+  }
+}

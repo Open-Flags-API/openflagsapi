@@ -1,0 +1,14 @@
+{
+  "code": "BR-BA",
+  "country": "BR",
+  "flag": {
+    "svg": "BR/BR-BA/flag.svg",
+    "png": "BR/BR-BA/flag.png",
+    "source_filename": "Bandeira da Bahia.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-BA/coat.svg",
+    "png": "BR/BR-BA/coat.png",
+    "source_filename": "Brasão do estado da Bahia.svg"
+  }
+}

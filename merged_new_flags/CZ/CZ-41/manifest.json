@@ -1,0 +1,16 @@
+{
+  "iso_code": "CZ-41",
+  "country_iso": "CZ",
+  "country_name": "CZ",
+  "region_name": "cz-41",
+  "region_normalized": "cz-41",
+  "flag": {
+    "svg": "CZ/CZ-41/flag.svg",
+    "source": "Flag of Karlovy Vary Region.svg"
+  },
+  "coat": {
+    "svg": "CZ/CZ-41/coat.svg",
+    "source": "Karlovy Vary Region CoA CZ.svg"
+  },
+  "data_source": "out"
+}

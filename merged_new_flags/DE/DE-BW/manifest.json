@@ -1,0 +1,16 @@
+{
+  "iso_code": "DE-BW",
+  "country_iso": "DE",
+  "country_name": "germany",
+  "region_name": "de-bw",
+  "region_normalized": "de-bw",
+  "flag": {
+    "svg": "DE/DE-BW/flag.svg",
+    "source": "Flag of Baden-Württemberg.svg"
+  },
+  "coat": {
+    "svg": "DE/DE-BW/coat.svg",
+    "source": "Greater coat of arms of Baden-Württemberg.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-RUT",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-rut",
+  "region_normalized": "gb-rut",
+  "flag": {
+    "svg": "GB/GB-RUT/flag.svg",
+    "source": "Rutland County Flag.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-RUT/coat.svg",
+    "source": "Arms of Rutland County Council.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-AST",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-ast",
+  "region_normalized": "ru-ast",
+  "flag": {
+    "svg": "RU/RU-AST/flag.svg",
+    "source": "Flag of Astrakhan Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-AST/coat.svg",
+    "source": "Coat of Arms of Astrakhan Oblast.svg"
+  },
+  "data_source": "out"
+}

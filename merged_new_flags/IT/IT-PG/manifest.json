@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-PG",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-pg",
+  "region_normalized": "it-pg",
+  "flag": {
+    "svg": "IT/IT-PG/flag.svg",
+    "source": "Flag of the province of Perugia.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-PG/coat.svg",
+    "source": "Provincia di Perugia-Stemma.svg"
+  },
+  "data_source": "out"
+}

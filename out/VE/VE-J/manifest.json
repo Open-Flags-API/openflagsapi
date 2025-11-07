@@ -1,0 +1,14 @@
+{
+  "code": "VE-J",
+  "country": "VE",
+  "flag": {
+    "svg": null,
+    "png": "VE/VE-J/flag.png",
+    "source_filename": "Flag of Guárico State.svg"
+  },
+  "coat": {
+    "svg": "VE/VE-J/coat.svg",
+    "png": "VE/VE-J/coat.png",
+    "source_filename": "Escudo de Guárico.svg"
+  }
+}

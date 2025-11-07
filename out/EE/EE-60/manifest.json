@@ -1,0 +1,14 @@
+{
+  "code": "EE-60",
+  "country": "EE",
+  "flag": {
+    "svg": "EE/EE-60/flag.svg",
+    "png": "EE/EE-60/flag.png",
+    "source_filename": "Lääne-Virumaa lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-60/coat.svg",
+    "png": "EE/EE-60/coat.png",
+    "source_filename": "Lääne-Virumaa vapp.svg"
+  }
+}

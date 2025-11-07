@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-90",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-90",
+  "region_normalized": "th-90",
+  "flag": {
+    "svg": "TH/TH-90/flag.svg",
+    "source": "Flag of Songkhla.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

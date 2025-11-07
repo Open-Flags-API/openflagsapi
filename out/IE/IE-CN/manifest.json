@@ -1,0 +1,14 @@
+{
+  "code": "IE-CN",
+  "country": "IE",
+  "flag": {
+    "svg": "IE/IE-CN/flag.svg",
+    "png": "IE/IE-CN/flag.png",
+    "source_filename": "Flag of the counties of Cavan and Laois.svg"
+  },
+  "coat": {
+    "svg": "IE/IE-CN/coat.svg",
+    "png": "IE/IE-CN/coat.png",
+    "source_filename": "Arms of County Cavan.svg"
+  }
+}

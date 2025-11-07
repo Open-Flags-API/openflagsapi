@@ -1,0 +1,14 @@
+{
+  "code": "NI-CI",
+  "country": "NI",
+  "flag": {
+    "svg": "NI/NI-CI/flag.svg",
+    "png": "NI/NI-CI/flag.png",
+    "source_filename": "Flag of Chinandega.svg"
+  },
+  "coat": {
+    "svg": "NI/NI-CI/coat.svg",
+    "png": "NI/NI-CI/coat.png",
+    "source_filename": "Escudo de Chinandega.svg"
+  }
+}

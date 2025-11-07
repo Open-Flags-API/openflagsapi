@@ -1,0 +1,14 @@
+{
+  "code": "KG-N",
+  "country": "KG",
+  "flag": {
+    "svg": "KG/KG-N/flag.svg",
+    "png": "KG/KG-N/flag.png",
+    "source_filename": "Naryn obl flag.svg"
+  },
+  "coat": {
+    "svg": "KG/KG-N/coat.svg",
+    "png": "KG/KG-N/coat.png",
+    "source_filename": "Naryn obl coa.svg"
+  }
+}

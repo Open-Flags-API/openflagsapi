@@ -1,0 +1,16 @@
+{
+  "iso_code": "DE-TH",
+  "country_iso": "DE",
+  "country_name": "germany",
+  "region_name": "de-th",
+  "region_normalized": "de-th",
+  "flag": {
+    "svg": "DE/DE-TH/flag.svg",
+    "source": "Flag of Thuringia.svg"
+  },
+  "coat": {
+    "svg": "DE/DE-TH/coat.svg",
+    "source": "Coat of arms of Thuringia.svg"
+  },
+  "data_source": "out"
+}

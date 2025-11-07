@@ -1,0 +1,16 @@
+{
+  "iso_code": "KM-A",
+  "country_iso": "KM",
+  "country_name": "KM",
+  "region_name": "km-a",
+  "region_normalized": "km-a",
+  "flag": {
+    "svg": "KM/KM-A/flag.svg",
+    "source": "Flag of Anjouan (official).svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

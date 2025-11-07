@@ -1,0 +1,16 @@
+{
+  "iso_code": "KR-29",
+  "country_iso": "KR",
+  "country_name": "south-korea",
+  "region_name": "kr-29",
+  "region_normalized": "kr-29",
+  "flag": {
+    "svg": "KR/KR-29/flag.svg",
+    "source": "Flag of Gwangju.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Emblem of Gwangju.svg"
+  },
+  "data_source": "out"
+}

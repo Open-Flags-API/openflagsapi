@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-OH",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-oh",
+  "region_normalized": "us-oh",
+  "flag": {
+    "svg": "US/US-OH/flag.svg",
+    "source": "Flag of Ohio.svg"
+  },
+  "coat": {
+    "svg": "US/US-OH/coat.svg",
+    "source": "Coat of arms of Ohio.svg"
+  },
+  "data_source": "out"
+}

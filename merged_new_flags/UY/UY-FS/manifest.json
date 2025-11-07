@@ -1,0 +1,16 @@
+{
+  "iso_code": "UY-FS",
+  "country_iso": "UY",
+  "country_name": "UY",
+  "region_name": "uy-fs",
+  "region_normalized": "uy-fs",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Flores Department.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Flores Department.png"
+  },
+  "data_source": "out"
+}

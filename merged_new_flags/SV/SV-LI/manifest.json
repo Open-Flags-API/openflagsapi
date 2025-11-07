@@ -1,0 +1,16 @@
+{
+  "iso_code": "SV-LI",
+  "country_iso": "SV",
+  "country_name": "SV",
+  "region_name": "sv-li",
+  "region_normalized": "sv-li",
+  "flag": {
+    "svg": "SV/SV-LI/flag.svg",
+    "source": "Flag of La Libertad Department (El Salvador).svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Escudo Departamental de La Libertad, El Salvador.svg"
+  },
+  "data_source": "out"
+}

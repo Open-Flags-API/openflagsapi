@@ -1,0 +1,16 @@
+{
+  "iso_code": "SK-TA",
+  "country_iso": "SK",
+  "country_name": "SK",
+  "region_name": "sk-ta",
+  "region_normalized": "sk-ta",
+  "flag": {
+    "svg": "SK/SK-TA/flag.svg",
+    "source": "Trnavsky vlajka.svg"
+  },
+  "coat": {
+    "svg": "SK/SK-TA/coat.svg",
+    "source": "Coat of Arms of Trnava Region.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "EG-IS",
+  "country_iso": "EG",
+  "country_name": "EG",
+  "region_name": "eg-is",
+  "region_normalized": "eg-is",
+  "flag": {
+    "svg": null,
+    "source": "Governadorat d'Ismailiya.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

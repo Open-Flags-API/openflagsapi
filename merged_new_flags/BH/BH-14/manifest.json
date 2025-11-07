@@ -1,0 +1,16 @@
+{
+  "iso_code": "BH-14",
+  "country_iso": "BH",
+  "country_name": "BH",
+  "region_name": "bh-14",
+  "region_normalized": "bh-14",
+  "flag": {
+    "svg": "BH/BH-14/flag.svg",
+    "source": "Bahrain Southern Governorate Flag.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

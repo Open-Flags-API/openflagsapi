@@ -1,0 +1,14 @@
+{
+  "code": "IT-PN",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-PN/flag.svg",
+    "png": "IT/IT-PN/flag.png",
+    "source_filename": "Provincia di Pordenone-Bandiera.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-PN/coat.svg",
+    "png": "IT/IT-PN/coat.png",
+    "source_filename": "Provincia di Pordenone-Stemma.svg"
+  }
+}

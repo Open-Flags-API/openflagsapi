@@ -1,0 +1,14 @@
+{
+  "code": "PK-SD",
+  "country": "PK",
+  "flag": {
+    "svg": "PK/PK-SD/flag.svg",
+    "png": "PK/PK-SD/flag.png",
+    "source_filename": "Flag of Sindh.svg"
+  },
+  "coat": {
+    "svg": "PK/PK-SD/coat.svg",
+    "png": "PK/PK-SD/coat.png",
+    "source_filename": "Coat of arms of Sindh Province.svg"
+  }
+}

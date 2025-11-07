@@ -1,0 +1,16 @@
+{
+  "iso_code": "MY-11",
+  "country_iso": "MY",
+  "country_name": "MY",
+  "region_name": "my-11",
+  "region_normalized": "my-11",
+  "flag": {
+    "svg": "MY/MY-11/flag.svg",
+    "source": "Flag of Terengganu.svg"
+  },
+  "coat": {
+    "svg": "MY/MY-11/coat.svg",
+    "source": "Coat of arms of Terengganu.svg"
+  },
+  "data_source": "out"
+}

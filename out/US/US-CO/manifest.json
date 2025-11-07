@@ -1,0 +1,14 @@
+{
+  "code": "US-CO",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-CO/flag.svg",
+    "png": "US/US-CO/flag.png",
+    "source_filename": "Flag of Colorado.svg"
+  },
+  "coat": {
+    "svg": "US/US-CO/coat.svg",
+    "png": "US/US-CO/coat.png",
+    "source_filename": "Seal of Colorado.svg"
+  }
+}

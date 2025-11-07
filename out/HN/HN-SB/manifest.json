@@ -1,0 +1,14 @@
+{
+  "code": "HN-SB",
+  "country": "HN",
+  "flag": {
+    "svg": "HN/HN-SB/flag.svg",
+    "png": "HN/HN-SB/flag.png",
+    "source_filename": "Bandera de Santa Barbara Honduras.svg"
+  },
+  "coat": {
+    "svg": "HN/HN-SB/coat.svg",
+    "png": "HN/HN-SB/coat.png",
+    "source_filename": "Escudo de Santa Barbara Honduras.svg"
+  }
+}

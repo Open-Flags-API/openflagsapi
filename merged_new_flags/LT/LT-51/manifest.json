@@ -1,0 +1,16 @@
+{
+  "iso_code": "LT-51",
+  "country_iso": "LT",
+  "country_name": "LT",
+  "region_name": "lt-51",
+  "region_normalized": "lt-51",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Telsiai.gif"
+  },
+  "coat": {
+    "svg": "LT/LT-51/coat.svg",
+    "source": "Telšiai COA.svg"
+  },
+  "data_source": "out"
+}

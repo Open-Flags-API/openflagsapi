@@ -1,0 +1,16 @@
+{
+  "iso_code": "PE-UCA",
+  "country_iso": "PE",
+  "country_name": "PE",
+  "region_name": "pe-uca",
+  "region_normalized": "pe-uca",
+  "flag": {
+    "svg": null,
+    "source": "Ucayali flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Escudo Regional de Ucayali.png"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "CO-BOL",
+  "country": "CO",
+  "flag": {
+    "svg": "CO/CO-BOL/flag.svg",
+    "png": "CO/CO-BOL/flag.png",
+    "source_filename": "Flag of Bolívar (Colombia).svg"
+  },
+  "coat": {
+    "svg": "CO/CO-BOL/coat.svg",
+    "png": "CO/CO-BOL/coat.png",
+    "source_filename": "Escudo de Bolívar (Colombia).svg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "code": "VE-E",
+  "country": "VE",
+  "flag": {
+    "svg": "VE/VE-E/flag.svg",
+    "png": "VE/VE-E/flag.png",
+    "source_filename": "Flag of Barinas State.svg"
+  },
+  "coat": {
+    "svg": "VE/VE-E/coat.svg",
+    "png": "VE/VE-E/coat.png",
+    "source_filename": "Escudo del Estado Barinas.svg"
+  }
+}

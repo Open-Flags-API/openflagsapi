@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-LE",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "leningrad",
+  "region_normalized": "leningrad",
+  "flag": {
+    "svg": "RU/RU-LE/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

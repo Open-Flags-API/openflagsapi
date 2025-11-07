@@ -1,0 +1,16 @@
+{
+  "iso_code": "BA-06",
+  "country_iso": "BA",
+  "country_name": "BA",
+  "region_name": "ba-06",
+  "region_normalized": "ba-06",
+  "flag": {
+    "svg": "BA/BA-06/flag.svg",
+    "source": "Flag of Central Bosnia.svg"
+  },
+  "coat": {
+    "svg": "BA/BA-06/coat.svg",
+    "source": "Coat of arms of Central Bosnia.svg"
+  },
+  "data_source": "out"
+}

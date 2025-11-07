@@ -1,0 +1,16 @@
+{
+  "iso_code": "SE-M",
+  "country_iso": "SE",
+  "country_name": "SE",
+  "region_name": "se-m",
+  "region_normalized": "se-m",
+  "flag": {
+    "svg": "SE/SE-M/flag.svg",
+    "source": "Vapenflagga för Skåne län.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-M/coat.svg",
+    "source": "Skåne länsvapen – Riksarkivet Sverige.svg"
+  },
+  "data_source": "out"
+}

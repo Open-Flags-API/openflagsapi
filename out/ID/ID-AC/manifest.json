@@ -1,0 +1,14 @@
+{
+  "code": "ID-AC",
+  "country": "ID",
+  "flag": {
+    "svg": "ID/ID-AC/flag.svg",
+    "png": "ID/ID-AC/flag.png",
+    "source_filename": "Flag of Aceh, Indonesia.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-AC/coat.svg",
+    "png": "ID/ID-AC/coat.png",
+    "source_filename": "Coat of arms of Aceh.svg"
+  }
+}

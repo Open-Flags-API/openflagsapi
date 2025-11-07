@@ -1,0 +1,16 @@
+{
+  "iso_code": "WS-AT",
+  "country_iso": "WS",
+  "country_name": "WS",
+  "region_name": "ws-at",
+  "region_normalized": "ws-at",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

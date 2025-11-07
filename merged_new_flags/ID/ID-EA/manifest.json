@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-EA",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "east-nusa-tenggara",
+  "region_normalized": "east-nusa-tenggara",
+  "flag": {
+    "svg": "ID/ID-EA/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "CR-L",
+  "country": "CR",
+  "flag": {
+    "svg": "CR/CR-L/flag.svg",
+    "png": "CR/CR-L/flag.png",
+    "source_filename": "Bandera de la Provincia de Limón.svg"
+  },
+  "coat": {
+    "svg": "CR/CR-L/coat.svg",
+    "png": "CR/CR-L/coat.png",
+    "source_filename": "Escudo de la Provincia de Limón.svg"
+  }
+}

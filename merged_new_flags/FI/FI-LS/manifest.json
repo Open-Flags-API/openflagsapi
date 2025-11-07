@@ -1,0 +1,16 @@
+{
+  "iso_code": "FI-LS",
+  "country_iso": "FI",
+  "country_name": "FI",
+  "region_name": "fi-ls",
+  "region_normalized": "fi-ls",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "FI/FI-LS/coat.svg",
+    "source": "Länsi-Suomen läänin vaakuna.svg"
+  },
+  "data_source": "out"
+}

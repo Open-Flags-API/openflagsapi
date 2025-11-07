@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-SAN",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-san",
+  "region_normalized": "co-san",
+  "flag": {
+    "svg": "CO/CO-SAN/flag.svg",
+    "source": "Flag of Santander Department.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-SAN/coat.svg",
+    "source": "Escudo de Santander (Colombia).svg"
+  },
+  "data_source": "out"
+}

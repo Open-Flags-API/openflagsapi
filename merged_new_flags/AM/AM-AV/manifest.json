@@ -1,0 +1,16 @@
+{
+  "iso_code": "AM-AV",
+  "country_iso": "AM",
+  "country_name": "AM",
+  "region_name": "am-av",
+  "region_normalized": "am-av",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

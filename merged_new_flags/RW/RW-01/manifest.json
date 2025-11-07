@@ -1,0 +1,16 @@
+{
+  "iso_code": "RW-01",
+  "country_iso": "RW",
+  "country_name": "RW",
+  "region_name": "rw-01",
+  "region_normalized": "rw-01",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

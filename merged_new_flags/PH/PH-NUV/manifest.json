@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-NUV",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-nuv",
+  "region_normalized": "ph-nuv",
+  "flag": {
+    "svg": null,
+    "source": "PH-NUV Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Ph seal nueva vizcaya.png"
+  },
+  "data_source": "out"
+}

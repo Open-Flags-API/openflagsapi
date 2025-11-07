@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-039",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-039",
+  "region_normalized": "lv-039",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Jaunpiebalgas novads.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Jaunpiebalgas novads COA.png"
+  },
+  "data_source": "out"
+}

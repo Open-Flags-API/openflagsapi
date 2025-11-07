@@ -1,0 +1,14 @@
+{
+  "code": "JP-03",
+  "country": "JP",
+  "flag": {
+    "svg": "JP/JP-03/flag.svg",
+    "png": "JP/JP-03/flag.png",
+    "source_filename": "Flag of Iwate Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-03/coat.svg",
+    "png": "JP/JP-03/coat.png",
+    "source_filename": "Emblem of Iwate Prefecture.svg"
+  }
+}

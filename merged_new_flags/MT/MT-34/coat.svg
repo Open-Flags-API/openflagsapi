@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.0" width="356" height="446">
+ <path d="M 353,223 L 353,3 L 3,3 L 3,223 C 0,333 103,403 178,443 C 293,403 353,333 353,223 z" style="fill:#080" />
+ <g style="stroke:black; stroke-width:3px">
+  <g style="fill:white">
+   <path d="M 153,3 L 53,3 L 343.3,293.2 C 348.6,272.6 354.2,261.4 353,203 L 153,3 z" />
+   <path d="M 255.5,406 L 3,153 L 3,53 L 308.5,358.5 C 292.3,381.6 261.3,402.4 255.5,406 z" />
+  </g>
+  <path d="M 353,223 L 353,3 L 3,3 L 3,223 C 0,333 103,403 178,443 C 293,403 353,333 353,223 z" style="fill:none" />
+ </g>
+</svg>

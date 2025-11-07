@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-PV",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-pv",
+  "region_normalized": "es-pv",
+  "flag": {
+    "svg": "ES/ES-PV/flag.svg",
+    "source": "Flag of the Basque Country.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-PV/coat.svg",
+    "source": "Escudo del Pais Vasco.svg"
+  },
+  "data_source": "out"
+}

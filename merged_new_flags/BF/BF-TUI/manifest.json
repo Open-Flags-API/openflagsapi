@@ -1,0 +1,16 @@
+{
+  "iso_code": "BF-TUI",
+  "country_iso": "BF",
+  "country_name": "BF",
+  "region_name": "bf-tui",
+  "region_normalized": "bf-tui",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

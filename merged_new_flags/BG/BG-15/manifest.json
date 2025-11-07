@@ -1,0 +1,16 @@
+{
+  "iso_code": "BG-15",
+  "country_iso": "BG",
+  "country_name": "BG",
+  "region_name": "bg-15",
+  "region_normalized": "bg-15",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Gerb pleven.jpg"
+  },
+  "data_source": "out"
+}

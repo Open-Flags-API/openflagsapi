@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-SV",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "sverdlovsk",
+  "region_normalized": "sverdlovsk",
+  "flag": {
+    "svg": "RU/RU-SV/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

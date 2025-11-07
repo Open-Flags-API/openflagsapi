@@ -1,0 +1,16 @@
+{
+  "iso_code": "PW-010",
+  "country_iso": "PW",
+  "country_name": "PW",
+  "region_name": "pw-010",
+  "region_normalized": "pw-010",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Angaur State.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

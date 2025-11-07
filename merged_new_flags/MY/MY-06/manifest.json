@@ -1,0 +1,16 @@
+{
+  "iso_code": "MY-06",
+  "country_iso": "MY",
+  "country_name": "MY",
+  "region_name": "my-06",
+  "region_normalized": "my-06",
+  "flag": {
+    "svg": "MY/MY-06/flag.svg",
+    "source": "Flag of Pahang.svg"
+  },
+  "coat": {
+    "svg": "MY/MY-06/coat.svg",
+    "source": "Coat of arms of Pahang.svg"
+  },
+  "data_source": "out"
+}

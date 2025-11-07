@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-SÃ",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "são-paulo",
+  "region_normalized": "são-paulo",
+  "flag": {
+    "svg": "BR/BR-SÃ/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "PG-EHG",
+  "country_iso": "PG",
+  "country_name": "PG",
+  "region_name": "pg-ehg",
+  "region_normalized": "pg-ehg",
+  "flag": {
+    "svg": "PG/PG-EHG/flag.svg",
+    "source": "Flag of Eastern Highlands.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

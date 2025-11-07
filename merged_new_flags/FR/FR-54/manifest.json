@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-54",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-54",
+  "region_normalized": "fr-54",
+  "flag": {
+    "svg": "FR/FR-54/flag.svg",
+    "source": "Drapeau fr département Meurthe-et-Moselle.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-54/coat.svg",
+    "source": "Blason département fr Meurthe-et-Moselle.svg"
+  },
+  "data_source": "out"
+}

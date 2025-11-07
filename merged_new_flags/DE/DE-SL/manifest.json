@@ -1,0 +1,16 @@
+{
+  "iso_code": "DE-SL",
+  "country_iso": "DE",
+  "country_name": "germany",
+  "region_name": "de-sl",
+  "region_normalized": "de-sl",
+  "flag": {
+    "svg": "DE/DE-SL/flag.svg",
+    "source": "Flag of Saarland.svg"
+  },
+  "coat": {
+    "svg": "DE/DE-SL/coat.svg",
+    "source": "Wappen des Saarlands.svg"
+  },
+  "data_source": "out"
+}

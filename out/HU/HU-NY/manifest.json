@@ -1,0 +1,14 @@
+{
+  "code": "HU-NY",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-NY/flag.svg",
+    "png": "HU/HU-NY/flag.png",
+    "source_filename": "Flag of Nyíregyháza.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-NY/coat.svg",
+    "png": "HU/HU-NY/coat.png",
+    "source_filename": "HUN Nyíregyháza Címer.svg"
+  }
+}

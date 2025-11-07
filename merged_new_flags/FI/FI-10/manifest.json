@@ -1,0 +1,16 @@
+{
+  "iso_code": "FI-10",
+  "country_iso": "FI",
+  "country_name": "FI",
+  "region_name": "fi-10",
+  "region_normalized": "fi-10",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "FI/FI-10/coat.svg",
+    "source": "Lapin maakunnan vaakuna.svg"
+  },
+  "data_source": "out"
+}

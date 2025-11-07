@@ -1,0 +1,14 @@
+{
+  "code": "IN-AS",
+  "country": "IN",
+  "flag": {
+    "svg": null,
+    "png": null,
+    "source_filename": null
+  },
+  "coat": {
+    "svg": "IN/IN-AS/coat.svg",
+    "png": "IN/IN-AS/coat.png",
+    "source_filename": "Seal of Assam.svg"
+  }
+}

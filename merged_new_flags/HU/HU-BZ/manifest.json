@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-BZ",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-bz",
+  "region_normalized": "hu-bz",
+  "flag": {
+    "svg": "HU/HU-BZ/flag.svg",
+    "source": "FLAG-Borsod-Abaúj-Zemplén-megye.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-BZ/coat.svg",
+    "source": "Borsod-Abaúj-Zemplén departemento blazono.svg"
+  },
+  "data_source": "out"
+}

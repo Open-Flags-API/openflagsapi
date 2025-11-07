@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="900"
+   height="600"
+   viewBox="0 0 324 216"
+   version="1.0"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="Flag_of_Taza_province.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata27">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs25" />
+  <sodipodi:namedview
+     inkscape:window-height="480"
+     inkscape:window-width="640"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false" />
+  <g
+     id="g2402"
+     transform="matrix(0.9997107,0,0,0.9995662,4.6858052e-2,4.6842748e-2)">
+    <path
+       id="path4"
+       d="M 0,0 L 324,0 L 324,54 C 283.3,54 242.7,54 202,54 C 200,54 198.1,53.9 196.2,53.6 C 192.2,51.1 187.4,52.1 183,52 C 166.3,52 149.6,52 132.9,51.9 C 130.7,51.7 128.7,52.5 126.9,53.7 C 123.3,54.2 119.6,54 116,54 C 77.3,54 38.7,54 0,54 L 0,0 z"
+       style="fill:#009900;stroke:#009900;stroke-width:0.09375" />
+    <path
+       id="path6"
+       d="M 126.9,53.7 C 128.7,52.5 130.7,51.7 132.9,51.9 C 149.6,52 166.3,52 183,52 C 187.4,52.1 192.2,51.1 196.2,53.6 C 196.7,59 198.2,64.3 199.3,69.6 C 202.1,82.4 205.1,95.2 207.8,108.1 C 209.2,116.4 211.6,124.6 213.1,132.9 C 211.5,134.1 209.9,135.2 208.2,136.2 C 192.8,144.7 177.3,153.2 162,162 L 161.2,162 C 153.9,156.9 145.8,153.3 138.2,148.8 C 128.8,143.4 118.9,138.7 109.7,132.8 C 110.5,124.4 113.5,116.3 114.9,107.9 C 118.5,91.4 122.6,75 126.3,58.5 C 126.6,56.9 126.8,55.3 126.9,53.7 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.09375;stroke-opacity:1" />
+    <path
+       id="path8"
+       d="M 0,54 C 38.7,54 77.3,54 116,54 C 119.6,54 123.3,54.2 126.9,53.7 C 126.8,55.3 126.6,56.9 126.3,58.5 C 122.6,75 118.5,91.4 114.9,107.9 C 76.6,108.1 38.3,107.9 0,108 L 0,54 z"
+       style="fill:#ffff00;stroke:#ffff00;stroke-width:0.09375" />
+    <path
+       id="path10"
+       d="M 129.3,54.2 C 142.5,53.5 155.8,54.1 169,53.9 C 177.3,54 185.6,53.7 193.9,54.1 C 194.4,55.6 194.8,57.2 195.2,58.7 C 200.3,82 205.5,105.2 210.7,128.4 C 211,129.6 211.1,130.7 211.2,131.9 C 210.4,133.5 208.5,134.2 207.1,135.1 C 192,143.3 177.1,151.9 162,160 C 150.6,154.3 139.6,147.8 128.3,141.7 C 122.6,138.4 116.4,135.7 111,131.9 C 116.5,107.5 122.4,83.3 127.9,58.9 C 128.3,57.3 128.8,55.7 129.3,54.2 z"
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.0936;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path12"
+       d="M 196.2,53.6 C 198.1,53.9 200,54 202,54 C 242.7,54 283.3,54 324,54 L 324,108 C 285.3,108 246.6,107.9 207.8,108.1 C 205.1,95.2 202.1,82.4 199.3,69.6 C 198.2,64.3 196.7,59 196.2,53.6 z"
+       style="fill:#ffff00;stroke:#ffff00;stroke-width:0.09375" />
+    <path
+       id="path14"
+       d="M 142.6,66.6 C 146.9,61.6 153.6,59.6 160,59.6 C 171,58.9 182.6,64.2 187.8,74.3 C 190.5,80.1 192.1,86.6 192.2,93 C 192.3,99.2 188.9,104.5 185.4,109.3 C 186.8,111.3 188.5,113.1 189.6,115.3 C 189.6,123 189.8,130.7 189.4,138.4 C 170.3,138.8 151.2,138.5 132.1,138.6 C 131.8,130.1 132,121.5 132,113 C 134.3,111.8 136.6,110.7 138.9,109.7 C 136,105.8 132.8,102 131.9,97 C 128.8,85.8 134.4,74.2 142.6,66.6 z"
+       style="fill:#ffff00;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path16"
+       d="M 151.9,71 C 160.4,68.2 171,68.9 177.6,75.4 C 182.6,79.9 184.1,86.7 185,93 C 185.5,99.4 181.9,105 179.6,110.8 C 180.9,112.7 183.1,114.4 183,116.9 C 183.1,122.3 183,127.6 183,133 C 168.4,133 153.9,133.2 139.4,132.9 C 139.5,127 139.3,121.1 139.5,115.2 C 139.6,112.7 142.9,112.3 144.5,110.9 C 143,105.1 138.8,100.2 139,94.1 C 138.1,84.7 144.1,75.7 151.9,71 z"
+       style="fill:#009900;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path18"
+       d="M 0,108 C 38.3,107.9 76.6,108.1 114.9,107.9 C 113.5,116.3 110.5,124.4 109.7,132.8 C 118.9,138.7 128.8,143.4 138.2,148.8 C 145.8,153.3 153.9,156.9 161.2,162 C 107.5,162 53.7,162 0,162 L 0,108 z"
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.09375" />
+    <path
+       id="path20"
+       d="M 207.8,108.1 C 246.6,107.9 285.3,108 324,108 L 324,162 C 270,162 216,162 162,162 C 177.3,153.2 192.8,144.7 208.2,136.2 C 209.9,135.2 211.5,134.1 213.1,132.9 C 211.6,124.6 209.2,116.4 207.8,108.1 z"
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.09375" />
+    <path
+       id="path22"
+       d="M 0,162 C 53.7,162 107.5,162 161.2,162 L 162,162 C 216,162 270,162 324,162 L 324,216 L 0,216 L 0,162 z"
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.09375" />
+  </g>
+</svg>

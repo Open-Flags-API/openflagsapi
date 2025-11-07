@@ -1,0 +1,16 @@
+{
+  "iso_code": "LK-1",
+  "country_iso": "LK",
+  "country_name": "LK",
+  "region_name": "lk-1",
+  "region_normalized": "lk-1",
+  "flag": {
+    "svg": null,
+    "source": "Western Province Flag (SRI LANKA).png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-57",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-57",
+  "region_normalized": "th-57",
+  "flag": {
+    "svg": "TH/TH-57/flag.svg",
+    "source": "Flag of Chiang Rai.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

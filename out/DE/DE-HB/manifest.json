@@ -1,0 +1,14 @@
+{
+  "code": "DE-HB",
+  "country": "DE",
+  "flag": {
+    "svg": "DE/DE-HB/flag.svg",
+    "png": "DE/DE-HB/flag.png",
+    "source_filename": "Flag of Bremen.svg"
+  },
+  "coat": {
+    "svg": "DE/DE-HB/coat.svg",
+    "png": "DE/DE-HB/coat.png",
+    "source_filename": "Bremen greater coat of arms.svg"
+  }
+}

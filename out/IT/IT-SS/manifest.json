@@ -1,0 +1,14 @@
+{
+  "code": "IT-SS",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-SS/flag.svg",
+    "png": "IT/IT-SS/flag.png",
+    "source_filename": "Flag of the province of Sassari.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-SS/coat.svg",
+    "png": "IT/IT-SS/coat.png",
+    "source_filename": "Provincia di Sassari-Stemma 2.svg"
+  }
+}

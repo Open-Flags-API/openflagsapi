@@ -1,0 +1,16 @@
+{
+  "iso_code": "GL-QE",
+  "country_iso": "GL",
+  "country_name": "GL",
+  "region_name": "gl-qe",
+  "region_normalized": "gl-qe",
+  "flag": {
+    "svg": "GL/GL-QE/flag.svg",
+    "source": "Flag of Qeqqata.svg"
+  },
+  "coat": {
+    "svg": "GL/GL-QE/coat.svg",
+    "source": "Qeqqata-coat-of-arms.svg"
+  },
+  "data_source": "out"
+}

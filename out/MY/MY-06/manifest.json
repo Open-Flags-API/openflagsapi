@@ -1,0 +1,14 @@
+{
+  "code": "MY-06",
+  "country": "MY",
+  "flag": {
+    "svg": "MY/MY-06/flag.svg",
+    "png": "MY/MY-06/flag.png",
+    "source_filename": "Flag of Pahang.svg"
+  },
+  "coat": {
+    "svg": "MY/MY-06/coat.svg",
+    "png": "MY/MY-06/coat.png",
+    "source_filename": "Coat of arms of Pahang.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "ET-SO",
+  "country_iso": "ET",
+  "country_name": "ET",
+  "region_name": "et-so",
+  "region_normalized": "et-so",
+  "flag": {
+    "svg": "ET/ET-SO/flag.svg",
+    "source": "Flag of the Somali Region (1994-2008, 2018-).svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Somali Region emblem.png"
+  },
+  "data_source": "out"
+}

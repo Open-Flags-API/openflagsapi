@@ -1,0 +1,16 @@
+{
+  "iso_code": "TW-TPE",
+  "country_iso": "TW",
+  "country_name": "TW",
+  "region_name": "tw-tpe",
+  "region_normalized": "tw-tpe",
+  "flag": {
+    "svg": "TW/TW-TPE/flag.svg",
+    "source": "Flag of Taipei City.svg"
+  },
+  "coat": {
+    "svg": "TW/TW-TPE/coat.svg",
+    "source": "Emblem of Taipei City.svg"
+  },
+  "data_source": "out"
+}

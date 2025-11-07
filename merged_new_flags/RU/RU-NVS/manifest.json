@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-NVS",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-nvs",
+  "region_normalized": "ru-nvs",
+  "flag": {
+    "svg": "RU/RU-NVS/flag.svg",
+    "source": "Flag of Novosibirsk Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-NVS/coat.svg",
+    "source": "Coat of arms of Novosibirsk oblast.svg"
+  },
+  "data_source": "out"
+}

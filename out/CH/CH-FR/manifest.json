@@ -1,0 +1,14 @@
+{
+  "code": "CH-FR",
+  "country": "CH",
+  "flag": {
+    "svg": "CH/CH-FR/flag.svg",
+    "png": "CH/CH-FR/flag.png",
+    "source_filename": "Flag of Canton of Fribourg.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-FR/coat.svg",
+    "png": "CH/CH-FR/coat.png",
+    "source_filename": "Wappen Freiburg matt.svg"
+  }
+}

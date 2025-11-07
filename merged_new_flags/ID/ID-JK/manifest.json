@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-JK",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "id-jk",
+  "region_normalized": "id-jk",
+  "flag": {
+    "svg": "ID/ID-JK/flag.svg",
+    "source": "Flag of Jakarta (vectorised).svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Jakarta.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-92",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-92",
+  "region_normalized": "fr-92",
+  "flag": {
+    "svg": "FR/FR-92/flag.svg",
+    "source": "Drapeau fr département Hauts-de-Seine.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-92/coat.svg",
+    "source": "Blason département fr Hauts-de-Seine.svg"
+  },
+  "data_source": "out"
+}

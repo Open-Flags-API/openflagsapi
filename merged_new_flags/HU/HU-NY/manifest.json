@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-NY",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-ny",
+  "region_normalized": "hu-ny",
+  "flag": {
+    "svg": "HU/HU-NY/flag.svg",
+    "source": "Flag of Nyíregyháza.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-NY/coat.svg",
+    "source": "HUN Nyíregyháza Címer.svg"
+  },
+  "data_source": "out"
+}

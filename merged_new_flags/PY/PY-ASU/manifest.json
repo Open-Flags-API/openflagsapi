@@ -1,0 +1,16 @@
+{
+  "iso_code": "PY-ASU",
+  "country_iso": "PY",
+  "country_name": "PY",
+  "region_name": "py-asu",
+  "region_normalized": "py-asu",
+  "flag": {
+    "svg": "PY/PY-ASU/flag.svg",
+    "source": "Flag of Asunción.svg"
+  },
+  "coat": {
+    "svg": "PY/PY-ASU/coat.svg",
+    "source": "Escudo de Asunción (Paraguay).svg"
+  },
+  "data_source": "out"
+}

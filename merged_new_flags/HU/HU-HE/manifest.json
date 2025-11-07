@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-HE",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-he",
+  "region_normalized": "hu-he",
+  "flag": {
+    "svg": "HU/HU-HE/flag.svg",
+    "source": "FLAG-Heves-megye.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-HE/coat.svg",
+    "source": "Coa Hungary County Heves.svg"
+  },
+  "data_source": "out"
+}

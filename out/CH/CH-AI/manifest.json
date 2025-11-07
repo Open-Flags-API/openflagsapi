@@ -1,0 +1,14 @@
+{
+  "code": "CH-AI",
+  "country": "CH",
+  "flag": {
+    "svg": "CH/CH-AI/flag.svg",
+    "png": "CH/CH-AI/flag.png",
+    "source_filename": "Flag of Canton of Appenzell Innerrhoden.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-AI/coat.svg",
+    "png": "CH/CH-AI/coat.png",
+    "source_filename": "Wappen Appenzell Innerrhoden matt.svg"
+  }
+}

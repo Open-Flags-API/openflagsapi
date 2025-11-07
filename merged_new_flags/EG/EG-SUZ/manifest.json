@@ -1,0 +1,16 @@
+{
+  "iso_code": "EG-SUZ",
+  "country_iso": "EG",
+  "country_name": "EG",
+  "region_name": "eg-suz",
+  "region_normalized": "eg-suz",
+  "flag": {
+    "svg": "EG/EG-SUZ/flag.svg",
+    "source": "Flag of Suez Governorate.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Suze Governorate.JPG"
+  },
+  "data_source": "out"
+}

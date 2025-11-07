@@ -1,0 +1,16 @@
+{
+  "iso_code": "VU-TAE",
+  "country_iso": "VU",
+  "country_name": "VU",
+  "region_name": "vu-tae",
+  "region_normalized": "vu-tae",
+  "flag": {
+    "svg": "VU/VU-TAE/flag.svg",
+    "source": "Tafea Province Flag.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

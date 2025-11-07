@@ -1,0 +1,14 @@
+{
+  "code": "LV-075",
+  "country": "LV",
+  "flag": {
+    "svg": null,
+    "png": "LV/LV-075/flag.png",
+    "source_filename": "Priekuļu novada karogs.png"
+  },
+  "coat": {
+    "svg": "LV/LV-075/coat.svg",
+    "png": "LV/LV-075/coat.png",
+    "source_filename": "Priekuļu novads COA.svg"
+  }
+}

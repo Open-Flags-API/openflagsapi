@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-QUI",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-qui",
+  "region_normalized": "ph-qui",
+  "flag": {
+    "svg": null,
+    "source": "Quirino flag.png"
+  },
+  "coat": {
+    "svg": "PH/PH-QUI/coat.svg",
+    "source": "Official Seal of Quirino.svg"
+  },
+  "data_source": "out"
+}

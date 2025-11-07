@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-NO",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "northern-mariana-islands",
+  "region_normalized": "northern-mariana-islands",
+  "flag": {
+    "svg": "US/US-NO/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

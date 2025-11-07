@@ -1,0 +1,14 @@
+{
+  "code": "DE-BB",
+  "country": "DE",
+  "flag": {
+    "svg": "DE/DE-BB/flag.svg",
+    "png": "DE/DE-BB/flag.png",
+    "source_filename": "Flag of Brandenburg.svg"
+  },
+  "coat": {
+    "svg": "DE/DE-BB/coat.svg",
+    "png": "DE/DE-BB/coat.png",
+    "source_filename": "DEU Brandenburg COA.svg"
+  }
+}

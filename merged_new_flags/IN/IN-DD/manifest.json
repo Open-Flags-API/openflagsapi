@@ -1,0 +1,16 @@
+{
+  "iso_code": "IN-DD",
+  "country_iso": "IN",
+  "country_name": "IN",
+  "region_name": "in-dd",
+  "region_normalized": "in-dd",
+  "flag": {
+    "svg": "IN/IN-DD/flag.svg",
+    "source": "Flag of Daman and Diu.svg"
+  },
+  "coat": {
+    "svg": "IN/IN-DD/coat.svg",
+    "source": "Flag of Daman and Diu.svg"
+  },
+  "data_source": "out"
+}

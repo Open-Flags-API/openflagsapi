@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-OA",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "oaxaca",
+  "region_normalized": "oaxaca",
+  "flag": {
+    "svg": "MX/MX-OA/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

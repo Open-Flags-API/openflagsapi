@@ -1,0 +1,16 @@
+{
+  "iso_code": "ET-AM",
+  "country_iso": "ET",
+  "country_name": "ET",
+  "region_name": "et-am",
+  "region_normalized": "et-am",
+  "flag": {
+    "svg": "ET/ET-AM/flag.svg",
+    "source": "Flag of the Amhara Region.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

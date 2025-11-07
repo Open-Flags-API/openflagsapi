@@ -1,0 +1,16 @@
+{
+  "iso_code": "NG-AB",
+  "country_iso": "NG",
+  "country_name": "NG",
+  "region_name": "ng-ab",
+  "region_normalized": "ng-ab",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Abia State coat of arms.jpg"
+  },
+  "data_source": "out"
+}

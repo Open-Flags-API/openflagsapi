@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-41",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-41",
+  "region_normalized": "fr-41",
+  "flag": {
+    "svg": "FR/FR-41/flag.svg",
+    "source": "Drapeau fr département Loir-et-Cher.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-41/coat.svg",
+    "source": "Blason département fr Loir-et-Cher.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "IT-MO",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-MO/flag.svg",
+    "png": "IT/IT-MO/flag.png",
+    "source_filename": "Flag of the province of Modena.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-MO/coat.svg",
+    "png": "IT/IT-MO/coat.png",
+    "source_filename": "Provincia di Modena-Stemma.svg"
+  }
+}

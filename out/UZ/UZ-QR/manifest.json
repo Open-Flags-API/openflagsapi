@@ -1,0 +1,14 @@
+{
+  "code": "UZ-QR",
+  "country": "UZ",
+  "flag": {
+    "svg": "UZ/UZ-QR/flag.svg",
+    "png": "UZ/UZ-QR/flag.png",
+    "source_filename": "Flag of Karakalpakstan.svg"
+  },
+  "coat": {
+    "svg": "UZ/UZ-QR/coat.svg",
+    "png": "UZ/UZ-QR/coat.png",
+    "source_filename": "Emblem of Karakalpakstan.svg"
+  }
+}

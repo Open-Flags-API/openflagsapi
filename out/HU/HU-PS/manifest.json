@@ -1,0 +1,14 @@
+{
+  "code": "HU-PS",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-PS/flag.svg",
+    "png": "HU/HU-PS/flag.png",
+    "source_filename": "HUN Pécs flag.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-PS/coat.svg",
+    "png": "HU/HU-PS/coat.png",
+    "source_filename": "COA Hungary Town Pécs.svg"
+  }
+}

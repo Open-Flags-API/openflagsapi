@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="900"
+   height="600"
+   viewBox="0 0 324 216"
+   version="1.0"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="Flag_of_El_Jadida_province.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata29">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs27">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 135 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="405 : 135 : 1"
+       inkscape:persp3d-origin="202.5 : 90 : 1"
+       id="perspective31" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="480"
+     inkscape:window-width="640"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false" />
+  <g
+     id="g2404"
+     transform="matrix(0.9997108,0,0,0.9995662,4.6858055e-2,4.6842745e-2)">
+    <path
+       id="path4"
+       d="M 0,0 L 324,0 L 324,72 C 282.7,72 241.3,72 200,72 C 198.6,66 197.2,60 195.9,54.1 C 173.6,53.9 151.4,53.9 129.1,54.1 C 127.7,60 126.3,66 125,72 C 83.3,72 41.7,72 0,72 L 0,0 z"
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.09375" />
+    <path
+       id="path6"
+       d="M 129.1,54.1 C 151.4,53.9 173.6,53.9 195.9,54.1 C 197.2,60 198.6,66 200,72 C 204.7,92.6 209.4,113.2 214,133.8 C 207.9,137.1 201.9,140.5 195.9,144 C 184.9,149.9 174.6,157.1 162.8,161.5 C 150.7,157.6 140.3,149.9 129.1,144 C 123.1,140.5 117.1,137.1 110.9,133.8 C 115.6,113.2 120.3,92.6 125,72 C 126.3,66 127.7,60 129.1,54.1 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.09375" />
+    <path
+       id="path8"
+       d="M 130.2,55.1 C 151.7,54.9 173.3,55 194.9,55.1 C 201,81 206.5,107 212.7,132.9 C 195.8,142 179.6,152.3 162.3,160.8 C 145.2,152.2 129.1,142 112.3,132.9 C 118.4,107 124,81 130.2,55.1 z"
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.09375" />
+    <path
+       id="path10"
+       d="M 0,72 C 41.7,72 83.3,72 125,72 C 120.3,92.6 115.6,113.2 110.9,133.8 C 117.1,137.1 123.1,140.5 129.1,144 C 86.1,143.9 43,144.1 0,144 L 0,72 z"
+       style="fill:#ffff00;stroke:#ffff00;stroke-width:0.09375" />
+    <path
+       id="path12"
+       d="M 200,72 C 241.3,72 282.7,72 324,72 L 324,144 C 281.3,144.1 238.6,143.9 195.9,144 C 201.9,140.5 207.9,137.1 214,133.8 C 209.4,113.2 204.7,92.6 200,72 z"
+       style="fill:#ffff00;stroke:#ffff00;stroke-width:0.09375" />
+    <path
+       id="path14"
+       d="M 128.9,82.8 C 131,79.7 133,75 138,76.9 C 142.7,75.5 146.7,78.1 150.1,80.9 C 160.4,89.5 174.9,88.9 186,96.1 C 191.2,99 195.8,103 200.8,106.3 C 200.9,106.9 201,108.3 201,109 C 194.3,113.3 186.6,114 178.9,112.4 C 182.1,115.1 185.4,117.7 188.4,120.7 C 184.7,122.6 181,124.5 177.1,126.3 C 173,122.6 168.8,119.1 164.5,115.7 C 163.2,118.4 162,121.2 160.7,124 C 158.9,123.7 157.1,123.5 155.3,123.3 C 154.8,125.1 154.3,126.9 153.7,128.8 C 151.3,129.1 148.9,129.7 146.6,130.3 C 149.4,128.1 152.2,126 154.7,123.5 C 152.8,122.6 150.9,121.6 149,120.6 C 148.3,122.7 147.7,124.7 147.1,126.8 C 144.5,127 142,127.6 139.5,128.2 C 141.9,126.4 144.5,124.7 147,123 C 146,117.4 148,112.2 150.5,107.3 C 146.7,104.4 142,101.8 140.6,96.8 C 138.5,91 136.1,83.4 128.9,82.8 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.09375" />
+    <path
+       id="path16"
+       d="M 131.2,80.7 C 133,79.5 134.8,78.5 136.6,77.4 C 136.4,78.4 136.1,79.3 135.8,80.3 C 138.4,79.5 141.1,78.6 143.8,78.3 C 148.6,81 152.6,85.2 157.9,87.1 C 165.1,89.7 172.7,91.4 179.8,94.3 C 187.3,97.7 193.5,103 200.1,107.6 C 194.6,110.1 188.8,114.8 182.4,111.7 C 168.7,107.8 155.8,101.1 145.6,91.2 C 150.2,97.1 155.6,102.5 162.7,105.2 C 171.6,108.5 179.4,114.2 186.4,120.4 C 183.4,121.8 180.4,123.3 177.4,124.7 C 167.5,114.5 153.8,109.4 143.5,99.5 C 140,92.9 138.2,84.8 131.2,80.7 z"
+       style="fill:#ffff00;stroke:#ffff00;stroke-width:0.09375" />
+    <path
+       id="path18"
+       d="M 152.4,92.4 C 157.7,94.4 162.6,97.1 167.2,100.2 C 161.7,98.9 157,95.6 152.4,92.4 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.09375" />
+    <path
+       id="path20"
+       d="M 152.1,107.9 C 153.8,109.3 155.6,110.7 157.3,112.1 C 155.9,115 154.5,118 153,121 C 151.5,120.3 148.5,118.7 147,118 C 148.7,114.6 150.3,111.3 152.1,107.9 z"
+       style="fill:#ffff00;stroke:#ffff00;stroke-width:0.09375" />
+    <path
+       id="path22"
+       d="M 158.4,112.2 C 159.9,113.2 161.5,114.3 163.1,115.3 C 162,117.8 160.9,120.3 159.8,122.8 C 157.9,122.5 156,122.2 154.2,121.8 C 155.6,118.6 157,115.4 158.4,112.2 z"
+       style="fill:#ffff00;stroke:#ffff00;stroke-width:0.09375" />
+    <path
+       id="path24"
+       d="M 0,144 C 43,144.1 86.1,143.9 129.1,144 C 140.3,149.9 150.7,157.6 162.8,161.5 C 174.6,157.1 184.9,149.9 195.9,144 C 238.6,143.9 281.3,144.1 324,144 L 324,216 L 0,216 L 0,144 z"
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.09375" />
+  </g>
+</svg>

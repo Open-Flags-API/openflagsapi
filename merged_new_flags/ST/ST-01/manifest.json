@@ -1,0 +1,16 @@
+{
+  "iso_code": "ST-01",
+  "country_iso": "ST",
+  "country_name": "ST",
+  "region_name": "st-01",
+  "region_normalized": "st-01",
+  "flag": {
+    "svg": null,
+    "source": "Agua Grande Bandeira.gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

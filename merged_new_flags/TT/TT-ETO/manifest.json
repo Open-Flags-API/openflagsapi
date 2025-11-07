@@ -1,0 +1,16 @@
+{
+  "iso_code": "TT-ETO",
+  "country_iso": "TT",
+  "country_name": "TT",
+  "region_name": "tt-eto",
+  "region_normalized": "tt-eto",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "FI-02",
+  "country_iso": "FI",
+  "country_name": "FI",
+  "region_name": "fi-02",
+  "region_normalized": "fi-02",
+  "flag": {
+    "svg": "FI/FI-02/flag.svg",
+    "source": "Etelä-Karjala maakuntaviiri.svg"
+  },
+  "coat": {
+    "svg": "FI/FI-02/coat.svg",
+    "source": "Etelä-Karjala.vaakuna.svg"
+  },
+  "data_source": "out"
+}

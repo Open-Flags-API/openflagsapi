@@ -1,0 +1,14 @@
+{
+  "code": "LV-065",
+  "country": "LV",
+  "flag": {
+    "svg": null,
+    "png": "LV/LV-065/flag.png",
+    "source_filename": "Neretas novada karogs.png"
+  },
+  "coat": {
+    "svg": "LV/LV-065/coat.svg",
+    "png": "LV/LV-065/coat.png",
+    "source_filename": "Neretas novads COA.svg"
+  }
+}

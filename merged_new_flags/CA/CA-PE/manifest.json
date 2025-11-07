@@ -1,0 +1,16 @@
+{
+  "iso_code": "CA-PE",
+  "country_iso": "CA",
+  "country_name": "canada",
+  "region_name": "ca-pe",
+  "region_normalized": "ca-pe",
+  "flag": {
+    "svg": "CA/CA-PE/flag.svg",
+    "source": "Flag of Prince Edward Island.svg"
+  },
+  "coat": {
+    "svg": "CA/CA-PE/coat.svg",
+    "source": "Coat of arms of Prince Edward Island, Canada.svg"
+  },
+  "data_source": "out"
+}

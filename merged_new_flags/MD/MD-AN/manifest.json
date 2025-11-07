@@ -1,0 +1,16 @@
+{
+  "iso_code": "MD-AN",
+  "country_iso": "MD",
+  "country_name": "MD",
+  "region_name": "md-an",
+  "region_normalized": "md-an",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Anenii Noi District.gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": "CoA of Anenii Noi District.jpg"
+  },
+  "data_source": "out"
+}

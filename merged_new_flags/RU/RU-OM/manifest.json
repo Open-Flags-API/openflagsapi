@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-OM",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "omsk",
+  "region_normalized": "omsk",
+  "flag": {
+    "svg": "RU/RU-OM/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

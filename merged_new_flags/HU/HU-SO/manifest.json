@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-SO",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-so",
+  "region_normalized": "hu-so",
+  "flag": {
+    "svg": "HU/HU-SO/flag.svg",
+    "source": "FLAG-Somogy-megye.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-SO/coat.svg",
+    "source": "HUN Somogy megye COA.svg"
+  },
+  "data_source": "out"
+}

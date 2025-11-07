@@ -1,0 +1,16 @@
+{
+  "iso_code": "LY-ZA",
+  "country_iso": "LY",
+  "country_name": "LY",
+  "region_name": "ly-za",
+  "region_normalized": "ly-za",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "RO-DB",
+  "country_iso": "RO",
+  "country_name": "RO",
+  "region_name": "ro-db",
+  "region_normalized": "ro-db",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "RO/RO-DB/coat.svg",
+    "source": "Stema Dambovita.svg"
+  },
+  "data_source": "out"
+}

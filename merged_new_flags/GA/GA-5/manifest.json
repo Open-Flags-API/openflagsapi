@@ -1,0 +1,16 @@
+{
+  "iso_code": "GA-5",
+  "country_iso": "GA",
+  "country_name": "GA",
+  "region_name": "ga-5",
+  "region_normalized": "ga-5",
+  "flag": {
+    "svg": "GA/GA-5/flag.svg",
+    "source": "Flag of Nyanga Province, Gabon.svg"
+  },
+  "coat": {
+    "svg": "GA/GA-5/coat.svg",
+    "source": "Coat of arms of Nyanga, Gabon.svg"
+  },
+  "data_source": "out"
+}

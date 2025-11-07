@@ -1,0 +1,16 @@
+{
+  "iso_code": "ME-24",
+  "country_iso": "ME",
+  "country_name": "ME",
+  "region_name": "me-24",
+  "region_normalized": "me-24",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "ME/ME-24/coat.svg",
+    "source": "Coat of arms of Tuzi.svg"
+  },
+  "data_source": "out"
+}

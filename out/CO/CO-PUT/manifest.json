@@ -1,0 +1,14 @@
+{
+  "code": "CO-PUT",
+  "country": "CO",
+  "flag": {
+    "svg": "CO/CO-PUT/flag.svg",
+    "png": "CO/CO-PUT/flag.png",
+    "source_filename": "Flag of Putumayo.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-PUT/coat.svg",
+    "png": "CO/CO-PUT/coat.png",
+    "source_filename": "Coat of arms of Putumayo (Colombia).svg"
+  }
+}

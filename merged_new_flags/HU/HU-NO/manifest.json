@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-NO",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-no",
+  "region_normalized": "hu-no",
+  "flag": {
+    "svg": "HU/HU-NO/flag.svg",
+    "source": "FLAG-Nograd.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-NO/coat.svg",
+    "source": "Coa Hungary County Nógrád.svg"
+  },
+  "data_source": "out"
+}

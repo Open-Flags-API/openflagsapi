@@ -1,0 +1,16 @@
+{
+  "iso_code": "IQ-MA",
+  "country_iso": "IQ",
+  "country_name": "IQ",
+  "region_name": "iq-ma",
+  "region_normalized": "iq-ma",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

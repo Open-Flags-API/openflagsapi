@@ -1,0 +1,16 @@
+{
+  "iso_code": "CV-MO",
+  "country_iso": "CV",
+  "country_name": "CV",
+  "region_name": "cv-mo",
+  "region_normalized": "cv-mo",
+  "flag": {
+    "svg": "CV/CV-MO/flag.svg",
+    "source": "Flag of Mosteiros, Cabo Verde.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Brasão de Mosteiros.png"
+  },
+  "data_source": "out"
+}

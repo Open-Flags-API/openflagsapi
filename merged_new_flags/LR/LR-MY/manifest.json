@@ -1,0 +1,16 @@
+{
+  "iso_code": "LR-MY",
+  "country_iso": "LR",
+  "country_name": "LR",
+  "region_name": "lr-my",
+  "region_normalized": "lr-my",
+  "flag": {
+    "svg": "LR/LR-MY/flag.svg",
+    "source": "Flag of Maryland County.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "RO-BN",
+  "country_iso": "RO",
+  "country_name": "RO",
+  "region_name": "ro-bn",
+  "region_normalized": "ro-bn",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "RO/RO-BN/coat.svg",
+    "source": "Stema Bistrita-Nasaud.svg"
+  },
+  "data_source": "out"
+}

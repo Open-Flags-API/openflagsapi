@@ -1,0 +1,14 @@
+{
+  "code": "AR-S",
+  "country": "AR",
+  "flag": {
+    "svg": "AR/AR-S/flag.svg",
+    "png": "AR/AR-S/flag.png",
+    "source_filename": "Bandera de la Provincia de Santa Fe.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-S/coat.svg",
+    "png": "AR/AR-S/coat.png",
+    "source_filename": "Escudo de la Provincia de Santa Fe.svg"
+  }
+}

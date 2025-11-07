@@ -1,0 +1,16 @@
+{
+  "iso_code": "SE-I",
+  "country_iso": "SE",
+  "country_name": "SE",
+  "region_name": "se-i",
+  "region_normalized": "se-i",
+  "flag": {
+    "svg": "SE/SE-I/flag.svg",
+    "source": "Gotlands län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-I/coat.svg",
+    "source": "Gotland vapen.svg"
+  },
+  "data_source": "out"
+}

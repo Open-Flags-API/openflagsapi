@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-LEW",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-lew",
+  "region_normalized": "gb-lew",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-LEW/coat.svg",
+    "source": "Coat of arms of the London Borough of Lewisham.svg"
+  },
+  "data_source": "out"
+}

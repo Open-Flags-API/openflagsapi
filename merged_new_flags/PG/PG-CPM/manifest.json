@@ -1,0 +1,16 @@
+{
+  "iso_code": "PG-CPM",
+  "country_iso": "PG",
+  "country_name": "PG",
+  "region_name": "pg-cpm",
+  "region_normalized": "pg-cpm",
+  "flag": {
+    "svg": "PG/PG-CPM/flag.svg",
+    "source": "Flag of Central Province, Papua New Guinea.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

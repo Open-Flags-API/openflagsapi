@@ -1,0 +1,16 @@
+{
+  "iso_code": "BE-VLG",
+  "country_iso": "BE",
+  "country_name": "BE",
+  "region_name": "be-vlg",
+  "region_normalized": "be-vlg",
+  "flag": {
+    "svg": "BE/BE-VLG/flag.svg",
+    "source": "Flag of Flanders.svg"
+  },
+  "coat": {
+    "svg": "BE/BE-VLG/coat.svg",
+    "source": "Vlaanderen wapen.svg"
+  },
+  "data_source": "out"
+}

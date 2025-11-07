@@ -1,0 +1,14 @@
+{
+  "code": "IT-CB",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-CB/flag.svg",
+    "png": "IT/IT-CB/flag.png",
+    "source_filename": "Flag of the province of Campobasso.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-CB/coat.svg",
+    "png": "IT/IT-CB/coat.png",
+    "source_filename": "Provincia di Campobasso-Stemma.svg"
+  }
+}

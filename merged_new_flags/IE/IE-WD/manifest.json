@@ -1,0 +1,16 @@
+{
+  "iso_code": "IE-WD",
+  "country_iso": "IE",
+  "country_name": "IE",
+  "region_name": "ie-wd",
+  "region_normalized": "ie-wd",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "County Waterford Coat of Arms.png"
+  },
+  "data_source": "out"
+}

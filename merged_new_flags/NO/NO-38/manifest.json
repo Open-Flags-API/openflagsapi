@@ -1,0 +1,16 @@
+{
+  "iso_code": "NO-38",
+  "country_iso": "NO",
+  "country_name": "NO",
+  "region_name": "no-38",
+  "region_normalized": "no-38",
+  "flag": {
+    "svg": "NO/NO-38/flag.svg",
+    "source": "Flag of Vestfold and Telemark.svg"
+  },
+  "coat": {
+    "svg": "NO/NO-38/coat.svg",
+    "source": "Vestfold og Telemark våpen.svg"
+  },
+  "data_source": "out"
+}

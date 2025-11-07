@@ -1,0 +1,16 @@
+{
+  "iso_code": "CZ-42",
+  "country_iso": "CZ",
+  "country_name": "CZ",
+  "region_name": "cz-42",
+  "region_normalized": "cz-42",
+  "flag": {
+    "svg": "CZ/CZ-42/flag.svg",
+    "source": "Flag of Usti nad Labem Region.svg"
+  },
+  "coat": {
+    "svg": "CZ/CZ-42/coat.svg",
+    "source": "Usti nad Labem Region CoA CZ.svg"
+  },
+  "data_source": "out"
+}

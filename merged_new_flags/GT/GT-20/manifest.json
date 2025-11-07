@@ -1,0 +1,16 @@
+{
+  "iso_code": "GT-20",
+  "country_iso": "GT",
+  "country_name": "GT",
+  "region_name": "gt-20",
+  "region_normalized": "gt-20",
+  "flag": {
+    "svg": null,
+    "source": "Bandera de Chiquimula.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

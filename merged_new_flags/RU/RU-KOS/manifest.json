@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-KOS",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-kos",
+  "region_normalized": "ru-kos",
+  "flag": {
+    "svg": "RU/RU-KOS/flag.svg",
+    "source": "Flag of Kostroma Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-KOS/coat.svg",
+    "source": "Coat of arms of Kostroma Oblast.svg"
+  },
+  "data_source": "out"
+}

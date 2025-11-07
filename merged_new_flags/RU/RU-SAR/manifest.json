@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-SAR",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-sar",
+  "region_normalized": "ru-sar",
+  "flag": {
+    "svg": "RU/RU-SAR/flag.svg",
+    "source": "Flag of Saratov Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-SAR/coat.svg",
+    "source": "Coat of Arms of Saratov oblast.svg"
+  },
+  "data_source": "out"
+}

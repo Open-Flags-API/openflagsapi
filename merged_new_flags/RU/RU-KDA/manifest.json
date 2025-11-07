@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-KDA",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-kda",
+  "region_normalized": "ru-kda",
+  "flag": {
+    "svg": "RU/RU-KDA/flag.svg",
+    "source": "Flag of Krasnodar Krai.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-KDA/coat.svg",
+    "source": "Coat of Arms of Krasnodar Krai official.svg"
+  },
+  "data_source": "out"
+}

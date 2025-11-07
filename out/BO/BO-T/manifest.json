@@ -1,0 +1,14 @@
+{
+  "code": "BO-T",
+  "country": "BO",
+  "flag": {
+    "svg": "BO/BO-T/flag.svg",
+    "png": "BO/BO-T/flag.png",
+    "source_filename": "Flag of Tarija.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "BO/BO-T/coat.png",
+    "source_filename": "EscudoTarija.gif"
+  }
+}

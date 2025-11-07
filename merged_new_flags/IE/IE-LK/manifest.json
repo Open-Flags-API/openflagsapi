@@ -1,0 +1,16 @@
+{
+  "iso_code": "IE-LK",
+  "country_iso": "IE",
+  "country_name": "IE",
+  "region_name": "ie-lk",
+  "region_normalized": "ie-lk",
+  "flag": {
+    "svg": "IE/IE-LK/flag.svg",
+    "source": "Flag of County Limerick.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "County Limerick Coat of Arms.png"
+  },
+  "data_source": "out"
+}

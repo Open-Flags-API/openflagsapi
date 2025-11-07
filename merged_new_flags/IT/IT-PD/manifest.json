@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-PD",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-pd",
+  "region_normalized": "it-pd",
+  "flag": {
+    "svg": "IT/IT-PD/flag.svg",
+    "source": "Flag of the Province of Padua.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-PD/coat.svg",
+    "source": "Provincia di Padova-Stemma.svg"
+  },
+  "data_source": "out"
+}

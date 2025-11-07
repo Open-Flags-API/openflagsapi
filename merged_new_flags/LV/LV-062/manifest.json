@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-062",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-062",
+  "region_normalized": "lv-062",
+  "flag": {
+    "svg": "LV/LV-062/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": "LV/LV-062/coat.svg",
+    "source": "Mārupes novada ģerbonis.svg"
+  },
+  "data_source": "out"
+}

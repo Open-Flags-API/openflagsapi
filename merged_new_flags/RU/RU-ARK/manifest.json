@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-ARK",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-ark",
+  "region_normalized": "ru-ark",
+  "flag": {
+    "svg": "RU/RU-ARK/flag.svg",
+    "source": "Flag of Arkhangelsk Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-ARK/coat.svg",
+    "source": "Coat of Arms of Arkhangelsk oblast.svg"
+  },
+  "data_source": "out"
+}

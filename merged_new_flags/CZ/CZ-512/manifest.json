@@ -1,0 +1,16 @@
+{
+  "iso_code": "CZ-512",
+  "country_iso": "CZ",
+  "country_name": "CZ",
+  "region_name": "cz-512",
+  "region_normalized": "cz-512",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "VE-M",
+  "country": "VE",
+  "flag": {
+    "svg": "VE/VE-M/flag.svg",
+    "png": "VE/VE-M/flag.png",
+    "source_filename": "Flag of Miranda state.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "VE/VE-M/coat.png",
+    "source_filename": "EscudoMiranda.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "UA-12",
+  "country_iso": "UA",
+  "country_name": "UA",
+  "region_name": "ua-12",
+  "region_normalized": "ua-12",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Dnipropetrovsk Oblast.svg"
+  },
+  "coat": {
+    "svg": "UA/UA-12/coat.svg",
+    "source": "Large Coat of Arms of Dnipropetrovsk Oblast.svg"
+  },
+  "data_source": "out"
+}

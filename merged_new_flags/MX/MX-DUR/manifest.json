@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-DUR",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "mx-dur",
+  "region_normalized": "mx-dur",
+  "flag": {
+    "svg": "MX/MX-DUR/flag.svg",
+    "source": "Flag of Durango.svg"
+  },
+  "coat": {
+    "svg": "MX/MX-DUR/coat.svg",
+    "source": "Coat of arms of Durango.svg"
+  },
+  "data_source": "out"
+}

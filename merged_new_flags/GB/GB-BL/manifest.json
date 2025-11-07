@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-BL",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "black-country",
+  "region_normalized": "black-country",
+  "flag": {
+    "svg": "GB/GB-BL/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

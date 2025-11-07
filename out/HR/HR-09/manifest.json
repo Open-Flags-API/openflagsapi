@@ -1,0 +1,14 @@
+{
+  "code": "HR-09",
+  "country": "HR",
+  "flag": {
+    "svg": "HR/HR-09/flag.svg",
+    "png": "HR/HR-09/flag.png",
+    "source_filename": "Flag of Lika-Senj County.svg"
+  },
+  "coat": {
+    "svg": "HR/HR-09/coat.svg",
+    "png": "HR/HR-09/coat.png",
+    "source_filename": "Lika-Senj County coat of arms.svg"
+  }
+}

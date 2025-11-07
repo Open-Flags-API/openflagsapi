@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-NU",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "nuevo-leon",
+  "region_normalized": "nuevo-leon",
+  "flag": {
+    "svg": "MX/MX-NU/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

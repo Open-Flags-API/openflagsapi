@@ -1,0 +1,16 @@
+{
+  "iso_code": "NG-JI",
+  "country_iso": "NG",
+  "country_name": "NG",
+  "region_name": "ng-ji",
+  "region_normalized": "ng-ji",
+  "flag": {
+    "svg": null,
+    "source": "Jigawa State Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

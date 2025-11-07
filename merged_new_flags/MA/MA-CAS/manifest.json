@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-CAS",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-cas",
+  "region_normalized": "ma-cas",
+  "flag": {
+    "svg": "MA/MA-CAS/flag.svg",
+    "source": "Flag of Casablanca province (1976-1997).svg"
+  },
+  "coat": {
+    "svg": "MA/MA-CAS/coat.svg",
+    "source": null
+  },
+  "data_source": "out"
+}

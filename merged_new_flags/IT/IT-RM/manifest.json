@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-RM",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-rm",
+  "region_normalized": "it-rm",
+  "flag": {
+    "svg": "IT/IT-RM/flag.svg",
+    "source": "Flag of the Province of Rome.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-RM/coat.svg",
+    "source": "Provincia di Roma-Stemma.svg"
+  },
+  "data_source": "out"
+}

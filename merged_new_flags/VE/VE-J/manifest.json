@@ -1,0 +1,16 @@
+{
+  "iso_code": "VE-J",
+  "country_iso": "VE",
+  "country_name": "VE",
+  "region_name": "ve-j",
+  "region_normalized": "ve-j",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Guárico State.svg"
+  },
+  "coat": {
+    "svg": "VE/VE-J/coat.svg",
+    "source": "Escudo de Guárico.svg"
+  },
+  "data_source": "out"
+}

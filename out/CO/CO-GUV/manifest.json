@@ -1,0 +1,14 @@
+{
+  "code": "CO-GUV",
+  "country": "CO",
+  "flag": {
+    "svg": "CO/CO-GUV/flag.svg",
+    "png": "CO/CO-GUV/flag.png",
+    "source_filename": "Flag of Guaviare.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-GUV/coat.svg",
+    "png": "CO/CO-GUV/coat.png",
+    "source_filename": "Escudo del Guaviare.svg"
+  }
+}

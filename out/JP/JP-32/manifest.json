@@ -1,0 +1,14 @@
+{
+  "code": "JP-32",
+  "country": "JP",
+  "flag": {
+    "svg": "JP/JP-32/flag.svg",
+    "png": "JP/JP-32/flag.png",
+    "source_filename": "Flag of Shimane Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-32/coat.svg",
+    "png": "JP/JP-32/coat.png",
+    "source_filename": "Emblem of Shimane Prefecture.svg"
+  }
+}

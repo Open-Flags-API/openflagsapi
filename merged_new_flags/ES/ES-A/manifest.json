@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-A",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-a",
+  "region_normalized": "es-a",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "ES/ES-A/coat.svg",
+    "source": "Escut de la Província d'Alacant.svg"
+  },
+  "data_source": "out"
+}

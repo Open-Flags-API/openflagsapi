@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-T",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-t",
+  "region_normalized": "es-t",
+  "flag": {
+    "svg": "ES/ES-T/flag.svg",
+    "source": "Bandera actual de la provincia de Tarragona (alternate).svg"
+  },
+  "coat": {
+    "svg": "ES/ES-T/coat.svg",
+    "source": "Escudo de la Provincia de Tarragona.svg"
+  },
+  "data_source": "out"
+}

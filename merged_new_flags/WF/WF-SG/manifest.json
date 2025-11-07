@@ -1,0 +1,16 @@
+{
+  "iso_code": "WF-SG",
+  "country_iso": "WF",
+  "country_name": "WF",
+  "region_name": "wf-sg",
+  "region_normalized": "wf-sg",
+  "flag": {
+    "svg": "WF/WF-SG/flag.svg",
+    "source": "Flag of Sigave.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

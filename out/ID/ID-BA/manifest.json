@@ -1,0 +1,14 @@
+{
+  "code": "ID-BA",
+  "country": "ID",
+  "flag": {
+    "svg": "ID/ID-BA/flag.svg",
+    "png": "ID/ID-BA/flag.png",
+    "source_filename": "Flag of Bali.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-BA/coat.svg",
+    "png": "ID/ID-BA/coat.png",
+    "source_filename": "Coat of arms of Bali.svg"
+  }
+}

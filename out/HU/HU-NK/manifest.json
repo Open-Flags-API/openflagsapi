@@ -1,0 +1,14 @@
+{
+  "code": "HU-NK",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-NK/flag.svg",
+    "png": "HU/HU-NK/flag.png",
+    "source_filename": "Flag of Nagykanizsa.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-NK/coat.svg",
+    "png": "HU/HU-NK/coat.png",
+    "source_filename": "HUN Nagykanizsa Címer.svg"
+  }
+}

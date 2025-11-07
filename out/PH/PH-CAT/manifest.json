@@ -1,0 +1,14 @@
+{
+  "code": "PH-CAT",
+  "country": "PH",
+  "flag": {
+    "svg": null,
+    "png": "PH/PH-CAT/flag.png",
+    "source_filename": "PH-CAT Flag.png"
+  },
+  "coat": {
+    "svg": "PH/PH-CAT/coat.svg",
+    "png": "PH/PH-CAT/coat.png",
+    "source_filename": "Official Seal of Catanduanes.svg"
+  }
+}

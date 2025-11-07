@@ -1,0 +1,16 @@
+{
+  "iso_code": "BE-WAL",
+  "country_iso": "BE",
+  "country_name": "BE",
+  "region_name": "be-wal",
+  "region_normalized": "be-wal",
+  "flag": {
+    "svg": "BE/BE-WAL/flag.svg",
+    "source": "Flag of Wallonia.svg"
+  },
+  "coat": {
+    "svg": "BE/BE-WAL/coat.svg",
+    "source": "Coat of arms of Wallonia.svg"
+  },
+  "data_source": "out"
+}

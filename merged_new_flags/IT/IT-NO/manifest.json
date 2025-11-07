@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-NO",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-no",
+  "region_normalized": "it-no",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IT/IT-NO/coat.svg",
+    "source": "Provincia di Novara-Stemma.svg"
+  },
+  "data_source": "out"
+}

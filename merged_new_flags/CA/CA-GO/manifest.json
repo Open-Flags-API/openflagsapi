@@ -1,0 +1,16 @@
+{
+  "iso_code": "CA-GO",
+  "country_iso": "CA",
+  "country_name": "canada",
+  "region_name": "governor-general-of-canada",
+  "region_normalized": "governor-general-of-canada",
+  "flag": {
+    "svg": "CA/CA-GO/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

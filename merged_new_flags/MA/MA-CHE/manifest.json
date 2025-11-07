@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-CHE",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-che",
+  "region_normalized": "ma-che",
+  "flag": {
+    "svg": "MA/MA-CHE/flag.svg",
+    "source": "Flag of Chefchaouen province (1976-1997).svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

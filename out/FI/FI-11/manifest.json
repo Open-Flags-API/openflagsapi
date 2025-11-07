@@ -1,0 +1,14 @@
+{
+  "code": "FI-11",
+  "country": "FI",
+  "flag": {
+    "svg": "FI/FI-11/flag.svg",
+    "png": "FI/FI-11/flag.png",
+    "source_filename": "Flag of Pirkanmaa.svg"
+  },
+  "coat": {
+    "svg": "FI/FI-11/coat.svg",
+    "png": "FI/FI-11/coat.png",
+    "source_filename": "Pirkanmaa.vaakuna.svg"
+  }
+}

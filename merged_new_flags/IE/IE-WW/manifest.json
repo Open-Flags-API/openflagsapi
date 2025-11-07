@@ -1,0 +1,16 @@
+{
+  "iso_code": "IE-WW",
+  "country_iso": "IE",
+  "country_name": "IE",
+  "region_name": "ie-ww",
+  "region_normalized": "ie-ww",
+  "flag": {
+    "svg": "IE/IE-WW/flag.svg",
+    "source": "Flag of Longford, Tipperary & Roscommon County.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Wicklow Coat of Arms.png"
+  },
+  "data_source": "out"
+}

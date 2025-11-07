@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-GI",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-gi",
+  "region_normalized": "es-gi",
+  "flag": {
+    "svg": null,
+    "source": "Bandera de la provincia de Gerona.png"
+  },
+  "coat": {
+    "svg": "ES/ES-GI/coat.svg",
+    "source": "Escut de la provincia de Girona.svg"
+  },
+  "data_source": "out"
+}

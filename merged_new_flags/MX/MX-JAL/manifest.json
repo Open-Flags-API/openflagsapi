@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-JAL",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "mx-jal",
+  "region_normalized": "mx-jal",
+  "flag": {
+    "svg": "MX/MX-JAL/flag.svg",
+    "source": "Flag of Jalisco.svg"
+  },
+  "coat": {
+    "svg": "MX/MX-JAL/coat.svg",
+    "source": "Coat of arms of Jalisco.svg"
+  },
+  "data_source": "out"
+}

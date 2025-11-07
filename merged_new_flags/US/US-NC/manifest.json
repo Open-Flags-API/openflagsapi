@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-NC",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-nc",
+  "region_normalized": "us-nc",
+  "flag": {
+    "svg": "US/US-NC/flag.svg",
+    "source": "Flag of North Carolina.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

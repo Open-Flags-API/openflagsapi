@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-SIB",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-sib",
+  "region_normalized": "ma-sib",
+  "flag": {
+    "svg": null,
+    "source": "Drapeaux de sidi bennour Maroc.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

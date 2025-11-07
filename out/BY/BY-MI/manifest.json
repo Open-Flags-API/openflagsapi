@@ -1,0 +1,14 @@
+{
+  "code": "BY-MI",
+  "country": "BY",
+  "flag": {
+    "svg": "BY/BY-MI/flag.svg",
+    "png": "BY/BY-MI/flag.png",
+    "source_filename": "Flag of Minsk Voblast.svg"
+  },
+  "coat": {
+    "svg": "BY/BY-MI/coat.svg",
+    "png": "BY/BY-MI/coat.png",
+    "source_filename": "Coat of Arms of Minsk province.svg"
+  }
+}

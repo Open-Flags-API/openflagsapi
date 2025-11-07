@@ -1,0 +1,14 @@
+{
+  "code": "HU-HE",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-HE/flag.svg",
+    "png": "HU/HU-HE/flag.png",
+    "source_filename": "FLAG-Heves-megye.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-HE/coat.svg",
+    "png": "HU/HU-HE/coat.png",
+    "source_filename": "Coa Hungary County Heves.svg"
+  }
+}

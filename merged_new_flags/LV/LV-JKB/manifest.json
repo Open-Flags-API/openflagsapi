@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-JKB",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-jkb",
+  "region_normalized": "lv-jkb",
+  "flag": {
+    "svg": "LV/LV-JKB/flag.svg",
+    "source": "Jēkabpils flag.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-JKB/coat.svg",
+    "source": "Coat of Arms of Jēkabpils.svg"
+  },
+  "data_source": "out"
+}

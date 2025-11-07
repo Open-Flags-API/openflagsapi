@@ -1,0 +1,16 @@
+{
+  "iso_code": "IE-D",
+  "country_iso": "IE",
+  "country_name": "IE",
+  "region_name": "ie-d",
+  "region_normalized": "ie-d",
+  "flag": {
+    "svg": "IE/IE-D/flag.svg",
+    "source": "Colours of Dublin.svg"
+  },
+  "coat": {
+    "svg": "IE/IE-D/coat.svg",
+    "source": "Dublin crest.svg"
+  },
+  "data_source": "out"
+}

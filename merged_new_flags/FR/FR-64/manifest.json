@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-64",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-64",
+  "region_normalized": "fr-64",
+  "flag": {
+    "svg": "FR/FR-64/flag.svg",
+    "source": "Drapeau proposé pour les Pyrenees-atlantiques.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-64/coat.svg",
+    "source": "Blason département fr Pyrénées-Atlantiques.svg"
+  },
+  "data_source": "out"
+}

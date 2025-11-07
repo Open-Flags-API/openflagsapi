@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-SMO",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-smo",
+  "region_normalized": "ru-smo",
+  "flag": {
+    "svg": "RU/RU-SMO/flag.svg",
+    "source": "Flag of Smolensk Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-SMO/coat.svg",
+    "source": "Coat of arms of Smolensk oblast.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "CV-CA",
+  "country_iso": "CV",
+  "country_name": "CV",
+  "region_name": "cv-ca",
+  "region_normalized": "cv-ca",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Santa Catarina municipality.gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

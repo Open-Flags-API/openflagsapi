@@ -1,0 +1,16 @@
+{
+  "iso_code": "IN-ML",
+  "country_iso": "IN",
+  "country_name": "IN",
+  "region_name": "in-ml",
+  "region_normalized": "in-ml",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IN/IN-ML/coat.svg",
+    "source": "Seal of Meghalaya.svg"
+  },
+  "data_source": "out"
+}

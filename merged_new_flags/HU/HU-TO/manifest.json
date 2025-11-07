@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-TO",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-to",
+  "region_normalized": "hu-to",
+  "flag": {
+    "svg": "HU/HU-TO/flag.svg",
+    "source": "FLAG-Tolna-megye.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "HUN Tolna megye COA.png"
+  },
+  "data_source": "out"
+}

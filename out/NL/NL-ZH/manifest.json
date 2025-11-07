@@ -1,0 +1,14 @@
+{
+  "code": "NL-ZH",
+  "country": "NL",
+  "flag": {
+    "svg": "NL/NL-ZH/flag.svg",
+    "png": "NL/NL-ZH/flag.png",
+    "source_filename": "Flag of Zuid-Holland.svg"
+  },
+  "coat": {
+    "svg": "NL/NL-ZH/coat.svg",
+    "png": "NL/NL-ZH/coat.png",
+    "source_filename": "Zuid-holland wapen.svg"
+  }
+}

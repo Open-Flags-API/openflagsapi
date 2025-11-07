@@ -1,0 +1,16 @@
+{
+  "iso_code": "PW-150",
+  "country_iso": "PW",
+  "country_name": "PW",
+  "region_name": "pw-150",
+  "region_normalized": "pw-150",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Koror State.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

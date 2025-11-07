@@ -1,0 +1,14 @@
+{
+  "code": "KR-50",
+  "country": "KR",
+  "flag": {
+    "svg": "KR/KR-50/flag.svg",
+    "png": "KR/KR-50/flag.png",
+    "source_filename": "Flag of Sejong City.svg"
+  },
+  "coat": {
+    "svg": "KR/KR-50/coat.svg",
+    "png": "KR/KR-50/coat.png",
+    "source_filename": "Seal of Sejong City, South Korea.svg"
+  }
+}

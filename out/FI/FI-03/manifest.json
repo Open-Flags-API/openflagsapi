@@ -1,0 +1,14 @@
+{
+  "code": "FI-03",
+  "country": "FI",
+  "flag": {
+    "svg": "FI/FI-03/flag.svg",
+    "png": "FI/FI-03/flag.png",
+    "source_filename": "Flag of Southern Ostrobothnia.svg"
+  },
+  "coat": {
+    "svg": "FI/FI-03/coat.svg",
+    "png": "FI/FI-03/coat.png",
+    "source_filename": "Etelä-Pohjanmaan maakunnan vaakuna.svg"
+  }
+}

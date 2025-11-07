@@ -1,0 +1,16 @@
+{
+  "iso_code": "IE-TA",
+  "country_iso": "IE",
+  "country_name": "IE",
+  "region_name": "ie-ta",
+  "region_normalized": "ie-ta",
+  "flag": {
+    "svg": "IE/IE-TA/flag.svg",
+    "source": "Flag of county Tipperary.svg"
+  },
+  "coat": {
+    "svg": "IE/IE-TA/coat.svg",
+    "source": "Tipperary COA.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "RU-NVS",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-NVS/flag.svg",
+    "png": "RU/RU-NVS/flag.png",
+    "source_filename": "Flag of Novosibirsk Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-NVS/coat.svg",
+    "png": "RU/RU-NVS/coat.png",
+    "source_filename": "Coat of arms of Novosibirsk oblast.svg"
+  }
+}

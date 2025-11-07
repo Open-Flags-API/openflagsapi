@@ -1,0 +1,16 @@
+{
+  "iso_code": "TW-ILA",
+  "country_iso": "TW",
+  "country_name": "TW",
+  "region_name": "tw-ila",
+  "region_normalized": "tw-ila",
+  "flag": {
+    "svg": "TW/TW-ILA/flag.svg",
+    "source": "Flag of Yilan County.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "EE-71",
+  "country_iso": "EE",
+  "country_name": "EE",
+  "region_name": "ee-71",
+  "region_normalized": "ee-71",
+  "flag": {
+    "svg": "EE/EE-71/flag.svg",
+    "source": "Raplamaa lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-71/coat.svg",
+    "source": "Raplamaa vapp.svg"
+  },
+  "data_source": "out"
+}

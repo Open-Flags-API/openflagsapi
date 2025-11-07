@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-CE",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-ce",
+  "region_normalized": "ru-ce",
+  "flag": {
+    "svg": "RU/RU-CE/flag.svg",
+    "source": "Flag of Chechnya (large).svg"
+  },
+  "coat": {
+    "svg": "RU/RU-CE/coat.svg",
+    "source": "Coat of arms of Chechnya.svg"
+  },
+  "data_source": "out"
+}

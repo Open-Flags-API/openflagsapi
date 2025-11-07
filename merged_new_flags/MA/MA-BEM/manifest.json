@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-BEM",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-bem",
+  "region_normalized": "ma-bem",
+  "flag": {
+    "svg": "MA/MA-BEM/flag.svg",
+    "source": "Flag of Beni Mellal province (1976-1997).svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

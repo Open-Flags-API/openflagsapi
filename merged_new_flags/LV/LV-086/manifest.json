@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-086",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-086",
+  "region_normalized": "lv-086",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Salacgrīvas novads.png"
+  },
+  "coat": {
+    "svg": "LV/LV-086/coat.svg",
+    "source": "Coat of Arms of Salacgrīvas novads.svg"
+  },
+  "data_source": "out"
+}

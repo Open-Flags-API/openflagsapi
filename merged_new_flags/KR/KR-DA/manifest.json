@@ -1,0 +1,16 @@
+{
+  "iso_code": "KR-DA",
+  "country_iso": "KR",
+  "country_name": "south-korea",
+  "region_name": "daejeon",
+  "region_normalized": "daejeon",
+  "flag": {
+    "svg": "KR/KR-DA/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

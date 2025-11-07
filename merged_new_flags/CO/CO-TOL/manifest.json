@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-TOL",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-tol",
+  "region_normalized": "co-tol",
+  "flag": {
+    "svg": "CO/CO-TOL/flag.svg",
+    "source": "Flag of Tolima.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-TOL/coat.svg",
+    "source": "Escudo del Tolima.svg"
+  },
+  "data_source": "out"
+}

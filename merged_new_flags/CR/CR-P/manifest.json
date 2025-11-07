@@ -1,0 +1,16 @@
+{
+  "iso_code": "CR-P",
+  "country_iso": "CR",
+  "country_name": "CR",
+  "region_name": "cr-p",
+  "region_normalized": "cr-p",
+  "flag": {
+    "svg": "CR/CR-P/flag.svg",
+    "source": "Bandera de la Provincia de Puntarenas.svg"
+  },
+  "coat": {
+    "svg": "CR/CR-P/coat.svg",
+    "source": "Escudo de la Provincia de Puntarenas.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "NL-CW",
+  "country_iso": "NL",
+  "country_name": "NL",
+  "region_name": "nl-cw",
+  "region_normalized": "nl-cw",
+  "flag": {
+    "svg": "NL/NL-CW/flag.svg",
+    "source": "Flag of Curaçao.svg"
+  },
+  "coat": {
+    "svg": "NL/NL-CW/coat.svg",
+    "source": "Curaçao wapen.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-HID",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "mx-hid",
+  "region_normalized": "mx-hid",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Escudo del Estado Libre y Soberano de Hidalgo.png"
+  },
+  "data_source": "out"
+}

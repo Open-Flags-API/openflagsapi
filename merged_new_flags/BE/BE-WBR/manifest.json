@@ -1,0 +1,16 @@
+{
+  "iso_code": "BE-WBR",
+  "country_iso": "BE",
+  "country_name": "BE",
+  "region_name": "be-wbr",
+  "region_normalized": "be-wbr",
+  "flag": {
+    "svg": "BE/BE-WBR/flag.svg",
+    "source": "Drapeau Province BE Brabant Wallon.svg"
+  },
+  "coat": {
+    "svg": "BE/BE-WBR/coat.svg",
+    "source": "Arms of Walloon Brabant.svg"
+  },
+  "data_source": "out"
+}

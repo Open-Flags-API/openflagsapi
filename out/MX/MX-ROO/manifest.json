@@ -1,0 +1,14 @@
+{
+  "code": "MX-ROO",
+  "country": "MX",
+  "flag": {
+    "svg": "MX/MX-ROO/flag.svg",
+    "png": "MX/MX-ROO/flag.png",
+    "source_filename": "Flag of Quintana Roo.svg"
+  },
+  "coat": {
+    "svg": "MX/MX-ROO/coat.svg",
+    "png": "MX/MX-ROO/coat.png",
+    "source_filename": "Coat of arms of Quintana Roo.svg"
+  }
+}

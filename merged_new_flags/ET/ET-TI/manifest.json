@@ -1,0 +1,16 @@
+{
+  "iso_code": "ET-TI",
+  "country_iso": "ET",
+  "country_name": "ET",
+  "region_name": "et-ti",
+  "region_normalized": "et-ti",
+  "flag": {
+    "svg": "ET/ET-TI/flag.svg",
+    "source": "Flag of the Tigray Region.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Tigray Region Emblem.png"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "UY-PA",
+  "country_iso": "UY",
+  "country_name": "UY",
+  "region_name": "uy-pa",
+  "region_normalized": "uy-pa",
+  "flag": {
+    "svg": "UY/UY-PA/flag.svg",
+    "source": "Flag of Paysandú Department.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Paysandú Department.png"
+  },
+  "data_source": "out"
+}

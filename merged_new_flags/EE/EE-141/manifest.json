@@ -1,0 +1,16 @@
+{
+  "iso_code": "EE-141",
+  "country_iso": "EE",
+  "country_name": "EE",
+  "region_name": "ee-141",
+  "region_normalized": "ee-141",
+  "flag": {
+    "svg": "EE/EE-141/flag.svg",
+    "source": "Anija valla lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-141/coat.svg",
+    "source": "Anija valla vapp.svg"
+  },
+  "data_source": "out"
+}

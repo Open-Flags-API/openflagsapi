@@ -1,0 +1,16 @@
+{
+  "iso_code": "GM-B",
+  "country_iso": "GM",
+  "country_name": "GM",
+  "region_name": "gm-b",
+  "region_normalized": "gm-b",
+  "flag": {
+    "svg": "GM/GM-B/flag.svg",
+    "source": "Flag of Banjul, The Gambia.svg"
+  },
+  "coat": {
+    "svg": "GM/GM-B/coat.svg",
+    "source": "GAM Banjul COA.svg"
+  },
+  "data_source": "out"
+}

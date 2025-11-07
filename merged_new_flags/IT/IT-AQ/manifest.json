@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-AQ",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-aq",
+  "region_normalized": "it-aq",
+  "flag": {
+    "svg": "IT/IT-AQ/flag.svg",
+    "source": "Flag of the Province of L'Aquila.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-AQ/coat.svg",
+    "source": "Provincia dell'Aquila-Stemma.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "SH-TA",
+  "country_iso": "SH",
+  "country_name": "SH",
+  "region_name": "sh-ta",
+  "region_normalized": "sh-ta",
+  "flag": {
+    "svg": "SH/SH-TA/flag.svg",
+    "source": "Flag of Tristan da Cunha.svg"
+  },
+  "coat": {
+    "svg": "SH/SH-TA/coat.svg",
+    "source": "Coat of arms of Tristan da Cunha.svg"
+  },
+  "data_source": "out"
+}

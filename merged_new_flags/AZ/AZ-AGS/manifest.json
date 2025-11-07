@@ -1,0 +1,16 @@
+{
+  "iso_code": "AZ-AGS",
+  "country_iso": "AZ",
+  "country_name": "AZ",
+  "region_name": "az-ags",
+  "region_normalized": "az-ags",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

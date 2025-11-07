@@ -1,0 +1,14 @@
+{
+  "code": "PH-ANT",
+  "country": "PH",
+  "flag": {
+    "svg": null,
+    "png": "PH/PH-ANT/flag.png",
+    "source_filename": "Vlag Fil Antique.gif"
+  },
+  "coat": {
+    "svg": "PH/PH-ANT/coat.svg",
+    "png": "PH/PH-ANT/coat.png",
+    "source_filename": "Official Seal of Antique.svg"
+  }
+}

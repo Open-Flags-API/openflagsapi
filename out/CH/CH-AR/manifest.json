@@ -1,0 +1,14 @@
+{
+  "code": "CH-AR",
+  "country": "CH",
+  "flag": {
+    "svg": "CH/CH-AR/flag.svg",
+    "png": "CH/CH-AR/flag.png",
+    "source_filename": "Flag of Canton of Appenzell Ausserrhoden.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-AR/coat.svg",
+    "png": "CH/CH-AR/coat.png",
+    "source_filename": "Wappen Appenzell Ausserrhoden matt.svg"
+  }
+}

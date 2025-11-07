@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-65",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-65",
+  "region_normalized": "th-65",
+  "flag": {
+    "svg": "TH/TH-65/flag.svg",
+    "source": "Pitsanulok flag.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

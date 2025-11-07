@@ -1,0 +1,16 @@
+{
+  "iso_code": "CL-TA",
+  "country_iso": "CL",
+  "country_name": "CL",
+  "region_name": "cl-ta",
+  "region_normalized": "cl-ta",
+  "flag": {
+    "svg": "CL/CL-TA/flag.svg",
+    "source": "Flag of Tarapaca, Chile.svg"
+  },
+  "coat": {
+    "svg": "CL/CL-TA/coat.svg",
+    "source": "Coat of arms of Tarapaca, Chile.svg"
+  },
+  "data_source": "out"
+}

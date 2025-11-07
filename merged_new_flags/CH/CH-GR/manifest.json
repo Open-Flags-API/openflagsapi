@@ -1,0 +1,16 @@
+{
+  "iso_code": "CH-GR",
+  "country_iso": "CH",
+  "country_name": "CH",
+  "region_name": "ch-gr",
+  "region_normalized": "ch-gr",
+  "flag": {
+    "svg": "CH/CH-GR/flag.svg",
+    "source": "Flag of Canton of Graubünden.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-GR/coat.svg",
+    "source": "CHE Graubünden COA.svg"
+  },
+  "data_source": "out"
+}

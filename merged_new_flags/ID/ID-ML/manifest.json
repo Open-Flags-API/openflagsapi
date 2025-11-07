@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-ML",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "id-ml",
+  "region_normalized": "id-ml",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

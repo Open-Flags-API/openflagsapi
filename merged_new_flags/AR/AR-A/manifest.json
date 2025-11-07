@@ -1,0 +1,16 @@
+{
+  "iso_code": "AR-A",
+  "country_iso": "AR",
+  "country_name": "AR",
+  "region_name": "ar-a",
+  "region_normalized": "ar-a",
+  "flag": {
+    "svg": "AR/AR-A/flag.svg",
+    "source": "Bandera de la Provincia de Salta.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-A/coat.svg",
+    "source": "Escudo de la Provincia de Salta.svg"
+  },
+  "data_source": "out"
+}

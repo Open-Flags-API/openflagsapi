@@ -1,0 +1,16 @@
+{
+  "iso_code": "DK-83",
+  "country_iso": "DK",
+  "country_name": "DK",
+  "region_name": "dk-83",
+  "region_normalized": "dk-83",
+  "flag": {
+    "svg": "DK/DK-83/flag.svg",
+    "source": "Flag of Region Syddanmark.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

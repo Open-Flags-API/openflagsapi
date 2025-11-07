@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-V",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-v",
+  "region_normalized": "es-v",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "ES/ES-V/coat.svg",
+    "source": "Escut de la Província de València.svg"
+  },
+  "data_source": "out"
+}

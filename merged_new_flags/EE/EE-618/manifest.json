@@ -1,0 +1,16 @@
+{
+  "iso_code": "EE-618",
+  "country_iso": "EE",
+  "country_name": "EE",
+  "region_name": "ee-618",
+  "region_normalized": "ee-618",
+  "flag": {
+    "svg": "EE/EE-618/flag.svg",
+    "source": "Põltsamaa valla lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-618/coat.svg",
+    "source": "Põltsamaa valla vapp.svg"
+  },
+  "data_source": "out"
+}

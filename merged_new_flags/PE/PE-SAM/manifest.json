@@ -1,0 +1,16 @@
+{
+  "iso_code": "PE-SAM",
+  "country_iso": "PE",
+  "country_name": "PE",
+  "region_name": "pe-sam",
+  "region_normalized": "pe-sam",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

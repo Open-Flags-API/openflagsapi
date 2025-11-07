@@ -1,0 +1,16 @@
+{
+  "iso_code": "PL-14",
+  "country_iso": "PL",
+  "country_name": "PL",
+  "region_name": "pl-14",
+  "region_normalized": "pl-14",
+  "flag": {
+    "svg": "PL/PL-14/flag.svg",
+    "source": "POL województwo mazowieckie flag.svg"
+  },
+  "coat": {
+    "svg": "PL/PL-14/coat.svg",
+    "source": "POL województwo mazowieckie COA.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "RU-SE",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-SE/flag.svg",
+    "png": "RU/RU-SE/flag.png",
+    "source_filename": "Flag of North Ossetia.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-SE/coat.svg",
+    "png": "RU/RU-SE/coat.png",
+    "source_filename": "Emblem of North Ossetia.svg"
+  }
+}

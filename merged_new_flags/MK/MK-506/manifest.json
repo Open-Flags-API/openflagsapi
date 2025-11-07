@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-506",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-506",
+  "region_normalized": "mk-506",
+  "flag": {
+    "svg": "MK/MK-506/flag.svg",
+    "source": "Flag of Mogila Municipality, North Macedonia.svg"
+  },
+  "coat": {
+    "svg": "MK/MK-506/coat.svg",
+    "source": "Coat of arms of Mogila Municipality.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-CU",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-cu",
+  "region_normalized": "ru-cu",
+  "flag": {
+    "svg": "RU/RU-CU/flag.svg",
+    "source": "Flag of Chuvashia (large).svg"
+  },
+  "coat": {
+    "svg": "RU/RU-CU/coat.svg",
+    "source": "Coat of arms of Chuvashia.svg"
+  },
+  "data_source": "out"
+}

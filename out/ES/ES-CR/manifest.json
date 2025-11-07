@@ -1,0 +1,14 @@
+{
+  "code": "ES-CR",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-CR/flag.svg",
+    "png": "ES/ES-CR/flag.png",
+    "source_filename": "Flag Ciudad Real Province.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-CR/coat.svg",
+    "png": "ES/ES-CR/coat.png",
+    "source_filename": "Escudo de la provincia de Ciudad Real.svg"
+  }
+}

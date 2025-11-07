@@ -1,0 +1,16 @@
+{
+  "iso_code": "PE-PAS",
+  "country_iso": "PE",
+  "country_name": "PE",
+  "region_name": "pe-pas",
+  "region_normalized": "pe-pas",
+  "flag": {
+    "svg": "PE/PE-PAS/flag.svg",
+    "source": "Flag of Pasco Department.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Escudo regional Pasco.png"
+  },
+  "data_source": "out"
+}

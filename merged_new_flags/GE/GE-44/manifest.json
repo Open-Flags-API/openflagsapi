@@ -1,0 +1,16 @@
+{
+  "iso_code": "GE-44",
+  "country_iso": "GE",
+  "country_name": "GE",
+  "region_name": "ge-44",
+  "region_normalized": "ge-44",
+  "flag": {
+    "svg": null,
+    "source": "Ozurgebti district flag.jpg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Ozurgeti district COA.jpg"
+  },
+  "data_source": "out"
+}

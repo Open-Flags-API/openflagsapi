@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-PI",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-pi",
+  "region_normalized": "it-pi",
+  "flag": {
+    "svg": "IT/IT-PI/flag.svg",
+    "source": "Flag of the province of Pisa.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-PI/coat.svg",
+    "source": "Provincia di Pisa-Stemma.svg"
+  },
+  "data_source": "out"
+}

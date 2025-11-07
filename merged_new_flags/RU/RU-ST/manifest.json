@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-ST",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "stavropol-krai",
+  "region_normalized": "stavropol-krai",
+  "flag": {
+    "svg": "RU/RU-ST/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "CN-MO",
+  "country": "CN",
+  "flag": {
+    "svg": "CN/CN-MO/flag.svg",
+    "png": "CN/CN-MO/flag.png",
+    "source_filename": "Flag of Macau.svg"
+  },
+  "coat": {
+    "svg": "CN/CN-MO/coat.svg",
+    "png": "CN/CN-MO/coat.png",
+    "source_filename": "Regional Emblem of Macau.svg"
+  }
+}

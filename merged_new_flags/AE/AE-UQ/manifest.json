@@ -1,0 +1,16 @@
+{
+  "iso_code": "AE-UQ",
+  "country_iso": "AE",
+  "country_name": "AE",
+  "region_name": "ae-uq",
+  "region_normalized": "ae-uq",
+  "flag": {
+    "svg": "AE/AE-UQ/flag.svg",
+    "source": "Flag of Umm al-Qaiwain.svg"
+  },
+  "coat": {
+    "svg": "AE/AE-UQ/coat.svg",
+    "source": "Coat of Arms of Umm Al Quwain.svg"
+  },
+  "data_source": "out"
+}

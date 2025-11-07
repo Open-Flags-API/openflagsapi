@@ -1,0 +1,16 @@
+{
+  "iso_code": "GA-1",
+  "country_iso": "GA",
+  "country_name": "GA",
+  "region_name": "ga-1",
+  "region_normalized": "ga-1",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GA/GA-1/coat.svg",
+    "source": "Coat of arms of Estuaire, Gabon.svg"
+  },
+  "data_source": "out"
+}

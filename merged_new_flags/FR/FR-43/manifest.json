@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-43",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-43",
+  "region_normalized": "fr-43",
+  "flag": {
+    "svg": "FR/FR-43/flag.svg",
+    "source": "Drapeau département fr Haute-Loire.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-43/coat.svg",
+    "source": "Blason département fr Haute-Loire.svg"
+  },
+  "data_source": "out"
+}

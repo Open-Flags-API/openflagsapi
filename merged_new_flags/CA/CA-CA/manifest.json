@@ -1,0 +1,16 @@
+{
+  "iso_code": "CA-CA",
+  "country_iso": "CA",
+  "country_name": "canada",
+  "region_name": "canada",
+  "region_normalized": "canada",
+  "flag": {
+    "svg": "CA/CA-CA/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

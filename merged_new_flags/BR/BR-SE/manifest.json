@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-SE",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "br-se",
+  "region_normalized": "br-se",
+  "flag": {
+    "svg": "BR/BR-SE/flag.svg",
+    "source": "Bandeira de Sergipe.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-SE/coat.svg",
+    "source": "Brasão de Sergipe.svg"
+  },
+  "data_source": "out"
+}

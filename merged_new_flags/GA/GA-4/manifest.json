@@ -1,0 +1,16 @@
+{
+  "iso_code": "GA-4",
+  "country_iso": "GA",
+  "country_name": "GA",
+  "region_name": "ga-4",
+  "region_normalized": "ga-4",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GA/GA-4/coat.svg",
+    "source": "Coat of arms of Ngounié, Gabon.svg"
+  },
+  "data_source": "out"
+}

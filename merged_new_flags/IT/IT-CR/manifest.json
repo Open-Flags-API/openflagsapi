@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-CR",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-cr",
+  "region_normalized": "it-cr",
+  "flag": {
+    "svg": "IT/IT-CR/flag.svg",
+    "source": "Flag of the Province of Cremona.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-CR/coat.svg",
+    "source": "Provincia di Cremona-Stemma.svg"
+  },
+  "data_source": "out"
+}

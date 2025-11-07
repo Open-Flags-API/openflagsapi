@@ -1,0 +1,14 @@
+{
+  "code": "NL-OV",
+  "country": "NL",
+  "flag": {
+    "svg": "NL/NL-OV/flag.svg",
+    "png": "NL/NL-OV/flag.png",
+    "source_filename": "Flag of Overijssel.svg"
+  },
+  "coat": {
+    "svg": "NL/NL-OV/coat.svg",
+    "png": "NL/NL-OV/coat.png",
+    "source_filename": "Overijssel wapen.svg"
+  }
+}

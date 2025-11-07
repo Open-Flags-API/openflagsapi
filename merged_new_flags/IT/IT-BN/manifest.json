@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-BN",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-bn",
+  "region_normalized": "it-bn",
+  "flag": {
+    "svg": "IT/IT-BN/flag.svg",
+    "source": "Flag of the province of Benevento.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-BN/coat.svg",
+    "source": "Provincia di Benevento-Stemma.svg"
+  },
+  "data_source": "out"
+}

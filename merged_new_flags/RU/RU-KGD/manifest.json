@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-KGD",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-kgd",
+  "region_normalized": "ru-kgd",
+  "flag": {
+    "svg": "RU/RU-KGD/flag.svg",
+    "source": "Flag of Kaliningrad Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-KGD/coat.svg",
+    "source": "Coat of Arms of Kaliningrad Oblast (Latest version).svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "GB-HRT",
+  "country": "GB",
+  "flag": {
+    "svg": "GB/GB-HRT/flag.svg",
+    "png": "GB/GB-HRT/flag.png",
+    "source_filename": "County Flag of Hertfordshire.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-HRT/coat.svg",
+    "png": "GB/GB-HRT/coat.png",
+    "source_filename": "Arms of Hertfordshire County Council.svg"
+  }
+}

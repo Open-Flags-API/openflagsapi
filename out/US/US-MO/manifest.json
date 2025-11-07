@@ -1,0 +1,14 @@
+{
+  "code": "US-MO",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-MO/flag.svg",
+    "png": "US/US-MO/flag.png",
+    "source_filename": "Flag of Missouri.svg"
+  },
+  "coat": {
+    "svg": "US/US-MO/coat.svg",
+    "png": "US/US-MO/coat.png",
+    "source_filename": "Coat of arms of Missouri.svg"
+  }
+}

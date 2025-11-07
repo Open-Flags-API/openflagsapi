@@ -1,0 +1,14 @@
+{
+  "code": "IT-FE",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-FE/flag.svg",
+    "png": "IT/IT-FE/flag.png",
+    "source_filename": "Flag of the province of Ferrara.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-FE/coat.svg",
+    "png": "IT/IT-FE/coat.png",
+    "source_filename": "Provincia di Ferrara-Stemma.svg"
+  }
+}

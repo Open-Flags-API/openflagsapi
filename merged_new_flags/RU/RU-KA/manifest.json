@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-KA",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "karelia",
+  "region_normalized": "karelia",
+  "flag": {
+    "svg": "RU/RU-KA/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

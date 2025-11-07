@@ -1,0 +1,16 @@
+{
+  "iso_code": "PL-02",
+  "country_iso": "PL",
+  "country_name": "PL",
+  "region_name": "pl-02",
+  "region_normalized": "pl-02",
+  "flag": {
+    "svg": "PL/PL-02/flag.svg",
+    "source": "POL województwo dolnośląskie flag.svg"
+  },
+  "coat": {
+    "svg": "PL/PL-02/coat.svg",
+    "source": "POL województwo dolnośląskie COA.svg"
+  },
+  "data_source": "out"
+}

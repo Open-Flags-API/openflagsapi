@@ -1,0 +1,16 @@
+{
+  "iso_code": "SS-EW",
+  "country_iso": "SS",
+  "country_name": "SS",
+  "region_name": "ss-ew",
+  "region_normalized": "ss-ew",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Western Equatoria.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

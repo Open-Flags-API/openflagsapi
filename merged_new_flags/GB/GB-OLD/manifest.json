@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-OLD",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-old",
+  "region_normalized": "gb-old",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Oldham Metropolitan Borough Council.png"
+  },
+  "data_source": "out"
+}

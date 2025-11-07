@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-BU",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-bu",
+  "region_normalized": "es-bu",
+  "flag": {
+    "svg": "ES/ES-BU/flag.svg",
+    "source": "Flag Burgos Province.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-BU/coat.svg",
+    "source": "Escudo de la Provincia de Burgos.svg"
+  },
+  "data_source": "out"
+}

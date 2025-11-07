@@ -1,0 +1,14 @@
+{
+  "code": "ES-PV",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-PV/flag.svg",
+    "png": "ES/ES-PV/flag.png",
+    "source_filename": "Flag of the Basque Country.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-PV/coat.svg",
+    "png": "ES/ES-PV/coat.png",
+    "source_filename": "Escudo del Pais Vasco.svg"
+  }
+}

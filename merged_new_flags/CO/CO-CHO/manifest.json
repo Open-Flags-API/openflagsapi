@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-CHO",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-cho",
+  "region_normalized": "co-cho",
+  "flag": {
+    "svg": "CO/CO-CHO/flag.svg",
+    "source": "Flag of Chocó.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-CHO/coat.svg",
+    "source": "Escudo del Chocó.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "FR-42",
+  "country": "FR",
+  "flag": {
+    "svg": "FR/FR-42/flag.svg",
+    "png": "FR/FR-42/flag.png",
+    "source_filename": "Drapeau fr département Loire.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-42/coat.svg",
+    "png": "FR/FR-42/coat.png",
+    "source_filename": "Blason département fr Loire.svg"
+  }
+}

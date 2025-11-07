@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-LI",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-li",
+  "region_normalized": "it-li",
+  "flag": {
+    "svg": "IT/IT-LI/flag.svg",
+    "source": "Flag of the province of Livorno.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-LI/coat.svg",
+    "source": "Coat of Arms of the Province of Livorno.svg"
+  },
+  "data_source": "out"
+}

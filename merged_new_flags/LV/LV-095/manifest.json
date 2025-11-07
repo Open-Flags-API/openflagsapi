@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-095",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-095",
+  "region_normalized": "lv-095",
+  "flag": {
+    "svg": "LV/LV-095/flag.svg",
+    "source": "Flag of Stopiņu novads.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "LVA Stopiņu novads COA.png"
+  },
+  "data_source": "out"
+}

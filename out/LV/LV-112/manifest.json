@@ -1,0 +1,14 @@
+{
+  "code": "LV-112",
+  "country": "LV",
+  "flag": {
+    "svg": "LV/LV-112/flag.svg",
+    "png": "LV/LV-112/flag.png",
+    "source_filename": "Dienvidkurzemes novada karogs.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-112/coat.svg",
+    "png": "LV/LV-112/coat.png",
+    "source_filename": "Dienvidkurzemes novada ģerbonis.svg"
+  }
+}

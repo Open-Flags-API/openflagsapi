@@ -1,0 +1,16 @@
+{
+  "iso_code": "KR-NO",
+  "country_iso": "KR",
+  "country_name": "south-korea",
+  "region_name": "north-jeolla",
+  "region_normalized": "north-jeolla",
+  "flag": {
+    "svg": "KR/KR-NO/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

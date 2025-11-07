@@ -1,0 +1,16 @@
+{
+  "iso_code": "ET-SI",
+  "country_iso": "ET",
+  "country_name": "ET",
+  "region_name": "et-si",
+  "region_normalized": "et-si",
+  "flag": {
+    "svg": "ET/ET-SI/flag.svg",
+    "source": "Flag of Sidama.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Emblem of Sidama Region.png"
+  },
+  "data_source": "out"
+}

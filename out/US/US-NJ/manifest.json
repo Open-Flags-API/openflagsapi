@@ -1,0 +1,14 @@
+{
+  "code": "US-NJ",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-NJ/flag.svg",
+    "png": "US/US-NJ/flag.png",
+    "source_filename": "Flag of New Jersey.svg"
+  },
+  "coat": {
+    "svg": "US/US-NJ/coat.svg",
+    "png": "US/US-NJ/coat.png",
+    "source_filename": "Coat of Arms of New Jersey.svg"
+  }
+}

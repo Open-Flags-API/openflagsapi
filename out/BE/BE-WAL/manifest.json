@@ -1,0 +1,14 @@
+{
+  "code": "BE-WAL",
+  "country": "BE",
+  "flag": {
+    "svg": "BE/BE-WAL/flag.svg",
+    "png": "BE/BE-WAL/flag.png",
+    "source_filename": "Flag of Wallonia.svg"
+  },
+  "coat": {
+    "svg": "BE/BE-WAL/coat.svg",
+    "png": "BE/BE-WAL/coat.png",
+    "source_filename": "Coat of arms of Wallonia.svg"
+  }
+}

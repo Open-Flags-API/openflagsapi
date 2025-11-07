@@ -1,0 +1,14 @@
+{
+  "code": "ES-CN",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-CN/flag.svg",
+    "png": "ES/ES-CN/flag.png",
+    "source_filename": "Flag of the Canary Islands (simple).svg"
+  },
+  "coat": {
+    "svg": "ES/ES-CN/coat.svg",
+    "png": "ES/ES-CN/coat.png",
+    "source_filename": "Coat of Arms of the Canary Islands.svg"
+  }
+}

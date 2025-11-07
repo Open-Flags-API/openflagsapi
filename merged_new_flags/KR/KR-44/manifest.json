@@ -1,0 +1,16 @@
+{
+  "iso_code": "KR-44",
+  "country_iso": "KR",
+  "country_name": "south-korea",
+  "region_name": "kr-44",
+  "region_normalized": "kr-44",
+  "flag": {
+    "svg": "KR/KR-44/flag.svg",
+    "source": "Flag of South Chungcheong Province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

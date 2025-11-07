@@ -1,0 +1,16 @@
+{
+  "iso_code": "CA-SK",
+  "country_iso": "CA",
+  "country_name": "canada",
+  "region_name": "ca-sk",
+  "region_normalized": "ca-sk",
+  "flag": {
+    "svg": "CA/CA-SK/flag.svg",
+    "source": "Flag of Saskatchewan.svg"
+  },
+  "coat": {
+    "svg": "CA/CA-SK/coat.svg",
+    "source": "Coat of arms of Saskatchewan.svg"
+  },
+  "data_source": "out"
+}

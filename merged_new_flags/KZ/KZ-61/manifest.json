@@ -1,0 +1,16 @@
+{
+  "iso_code": "KZ-61",
+  "country_iso": "KZ",
+  "country_name": "KZ",
+  "region_name": "kz-61",
+  "region_normalized": "kz-61",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Turkistan region seal.png"
+  },
+  "data_source": "out"
+}

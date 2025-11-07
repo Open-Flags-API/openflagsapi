@@ -1,0 +1,14 @@
+{
+  "code": "AR-U",
+  "country": "AR",
+  "flag": {
+    "svg": "AR/AR-U/flag.svg",
+    "png": "AR/AR-U/flag.png",
+    "source_filename": "Bandera de la Provincia del Chubut.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-U/coat.svg",
+    "png": "AR/AR-U/coat.png",
+    "source_filename": "Escudo de la Provincia de Chubut.svg"
+  }
+}

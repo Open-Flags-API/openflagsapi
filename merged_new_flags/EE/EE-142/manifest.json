@@ -1,0 +1,16 @@
+{
+  "iso_code": "EE-142",
+  "country_iso": "EE",
+  "country_name": "EE",
+  "region_name": "ee-142",
+  "region_normalized": "ee-142",
+  "flag": {
+    "svg": "EE/EE-142/flag.svg",
+    "source": "Antsla valla lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-142/coat.svg",
+    "source": "Antsla valla vapp.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MH-MA",
+  "country_iso": "MH",
+  "country_name": "marshall-islands",
+  "region_name": "marshall-islands",
+  "region_normalized": "marshall-islands",
+  "flag": {
+    "svg": "MH/MH-MA/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "GH-AH",
+  "country_iso": "GH",
+  "country_name": "GH",
+  "region_name": "gh-ah",
+  "region_normalized": "gh-ah",
+  "flag": {
+    "svg": "GH/GH-AH/flag.svg",
+    "source": "Flag of Ashanti.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

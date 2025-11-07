@@ -1,0 +1,16 @@
+{
+  "iso_code": "KE-04",
+  "country_iso": "KE",
+  "country_name": "KE",
+  "region_name": "ke-04",
+  "region_normalized": "ke-04",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Busia County.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of Arms of Busia County.png"
+  },
+  "data_source": "out"
+}

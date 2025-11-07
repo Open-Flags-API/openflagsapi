@@ -1,0 +1,14 @@
+{
+  "code": "CH-ZG",
+  "country": "CH",
+  "flag": {
+    "svg": "CH/CH-ZG/flag.svg",
+    "png": "CH/CH-ZG/flag.png",
+    "source_filename": "Flag of Canton of Zug.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-ZG/coat.svg",
+    "png": "CH/CH-ZG/coat.png",
+    "source_filename": "Wappen Zug matt.svg"
+  }
+}

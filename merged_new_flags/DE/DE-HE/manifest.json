@@ -1,0 +1,16 @@
+{
+  "iso_code": "DE-HE",
+  "country_iso": "DE",
+  "country_name": "germany",
+  "region_name": "de-he",
+  "region_normalized": "de-he",
+  "flag": {
+    "svg": "DE/DE-HE/flag.svg",
+    "source": "Flag of Hesse.svg"
+  },
+  "coat": {
+    "svg": "DE/DE-HE/coat.svg",
+    "source": "Coat of arms of Hesse.svg"
+  },
+  "data_source": "out"
+}

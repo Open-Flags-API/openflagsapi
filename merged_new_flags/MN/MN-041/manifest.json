@@ -1,0 +1,16 @@
+{
+  "iso_code": "MN-041",
+  "country_iso": "MN",
+  "country_name": "MN",
+  "region_name": "mn-041",
+  "region_normalized": "mn-041",
+  "flag": {
+    "svg": "MN/MN-041/flag.svg",
+    "source": "Mn flag khövsgöl aimag 2014.svg"
+  },
+  "coat": {
+    "svg": "MN/MN-041/coat.svg",
+    "source": "Mn coa khövsgöl aimag 2014.svg"
+  },
+  "data_source": "out"
+}

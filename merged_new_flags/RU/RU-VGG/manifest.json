@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-VGG",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-vgg",
+  "region_normalized": "ru-vgg",
+  "flag": {
+    "svg": "RU/RU-VGG/flag.svg",
+    "source": "Flag of Volgograd Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-VGG/coat.svg",
+    "source": "Coat of Arms of Volgograd oblast.svg"
+  },
+  "data_source": "out"
+}

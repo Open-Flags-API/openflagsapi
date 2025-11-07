@@ -1,0 +1,16 @@
+{
+  "iso_code": "VE-K",
+  "country_iso": "VE",
+  "country_name": "VE",
+  "region_name": "ve-k",
+  "region_normalized": "ve-k",
+  "flag": {
+    "svg": "VE/VE-K/flag.svg",
+    "source": "Flag of Lara State.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Escudo de Lara.jpg"
+  },
+  "data_source": "out"
+}

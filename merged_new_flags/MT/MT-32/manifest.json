@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-32",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-32",
+  "region_normalized": "mt-32",
+  "flag": {
+    "svg": "MT/MT-32/flag.svg",
+    "source": "Flag of Mosta.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-32/coat.svg",
+    "source": "Mosta coa.svg"
+  },
+  "data_source": "out"
+}

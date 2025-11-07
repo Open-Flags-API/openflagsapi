@@ -1,0 +1,14 @@
+{
+  "code": "US-MA",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-MA/flag.svg",
+    "png": "US/US-MA/flag.png",
+    "source_filename": "Flag of Massachusetts.svg"
+  },
+  "coat": {
+    "svg": "US/US-MA/coat.svg",
+    "png": "US/US-MA/coat.png",
+    "source_filename": "Coat of arms of Massachusetts.svg"
+  }
+}

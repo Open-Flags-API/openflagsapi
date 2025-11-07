@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-6AE",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-6ae",
+  "region_normalized": "fr-6ae",
+  "flag": {
+    "svg": "FR/FR-6AE/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": "FR/FR-6AE/coat.svg",
+    "source": "BlasonAlsace ancien.svg"
+  },
+  "data_source": "out"
+}

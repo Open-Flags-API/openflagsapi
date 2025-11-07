@@ -1,0 +1,16 @@
+{
+  "iso_code": "NL-AW",
+  "country_iso": "NL",
+  "country_name": "NL",
+  "region_name": "nl-aw",
+  "region_normalized": "nl-aw",
+  "flag": {
+    "svg": "NL/NL-AW/flag.svg",
+    "source": "Flag of Aruba.svg"
+  },
+  "coat": {
+    "svg": "NL/NL-AW/coat.svg",
+    "source": "Aruba wapen.svg"
+  },
+  "data_source": "out"
+}

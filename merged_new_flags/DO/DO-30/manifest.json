@@ -1,0 +1,16 @@
+{
+  "iso_code": "DO-30",
+  "country_iso": "DO",
+  "country_name": "DO",
+  "region_name": "do-30",
+  "region_normalized": "do-30",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "DO/DO-30/coat.svg",
+    "source": "Escudo del Municipio Hato Mayor del Rey.svg"
+  },
+  "data_source": "out"
+}

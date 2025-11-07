@@ -1,0 +1,14 @@
+{
+  "code": "KY",
+  "country": "KY",
+  "flag": {
+    "svg": "KY/KY/flag.svg",
+    "png": "KY/KY/flag.png",
+    "source_filename": "Flag of the Cayman Islands.svg"
+  },
+  "coat": {
+    "svg": "KY/KY/coat.svg",
+    "png": "KY/KY/coat.png",
+    "source_filename": "Cayman Islands Coat of Arms.svg"
+  }
+}

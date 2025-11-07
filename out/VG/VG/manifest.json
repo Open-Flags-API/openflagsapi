@@ -1,0 +1,14 @@
+{
+  "code": "VG",
+  "country": "VG",
+  "flag": {
+    "svg": "VG/VG/flag.svg",
+    "png": "VG/VG/flag.png",
+    "source_filename": "Flag of the British Virgin Islands.svg"
+  },
+  "coat": {
+    "svg": "VG/VG/coat.svg",
+    "png": "VG/VG/coat.png",
+    "source_filename": "Coat of arms of the British Virgin Islands.svg"
+  }
+}

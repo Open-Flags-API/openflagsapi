@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-WA",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "warwickshire",
+  "region_normalized": "warwickshire",
+  "flag": {
+    "svg": "GB/GB-WA/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

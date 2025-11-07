@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-IR",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "irkutsk",
+  "region_normalized": "irkutsk",
+  "flag": {
+    "svg": "RU/RU-IR/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

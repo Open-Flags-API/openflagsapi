@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-LEC",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-lec",
+  "region_normalized": "gb-lec",
+  "flag": {
+    "svg": "GB/GB-LEC/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-LEC/coat.svg",
+    "source": null
+  },
+  "data_source": "out"
+}

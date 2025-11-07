@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-057",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-057",
+  "region_normalized": "lv-057",
+  "flag": {
+    "svg": "LV/LV-057/flag.svg",
+    "source": "Lubānas novads Flag.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-057/coat.svg",
+    "source": "Lubānas novads COA.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "RO-TL",
+  "country_iso": "RO",
+  "country_name": "RO",
+  "region_name": "ro-tl",
+  "region_normalized": "ro-tl",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Actual Tulcea county CoA.png"
+  },
+  "data_source": "out"
+}

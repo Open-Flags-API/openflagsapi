@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-701",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-701",
+  "region_normalized": "mk-701",
+  "flag": {
+    "svg": "MK/MK-701/flag.svg",
+    "source": "Flag of Kratovo Municipality, North Macedonia.svg"
+  },
+  "coat": {
+    "svg": "MK/MK-701/coat.svg",
+    "source": "Coat of arms of Kratovo Municipality.svg"
+  },
+  "data_source": "out"
+}

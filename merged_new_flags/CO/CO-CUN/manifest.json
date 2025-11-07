@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-CUN",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-cun",
+  "region_normalized": "co-cun",
+  "flag": {
+    "svg": "CO/CO-CUN/flag.svg",
+    "source": "Flag of Cundinamarca.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-CUN/coat.svg",
+    "source": "Escudo de Cundinamarca.svg"
+  },
+  "data_source": "out"
+}

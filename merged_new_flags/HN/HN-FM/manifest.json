@@ -1,0 +1,16 @@
+{
+  "iso_code": "HN-FM",
+  "country_iso": "HN",
+  "country_name": "HN",
+  "region_name": "hn-fm",
+  "region_normalized": "hn-fm",
+  "flag": {
+    "svg": "HN/HN-FM/flag.svg",
+    "source": "Flag of Tegucigalpa.svg"
+  },
+  "coat": {
+    "svg": "HN/HN-FM/coat.svg",
+    "source": "Escudo de Distrito Central.svg"
+  },
+  "data_source": "out"
+}

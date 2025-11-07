@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-NC",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-nc",
+  "region_normalized": "es-nc",
+  "flag": {
+    "svg": "ES/ES-NC/flag.svg",
+    "source": "Bandera de Navarra.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-NC/coat.svg",
+    "source": "Escudo de Navarra (oficial).svg"
+  },
+  "data_source": "out"
+}

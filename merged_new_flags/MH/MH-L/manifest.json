@@ -1,0 +1,16 @@
+{
+  "iso_code": "MH-L",
+  "country_iso": "MH",
+  "country_name": "marshall-islands",
+  "region_name": "mh-l",
+  "region_normalized": "mh-l",
+  "flag": {
+    "svg": "MH/MH-L/flag.svg",
+    "source": "Flagge der Ralik-Inseln.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

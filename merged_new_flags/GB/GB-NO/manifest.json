@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-NO",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "nottinghamshire",
+  "region_normalized": "nottinghamshire",
+  "flag": {
+    "svg": "GB/GB-NO/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

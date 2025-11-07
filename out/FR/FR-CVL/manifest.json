@@ -1,0 +1,14 @@
+{
+  "code": "FR-CVL",
+  "country": "FR",
+  "flag": {
+    "svg": "FR/FR-CVL/flag.svg",
+    "png": "FR/FR-CVL/flag.png",
+    "source_filename": "Flag of Centre-Val de Loire.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-CVL/coat.svg",
+    "png": "FR/FR-CVL/coat.png",
+    "source_filename": "Blason Centre-Val de Loire.svg"
+  }
+}

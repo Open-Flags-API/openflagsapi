@@ -1,0 +1,16 @@
+{
+  "iso_code": "AU-TAS",
+  "country_iso": "AU",
+  "country_name": "AU",
+  "region_name": "au-tas",
+  "region_normalized": "au-tas",
+  "flag": {
+    "svg": "AU/AU-TAS/flag.svg",
+    "source": "Flag of Tasmania.svg"
+  },
+  "coat": {
+    "svg": "AU/AU-TAS/coat.svg",
+    "source": "Coat of arms of Tasmania.svg"
+  },
+  "data_source": "out"
+}

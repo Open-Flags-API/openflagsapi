@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-NWP",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-nwp",
+  "region_normalized": "gb-nwp",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-NWP/coat.svg",
+    "source": "Newport COA shield.svg"
+  },
+  "data_source": "out"
+}

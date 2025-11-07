@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-35",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-35",
+  "region_normalized": "mt-35",
+  "flag": {
+    "svg": "MT/MT-35/flag.svg",
+    "source": "Flag of Mtarfa.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-35/coat.svg",
+    "source": "Mtarfa coa.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "RU-ZAB",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-ZAB/flag.svg",
+    "png": "RU/RU-ZAB/flag.png",
+    "source_filename": "Flag of Zabaykalsky Krai.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-ZAB/coat.svg",
+    "png": "RU/RU-ZAB/coat.png",
+    "source_filename": "Coat of arms of Zabaykalsky Krai.svg"
+  }
+}

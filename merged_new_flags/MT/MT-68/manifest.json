@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-68",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-68",
+  "region_normalized": "mt-68",
+  "flag": {
+    "svg": "MT/MT-68/flag.svg",
+    "source": "Flag of Żurrieq.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-68/coat.svg",
+    "source": "Zurrieq coa.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-MRY",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-mry",
+  "region_normalized": "gb-mry",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-MRY/coat.svg",
+    "source": "Coat of arms of Moray Area Council.svg"
+  },
+  "data_source": "out"
+}

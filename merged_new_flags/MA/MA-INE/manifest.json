@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-INE",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-ine",
+  "region_normalized": "ma-ine",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

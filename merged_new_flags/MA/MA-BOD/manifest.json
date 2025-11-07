@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-BOD",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-bod",
+  "region_normalized": "ma-bod",
+  "flag": {
+    "svg": "MA/MA-BOD/flag.svg",
+    "source": "Flag of Boujdour province (1976-1997).svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "IE-LH",
+  "country": "IE",
+  "flag": {
+    "svg": "IE/IE-LH/flag.svg",
+    "png": "IE/IE-LH/flag.png",
+    "source_filename": "Flag of the counties of Cork and Louth.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "IE/IE-LH/coat.png",
+    "source_filename": "Louth Coat of Arms.png"
+  }
+}

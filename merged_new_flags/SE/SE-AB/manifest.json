@@ -1,0 +1,16 @@
+{
+  "iso_code": "SE-AB",
+  "country_iso": "SE",
+  "country_name": "SE",
+  "region_name": "se-ab",
+  "region_normalized": "se-ab",
+  "flag": {
+    "svg": "SE/SE-AB/flag.svg",
+    "source": "Stockholms län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-AB/coat.svg",
+    "source": "Stockholm län vapen b ram.svg"
+  },
+  "data_source": "out"
+}

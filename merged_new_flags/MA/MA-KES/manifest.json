@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-KES",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-kes",
+  "region_normalized": "ma-kes",
+  "flag": {
+    "svg": "MA/MA-KES/flag.svg",
+    "source": "Flag of El Kelaa des Srarhna province (1976-1997).svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

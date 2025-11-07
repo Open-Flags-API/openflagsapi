@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-MAG",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-mag",
+  "region_normalized": "ru-mag",
+  "flag": {
+    "svg": "RU/RU-MAG/flag.svg",
+    "source": "Flag of Magadan Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-MAG/coat.svg",
+    "source": "Coat of Arms of Magadan oblast.svg"
+  },
+  "data_source": "out"
+}

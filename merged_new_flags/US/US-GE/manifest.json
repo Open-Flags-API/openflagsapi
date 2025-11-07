@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-GE",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "georgiaClassic1",
+  "region_normalized": "georgiaclassic1",
+  "flag": {
+    "svg": "US/US-GE/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

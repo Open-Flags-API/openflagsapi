@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-NSA",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-nsa",
+  "region_normalized": "ph-nsa",
+  "flag": {
+    "svg": null,
+    "source": "PH-NSA Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Ph seal northern samar.png"
+  },
+  "data_source": "out"
+}

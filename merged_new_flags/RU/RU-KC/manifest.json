@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-KC",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-kc",
+  "region_normalized": "ru-kc",
+  "flag": {
+    "svg": "RU/RU-KC/flag.svg",
+    "source": "Flag of Karachay-Cherkessia.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-KC/coat.svg",
+    "source": "Coat of Arms of Karachay-Cherkessia.svg"
+  },
+  "data_source": "out"
+}

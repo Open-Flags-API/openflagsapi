@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-TAB",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "mx-tab",
+  "region_normalized": "mx-tab",
+  "flag": {
+    "svg": "MX/MX-TAB/flag.svg",
+    "source": "Flag of Tabasco.svg"
+  },
+  "coat": {
+    "svg": "MX/MX-TAB/coat.svg",
+    "source": "Coat of arms of Tabasco.svg"
+  },
+  "data_source": "out"
+}

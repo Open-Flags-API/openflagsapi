@@ -1,0 +1,16 @@
+{
+  "iso_code": "SH-HL",
+  "country_iso": "SH",
+  "country_name": "SH",
+  "region_name": "sh-hl",
+  "region_normalized": "sh-hl",
+  "flag": {
+    "svg": "SH/SH-HL/flag.svg",
+    "source": "Flag of Saint Helena.svg"
+  },
+  "coat": {
+    "svg": "SH/SH-HL/coat.svg",
+    "source": "Coat of Arms of Saint Helena.svg"
+  },
+  "data_source": "out"
+}

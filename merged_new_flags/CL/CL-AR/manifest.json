@@ -1,0 +1,16 @@
+{
+  "iso_code": "CL-AR",
+  "country_iso": "CL",
+  "country_name": "CL",
+  "region_name": "cl-ar",
+  "region_normalized": "cl-ar",
+  "flag": {
+    "svg": "CL/CL-AR/flag.svg",
+    "source": "Flag of La Araucanía Region.svg"
+  },
+  "coat": {
+    "svg": "CL/CL-AR/coat.svg",
+    "source": "Coat of arms of La Araucania, Chile.svg"
+  },
+  "data_source": "out"
+}

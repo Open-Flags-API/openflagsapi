@@ -1,0 +1,14 @@
+{
+  "code": "FR-NC",
+  "country": "FR",
+  "flag": {
+    "svg": "FR/FR-NC/flag.svg",
+    "png": "FR/FR-NC/flag.png",
+    "source_filename": "Flag of FLNKS.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-NC/coat.svg",
+    "png": "FR/FR-NC/coat.png",
+    "source_filename": "Emblem of New Caledonia.svg"
+  }
+}

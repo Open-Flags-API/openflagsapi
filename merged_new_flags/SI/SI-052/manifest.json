@@ -1,0 +1,16 @@
+{
+  "iso_code": "SI-052",
+  "country_iso": "SI",
+  "country_name": "SI",
+  "region_name": "si-052",
+  "region_normalized": "si-052",
+  "flag": {
+    "svg": "SI/SI-052/flag.svg",
+    "source": "Zastava Kranja.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

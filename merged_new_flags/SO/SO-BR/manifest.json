@@ -1,0 +1,16 @@
+{
+  "iso_code": "SO-BR",
+  "country_iso": "SO",
+  "country_name": "SO",
+  "region_name": "so-br",
+  "region_normalized": "so-br",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

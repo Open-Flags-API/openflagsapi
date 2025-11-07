@@ -1,0 +1,16 @@
+{
+  "iso_code": "LR-GB",
+  "country_iso": "LR",
+  "country_name": "LR",
+  "region_name": "lr-gb",
+  "region_normalized": "lr-gb",
+  "flag": {
+    "svg": "LR/LR-GB/flag.svg",
+    "source": "Flag of Grand Bassa County.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

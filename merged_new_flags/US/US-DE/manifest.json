@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-DE",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-de",
+  "region_normalized": "us-de",
+  "flag": {
+    "svg": "US/US-DE/flag.svg",
+    "source": "Flag of Delaware.svg"
+  },
+  "coat": {
+    "svg": "US/US-DE/coat.svg",
+    "source": "Coat of arms of Delaware.svg"
+  },
+  "data_source": "out"
+}

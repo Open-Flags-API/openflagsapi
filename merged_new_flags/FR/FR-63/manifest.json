@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-63",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-63",
+  "region_normalized": "fr-63",
+  "flag": {
+    "svg": "FR/FR-63/flag.svg",
+    "source": "Drapeau proposé pour le département Puy-de-Dôme.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-63/coat.svg",
+    "source": "Blason département fr Puy-de-Dôme.svg"
+  },
+  "data_source": "out"
+}

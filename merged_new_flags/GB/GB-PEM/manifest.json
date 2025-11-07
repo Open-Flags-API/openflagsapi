@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-PEM",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-pem",
+  "region_normalized": "gb-pem",
+  "flag": {
+    "svg": "GB/GB-PEM/flag.svg",
+    "source": "Flag of Pembrokeshire.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-PEM/coat.svg",
+    "source": "Arms of Pembrokeshire County Council.svg"
+  },
+  "data_source": "out"
+}

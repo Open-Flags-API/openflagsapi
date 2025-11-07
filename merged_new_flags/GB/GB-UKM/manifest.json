@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-UKM",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-ukm",
+  "region_normalized": "gb-ukm",
+  "flag": {
+    "svg": "GB/GB-UKM/flag.svg",
+    "source": "Flag of the United Kingdom (3-5).svg"
+  },
+  "coat": {
+    "svg": "GB/GB-UKM/coat.svg",
+    "source": "Coat of arms of the United Kingdom (2022, variant 2).svg"
+  },
+  "data_source": "out"
+}

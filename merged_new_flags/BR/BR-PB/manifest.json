@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-PB",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "br-pb",
+  "region_normalized": "br-pb",
+  "flag": {
+    "svg": "BR/BR-PB/flag.svg",
+    "source": "Bandeira da Paraíba.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-PB/coat.svg",
+    "source": "Brasão da Paraíba.svg"
+  },
+  "data_source": "out"
+}

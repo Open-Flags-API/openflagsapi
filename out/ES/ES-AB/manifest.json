@@ -1,0 +1,14 @@
+{
+  "code": "ES-AB",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-AB/flag.svg",
+    "png": "ES/ES-AB/flag.png",
+    "source_filename": "Bandera provincia Albacete.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-AB/coat.svg",
+    "png": "ES/ES-AB/coat.png",
+    "source_filename": "Escudo provincia de Albacete.svg"
+  }
+}

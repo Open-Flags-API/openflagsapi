@@ -1,0 +1,16 @@
+{
+  "iso_code": "VN-HP",
+  "country_iso": "VN",
+  "country_name": "VN",
+  "region_name": "vn-hp",
+  "region_normalized": "vn-hp",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

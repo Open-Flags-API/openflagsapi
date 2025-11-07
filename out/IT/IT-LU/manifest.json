@@ -1,0 +1,14 @@
+{
+  "code": "IT-LU",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-LU/flag.svg",
+    "png": "IT/IT-LU/flag.png",
+    "source_filename": "Provincia di Lucca-Bandiera.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-LU/coat.svg",
+    "png": "IT/IT-LU/coat.png",
+    "source_filename": "Provincia di Lucca-Stemma.svg"
+  }
+}

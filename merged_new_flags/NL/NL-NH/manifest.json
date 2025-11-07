@@ -1,0 +1,16 @@
+{
+  "iso_code": "NL-NH",
+  "country_iso": "NL",
+  "country_name": "NL",
+  "region_name": "nl-nh",
+  "region_normalized": "nl-nh",
+  "flag": {
+    "svg": "NL/NL-NH/flag.svg",
+    "source": "Flag of North Holland.svg"
+  },
+  "coat": {
+    "svg": "NL/NL-NH/coat.svg",
+    "source": "Noord-Holland wapen.svg"
+  },
+  "data_source": "out"
+}

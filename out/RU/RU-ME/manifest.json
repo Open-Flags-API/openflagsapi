@@ -1,0 +1,14 @@
+{
+  "code": "RU-ME",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-ME/flag.svg",
+    "png": "RU/RU-ME/flag.png",
+    "source_filename": "Flag of Mari El.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-ME/coat.svg",
+    "png": "RU/RU-ME/coat.png",
+    "source_filename": "Coat of Arms of Mari El.svg"
+  }
+}

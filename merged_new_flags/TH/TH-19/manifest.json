@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-19",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-19",
+  "region_normalized": "th-19",
+  "flag": {
+    "svg": "TH/TH-19/flag.svg",
+    "source": "Provincial Flag of Saraburi.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

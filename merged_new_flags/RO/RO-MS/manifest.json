@@ -1,0 +1,16 @@
+{
+  "iso_code": "RO-MS",
+  "country_iso": "RO",
+  "country_name": "RO",
+  "region_name": "ro-ms",
+  "region_normalized": "ro-ms",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "RO/RO-MS/coat.svg",
+    "source": "Mures county coat of arms.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-62",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-62",
+  "region_normalized": "fr-62",
+  "flag": {
+    "svg": "FR/FR-62/flag.svg",
+    "source": "Unofficial Flag of Pas-De-Calais.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-62/coat.svg",
+    "source": "Blason département fr Pas-de-Calais.svg"
+  },
+  "data_source": "out"
+}

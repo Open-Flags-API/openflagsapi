@@ -1,0 +1,16 @@
+{
+  "iso_code": "SI-080",
+  "country_iso": "SI",
+  "country_name": "SI",
+  "region_name": "si-080",
+  "region_normalized": "si-080",
+  "flag": {
+    "svg": "SI/SI-080/flag.svg",
+    "source": "Murska Sobota flag.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

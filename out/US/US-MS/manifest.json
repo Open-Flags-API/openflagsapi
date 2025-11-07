@@ -1,0 +1,14 @@
+{
+  "code": "US-MS",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-MS/flag.svg",
+    "png": "US/US-MS/flag.png",
+    "source_filename": "Flag of Mississippi.svg"
+  },
+  "coat": {
+    "svg": "US/US-MS/coat.svg",
+    "png": "US/US-MS/coat.png",
+    "source_filename": "Coat of arms of Mississippi.svg"
+  }
+}

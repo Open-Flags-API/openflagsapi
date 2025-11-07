@@ -1,0 +1,16 @@
+{
+  "iso_code": "SI-113",
+  "country_iso": "SI",
+  "country_name": "SI",
+  "region_name": "si-113",
+  "region_normalized": "si-113",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Slovenska Bistrica.png"
+  },
+  "data_source": "out"
+}

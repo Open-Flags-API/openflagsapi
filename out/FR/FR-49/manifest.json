@@ -1,0 +1,14 @@
+{
+  "code": "FR-49",
+  "country": "FR",
+  "flag": {
+    "svg": "FR/FR-49/flag.svg",
+    "png": "FR/FR-49/flag.png",
+    "source_filename": "Flag of Anjou.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-49/coat.svg",
+    "png": "FR/FR-49/coat.png",
+    "source_filename": "Blason duche fr Anjou (moderne).svg"
+  }
+}

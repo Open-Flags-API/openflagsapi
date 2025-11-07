@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-CHP",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "mx-chp",
+  "region_normalized": "mx-chp",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "MX/MX-CHP/coat.svg",
+    "source": "Coat of arms of Chiapas.svg"
+  },
+  "data_source": "out"
+}

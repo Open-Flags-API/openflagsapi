@@ -1,0 +1,14 @@
+{
+  "code": "RU-PRI",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-PRI/flag.svg",
+    "png": "RU/RU-PRI/flag.png",
+    "source_filename": "Flag of Primorsky Krai (large).svg"
+  },
+  "coat": {
+    "svg": "RU/RU-PRI/coat.svg",
+    "png": "RU/RU-PRI/coat.png",
+    "source_filename": "Full coat of arms of Primorsky Krai.svg"
+  }
+}

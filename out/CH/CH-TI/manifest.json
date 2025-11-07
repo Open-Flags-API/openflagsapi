@@ -1,0 +1,14 @@
+{
+  "code": "CH-TI",
+  "country": "CH",
+  "flag": {
+    "svg": "CH/CH-TI/flag.svg",
+    "png": "CH/CH-TI/flag.png",
+    "source_filename": "Flag of Canton of Ticino.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-TI/coat.svg",
+    "png": "CH/CH-TI/coat.png",
+    "source_filename": "Wappen Tessin matt.svg"
+  }
+}

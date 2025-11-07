@@ -1,0 +1,14 @@
+{
+  "code": "BR-SP",
+  "country": "BR",
+  "flag": {
+    "svg": "BR/BR-SP/flag.svg",
+    "png": "BR/BR-SP/flag.png",
+    "source_filename": "Bandeira do estado de São Paulo.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-SP/coat.svg",
+    "png": "BR/BR-SP/coat.png",
+    "source_filename": "Brasão do estado de São Paulo.svg"
+  }
+}

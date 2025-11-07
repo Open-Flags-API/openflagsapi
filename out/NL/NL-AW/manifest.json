@@ -1,0 +1,14 @@
+{
+  "code": "NL-AW",
+  "country": "NL",
+  "flag": {
+    "svg": "NL/NL-AW/flag.svg",
+    "png": "NL/NL-AW/flag.png",
+    "source_filename": "Flag of Aruba.svg"
+  },
+  "coat": {
+    "svg": "NL/NL-AW/coat.svg",
+    "png": "NL/NL-AW/coat.png",
+    "source_filename": "Aruba wapen.svg"
+  }
+}

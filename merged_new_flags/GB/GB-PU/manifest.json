@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-PU",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "purbeck",
+  "region_normalized": "purbeck",
+  "flag": {
+    "svg": "GB/GB-PU/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

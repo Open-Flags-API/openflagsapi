@@ -1,0 +1,14 @@
+{
+  "code": "MX-TLA",
+  "country": "MX",
+  "flag": {
+    "svg": "MX/MX-TLA/flag.svg",
+    "png": "MX/MX-TLA/flag.png",
+    "source_filename": "Flag of Tlaxcala.svg"
+  },
+  "coat": {
+    "svg": "MX/MX-TLA/coat.svg",
+    "png": "MX/MX-TLA/coat.png",
+    "source_filename": "Coat of arms of Tlaxcala.svg"
+  }
+}

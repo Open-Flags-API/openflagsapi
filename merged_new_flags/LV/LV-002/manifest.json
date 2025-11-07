@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-002",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-002",
+  "region_normalized": "lv-002",
+  "flag": {
+    "svg": null,
+    "source": "Aizkraukle novads karogs.png"
+  },
+  "coat": {
+    "svg": "LV/LV-002/coat.svg",
+    "source": "Aizkraukles novads COA.svg"
+  },
+  "data_source": "out"
+}

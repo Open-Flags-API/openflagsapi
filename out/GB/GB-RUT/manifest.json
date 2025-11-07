@@ -1,0 +1,14 @@
+{
+  "code": "GB-RUT",
+  "country": "GB",
+  "flag": {
+    "svg": "GB/GB-RUT/flag.svg",
+    "png": "GB/GB-RUT/flag.png",
+    "source_filename": "Rutland County Flag.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-RUT/coat.svg",
+    "png": "GB/GB-RUT/coat.png",
+    "source_filename": "Arms of Rutland County Council.svg"
+  }
+}

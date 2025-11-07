@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-SC",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-sc",
+  "region_normalized": "us-sc",
+  "flag": {
+    "svg": "US/US-SC/flag.svg",
+    "source": "Flag of South Carolina.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

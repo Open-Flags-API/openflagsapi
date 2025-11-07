@@ -1,0 +1,14 @@
+{
+  "code": "PH-ILI",
+  "country": "PH",
+  "flag": {
+    "svg": "PH/PH-ILI/flag.svg",
+    "png": "PH/PH-ILI/flag.png",
+    "source_filename": "Flag of the Province of Iloilo.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "PH/PH-ILI/coat.png",
+    "source_filename": "Ph seal iloilo.png"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "code": "EE-64",
+  "country": "EE",
+  "flag": {
+    "svg": "EE/EE-64/flag.svg",
+    "png": "EE/EE-64/flag.png",
+    "source_filename": "Põlvamaa lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-64/coat.svg",
+    "png": "EE/EE-64/coat.png",
+    "source_filename": "Põlvamaa vapp.svg"
+  }
+}

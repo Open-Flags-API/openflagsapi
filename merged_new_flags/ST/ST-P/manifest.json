@@ -1,0 +1,16 @@
+{
+  "iso_code": "ST-P",
+  "country_iso": "ST",
+  "country_name": "ST",
+  "region_name": "st-p",
+  "region_normalized": "st-p",
+  "flag": {
+    "svg": "ST/ST-P/flag.svg",
+    "source": "Flag of Príncipe Autonomous Region.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

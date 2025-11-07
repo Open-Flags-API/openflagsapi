@@ -1,0 +1,16 @@
+{
+  "iso_code": "TD-CB",
+  "country_iso": "TD",
+  "country_name": "TD",
+  "region_name": "td-cb",
+  "region_normalized": "td-cb",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

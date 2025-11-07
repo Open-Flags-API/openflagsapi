@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-CBF",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-cbf",
+  "region_normalized": "gb-cbf",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

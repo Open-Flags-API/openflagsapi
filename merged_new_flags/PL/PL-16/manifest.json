@@ -1,0 +1,16 @@
+{
+  "iso_code": "PL-16",
+  "country_iso": "PL",
+  "country_name": "PL",
+  "region_name": "pl-16",
+  "region_normalized": "pl-16",
+  "flag": {
+    "svg": "PL/PL-16/flag.svg",
+    "source": "POL województwo opolskie flag.svg"
+  },
+  "coat": {
+    "svg": "PL/PL-16/coat.svg",
+    "source": "POL województwo opolskie COA.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-DC",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-dc",
+  "region_normalized": "us-dc",
+  "flag": {
+    "svg": "US/US-DC/flag.svg",
+    "source": "Flag of Washington, D.C.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

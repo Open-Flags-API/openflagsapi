@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-304",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-304",
+  "region_normalized": "mk-304",
+  "flag": {
+    "svg": "MK/MK-304/flag.svg",
+    "source": "Flag of Debarca Municipality, North Macedonia.svg"
+  },
+  "coat": {
+    "svg": "MK/MK-304/coat.svg",
+    "source": "Coat of arms of Debarca Municipality.svg"
+  },
+  "data_source": "out"
+}

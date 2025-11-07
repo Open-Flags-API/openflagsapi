@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-LEY",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-ley",
+  "region_normalized": "ph-ley",
+  "flag": {
+    "svg": null,
+    "source": "Leyte Flag.png"
+  },
+  "coat": {
+    "svg": "PH/PH-LEY/coat.svg",
+    "source": "Leyte Province seal.svg"
+  },
+  "data_source": "out"
+}

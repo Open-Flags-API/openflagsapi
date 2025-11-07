@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-RIX",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-rix",
+  "region_normalized": "lv-rix",
+  "flag": {
+    "svg": "LV/LV-RIX/flag.svg",
+    "source": "Flag of Riga.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-RIX/coat.svg",
+    "source": "Greater Coat of Arms of Riga - for display.svg"
+  },
+  "data_source": "out"
+}

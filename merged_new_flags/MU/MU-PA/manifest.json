@@ -1,0 +1,16 @@
+{
+  "iso_code": "MU-PA",
+  "country_iso": "MU",
+  "country_name": "MU",
+  "region_name": "mu-pa",
+  "region_normalized": "mu-pa",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "AZ-SKR",
+  "country_iso": "AZ",
+  "country_name": "AZ",
+  "region_name": "az-skr",
+  "region_normalized": "az-skr",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

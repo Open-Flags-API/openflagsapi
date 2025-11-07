@@ -1,0 +1,16 @@
+{
+  "iso_code": "AZ-UCA",
+  "country_iso": "AZ",
+  "country_name": "AZ",
+  "region_name": "az-uca",
+  "region_normalized": "az-uca",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "ST-02",
+  "country_iso": "ST",
+  "country_name": "ST",
+  "region_name": "st-02",
+  "region_normalized": "st-02",
+  "flag": {
+    "svg": null,
+    "source": "Cantagalo Bandeira.jpg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Cantagalo Brasão.jpg"
+  },
+  "data_source": "out"
+}

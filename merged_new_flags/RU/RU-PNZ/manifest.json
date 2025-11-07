@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-PNZ",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-pnz",
+  "region_normalized": "ru-pnz",
+  "flag": {
+    "svg": "RU/RU-PNZ/flag.svg",
+    "source": "Flag of Penza Oblast, center.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-PNZ/coat.svg",
+    "source": "Coat of arms of Penza Oblast (large).svg"
+  },
+  "data_source": "out"
+}

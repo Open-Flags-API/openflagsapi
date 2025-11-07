@@ -1,0 +1,14 @@
+{
+  "code": "PH-TAR",
+  "country": "PH",
+  "flag": {
+    "svg": "PH/PH-TAR/flag.svg",
+    "png": "PH/PH-TAR/flag.png",
+    "source_filename": "Flag of the Province of Tarlac.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "PH/PH-TAR/coat.png",
+    "source_filename": "Ph seal tarlac.png"
+  }
+}

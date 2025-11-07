@@ -1,0 +1,14 @@
+{
+  "code": "CA-MB",
+  "country": "CA",
+  "flag": {
+    "svg": "CA/CA-MB/flag.svg",
+    "png": "CA/CA-MB/flag.png",
+    "source_filename": "Flag of the Province of Manitoba.svg"
+  },
+  "coat": {
+    "svg": "CA/CA-MB/coat.svg",
+    "png": "CA/CA-MB/coat.png",
+    "source_filename": "Coat of arms of Manitoba.svg"
+  }
+}

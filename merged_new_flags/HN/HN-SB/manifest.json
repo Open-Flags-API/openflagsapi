@@ -1,0 +1,16 @@
+{
+  "iso_code": "HN-SB",
+  "country_iso": "HN",
+  "country_name": "HN",
+  "region_name": "hn-sb",
+  "region_normalized": "hn-sb",
+  "flag": {
+    "svg": "HN/HN-SB/flag.svg",
+    "source": "Bandera de Santa Barbara Honduras.svg"
+  },
+  "coat": {
+    "svg": "HN/HN-SB/coat.svg",
+    "source": "Escudo de Santa Barbara Honduras.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-20",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-20",
+  "region_normalized": "mt-20",
+  "flag": {
+    "svg": "MT/MT-20/flag.svg",
+    "source": "Flag of Isla.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-20/coat.svg",
+    "source": "Isla coa.svg"
+  },
+  "data_source": "out"
+}

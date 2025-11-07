@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-VEN",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-ven",
+  "region_normalized": "lv-ven",
+  "flag": {
+    "svg": "LV/LV-VEN/flag.svg",
+    "source": "Flag of Ventspils.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-VEN/coat.svg",
+    "source": "LVA Ventspils COA.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "AM-VD",
+  "country_iso": "AM",
+  "country_name": "AM",
+  "region_name": "am-vd",
+  "region_normalized": "am-vd",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Vajots Dzor marz gerb.jpg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "FM-PNI",
+  "country_iso": "FM",
+  "country_name": "FM",
+  "region_name": "fm-pni",
+  "region_normalized": "fm-pni",
+  "flag": {
+    "svg": "FM/FM-PNI/flag.svg",
+    "source": "Flag of Pohnpei.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

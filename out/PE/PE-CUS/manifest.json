@@ -1,0 +1,14 @@
+{
+  "code": "PE-CUS",
+  "country": "PE",
+  "flag": {
+    "svg": "PE/PE-CUS/flag.svg",
+    "png": "PE/PE-CUS/flag.png",
+    "source_filename": "Flag of Cusco (2021).svg"
+  },
+  "coat": {
+    "svg": "PE/PE-CUS/coat.svg",
+    "png": "PE/PE-CUS/coat.png",
+    "source_filename": "Cusco Emblem.svg"
+  }
+}

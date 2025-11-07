@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-TAO",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-tao",
+  "region_normalized": "ma-tao",
+  "flag": {
+    "svg": "MA/MA-TAO/flag.svg",
+    "source": "Flag of Taounate province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-MDW",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-mdw",
+  "region_normalized": "gb-mdw",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Medway Council Crest - geograph.org.uk - 1033321.jpg"
+  },
+  "data_source": "out"
+}

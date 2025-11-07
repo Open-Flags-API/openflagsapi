@@ -1,0 +1,14 @@
+{
+  "code": "SE-C",
+  "country": "SE",
+  "flag": {
+    "svg": "SE/SE-C/flag.svg",
+    "png": "SE/SE-C/flag.png",
+    "source_filename": "Uppsala län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-C/coat.svg",
+    "png": "SE/SE-C/coat.png",
+    "source_filename": "Uppland vapen.svg"
+  }
+}

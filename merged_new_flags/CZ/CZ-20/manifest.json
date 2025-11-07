@@ -1,0 +1,16 @@
+{
+  "iso_code": "CZ-20",
+  "country_iso": "CZ",
+  "country_name": "CZ",
+  "region_name": "cz-20",
+  "region_normalized": "cz-20",
+  "flag": {
+    "svg": "CZ/CZ-20/flag.svg",
+    "source": "Vlajka Středočeského kraje.svg"
+  },
+  "coat": {
+    "svg": "CZ/CZ-20/coat.svg",
+    "source": "CZE Kraj Środkowoczeski COA.svg"
+  },
+  "data_source": "out"
+}

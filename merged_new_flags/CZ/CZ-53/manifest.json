@@ -1,0 +1,16 @@
+{
+  "iso_code": "CZ-53",
+  "country_iso": "CZ",
+  "country_name": "CZ",
+  "region_name": "cz-53",
+  "region_normalized": "cz-53",
+  "flag": {
+    "svg": "CZ/CZ-53/flag.svg",
+    "source": "Flag of Pardubice Region.svg"
+  },
+  "coat": {
+    "svg": "CZ/CZ-53/coat.svg",
+    "source": "Pardubice Region CoA CZ.svg"
+  },
+  "data_source": "out"
+}

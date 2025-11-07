@@ -1,0 +1,16 @@
+{
+  "iso_code": "SA-03",
+  "country_iso": "SA",
+  "country_name": "SA",
+  "region_name": "sa-03",
+  "region_normalized": "sa-03",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

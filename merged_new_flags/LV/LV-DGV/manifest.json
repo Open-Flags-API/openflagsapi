@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-DGV",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-dgv",
+  "region_normalized": "lv-dgv",
+  "flag": {
+    "svg": "LV/LV-DGV/flag.svg",
+    "source": "Flag of Daugavpils.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-DGV/coat.svg",
+    "source": "Coat of arms of Daugavpils.svg"
+  },
+  "data_source": "out"
+}

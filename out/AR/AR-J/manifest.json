@@ -1,0 +1,14 @@
+{
+  "code": "AR-J",
+  "country": "AR",
+  "flag": {
+    "svg": "AR/AR-J/flag.svg",
+    "png": "AR/AR-J/flag.png",
+    "source_filename": "Flag of the San Juan Province.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-J/coat.svg",
+    "png": "AR/AR-J/coat.png",
+    "source_filename": "Escudo de la Provincia de San Juan.svg"
+  }
+}

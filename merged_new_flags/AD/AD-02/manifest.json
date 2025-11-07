@@ -1,0 +1,16 @@
+{
+  "iso_code": "AD-02",
+  "country_iso": "AD",
+  "country_name": "AD",
+  "region_name": "ad-02",
+  "region_normalized": "ad-02",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "AD/AD-02/coat.svg",
+    "source": "Escut de Canillo.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "EC-C",
+  "country_iso": "EC",
+  "country_name": "EC",
+  "region_name": "ec-c",
+  "region_normalized": "ec-c",
+  "flag": {
+    "svg": "EC/EC-C/flag.svg",
+    "source": "Bandera Provincia Carchi.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

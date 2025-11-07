@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-SA",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-sa",
+  "region_normalized": "ru-sa",
+  "flag": {
+    "svg": "RU/RU-SA/flag.svg",
+    "source": "Flag of Sakha.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-SA/coat.svg",
+    "source": "Coat of arms of Sakha.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-KHN",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-khn",
+  "region_normalized": "ma-khn",
+  "flag": {
+    "svg": "MA/MA-KHN/flag.svg",
+    "source": "Flag of Khenifra province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

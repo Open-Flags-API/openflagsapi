@@ -1,0 +1,16 @@
+{
+  "iso_code": "FJ-01",
+  "country_iso": "FJ",
+  "country_name": "FJ",
+  "region_name": "fj-01",
+  "region_normalized": "fj-01",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

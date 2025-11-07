@@ -1,0 +1,14 @@
+{
+  "code": "IT-25",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-25/flag.svg",
+    "png": "IT/IT-25/flag.png",
+    "source_filename": "Flag of Lombardy.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-25/coat.svg",
+    "png": "IT/IT-25/coat.png",
+    "source_filename": "Insigne Langobardiae.svg"
+  }
+}

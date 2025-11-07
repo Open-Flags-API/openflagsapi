@@ -1,0 +1,16 @@
+{
+  "iso_code": "IE-LS",
+  "country_iso": "IE",
+  "country_name": "IE",
+  "region_name": "ie-ls",
+  "region_normalized": "ie-ls",
+  "flag": {
+    "svg": "IE/IE-LS/flag.svg",
+    "source": "Flag of the counties of Cavan and Laois.svg"
+  },
+  "coat": {
+    "svg": "IE/IE-LS/coat.svg",
+    "source": "Arms of County Laois.svg"
+  },
+  "data_source": "out"
+}

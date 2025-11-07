@@ -1,0 +1,14 @@
+{
+  "code": "FI-05",
+  "country": "FI",
+  "flag": {
+    "svg": "FI/FI-05/flag.svg",
+    "png": "FI/FI-05/flag.png",
+    "source_filename": "Flag of Kainuu.svg"
+  },
+  "coat": {
+    "svg": "FI/FI-05/coat.svg",
+    "png": "FI/FI-05/coat.png",
+    "source_filename": "Kainuu.vaakuna.svg"
+  }
+}

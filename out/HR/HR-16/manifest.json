@@ -1,0 +1,14 @@
+{
+  "code": "HR-16",
+  "country": "HR",
+  "flag": {
+    "svg": "HR/HR-16/flag.svg",
+    "png": "HR/HR-16/flag.png",
+    "source_filename": "Flag of Vukovar-Syrmia County.svg"
+  },
+  "coat": {
+    "svg": "HR/HR-16/coat.svg",
+    "png": "HR/HR-16/coat.png",
+    "source_filename": "Coat of Arms of Vukovar-Syrmia County.svg"
+  }
+}

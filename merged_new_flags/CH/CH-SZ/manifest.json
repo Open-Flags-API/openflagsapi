@@ -1,0 +1,16 @@
+{
+  "iso_code": "CH-SZ",
+  "country_iso": "CH",
+  "country_name": "CH",
+  "region_name": "ch-sz",
+  "region_normalized": "ch-sz",
+  "flag": {
+    "svg": "CH/CH-SZ/flag.svg",
+    "source": "Flag of Canton of Schwyz.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-SZ/coat.svg",
+    "source": "Wappen Schwyz matt.svg"
+  },
+  "data_source": "out"
+}

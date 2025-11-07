@@ -1,0 +1,16 @@
+{
+  "iso_code": "JP-16",
+  "country_iso": "JP",
+  "country_name": "JP",
+  "region_name": "jp-16",
+  "region_normalized": "jp-16",
+  "flag": {
+    "svg": "JP/JP-16/flag.svg",
+    "source": "Flag of Toyama Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-16/coat.svg",
+    "source": "Emblem of Toyama Prefecture.svg"
+  },
+  "data_source": "out"
+}

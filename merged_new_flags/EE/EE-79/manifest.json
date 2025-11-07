@@ -1,0 +1,16 @@
+{
+  "iso_code": "EE-79",
+  "country_iso": "EE",
+  "country_name": "EE",
+  "region_name": "ee-79",
+  "region_normalized": "ee-79",
+  "flag": {
+    "svg": "EE/EE-79/flag.svg",
+    "source": "Tartumaa lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-79/coat.svg",
+    "source": "Tartumaa vapp.svg"
+  },
+  "data_source": "out"
+}

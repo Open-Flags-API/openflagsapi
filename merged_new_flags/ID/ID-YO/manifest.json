@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-YO",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "id-yo",
+  "region_normalized": "id-yo",
+  "flag": {
+    "svg": "ID/ID-YO/flag.svg",
+    "source": "Flag of Yogyakarta.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-YO/coat.svg",
+    "source": "Coat of arms of Yogyakarta.svg"
+  },
+  "data_source": "out"
+}

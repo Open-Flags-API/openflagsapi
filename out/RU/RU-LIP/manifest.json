@@ -1,0 +1,14 @@
+{
+  "code": "RU-LIP",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-LIP/flag.svg",
+    "png": "RU/RU-LIP/flag.png",
+    "source_filename": "Flag of Lipetsk Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-LIP/coat.svg",
+    "png": "RU/RU-LIP/coat.png",
+    "source_filename": "Coat of Arms of Lipetsk oblast.svg"
+  }
+}

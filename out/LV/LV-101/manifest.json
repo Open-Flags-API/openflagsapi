@@ -1,0 +1,14 @@
+{
+  "code": "LV-101",
+  "country": "LV",
+  "flag": {
+    "svg": null,
+    "png": "LV/LV-101/flag.png",
+    "source_filename": "Flag of Valkas novads.png"
+  },
+  "coat": {
+    "svg": "LV/LV-101/coat.svg",
+    "png": "LV/LV-101/coat.png",
+    "source_filename": "Valkas novads COA.svg"
+  }
+}

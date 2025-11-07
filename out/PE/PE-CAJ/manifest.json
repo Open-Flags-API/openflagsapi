@@ -1,0 +1,14 @@
+{
+  "code": "PE-CAJ",
+  "country": "PE",
+  "flag": {
+    "svg": "PE/PE-CAJ/flag.svg",
+    "png": "PE/PE-CAJ/flag.png",
+    "source_filename": "Bandera de Cajamarca.svg"
+  },
+  "coat": {
+    "svg": "PE/PE-CAJ/coat.svg",
+    "png": "PE/PE-CAJ/coat.png",
+    "source_filename": "Escudo de Cajamarca.svg"
+  }
+}

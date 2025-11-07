@@ -1,0 +1,16 @@
+{
+  "iso_code": "CV-SL",
+  "country_iso": "CV",
+  "country_name": "CV",
+  "region_name": "cv-sl",
+  "region_normalized": "cv-sl",
+  "flag": {
+    "svg": null,
+    "source": "Flag Sal Cape Verde.png"
+  },
+  "coat": {
+    "svg": "CV/CV-SL/coat.svg",
+    "source": "Coat of Arms of Sal, Cape Verde.svg"
+  },
+  "data_source": "out"
+}

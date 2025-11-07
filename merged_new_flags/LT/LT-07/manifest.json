@@ -1,0 +1,16 @@
+{
+  "iso_code": "LT-07",
+  "country_iso": "LT",
+  "country_name": "LT",
+  "region_name": "lt-07",
+  "region_normalized": "lt-07",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Druskininkai.png"
+  },
+  "coat": {
+    "svg": "LT/LT-07/coat.svg",
+    "source": "Coat of arms of Druskininkai (Lithuania).svg"
+  },
+  "data_source": "out"
+}

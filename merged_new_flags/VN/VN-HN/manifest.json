@@ -1,0 +1,16 @@
+{
+  "iso_code": "VN-HN",
+  "country_iso": "VN",
+  "country_name": "VN",
+  "region_name": "vn-hn",
+  "region_normalized": "vn-hn",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "VN/VN-HN/coat.svg",
+    "source": "Emblem of Hanoi.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "UA-32",
+  "country_iso": "UA",
+  "country_name": "UA",
+  "region_name": "ua-32",
+  "region_normalized": "ua-32",
+  "flag": {
+    "svg": "UA/UA-32/flag.svg",
+    "source": "Flag of Kyiv Oblast.svg"
+  },
+  "coat": {
+    "svg": "UA/UA-32/coat.svg",
+    "source": "Coat of Arms of Kiev Oblast.svg"
+  },
+  "data_source": "out"
+}

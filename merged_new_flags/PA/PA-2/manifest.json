@@ -1,0 +1,16 @@
+{
+  "iso_code": "PA-2",
+  "country_iso": "PA",
+  "country_name": "PA",
+  "region_name": "pa-2",
+  "region_normalized": "pa-2",
+  "flag": {
+    "svg": "PA/PA-2/flag.svg",
+    "source": "Bandera de la Provincia de Coclé.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Escudo-de-la-Provincia-de-Coclé.jpg"
+  },
+  "data_source": "out"
+}

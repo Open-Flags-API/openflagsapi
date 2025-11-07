@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-MI",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "michoacán",
+  "region_normalized": "michoacán",
+  "flag": {
+    "svg": "MX/MX-MI/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

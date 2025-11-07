@@ -1,0 +1,16 @@
+{
+  "iso_code": "PW-350",
+  "country_iso": "PW",
+  "country_name": "PW",
+  "region_name": "pw-350",
+  "region_normalized": "pw-350",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Peleliu State.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

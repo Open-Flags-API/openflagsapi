@@ -1,0 +1,16 @@
+{
+  "iso_code": "NZ-OTA",
+  "country_iso": "NZ",
+  "country_name": "NZ",
+  "region_name": "nz-ota",
+  "region_normalized": "nz-ota",
+  "flag": {
+    "svg": "NZ/NZ-OTA/flag.svg",
+    "source": "Flag of Otago.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

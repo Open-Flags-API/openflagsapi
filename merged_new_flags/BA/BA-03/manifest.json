@@ -1,0 +1,16 @@
+{
+  "iso_code": "BA-03",
+  "country_iso": "BA",
+  "country_name": "BA",
+  "region_name": "ba-03",
+  "region_normalized": "ba-03",
+  "flag": {
+    "svg": "BA/BA-03/flag.svg",
+    "source": "Flag of Tuzla Canton.svg"
+  },
+  "coat": {
+    "svg": "BA/BA-03/coat.svg",
+    "source": "Coat of arms of Tuzla Canton.svg"
+  },
+  "data_source": "out"
+}

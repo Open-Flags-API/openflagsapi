@@ -1,0 +1,14 @@
+{
+  "code": "US-NV",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-NV/flag.svg",
+    "png": "US/US-NV/flag.png",
+    "source_filename": "Flag of Nevada.svg"
+  },
+  "coat": {
+    "svg": "US/US-NV/coat.svg",
+    "png": "US/US-NV/coat.png",
+    "source_filename": "State Seal of Nevada.svg"
+  }
+}

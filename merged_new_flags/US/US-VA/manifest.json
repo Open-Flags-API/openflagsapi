@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-VA",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-va",
+  "region_normalized": "us-va",
+  "flag": {
+    "svg": "US/US-VA/flag.svg",
+    "source": "Flag of Virginia.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of the Commonwealth of Virginia.png"
+  },
+  "data_source": "out"
+}

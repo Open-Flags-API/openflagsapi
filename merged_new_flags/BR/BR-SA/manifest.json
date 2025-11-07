@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-SA",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "santa-catarina",
+  "region_normalized": "santa-catarina",
+  "flag": {
+    "svg": "BR/BR-SA/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

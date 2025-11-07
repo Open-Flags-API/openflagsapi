@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-BRY",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-bry",
+  "region_normalized": "ru-bry",
+  "flag": {
+    "svg": "RU/RU-BRY/flag.svg",
+    "source": "Flag of Bryansk Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-BRY/coat.svg",
+    "source": "Coat of Arms of Bryansk Oblast.svg"
+  },
+  "data_source": "out"
+}

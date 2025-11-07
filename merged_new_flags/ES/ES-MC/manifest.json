@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-MC",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-mc",
+  "region_normalized": "es-mc",
+  "flag": {
+    "svg": "ES/ES-MC/flag.svg",
+    "source": "Flag of the Region of Murcia.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-MC/coat.svg",
+    "source": "Escudo-ca-murcia.svg"
+  },
+  "data_source": "out"
+}

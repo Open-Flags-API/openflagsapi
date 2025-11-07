@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-44",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-44",
+  "region_normalized": "th-44",
+  "flag": {
+    "svg": null,
+    "source": "Mahasarakham PV Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

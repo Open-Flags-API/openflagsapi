@@ -1,0 +1,14 @@
+{
+  "code": "AR-E",
+  "country": "AR",
+  "flag": {
+    "svg": "AR/AR-E/flag.svg",
+    "png": "AR/AR-E/flag.png",
+    "source_filename": "Bandera de la Provincia de Entre Ríos.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-E/coat.svg",
+    "png": "AR/AR-E/coat.png",
+    "source_filename": "Escudo de la Provincia de Entre Ríos.svg"
+  }
+}

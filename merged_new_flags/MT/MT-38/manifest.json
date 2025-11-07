@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-38",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-38",
+  "region_normalized": "mt-38",
+  "flag": {
+    "svg": "MT/MT-38/flag.svg",
+    "source": "Flag of Naxxar.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-38/coat.svg",
+    "source": "Naxxar coa.svg"
+  },
+  "data_source": "out"
+}

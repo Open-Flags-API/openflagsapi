@@ -1,0 +1,14 @@
+{
+  "code": "LT-KU",
+  "country": "LT",
+  "flag": {
+    "svg": "LT/LT-KU/flag.svg",
+    "png": "LT/LT-KU/flag.png",
+    "source_filename": "LTU Kauno apskritis flag.svg"
+  },
+  "coat": {
+    "svg": "LT/LT-KU/coat.svg",
+    "png": "LT/LT-KU/coat.png",
+    "source_filename": "LTU Kauno apskritis COA.svg"
+  }
+}

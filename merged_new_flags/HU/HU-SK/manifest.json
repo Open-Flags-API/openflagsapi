@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-SK",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-sk",
+  "region_normalized": "hu-sk",
+  "flag": {
+    "svg": "HU/HU-SK/flag.svg",
+    "source": "Szolnokzászlaja.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-SK/coat.svg",
+    "source": "HUN Szolnok Címer.svg"
+  },
+  "data_source": "out"
+}

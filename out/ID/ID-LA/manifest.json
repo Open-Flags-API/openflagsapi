@@ -1,0 +1,14 @@
+{
+  "code": "ID-LA",
+  "country": "ID",
+  "flag": {
+    "svg": "ID/ID-LA/flag.svg",
+    "png": "ID/ID-LA/flag.png",
+    "source_filename": "Flag of Lampung.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-LA/coat.svg",
+    "png": "ID/ID-LA/coat.png",
+    "source_filename": "Coat of arms of Lampung.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "BH-16",
+  "country_iso": "BH",
+  "country_name": "BH",
+  "region_name": "bh-16",
+  "region_normalized": "bh-16",
+  "flag": {
+    "svg": null,
+    "source": "Central Governorate Logo.jpg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

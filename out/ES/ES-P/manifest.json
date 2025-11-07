@@ -1,0 +1,14 @@
+{
+  "code": "ES-P",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-P/flag.svg",
+    "png": "ES/ES-P/flag.png",
+    "source_filename": "Bandera de la provincia de Palencia1.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-P/coat.svg",
+    "png": "ES/ES-P/coat.png",
+    "source_filename": "Escudo de la Provincia de Palencia.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "BY-MA",
+  "country_iso": "BY",
+  "country_name": "BY",
+  "region_name": "by-ma",
+  "region_normalized": "by-ma",
+  "flag": {
+    "svg": "BY/BY-MA/flag.svg",
+    "source": "Flag of Mahilyow Voblast.svg"
+  },
+  "coat": {
+    "svg": "BY/BY-MA/coat.svg",
+    "source": "Coat of arms of Mohilev Oblast.svg"
+  },
+  "data_source": "out"
+}

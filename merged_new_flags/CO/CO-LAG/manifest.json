@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-LAG",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-lag",
+  "region_normalized": "co-lag",
+  "flag": {
+    "svg": "CO/CO-LAG/flag.svg",
+    "source": "Flag of La Guajira.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-LAG/coat.svg",
+    "source": "Escudo de La Guajira.svg"
+  },
+  "data_source": "out"
+}

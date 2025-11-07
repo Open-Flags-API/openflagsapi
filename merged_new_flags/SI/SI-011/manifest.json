@@ -1,0 +1,16 @@
+{
+  "iso_code": "SI-011",
+  "country_iso": "SI",
+  "country_name": "SI",
+  "region_name": "si-011",
+  "region_normalized": "si-011",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "SI/SI-011/coat.svg",
+    "source": "Coat of arms of Celje.svg"
+  },
+  "data_source": "out"
+}

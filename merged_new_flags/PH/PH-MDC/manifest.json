@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-MDC",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-mdc",
+  "region_normalized": "ph-mdc",
+  "flag": {
+    "svg": null,
+    "source": "Occ. Mindoro Flag.png"
+  },
+  "coat": {
+    "svg": "PH/PH-MDC/coat.svg",
+    "source": "Occ Mindoro Former seal.svg"
+  },
+  "data_source": "out"
+}

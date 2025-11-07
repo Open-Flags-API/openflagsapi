@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-BU",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-bu",
+  "region_normalized": "hu-bu",
+  "flag": {
+    "svg": "HU/HU-BU/flag.svg",
+    "source": "Flag of Budapest (2011-).svg"
+  },
+  "coat": {
+    "svg": "HU/HU-BU/coat.svg",
+    "source": "Coa Hungary Town Budapest big.svg"
+  },
+  "data_source": "out"
+}

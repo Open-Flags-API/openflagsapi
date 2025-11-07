@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-081",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-081",
+  "region_normalized": "lv-081",
+  "flag": {
+    "svg": null,
+    "source": "Rucavas novada karogs.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Rucavas-novads-COA.png"
+  },
+  "data_source": "out"
+}

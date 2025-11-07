@@ -1,0 +1,14 @@
+{
+  "code": "GE-AB",
+  "country": "GE",
+  "flag": {
+    "svg": "GE/GE-AB/flag.svg",
+    "png": "GE/GE-AB/flag.png",
+    "source_filename": "Flag of Georgia.svg"
+  },
+  "coat": {
+    "svg": "GE/GE-AB/coat.svg",
+    "png": "GE/GE-AB/coat.png",
+    "source_filename": "Greater coat of arms of Georgia.svg"
+  }
+}

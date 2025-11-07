@@ -1,0 +1,14 @@
+{
+  "code": "ID-SS",
+  "country": "ID",
+  "flag": {
+    "svg": "ID/ID-SS/flag.svg",
+    "png": "ID/ID-SS/flag.png",
+    "source_filename": "Flag of South Sumatra (vectorised).svg"
+  },
+  "coat": {
+    "svg": "ID/ID-SS/coat.svg",
+    "png": "ID/ID-SS/coat.png",
+    "source_filename": "Coat of arms of South Sumatra.svg"
+  }
+}

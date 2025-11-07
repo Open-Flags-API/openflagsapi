@@ -1,0 +1,14 @@
+{
+  "code": "IT-PE",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-PE/flag.svg",
+    "png": "IT/IT-PE/flag.png",
+    "source_filename": "Flag of the Province of Pescara.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-PE/coat.svg",
+    "png": "IT/IT-PE/coat.png",
+    "source_filename": "Provincia di Pescara-Stemma.svg"
+  }
+}

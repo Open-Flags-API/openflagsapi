@@ -1,0 +1,16 @@
+{
+  "iso_code": "EE-84",
+  "country_iso": "EE",
+  "country_name": "EE",
+  "region_name": "ee-84",
+  "region_normalized": "ee-84",
+  "flag": {
+    "svg": "EE/EE-84/flag.svg",
+    "source": "Viljandimaa lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-84/coat.svg",
+    "source": "Viljandimaa vapp.svg"
+  },
+  "data_source": "out"
+}

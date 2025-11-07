@@ -1,0 +1,14 @@
+{
+  "code": "SE-N",
+  "country": "SE",
+  "flag": {
+    "svg": "SE/SE-N/flag.svg",
+    "png": "SE/SE-N/flag.png",
+    "source_filename": "Hallands län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-N/coat.svg",
+    "png": "SE/SE-N/coat.png",
+    "source_filename": "Halland vapen.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-TN",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-tn",
+  "region_normalized": "it-tn",
+  "flag": {
+    "svg": "IT/IT-TN/flag.svg",
+    "source": "Flag of the Province of Trento.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-TN/coat.svg",
+    "source": "Trentino CoA.svg"
+  },
+  "data_source": "out"
+}

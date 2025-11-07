@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-SG",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-sg",
+  "region_normalized": "es-sg",
+  "flag": {
+    "svg": "ES/ES-SG/flag.svg",
+    "source": "Flag Segovia province.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-SG/coat.svg",
+    "source": "Escudo de la provincia de Segovia.svg"
+  },
+  "data_source": "out"
+}

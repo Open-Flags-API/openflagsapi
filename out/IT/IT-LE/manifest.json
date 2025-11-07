@@ -1,0 +1,14 @@
+{
+  "code": "IT-LE",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-LE/flag.svg",
+    "png": "IT/IT-LE/flag.png",
+    "source_filename": "Flag of the Province of Lecce.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-LE/coat.svg",
+    "png": "IT/IT-LE/coat.png",
+    "source_filename": "Coat of Arms of the Province of Lecce.svg"
+  }
+}

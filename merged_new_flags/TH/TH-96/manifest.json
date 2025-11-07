@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-96",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-96",
+  "region_normalized": "th-96",
+  "flag": {
+    "svg": "TH/TH-96/flag.svg",
+    "source": "Flag of Narathiwat.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

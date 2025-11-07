@@ -1,0 +1,14 @@
+{
+  "code": "FR-16",
+  "country": "FR",
+  "flag": {
+    "svg": "FR/FR-16/flag.svg",
+    "png": "FR/FR-16/flag.png",
+    "source_filename": "Flag of Charente.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-16/coat.svg",
+    "png": "FR/FR-16/coat.png",
+    "source_filename": "Blason département fr Charente.svg"
+  }
+}

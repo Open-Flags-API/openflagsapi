@@ -1,0 +1,16 @@
+{
+  "iso_code": "KR-GY",
+  "country_iso": "KR",
+  "country_name": "south-korea",
+  "region_name": "gyeonggi",
+  "region_normalized": "gyeonggi",
+  "flag": {
+    "svg": "KR/KR-GY/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

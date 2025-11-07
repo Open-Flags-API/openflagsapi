@@ -1,0 +1,16 @@
+{
+  "iso_code": "EG-BNS",
+  "country_iso": "EG",
+  "country_name": "EG",
+  "region_name": "eg-bns",
+  "region_normalized": "eg-bns",
+  "flag": {
+    "svg": "EG/EG-BNS/flag.svg",
+    "source": "Beni Suef Governorate New Flag.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

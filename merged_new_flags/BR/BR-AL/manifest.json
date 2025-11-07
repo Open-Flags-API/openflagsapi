@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-AL",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "br-al",
+  "region_normalized": "br-al",
+  "flag": {
+    "svg": "BR/BR-AL/flag.svg",
+    "source": "Bandeira de Alagoas.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-AL/coat.svg",
+    "source": "Brasão do Estado de Alagoas.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "GL-AV",
+  "country_iso": "GL",
+  "country_name": "GL",
+  "region_name": "gl-av",
+  "region_normalized": "gl-av",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Avannaata-coat-of-arms.jpg"
+  },
+  "data_source": "out"
+}

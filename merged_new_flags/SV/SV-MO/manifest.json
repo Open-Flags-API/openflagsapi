@@ -1,0 +1,16 @@
+{
+  "iso_code": "SV-MO",
+  "country_iso": "SV",
+  "country_name": "SV",
+  "region_name": "sv-mo",
+  "region_normalized": "sv-mo",
+  "flag": {
+    "svg": "SV/SV-MO/flag.svg",
+    "source": "Flag of Morazán Department.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

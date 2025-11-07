@@ -1,0 +1,16 @@
+{
+  "iso_code": "TV-FUN",
+  "country_iso": "TV",
+  "country_name": "TV",
+  "region_name": "tv-fun",
+  "region_normalized": "tv-fun",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

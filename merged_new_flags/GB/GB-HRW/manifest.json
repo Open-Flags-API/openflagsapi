@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-HRW",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-hrw",
+  "region_normalized": "gb-hrw",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-HRW/coat.svg",
+    "source": "Coat of arms of the London Borough of Harrow.svg"
+  },
+  "data_source": "out"
+}

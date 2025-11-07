@@ -1,0 +1,16 @@
+{
+  "iso_code": "IE-G",
+  "country_iso": "IE",
+  "country_name": "IE",
+  "region_name": "ie-g",
+  "region_normalized": "ie-g",
+  "flag": {
+    "svg": "IE/IE-G/flag.svg",
+    "source": "Flag of the Counties of Westmeath and Galway.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Logogalwayco.png"
+  },
+  "data_source": "out"
+}

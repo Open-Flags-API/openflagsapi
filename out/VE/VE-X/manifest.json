@@ -1,0 +1,14 @@
+{
+  "code": "VE-X",
+  "country": "VE",
+  "flag": {
+    "svg": "VE/VE-X/flag.svg",
+    "png": "VE/VE-X/flag.png",
+    "source_filename": "Flag of Vargas State.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "VE/VE-X/coat.png",
+    "source_filename": "Escudo Estado La Guaira.png"
+  }
+}

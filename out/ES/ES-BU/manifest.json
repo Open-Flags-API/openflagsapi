@@ -1,0 +1,14 @@
+{
+  "code": "ES-BU",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-BU/flag.svg",
+    "png": "ES/ES-BU/flag.png",
+    "source_filename": "Flag Burgos Province.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-BU/coat.svg",
+    "png": "ES/ES-BU/coat.png",
+    "source_filename": "Escudo de la Provincia de Burgos.svg"
+  }
+}

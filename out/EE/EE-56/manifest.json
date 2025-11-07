@@ -1,0 +1,14 @@
+{
+  "code": "EE-56",
+  "country": "EE",
+  "flag": {
+    "svg": "EE/EE-56/flag.svg",
+    "png": "EE/EE-56/flag.png",
+    "source_filename": "Läänemaa lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-56/coat.svg",
+    "png": "EE/EE-56/coat.png",
+    "source_filename": "Läänemaa vapp.svg"
+  }
+}

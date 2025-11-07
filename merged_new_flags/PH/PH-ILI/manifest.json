@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-ILI",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-ili",
+  "region_normalized": "ph-ili",
+  "flag": {
+    "svg": "PH/PH-ILI/flag.svg",
+    "source": "Flag of the Province of Iloilo.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Ph seal iloilo.png"
+  },
+  "data_source": "out"
+}

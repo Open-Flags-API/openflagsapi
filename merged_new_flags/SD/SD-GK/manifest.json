@@ -1,0 +1,16 @@
+{
+  "iso_code": "SD-GK",
+  "country_iso": "SD",
+  "country_name": "SD",
+  "region_name": "sd-gk",
+  "region_normalized": "sd-gk",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Seal of West Kordofan.png"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "FR-BL",
+  "country": "FR",
+  "flag": {
+    "svg": "FR/FR-BL/flag.svg",
+    "png": "FR/FR-BL/flag.png",
+    "source_filename": "Flag of Saint Barthélemy (local).svg"
+  },
+  "coat": {
+    "svg": "FR/FR-BL/coat.svg",
+    "png": "FR/FR-BL/coat.png",
+    "source_filename": "Blason St Barthélémy TOM entire.svg"
+  }
+}

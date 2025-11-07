@@ -1,0 +1,16 @@
+{
+  "iso_code": "AZ-SM",
+  "country_iso": "AZ",
+  "country_name": "AZ",
+  "region_name": "az-sm",
+  "region_normalized": "az-sm",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Sumqayit.png"
+  },
+  "data_source": "out"
+}

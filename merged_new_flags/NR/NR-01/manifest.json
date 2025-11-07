@@ -1,0 +1,16 @@
+{
+  "iso_code": "NR-01",
+  "country_iso": "NR",
+  "country_name": "NR",
+  "region_name": "nr-01",
+  "region_normalized": "nr-01",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

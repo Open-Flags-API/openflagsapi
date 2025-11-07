@@ -1,0 +1,14 @@
+{
+  "code": "DE-HE",
+  "country": "DE",
+  "flag": {
+    "svg": "DE/DE-HE/flag.svg",
+    "png": "DE/DE-HE/flag.png",
+    "source_filename": "Flag of Hesse.svg"
+  },
+  "coat": {
+    "svg": "DE/DE-HE/coat.svg",
+    "png": "DE/DE-HE/coat.png",
+    "source_filename": "Coat of arms of Hesse.svg"
+  }
+}

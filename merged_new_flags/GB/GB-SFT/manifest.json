@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-SFT",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-sft",
+  "region_normalized": "gb-sft",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

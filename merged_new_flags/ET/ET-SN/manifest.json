@@ -1,0 +1,16 @@
+{
+  "iso_code": "ET-SN",
+  "country_iso": "ET",
+  "country_name": "ET",
+  "region_name": "et-sn",
+  "region_normalized": "et-sn",
+  "flag": {
+    "svg": "ET/ET-SN/flag.svg",
+    "source": "Flag of the Southern Nations, Nationalities, and Peoples' Region.svg"
+  },
+  "coat": {
+    "svg": "ET/ET-SN/coat.svg",
+    "source": "Southern Nations, Nationalities, and Peoples' Region emblem.svg"
+  },
+  "data_source": "out"
+}

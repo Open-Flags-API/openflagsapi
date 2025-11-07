@@ -1,0 +1,16 @@
+{
+  "iso_code": "CN-HK",
+  "country_iso": "CN",
+  "country_name": "CN",
+  "region_name": "cn-hk",
+  "region_normalized": "cn-hk",
+  "flag": {
+    "svg": "CN/CN-HK/flag.svg",
+    "source": "Flag of Hong Kong.svg"
+  },
+  "coat": {
+    "svg": "CN/CN-HK/coat.svg",
+    "source": "Regional Emblem of Hong Kong.svg"
+  },
+  "data_source": "out"
+}

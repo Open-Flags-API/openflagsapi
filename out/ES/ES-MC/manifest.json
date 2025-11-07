@@ -1,0 +1,14 @@
+{
+  "code": "ES-MC",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-MC/flag.svg",
+    "png": "ES/ES-MC/flag.png",
+    "source_filename": "Flag of the Region of Murcia.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-MC/coat.svg",
+    "png": "ES/ES-MC/coat.png",
+    "source_filename": "Escudo-ca-murcia.svg"
+  }
+}

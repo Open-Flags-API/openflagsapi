@@ -1,0 +1,16 @@
+{
+  "iso_code": "EC-A",
+  "country_iso": "EC",
+  "country_name": "EC",
+  "region_name": "ec-a",
+  "region_normalized": "ec-a",
+  "flag": {
+    "svg": "EC/EC-A/flag.svg",
+    "source": "Bandera Provincia Azuay.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "KY",
+  "country_iso": "KY",
+  "country_name": "KY",
+  "region_name": "ky",
+  "region_normalized": "ky",
+  "flag": {
+    "svg": "KY/KY/flag.svg",
+    "source": "Flag of the Cayman Islands.svg"
+  },
+  "coat": {
+    "svg": "KY/KY/coat.svg",
+    "source": "Cayman Islands Coat of Arms.svg"
+  },
+  "data_source": "out"
+}

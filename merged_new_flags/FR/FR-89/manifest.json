@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-89",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-89",
+  "region_normalized": "fr-89",
+  "flag": {
+    "svg": "FR/FR-89/flag.svg",
+    "source": "Drapeau fr département Yonne.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-89/coat.svg",
+    "source": "Blason département fr Yonne.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "ES-NC",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-NC/flag.svg",
+    "png": "ES/ES-NC/flag.png",
+    "source_filename": "Bandera de Navarra.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-NC/coat.svg",
+    "png": "ES/ES-NC/coat.png",
+    "source_filename": "Escudo de Navarra (oficial).svg"
+  }
+}

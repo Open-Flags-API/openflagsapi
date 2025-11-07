@@ -1,0 +1,14 @@
+{
+  "code": "HU-EG",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-EG/flag.svg",
+    "png": "HU/HU-EG/flag.png",
+    "source_filename": "Flag of Eger.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-EG/coat.svg",
+    "png": "HU/HU-EG/coat.png",
+    "source_filename": "Blason ville hu EGER.svg"
+  }
+}

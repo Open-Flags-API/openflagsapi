@@ -1,0 +1,16 @@
+{
+  "iso_code": "PL-30",
+  "country_iso": "PL",
+  "country_name": "PL",
+  "region_name": "pl-30",
+  "region_normalized": "pl-30",
+  "flag": {
+    "svg": "PL/PL-30/flag.svg",
+    "source": "POL województwo wielkopolskie flag.svg"
+  },
+  "coat": {
+    "svg": "PL/PL-30/coat.svg",
+    "source": "POL województwo wielkopolskie COA.svg"
+  },
+  "data_source": "out"
+}

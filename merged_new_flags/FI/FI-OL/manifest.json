@@ -1,0 +1,16 @@
+{
+  "iso_code": "FI-OL",
+  "country_iso": "FI",
+  "country_name": "FI",
+  "region_name": "fi-ol",
+  "region_normalized": "fi-ol",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "FI/FI-OL/coat.svg",
+    "source": "Oulun läänin vaakuna.svg"
+  },
+  "data_source": "out"
+}

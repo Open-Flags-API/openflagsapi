@@ -1,0 +1,14 @@
+{
+  "code": "LV-VMR",
+  "country": "LV",
+  "flag": {
+    "svg": "LV/LV-VMR/flag.svg",
+    "png": "LV/LV-VMR/flag.png",
+    "source_filename": "Valmiera flag.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-VMR/coat.svg",
+    "png": "LV/LV-VMR/coat.png",
+    "source_filename": "COA LV Valmiera.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "BO-O",
+  "country_iso": "BO",
+  "country_name": "BO",
+  "region_name": "bo-o",
+  "region_normalized": "bo-o",
+  "flag": {
+    "svg": "BO/BO-O/flag.svg",
+    "source": "Flag of Oruro.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Escudo Oruro.jpg"
+  },
+  "data_source": "out"
+}

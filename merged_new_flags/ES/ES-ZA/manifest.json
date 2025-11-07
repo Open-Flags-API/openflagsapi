@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-ZA",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-za",
+  "region_normalized": "es-za",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "ES/ES-ZA/coat.svg",
+    "source": "Escudo de la provincia de Zamora.svg"
+  },
+  "data_source": "out"
+}

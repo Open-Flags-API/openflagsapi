@@ -1,0 +1,16 @@
+{
+  "iso_code": "SE-O",
+  "country_iso": "SE",
+  "country_name": "SE",
+  "region_name": "se-o",
+  "region_normalized": "se-o",
+  "flag": {
+    "svg": "SE/SE-O/flag.svg",
+    "source": "Västra Götalands län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-O/coat.svg",
+    "source": "Västra Götaland vapen.svg"
+  },
+  "data_source": "out"
+}

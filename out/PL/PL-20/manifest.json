@@ -1,0 +1,14 @@
+{
+  "code": "PL-20",
+  "country": "PL",
+  "flag": {
+    "svg": "PL/PL-20/flag.svg",
+    "png": "PL/PL-20/flag.png",
+    "source_filename": "POL województwo podlaskie flag.svg"
+  },
+  "coat": {
+    "svg": "PL/PL-20/coat.svg",
+    "png": "PL/PL-20/coat.png",
+    "source_filename": "POL województwo podlaskie COA.svg"
+  }
+}

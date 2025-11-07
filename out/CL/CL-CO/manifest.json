@@ -1,0 +1,14 @@
+{
+  "code": "CL-CO",
+  "country": "CL",
+  "flag": {
+    "svg": "CL/CL-CO/flag.svg",
+    "png": "CL/CL-CO/flag.png",
+    "source_filename": "Flag of Coquimbo Region, Chile.svg"
+  },
+  "coat": {
+    "svg": "CL/CL-CO/coat.svg",
+    "png": "CL/CL-CO/coat.png",
+    "source_filename": "Coat of arms of Coquimbo Region, Chile.svg"
+  }
+}

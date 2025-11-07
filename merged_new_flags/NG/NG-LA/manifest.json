@@ -1,0 +1,16 @@
+{
+  "iso_code": "NG-LA",
+  "country_iso": "NG",
+  "country_name": "NG",
+  "region_name": "ng-la",
+  "region_normalized": "ng-la",
+  "flag": {
+    "svg": null,
+    "source": "Lagos State Flag.gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

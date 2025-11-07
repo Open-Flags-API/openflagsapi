@@ -1,0 +1,16 @@
+{
+  "iso_code": "LT-34",
+  "country_iso": "LT",
+  "country_name": "LT",
+  "region_name": "lt-34",
+  "region_normalized": "lt-34",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "LT/LT-34/coat.svg",
+    "source": "Pasvalys COA.svg"
+  },
+  "data_source": "out"
+}

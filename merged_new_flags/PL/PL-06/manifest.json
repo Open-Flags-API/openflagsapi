@@ -1,0 +1,16 @@
+{
+  "iso_code": "PL-06",
+  "country_iso": "PL",
+  "country_name": "PL",
+  "region_name": "pl-06",
+  "region_normalized": "pl-06",
+  "flag": {
+    "svg": "PL/PL-06/flag.svg",
+    "source": "POL województwo lubelskie flag.svg"
+  },
+  "coat": {
+    "svg": "PL/PL-06/coat.svg",
+    "source": "POL województwo lubelskie COA.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "UY-TT",
+  "country_iso": "UY",
+  "country_name": "UY",
+  "region_name": "uy-tt",
+  "region_normalized": "uy-tt",
+  "flag": {
+    "svg": "UY/UY-TT/flag.svg",
+    "source": "Flag of Treinta y Tres Department.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Treinta y Tres Department.png"
+  },
+  "data_source": "out"
+}

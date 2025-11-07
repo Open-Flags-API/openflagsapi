@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <desc>Emblem of Nagano Prefecture</desc>
+  <defs>
+    <clipPath id="mask1">
+      <path d="M0,0 H500 V226 H0" />
+      <path d="M0,274 H500 V500 H0" />
+    </clipPath>
+    <clipPath id="mask2">
+      <circle cx="250" cy="250" r="240" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#mask1)">
+    <g clip-path="url(#mask2)">
+      <circle cx="106" cy="250" r="240" fill="#d67300" />
+      <circle cx="106" cy="250" r="336" fill="none" stroke="#d67300" stroke-width="96" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+{
+  "code": "NG-ZA",
+  "country": "NG",
+  "flag": {
+    "svg": "NG/NG-ZA/flag.svg",
+    "png": "NG/NG-ZA/flag.png",
+    "source_filename": "Zamfara State Flag.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "NG/NG-ZA/coat.png",
+    "source_filename": "Coat of Arm Zamfara State.jpg"
+  }
+}

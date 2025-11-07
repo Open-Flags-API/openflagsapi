@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-SU",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "sussex",
+  "region_normalized": "sussex",
+  "flag": {
+    "svg": "GB/GB-SU/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

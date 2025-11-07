@@ -1,0 +1,14 @@
+{
+  "code": "RU-ROS",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-ROS/flag.svg",
+    "png": "RU/RU-ROS/flag.png",
+    "source_filename": "Flag of Rostov Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-ROS/coat.svg",
+    "png": "RU/RU-ROS/coat.png",
+    "source_filename": "Coat of arms of Rostov Oblast.svg"
+  }
+}

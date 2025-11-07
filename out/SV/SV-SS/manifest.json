@@ -1,0 +1,14 @@
+{
+  "code": "SV-SS",
+  "country": "SV",
+  "flag": {
+    "svg": null,
+    "png": "SV/SV-SS/flag.png",
+    "source_filename": "San Salvador Flag.png"
+  },
+  "coat": {
+    "svg": "SV/SV-SS/coat.svg",
+    "png": "SV/SV-SS/coat.png",
+    "source_filename": "Escudo de San Salvador (1943).svg"
+  }
+}

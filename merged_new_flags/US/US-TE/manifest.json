@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-TE",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "texas",
+  "region_normalized": "texas",
+  "flag": {
+    "svg": "US/US-TE/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

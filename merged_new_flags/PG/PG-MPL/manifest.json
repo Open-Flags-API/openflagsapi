@@ -1,0 +1,16 @@
+{
+  "iso_code": "PG-MPL",
+  "country_iso": "PG",
+  "country_name": "PG",
+  "region_name": "pg-mpl",
+  "region_normalized": "pg-mpl",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Morobe.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

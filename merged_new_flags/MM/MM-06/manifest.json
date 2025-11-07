@@ -1,0 +1,16 @@
+{
+  "iso_code": "MM-06",
+  "country_iso": "MM",
+  "country_name": "MM",
+  "region_name": "mm-06",
+  "region_normalized": "mm-06",
+  "flag": {
+    "svg": "MM/MM-06/flag.svg",
+    "source": "Flag of Yangon Region.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

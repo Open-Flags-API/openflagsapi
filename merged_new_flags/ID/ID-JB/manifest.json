@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-JB",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "id-jb",
+  "region_normalized": "id-jb",
+  "flag": {
+    "svg": "ID/ID-JB/flag.svg",
+    "source": "Flag of West Java (vectorised).svg"
+  },
+  "coat": {
+    "svg": "ID/ID-JB/coat.svg",
+    "source": "Coat of arms of West Java.svg"
+  },
+  "data_source": "out"
+}

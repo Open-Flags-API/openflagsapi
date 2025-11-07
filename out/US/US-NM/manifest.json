@@ -1,0 +1,14 @@
+{
+  "code": "US-NM",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-NM/flag.svg",
+    "png": "US/US-NM/flag.png",
+    "source_filename": "Flag of New Mexico.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "US/US-NM/coat.png",
+    "source_filename": "Seal of the Governor of New Mexico.png"
+  }
+}

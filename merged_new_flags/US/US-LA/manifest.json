@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-LA",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-la",
+  "region_normalized": "us-la",
+  "flag": {
+    "svg": "US/US-LA/flag.svg",
+    "source": "Flag of Louisiana.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

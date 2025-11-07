@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-040",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-040",
+  "region_normalized": "lv-040",
+  "flag": {
+    "svg": null,
+    "source": "Jaunpils novads Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "LVA Jaunpils novads COA.png"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-BA",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "id-ba",
+  "region_normalized": "id-ba",
+  "flag": {
+    "svg": "ID/ID-BA/flag.svg",
+    "source": "Flag of Bali.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-BA/coat.svg",
+    "source": "Coat of arms of Bali.svg"
+  },
+  "data_source": "out"
+}

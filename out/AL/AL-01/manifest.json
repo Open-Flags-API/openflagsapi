@@ -1,0 +1,14 @@
+{
+  "code": "AL-01",
+  "country": "AL",
+  "flag": {
+    "svg": "AL/AL-01/flag.svg",
+    "png": "AL/AL-01/flag.png",
+    "source_filename": "Flag of Berat.svg"
+  },
+  "coat": {
+    "svg": "AL/AL-01/coat.svg",
+    "png": "AL/AL-01/coat.png",
+    "source_filename": "Stema e Qarkut Berat.svg"
+  }
+}

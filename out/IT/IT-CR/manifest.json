@@ -1,0 +1,14 @@
+{
+  "code": "IT-CR",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-CR/flag.svg",
+    "png": "IT/IT-CR/flag.png",
+    "source_filename": "Flag of the Province of Cremona.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-CR/coat.svg",
+    "png": "IT/IT-CR/coat.png",
+    "source_filename": "Provincia di Cremona-Stemma.svg"
+  }
+}

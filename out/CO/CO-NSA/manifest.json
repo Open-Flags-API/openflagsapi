@@ -1,0 +1,14 @@
+{
+  "code": "CO-NSA",
+  "country": "CO",
+  "flag": {
+    "svg": "CO/CO-NSA/flag.svg",
+    "png": "CO/CO-NSA/flag.png",
+    "source_filename": "Flag of Norte de Santander.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-NSA/coat.svg",
+    "png": "CO/CO-NSA/coat.png",
+    "source_filename": "Escudo de Norte de Santander.svg"
+  }
+}

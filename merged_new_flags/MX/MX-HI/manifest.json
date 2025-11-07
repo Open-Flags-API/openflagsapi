@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-HI",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "hidalgo",
+  "region_normalized": "hidalgo",
+  "flag": {
+    "svg": "MX/MX-HI/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

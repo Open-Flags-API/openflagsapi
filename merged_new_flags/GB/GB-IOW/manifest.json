@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-IOW",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-iow",
+  "region_normalized": "gb-iow",
+  "flag": {
+    "svg": "GB/GB-IOW/flag.svg",
+    "source": "Flag of the Isle of Wight.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-IOW/coat.svg",
+    "source": "Arms of Isle of Wight Council.svg"
+  },
+  "data_source": "out"
+}

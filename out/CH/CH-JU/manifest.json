@@ -1,0 +1,14 @@
+{
+  "code": "CH-JU",
+  "country": "CH",
+  "flag": {
+    "svg": "CH/CH-JU/flag.svg",
+    "png": "CH/CH-JU/flag.png",
+    "source_filename": "Flag of Canton of Jura.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-JU/coat.svg",
+    "png": "CH/CH-JU/coat.png",
+    "source_filename": "Wappen Jura matt.svg"
+  }
+}

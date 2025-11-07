@@ -1,0 +1,16 @@
+{
+  "iso_code": "CZ-71",
+  "country_iso": "CZ",
+  "country_name": "CZ",
+  "region_name": "cz-71",
+  "region_normalized": "cz-71",
+  "flag": {
+    "svg": "CZ/CZ-71/flag.svg",
+    "source": "Flag of Olomouc Region.svg"
+  },
+  "coat": {
+    "svg": "CZ/CZ-71/coat.svg",
+    "source": "Olomouc Region CoA CZ.svg"
+  },
+  "data_source": "out"
+}

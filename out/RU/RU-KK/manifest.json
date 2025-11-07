@@ -1,0 +1,14 @@
+{
+  "code": "RU-KK",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-KK/flag.svg",
+    "png": "RU/RU-KK/flag.png",
+    "source_filename": "Flag of Khakassia.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-KK/coat.svg",
+    "png": "RU/RU-KK/coat.png",
+    "source_filename": "Coat of arms of Khakassia.svg"
+  }
+}

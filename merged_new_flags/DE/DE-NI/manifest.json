@@ -1,0 +1,16 @@
+{
+  "iso_code": "DE-NI",
+  "country_iso": "DE",
+  "country_name": "germany",
+  "region_name": "de-ni",
+  "region_normalized": "de-ni",
+  "flag": {
+    "svg": "DE/DE-NI/flag.svg",
+    "source": "Flag of Lower Saxony.svg"
+  },
+  "coat": {
+    "svg": "DE/DE-NI/coat.svg",
+    "source": "Coat of arms of Lower Saxony.svg"
+  },
+  "data_source": "out"
+}

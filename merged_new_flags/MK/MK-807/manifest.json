@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-807",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-807",
+  "region_normalized": "mk-807",
+  "flag": {
+    "svg": "MK/MK-807/flag.svg",
+    "source": "Flag of Ilinden Municipality, North Macedonia.svg"
+  },
+  "coat": {
+    "svg": "MK/MK-807/coat.svg",
+    "source": "Coat of arms of Ilinden Municipality, Macedonia.svg"
+  },
+  "data_source": "out"
+}

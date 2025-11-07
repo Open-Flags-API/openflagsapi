@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-COL",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "mx-col",
+  "region_normalized": "mx-col",
+  "flag": {
+    "svg": "MX/MX-COL/flag.svg",
+    "source": "Flag of Colima.svg"
+  },
+  "coat": {
+    "svg": "MX/MX-COL/coat.svg",
+    "source": "Coat of arms of Colima.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-EG",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-eg",
+  "region_normalized": "hu-eg",
+  "flag": {
+    "svg": "HU/HU-EG/flag.svg",
+    "source": "Flag of Eger.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-EG/coat.svg",
+    "source": "Blason ville hu EGER.svg"
+  },
+  "data_source": "out"
+}

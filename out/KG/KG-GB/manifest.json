@@ -1,0 +1,14 @@
+{
+  "code": "KG-GB",
+  "country": "KG",
+  "flag": {
+    "svg": "KG/KG-GB/flag.svg",
+    "png": "KG/KG-GB/flag.png",
+    "source_filename": "Flag of Bishkek.svg"
+  },
+  "coat": {
+    "svg": "KG/KG-GB/coat.svg",
+    "png": "KG/KG-GB/coat.png",
+    "source_filename": "Coat of arms of Bishkek Kyrgyzstan.svg"
+  }
+}

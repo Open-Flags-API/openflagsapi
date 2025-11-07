@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="flag" width="648" height="432" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+  <path id="green" d="M0 0h648v432H0z" fill="#01411C"/>
+  <path id="canton" d="M0 0h324v162H0z" fill="#F90"/>
+  <g id="stripe" fill="#ffffff"><path id="path884" d="m0 192h648v30h-648z"/><path id="path882" d="m0 252h648v30h-648z"/><path id="path880" d="m0 312h648v30h-648z"/><path id="path136" d="m0 372h648v30h-648z"/></g>
+  <g id="star-crescent" fill="#ffffff" stroke-width=".9"><path id="crescent" d="m468.4092 14.72266a67.93204 67.93204 0 0 0-47.30078 64.62305 67.93204 67.93204 0 0 0 67.93164 67.93164 67.93204 67.93204 0 0 0 61.85156-39.86523 62.27103 62.27103 0 0 1-44.48632 18.76953 62.27103 62.27103 0 0 1-62.27149-62.27148 62.27103 62.27103 0 0 1 24.27539-49.1875z"/><path id="star" d="m514.251 28.12175 28.61517 32.19229-42.0723-9.224639 39.45981-17.26619-21.77468 37.16286z"/></g>
+</svg>

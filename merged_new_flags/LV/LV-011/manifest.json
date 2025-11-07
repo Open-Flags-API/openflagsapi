@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-011",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-011",
+  "region_normalized": "lv-011",
+  "flag": {
+    "svg": "LV/LV-011/flag.svg",
+    "source": "Ādažu novada karogs.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-011/coat.svg",
+    "source": "Ādažu novads COA 2022.svg"
+  },
+  "data_source": "out"
+}

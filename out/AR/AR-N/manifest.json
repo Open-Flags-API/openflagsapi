@@ -1,0 +1,14 @@
+{
+  "code": "AR-N",
+  "country": "AR",
+  "flag": {
+    "svg": "AR/AR-N/flag.svg",
+    "png": "AR/AR-N/flag.png",
+    "source_filename": "Bandera de la Provincia de Misiones.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-N/coat.svg",
+    "png": "AR/AR-N/coat.png",
+    "source_filename": "Escudo de la Provincia de Misiones.svg"
+  }
+}

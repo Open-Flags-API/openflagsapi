@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-SF",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-sf",
+  "region_normalized": "hu-sf",
+  "flag": {
+    "svg": "HU/HU-SF/flag.svg",
+    "source": "Flag of Székesfehérvár.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-SF/coat.svg",
+    "source": "HUN Székesfehérvár Címer.svg"
+  },
+  "data_source": "out"
+}

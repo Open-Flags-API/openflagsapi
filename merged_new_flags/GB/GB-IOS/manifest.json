@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-IOS",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-ios",
+  "region_normalized": "gb-ios",
+  "flag": {
+    "svg": "GB/GB-IOS/flag.svg",
+    "source": "ScillonianCross.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

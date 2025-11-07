@@ -1,0 +1,14 @@
+{
+  "code": "ID-SU",
+  "country": "ID",
+  "flag": {
+    "svg": "ID/ID-SU/flag.svg",
+    "png": "ID/ID-SU/flag.png",
+    "source_filename": "Flag of North Sumatra.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "ID/ID-SU/coat.png",
+    "source_filename": "Coat of arms of North Sumatra.svg"
+  }
+}

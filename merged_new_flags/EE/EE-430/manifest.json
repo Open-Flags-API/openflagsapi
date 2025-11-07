@@ -1,0 +1,16 @@
+{
+  "iso_code": "EE-430",
+  "country_iso": "EE",
+  "country_name": "EE",
+  "region_name": "ee-430",
+  "region_normalized": "ee-430",
+  "flag": {
+    "svg": "EE/EE-430/flag.svg",
+    "source": "Lääneranna valla lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-430/coat.svg",
+    "source": "Lääneranna valla vapp.svg"
+  },
+  "data_source": "out"
+}

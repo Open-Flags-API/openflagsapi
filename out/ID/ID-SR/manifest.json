@@ -1,0 +1,14 @@
+{
+  "code": "ID-SR",
+  "country": "ID",
+  "flag": {
+    "svg": "ID/ID-SR/flag.svg",
+    "png": "ID/ID-SR/flag.png",
+    "source_filename": "Flag of West Sulawesi.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-SR/coat.svg",
+    "png": "ID/ID-SR/coat.png",
+    "source_filename": "Coat of arms of West Sulawesi.svg"
+  }
+}

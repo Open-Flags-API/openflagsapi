@@ -1,0 +1,16 @@
+{
+  "iso_code": "EE-81",
+  "country_iso": "EE",
+  "country_name": "EE",
+  "region_name": "ee-81",
+  "region_normalized": "ee-81",
+  "flag": {
+    "svg": "EE/EE-81/flag.svg",
+    "source": "Valgamaa lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-81/coat.svg",
+    "source": "Valgamaa vapp.svg"
+  },
+  "data_source": "out"
+}

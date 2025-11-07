@@ -1,0 +1,16 @@
+{
+  "iso_code": "LU-RM",
+  "country_iso": "LU",
+  "country_name": "LU",
+  "region_name": "lu-rm",
+  "region_normalized": "lu-rm",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Remich (canton) coat of arms.png"
+  },
+  "data_source": "out"
+}

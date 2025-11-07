@@ -1,0 +1,14 @@
+{
+  "code": "CH-BL",
+  "country": "CH",
+  "flag": {
+    "svg": "CH/CH-BL/flag.svg",
+    "png": "CH/CH-BL/flag.png",
+    "source_filename": "Flag of Canton of Basel-Landschaft.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-BL/coat.svg",
+    "png": "CH/CH-BL/coat.png",
+    "source_filename": "Coat of arms of Kanton Basel-Landschaft.svg"
+  }
+}

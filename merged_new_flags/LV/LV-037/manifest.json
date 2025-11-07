@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-037",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-037",
+  "region_normalized": "lv-037",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Inčukalna novads.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Inčukalna-novads-COA.png"
+  },
+  "data_source": "out"
+}

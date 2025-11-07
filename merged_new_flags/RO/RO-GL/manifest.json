@@ -1,0 +1,16 @@
+{
+  "iso_code": "RO-GL",
+  "country_iso": "RO",
+  "country_name": "RO",
+  "region_name": "ro-gl",
+  "region_normalized": "ro-gl",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "RO/RO-GL/coat.svg",
+    "source": "Stema judetului Galati.svg"
+  },
+  "data_source": "out"
+}

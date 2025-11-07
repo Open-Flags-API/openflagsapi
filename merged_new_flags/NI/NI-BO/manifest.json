@@ -1,0 +1,16 @@
+{
+  "iso_code": "NI-BO",
+  "country_iso": "NI",
+  "country_name": "NI",
+  "region_name": "ni-bo",
+  "region_normalized": "ni-bo",
+  "flag": {
+    "svg": "NI/NI-BO/flag.svg",
+    "source": "Flag of Boaco.svg"
+  },
+  "coat": {
+    "svg": "NI/NI-BO/coat.svg",
+    "source": "Seal of Boaco.svg"
+  },
+  "data_source": "out"
+}

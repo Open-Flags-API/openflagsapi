@@ -1,0 +1,14 @@
+{
+  "code": "SK-KI",
+  "country": "SK",
+  "flag": {
+    "svg": "SK/SK-KI/flag.svg",
+    "png": "SK/SK-KI/flag.png",
+    "source_filename": "Kosicky vlajka.svg"
+  },
+  "coat": {
+    "svg": "SK/SK-KI/coat.svg",
+    "png": "SK/SK-KI/coat.png",
+    "source_filename": "Coat of Arms of Košice Region.svg"
+  }
+}

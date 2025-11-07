@@ -1,0 +1,14 @@
+{
+  "code": "EG-SIN",
+  "country": "EG",
+  "flag": {
+    "svg": "EG/EG-SIN/flag.svg",
+    "png": "EG/EG-SIN/flag.png",
+    "source_filename": "North Sinai Flag (Old).svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "EG/EG-SIN/coat.png",
+    "source_filename": "Coat of arms of North Sinai Governorate.png"
+  }
+}

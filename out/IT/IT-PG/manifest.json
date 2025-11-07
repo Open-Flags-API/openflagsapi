@@ -1,0 +1,14 @@
+{
+  "code": "IT-PG",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-PG/flag.svg",
+    "png": "IT/IT-PG/flag.png",
+    "source_filename": "Flag of the province of Perugia.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-PG/coat.svg",
+    "png": "IT/IT-PG/coat.png",
+    "source_filename": "Provincia di Perugia-Stemma.svg"
+  }
+}

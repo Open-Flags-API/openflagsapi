@@ -1,0 +1,14 @@
+{
+  "code": "BR-SC",
+  "country": "BR",
+  "flag": {
+    "svg": "BR/BR-SC/flag.svg",
+    "png": "BR/BR-SC/flag.png",
+    "source_filename": "Bandeira de Santa Catarina.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-SC/coat.svg",
+    "png": "BR/BR-SC/coat.png",
+    "source_filename": "Brasão de Santa Catarina.svg"
+  }
+}

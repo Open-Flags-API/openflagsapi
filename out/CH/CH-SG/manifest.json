@@ -1,0 +1,14 @@
+{
+  "code": "CH-SG",
+  "country": "CH",
+  "flag": {
+    "svg": "CH/CH-SG/flag.svg",
+    "png": "CH/CH-SG/flag.png",
+    "source_filename": "Flag of Canton of Sankt Gallen.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-SG/coat.svg",
+    "png": "CH/CH-SG/coat.png",
+    "source_filename": "Coat of arms of canton of St. Gallen.svg"
+  }
+}

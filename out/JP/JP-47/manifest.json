@@ -1,0 +1,14 @@
+{
+  "code": "JP-47",
+  "country": "JP",
+  "flag": {
+    "svg": "JP/JP-47/flag.svg",
+    "png": "JP/JP-47/flag.png",
+    "source_filename": "Flag of Okinawa Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-47/coat.svg",
+    "png": "JP/JP-47/coat.png",
+    "source_filename": "Emblem of Okinawa Prefecture.svg"
+  }
+}

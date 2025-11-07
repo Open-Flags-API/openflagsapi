@@ -1,0 +1,16 @@
+{
+  "iso_code": "WF-UV",
+  "country_iso": "WF",
+  "country_name": "WF",
+  "region_name": "wf-uv",
+  "region_normalized": "wf-uv",
+  "flag": {
+    "svg": "WF/WF-UV/flag.svg",
+    "source": "Flag of Uvea.svg"
+  },
+  "coat": {
+    "svg": "WF/WF-UV/coat.svg",
+    "source": "Blason circonscription fr Uvea (Wallis-et-Futuna).svg"
+  },
+  "data_source": "out"
+}

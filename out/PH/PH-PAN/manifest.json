@@ -1,0 +1,14 @@
+{
+  "code": "PH-PAN",
+  "country": "PH",
+  "flag": {
+    "svg": "PH/PH-PAN/flag.svg",
+    "png": "PH/PH-PAN/flag.png",
+    "source_filename": "Flag of Pangasinan.svg"
+  },
+  "coat": {
+    "svg": "PH/PH-PAN/coat.svg",
+    "png": "PH/PH-PAN/coat.png",
+    "source_filename": "Official Seal of Pangasinan.svg"
+  }
+}

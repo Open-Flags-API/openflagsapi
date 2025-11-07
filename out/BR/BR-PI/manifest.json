@@ -1,0 +1,14 @@
+{
+  "code": "BR-PI",
+  "country": "BR",
+  "flag": {
+    "svg": "BR/BR-PI/flag.svg",
+    "png": "BR/BR-PI/flag.png",
+    "source_filename": "Bandeira do Piauí.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-PI/coat.svg",
+    "png": "BR/BR-PI/coat.png",
+    "source_filename": "Brasão do Piauí.svg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "code": "CR-SJ",
+  "country": "CR",
+  "flag": {
+    "svg": "CR/CR-SJ/flag.svg",
+    "png": "CR/CR-SJ/flag.png",
+    "source_filename": "Bandera de la Provincia de San José.svg"
+  },
+  "coat": {
+    "svg": "CR/CR-SJ/coat.svg",
+    "png": "CR/CR-SJ/coat.png",
+    "source_filename": "Escudo de la Provincia de San José.svg"
+  }
+}

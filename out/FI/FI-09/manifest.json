@@ -1,0 +1,14 @@
+{
+  "code": "FI-09",
+  "country": "FI",
+  "flag": {
+    "svg": "FI/FI-09/flag.svg",
+    "png": "FI/FI-09/flag.png",
+    "source_filename": "Kymenlaakso.vaakunaviiri.svg"
+  },
+  "coat": {
+    "svg": "FI/FI-09/coat.svg",
+    "png": "FI/FI-09/coat.png",
+    "source_filename": "Kymenlaakson maakunnan vaakuna.svg"
+  }
+}

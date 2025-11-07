@@ -1,0 +1,14 @@
+{
+  "code": "CA-SK",
+  "country": "CA",
+  "flag": {
+    "svg": "CA/CA-SK/flag.svg",
+    "png": "CA/CA-SK/flag.png",
+    "source_filename": "Flag of Saskatchewan.svg"
+  },
+  "coat": {
+    "svg": "CA/CA-SK/coat.svg",
+    "png": "CA/CA-SK/coat.png",
+    "source_filename": "Coat of arms of Saskatchewan.svg"
+  }
+}

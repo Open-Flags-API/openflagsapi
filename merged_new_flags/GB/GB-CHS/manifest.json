@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-CHS",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-chs",
+  "region_normalized": "gb-chs",
+  "flag": {
+    "svg": "GB/GB-CHS/flag.svg",
+    "source": "Flag of Cheshire.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-CHS/coat.svg",
+    "source": "Arms of Cheshire County Council.svg"
+  },
+  "data_source": "out"
+}

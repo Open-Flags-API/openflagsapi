@@ -1,0 +1,14 @@
+{
+  "code": "PH-SLU",
+  "country": "PH",
+  "flag": {
+    "svg": "PH/PH-SLU/flag.svg",
+    "png": "PH/PH-SLU/flag.png",
+    "source_filename": "Flag of Sulu.svg"
+  },
+  "coat": {
+    "svg": "PH/PH-SLU/coat.svg",
+    "png": "PH/PH-SLU/coat.png",
+    "source_filename": "Official Seal of Sulu.svg"
+  }
+}

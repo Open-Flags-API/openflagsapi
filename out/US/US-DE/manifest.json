@@ -1,0 +1,14 @@
+{
+  "code": "US-DE",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-DE/flag.svg",
+    "png": "US/US-DE/flag.png",
+    "source_filename": "Flag of Delaware.svg"
+  },
+  "coat": {
+    "svg": "US/US-DE/coat.svg",
+    "png": "US/US-DE/coat.png",
+    "source_filename": "Coat of arms of Delaware.svg"
+  }
+}

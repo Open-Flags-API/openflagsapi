@@ -1,0 +1,16 @@
+{
+  "iso_code": "LT-30",
+  "country_iso": "LT",
+  "country_name": "LT",
+  "region_name": "lt-30",
+  "region_normalized": "lt-30",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Pakruojis.gif"
+  },
+  "coat": {
+    "svg": "LT/LT-30/coat.svg",
+    "source": "Coat of arms of Pakruojis (Lithuania).svg"
+  },
+  "data_source": "out"
+}

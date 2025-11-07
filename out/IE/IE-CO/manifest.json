@@ -1,0 +1,14 @@
+{
+  "code": "IE-CO",
+  "country": "IE",
+  "flag": {
+    "svg": "IE/IE-CO/flag.svg",
+    "png": "IE/IE-CO/flag.png",
+    "source_filename": "Colours of Cork.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "IE/IE-CO/coat.png",
+    "source_filename": "Cork county arms.png"
+  }
+}

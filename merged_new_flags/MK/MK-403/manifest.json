@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-403",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-403",
+  "region_normalized": "mk-403",
+  "flag": {
+    "svg": "MK/MK-403/flag.svg",
+    "source": "Flag of Valandovo Municipality, North Macedonia.svg"
+  },
+  "coat": {
+    "svg": "MK/MK-403/coat.svg",
+    "source": "Coat of arms of Valandovo Municipality.svg"
+  },
+  "data_source": "out"
+}

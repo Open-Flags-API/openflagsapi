@@ -1,0 +1,16 @@
+{
+  "iso_code": "AR-M",
+  "country_iso": "AR",
+  "country_name": "AR",
+  "region_name": "ar-m",
+  "region_normalized": "ar-m",
+  "flag": {
+    "svg": "AR/AR-M/flag.svg",
+    "source": "Bandera de la Provincia de Mendoza.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-M/coat.svg",
+    "source": "Escudo provincia Mendoza grande.svg"
+  },
+  "data_source": "out"
+}

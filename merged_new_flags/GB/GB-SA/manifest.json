@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-SA",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "saint-wite's-cross",
+  "region_normalized": "saint-wite's-cross",
+  "flag": {
+    "svg": "GB/GB-SA/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

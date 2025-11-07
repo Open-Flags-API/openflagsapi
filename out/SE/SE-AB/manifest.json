@@ -1,0 +1,14 @@
+{
+  "code": "SE-AB",
+  "country": "SE",
+  "flag": {
+    "svg": "SE/SE-AB/flag.svg",
+    "png": "SE/SE-AB/flag.png",
+    "source_filename": "Stockholms län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-AB/coat.svg",
+    "png": "SE/SE-AB/coat.png",
+    "source_filename": "Stockholm län vapen b ram.svg"
+  }
+}

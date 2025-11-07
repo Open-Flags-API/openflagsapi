@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-QUI",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-qui",
+  "region_normalized": "co-qui",
+  "flag": {
+    "svg": "CO/CO-QUI/flag.svg",
+    "source": "Flag of Quindío.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-QUI/coat.svg",
+    "source": "Escudo del Quindío.svg"
+  },
+  "data_source": "out"
+}

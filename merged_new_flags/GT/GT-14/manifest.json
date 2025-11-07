@@ -1,0 +1,16 @@
+{
+  "iso_code": "GT-14",
+  "country_iso": "GT",
+  "country_name": "GT",
+  "region_name": "gt-14",
+  "region_normalized": "gt-14",
+  "flag": {
+    "svg": null,
+    "source": "El Quiché Flag (GUATEMALA).png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Quiche.png"
+  },
+  "data_source": "out"
+}

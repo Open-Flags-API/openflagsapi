@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-AL",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-al",
+  "region_normalized": "ru-al",
+  "flag": {
+    "svg": "RU/RU-AL/flag.svg",
+    "source": "Flag of Altai Republic (1992).svg"
+  },
+  "coat": {
+    "svg": "RU/RU-AL/coat.svg",
+    "source": "Coat of arms of Altai Republic.svg"
+  },
+  "data_source": "out"
+}

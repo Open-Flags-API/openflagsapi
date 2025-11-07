@@ -1,0 +1,16 @@
+{
+  "iso_code": "TW-MIA",
+  "country_iso": "TW",
+  "country_name": "TW",
+  "region_name": "tw-mia",
+  "region_normalized": "tw-mia",
+  "flag": {
+    "svg": "TW/TW-MIA/flag.svg",
+    "source": "Flag of Miaoli County.svg"
+  },
+  "coat": {
+    "svg": "TW/TW-MIA/coat.svg",
+    "source": "Emblem of Miaoli County.svg"
+  },
+  "data_source": "out"
+}

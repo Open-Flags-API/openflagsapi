@@ -1,0 +1,16 @@
+{
+  "iso_code": "SB-ML",
+  "country_iso": "SB",
+  "country_name": "SB",
+  "region_name": "sb-ml",
+  "region_normalized": "sb-ml",
+  "flag": {
+    "svg": "SB/SB-ML/flag.svg",
+    "source": "Flag of Malaita.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

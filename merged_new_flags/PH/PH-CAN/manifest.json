@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-CAN",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-can",
+  "region_normalized": "ph-can",
+  "flag": {
+    "svg": null,
+    "source": "Vlag Fil CamarinesNorte.gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

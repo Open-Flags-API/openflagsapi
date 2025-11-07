@@ -1,0 +1,14 @@
+{
+  "code": "JP-02",
+  "country": "JP",
+  "flag": {
+    "svg": "JP/JP-02/flag.svg",
+    "png": "JP/JP-02/flag.png",
+    "source_filename": "Flag of Aomori Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-02/coat.svg",
+    "png": "JP/JP-02/coat.png",
+    "source_filename": "Emblem of Aomori Prefecture.svg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "code": "AR-W",
+  "country": "AR",
+  "flag": {
+    "svg": "AR/AR-W/flag.svg",
+    "png": "AR/AR-W/flag.png",
+    "source_filename": "Bandera de la Provincia de Corrientes.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-W/coat.svg",
+    "png": "AR/AR-W/coat.png",
+    "source_filename": "Escudo de la Provincia de Corrientes (variante 3).svg"
+  }
+}

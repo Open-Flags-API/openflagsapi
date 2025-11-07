@@ -1,0 +1,14 @@
+{
+  "code": "GB-NFK",
+  "country": "GB",
+  "flag": {
+    "svg": "GB/GB-NFK/flag.svg",
+    "png": "GB/GB-NFK/flag.png",
+    "source_filename": "Flag of Norfolk.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-NFK/coat.svg",
+    "png": "GB/GB-NFK/coat.png",
+    "source_filename": "Arms of Norfolk.svg"
+  }
+}

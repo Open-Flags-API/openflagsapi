@@ -1,0 +1,14 @@
+{
+  "code": "TW-HUA",
+  "country": "TW",
+  "flag": {
+    "svg": "TW/TW-HUA/flag.svg",
+    "png": "TW/TW-HUA/flag.png",
+    "source_filename": "Flag of Hualien County.svg"
+  },
+  "coat": {
+    "svg": "TW/TW-HUA/coat.svg",
+    "png": "TW/TW-HUA/coat.png",
+    "source_filename": "Emblem of Hualien County.svg"
+  }
+}

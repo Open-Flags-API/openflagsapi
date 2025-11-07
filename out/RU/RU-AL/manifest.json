@@ -1,0 +1,14 @@
+{
+  "code": "RU-AL",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-AL/flag.svg",
+    "png": "RU/RU-AL/flag.png",
+    "source_filename": "Flag of Altai Republic (1992).svg"
+  },
+  "coat": {
+    "svg": "RU/RU-AL/coat.svg",
+    "png": "RU/RU-AL/coat.png",
+    "source_filename": "Coat of arms of Altai Republic.svg"
+  }
+}

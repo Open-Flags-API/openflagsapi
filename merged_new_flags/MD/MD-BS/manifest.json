@@ -1,0 +1,16 @@
+{
+  "iso_code": "MD-BS",
+  "country_iso": "MD",
+  "country_name": "MD",
+  "region_name": "md-bs",
+  "region_normalized": "md-bs",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Basarabeasca District.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "CoA of Basarabeasca District.gif"
+  },
+  "data_source": "out"
+}

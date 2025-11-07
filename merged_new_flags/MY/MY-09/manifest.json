@@ -1,0 +1,16 @@
+{
+  "iso_code": "MY-09",
+  "country_iso": "MY",
+  "country_name": "MY",
+  "region_name": "my-09",
+  "region_normalized": "my-09",
+  "flag": {
+    "svg": "MY/MY-09/flag.svg",
+    "source": "Flag of Perlis.svg"
+  },
+  "coat": {
+    "svg": "MY/MY-09/coat.svg",
+    "source": "Coat of arms of Perlis.svg"
+  },
+  "data_source": "out"
+}

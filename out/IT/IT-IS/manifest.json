@@ -1,0 +1,14 @@
+{
+  "code": "IT-IS",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-IS/flag.svg",
+    "png": "IT/IT-IS/flag.png",
+    "source_filename": "Flag of the Province of Isernia.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-IS/coat.svg",
+    "png": "IT/IT-IS/coat.png",
+    "source_filename": "Provincia di Isernia-Stemma.svg"
+  }
+}

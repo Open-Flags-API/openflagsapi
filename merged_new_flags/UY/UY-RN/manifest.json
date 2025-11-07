@@ -1,0 +1,16 @@
+{
+  "iso_code": "UY-RN",
+  "country_iso": "UY",
+  "country_name": "UY",
+  "region_name": "uy-rn",
+  "region_normalized": "uy-rn",
+  "flag": {
+    "svg": "UY/UY-RN/flag.svg",
+    "source": "Flag of Rio Negro Department.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Rio Negro Department.png"
+  },
+  "data_source": "out"
+}

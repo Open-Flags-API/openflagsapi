@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-AKL",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-akl",
+  "region_normalized": "ph-akl",
+  "flag": {
+    "svg": null,
+    "source": "PH-AKL Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

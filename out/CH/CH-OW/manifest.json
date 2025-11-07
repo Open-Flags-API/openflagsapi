@@ -1,0 +1,14 @@
+{
+  "code": "CH-OW",
+  "country": "CH",
+  "flag": {
+    "svg": "CH/CH-OW/flag.svg",
+    "png": "CH/CH-OW/flag.png",
+    "source_filename": "Flag of Canton of Obwalden.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-OW/coat.svg",
+    "png": "CH/CH-OW/coat.png",
+    "source_filename": "Wappen Obwalden matt.svg"
+  }
+}

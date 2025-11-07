@@ -1,0 +1,16 @@
+{
+  "iso_code": "PL-18",
+  "country_iso": "PL",
+  "country_name": "PL",
+  "region_name": "pl-18",
+  "region_normalized": "pl-18",
+  "flag": {
+    "svg": "PL/PL-18/flag.svg",
+    "source": "POL województwo podkarpackie flag.svg"
+  },
+  "coat": {
+    "svg": "PL/PL-18/coat.svg",
+    "source": "POL województwo podkarpackie COA.svg"
+  },
+  "data_source": "out"
+}

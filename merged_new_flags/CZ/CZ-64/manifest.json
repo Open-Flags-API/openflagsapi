@@ -1,0 +1,16 @@
+{
+  "iso_code": "CZ-64",
+  "country_iso": "CZ",
+  "country_name": "CZ",
+  "region_name": "cz-64",
+  "region_normalized": "cz-64",
+  "flag": {
+    "svg": "CZ/CZ-64/flag.svg",
+    "source": "Flag of South Moravian Region.svg"
+  },
+  "coat": {
+    "svg": "CZ/CZ-64/coat.svg",
+    "source": "South Moravian Region CoA CZ.svg"
+  },
+  "data_source": "out"
+}

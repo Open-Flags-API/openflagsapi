@@ -1,0 +1,16 @@
+{
+  "iso_code": "BF-SOM",
+  "country_iso": "BF",
+  "country_name": "BF",
+  "region_name": "bf-som",
+  "region_normalized": "bf-som",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

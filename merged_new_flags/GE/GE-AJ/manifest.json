@@ -1,0 +1,16 @@
+{
+  "iso_code": "GE-AJ",
+  "country_iso": "GE",
+  "country_name": "GE",
+  "region_name": "ge-aj",
+  "region_normalized": "ge-aj",
+  "flag": {
+    "svg": "GE/GE-AJ/flag.svg",
+    "source": "Flag of Adjara.svg"
+  },
+  "coat": {
+    "svg": "GE/GE-AJ/coat.svg",
+    "source": "Coat of arms of Adjara.svg"
+  },
+  "data_source": "out"
+}

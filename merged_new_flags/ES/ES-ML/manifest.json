@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-ML",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-ml",
+  "region_normalized": "es-ml",
+  "flag": {
+    "svg": "ES/ES-ML/flag.svg",
+    "source": "Flag of Melilla.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-ML/coat.svg",
+    "source": "Coat of Arms of Melilla.svg"
+  },
+  "data_source": "out"
+}

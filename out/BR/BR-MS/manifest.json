@@ -1,0 +1,14 @@
+{
+  "code": "BR-MS",
+  "country": "BR",
+  "flag": {
+    "svg": "BR/BR-MS/flag.svg",
+    "png": "BR/BR-MS/flag.png",
+    "source_filename": "Bandeira de Mato Grosso do Sul.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-MS/coat.svg",
+    "png": "BR/BR-MS/coat.png",
+    "source_filename": "Brasão de Mato Grosso do Sul.svg"
+  }
+}

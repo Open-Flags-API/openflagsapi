@@ -1,0 +1,14 @@
+{
+  "code": "BO-O",
+  "country": "BO",
+  "flag": {
+    "svg": "BO/BO-O/flag.svg",
+    "png": "BO/BO-O/flag.png",
+    "source_filename": "Flag of Oruro.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "BO/BO-O/coat.png",
+    "source_filename": "Escudo Oruro.jpg"
+  }
+}

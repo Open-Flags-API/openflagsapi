@@ -1,0 +1,16 @@
+{
+  "iso_code": "HN-CM",
+  "country_iso": "HN",
+  "country_name": "HN",
+  "region_name": "hn-cm",
+  "region_normalized": "hn-cm",
+  "flag": {
+    "svg": null,
+    "source": "Bandera del departamento de Comayagua.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

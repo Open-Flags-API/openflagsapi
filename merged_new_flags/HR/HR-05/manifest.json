@@ -1,0 +1,16 @@
+{
+  "iso_code": "HR-05",
+  "country_iso": "HR",
+  "country_name": "HR",
+  "region_name": "hr-05",
+  "region_normalized": "hr-05",
+  "flag": {
+    "svg": "HR/HR-05/flag.svg",
+    "source": "Flag of Varaždin.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Varaždin County coat of arms.png"
+  },
+  "data_source": "out"
+}

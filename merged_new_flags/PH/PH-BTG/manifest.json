@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-BTG",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-btg",
+  "region_normalized": "ph-btg",
+  "flag": {
+    "svg": null,
+    "source": "Vlag Fil Batangas.gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

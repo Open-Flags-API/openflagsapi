@@ -1,0 +1,16 @@
+{
+  "iso_code": "MZ-L",
+  "country_iso": "MZ",
+  "country_name": "MZ",
+  "region_name": "mz-l",
+  "region_normalized": "mz-l",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

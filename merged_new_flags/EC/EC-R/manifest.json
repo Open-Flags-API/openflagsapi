@@ -1,0 +1,16 @@
+{
+  "iso_code": "EC-R",
+  "country_iso": "EC",
+  "country_name": "EC",
+  "region_name": "ec-r",
+  "region_normalized": "ec-r",
+  "flag": {
+    "svg": "EC/EC-R/flag.svg",
+    "source": "Bandera de Los Ríos.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

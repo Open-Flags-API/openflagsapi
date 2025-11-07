@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-082",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-082",
+  "region_normalized": "lv-082",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "LV/LV-082/coat.svg",
+    "source": "Rugāju novads COA.svg"
+  },
+  "data_source": "out"
+}

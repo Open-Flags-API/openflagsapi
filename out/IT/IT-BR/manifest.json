@@ -1,0 +1,14 @@
+{
+  "code": "IT-BR",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-BR/flag.svg",
+    "png": "IT/IT-BR/flag.png",
+    "source_filename": "Flag of the Province of Brindisi.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-BR/coat.svg",
+    "png": "IT/IT-BR/coat.png",
+    "source_filename": "Provincia di Brindisi-Stemma.svg"
+  }
+}

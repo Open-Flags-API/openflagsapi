@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-RI",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-ri",
+  "region_normalized": "us-ri",
+  "flag": {
+    "svg": "US/US-RI/flag.svg",
+    "source": "Flag of Rhode Island.svg"
+  },
+  "coat": {
+    "svg": "US/US-RI/coat.svg",
+    "source": "Coat of arms of Rhode Island.svg"
+  },
+  "data_source": "out"
+}

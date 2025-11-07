@@ -1,0 +1,14 @@
+{
+  "code": "BR-RN",
+  "country": "BR",
+  "flag": {
+    "svg": "BR/BR-RN/flag.svg",
+    "png": "BR/BR-RN/flag.png",
+    "source_filename": "Bandeira do Rio Grande do Norte.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-RN/coat.svg",
+    "png": "BR/BR-RN/coat.png",
+    "source_filename": "Brasão do Rio Grande do Norte.svg"
+  }
+}

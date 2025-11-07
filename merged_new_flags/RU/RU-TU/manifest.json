@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-TU",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "tuva",
+  "region_normalized": "tuva",
+  "flag": {
+    "svg": "RU/RU-TU/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

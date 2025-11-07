@@ -1,0 +1,14 @@
+{
+  "code": "FR-C",
+  "country": "FR",
+  "flag": {
+    "svg": "FR/FR-C/flag.svg",
+    "png": "FR/FR-C/flag.png",
+    "source_filename": "Flag of Auvergne.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-C/coat.svg",
+    "png": "FR/FR-C/coat.png",
+    "source_filename": "Blason de l'Auvergne.svg"
+  }
+}

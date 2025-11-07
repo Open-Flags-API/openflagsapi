@@ -1,0 +1,14 @@
+{
+  "code": "PH-CAG",
+  "country": "PH",
+  "flag": {
+    "svg": "PH/PH-CAG/flag.svg",
+    "png": "PH/PH-CAG/flag.png",
+    "source_filename": "Flag of Cagayan.svg"
+  },
+  "coat": {
+    "svg": "PH/PH-CAG/coat.svg",
+    "png": "PH/PH-CAG/coat.png",
+    "source_filename": "Official Seal of Cagayan.svg"
+  }
+}

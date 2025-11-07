@@ -1,0 +1,14 @@
+{
+  "code": "IT-TA",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-TA/flag.svg",
+    "png": "IT/IT-TA/flag.png",
+    "source_filename": "Flag of the Province of Taranto.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-TA/coat.svg",
+    "png": "IT/IT-TA/coat.png",
+    "source_filename": "Provincia di Taranto-Stemma.svg"
+  }
+}

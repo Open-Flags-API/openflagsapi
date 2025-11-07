@@ -1,0 +1,16 @@
+{
+  "iso_code": "NO-50",
+  "country_iso": "NO",
+  "country_name": "NO",
+  "region_name": "no-50",
+  "region_normalized": "no-50",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Trøndelag Fylke.png"
+  },
+  "coat": {
+    "svg": "NO/NO-50/coat.svg",
+    "source": "Trøndelag våpen.svg"
+  },
+  "data_source": "out"
+}

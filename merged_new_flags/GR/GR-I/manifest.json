@@ -1,0 +1,16 @@
+{
+  "iso_code": "GR-I",
+  "country_iso": "GR",
+  "country_name": "GR",
+  "region_name": "gr-i",
+  "region_normalized": "gr-i",
+  "flag": {
+    "svg": null,
+    "source": "Σημαία Αττικής.gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

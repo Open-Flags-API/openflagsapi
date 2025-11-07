@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-AZ",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-az",
+  "region_normalized": "us-az",
+  "flag": {
+    "svg": "US/US-AZ/flag.svg",
+    "source": "Flag of Arizona.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

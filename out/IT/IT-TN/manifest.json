@@ -1,0 +1,14 @@
+{
+  "code": "IT-TN",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-TN/flag.svg",
+    "png": "IT/IT-TN/flag.png",
+    "source_filename": "Flag of the Province of Trento.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-TN/coat.svg",
+    "png": "IT/IT-TN/coat.png",
+    "source_filename": "Trentino CoA.svg"
+  }
+}

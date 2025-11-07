@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-15",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-15",
+  "region_normalized": "mt-15",
+  "flag": {
+    "svg": "MT/MT-15/flag.svg",
+    "source": "Flag of Għargħur.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-15/coat.svg",
+    "source": "Gharghur coa.svg"
+  },
+  "data_source": "out"
+}

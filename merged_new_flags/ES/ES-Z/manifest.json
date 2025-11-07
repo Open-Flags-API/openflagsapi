@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-Z",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-z",
+  "region_normalized": "es-z",
+  "flag": {
+    "svg": "ES/ES-Z/flag.svg",
+    "source": "Bandera de la provincia de Zaragoza.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-Z/coat.svg",
+    "source": "Escudo de la Provincia de Zaragoza.svg"
+  },
+  "data_source": "out"
+}

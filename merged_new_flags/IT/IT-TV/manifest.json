@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-TV",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-tv",
+  "region_normalized": "it-tv",
+  "flag": {
+    "svg": "IT/IT-TV/flag.svg",
+    "source": "Flag of the Province of Treviso (2015 design).svg"
+  },
+  "coat": {
+    "svg": "IT/IT-TV/coat.svg",
+    "source": "Provincia di Treviso-Stemma.svg"
+  },
+  "data_source": "out"
+}

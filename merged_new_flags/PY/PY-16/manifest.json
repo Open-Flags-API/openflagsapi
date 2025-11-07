@@ -1,0 +1,16 @@
+{
+  "iso_code": "PY-16",
+  "country_iso": "PY",
+  "country_name": "PY",
+  "region_name": "py-16",
+  "region_normalized": "py-16",
+  "flag": {
+    "svg": null,
+    "source": "Bandera de Alto Paraguay.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

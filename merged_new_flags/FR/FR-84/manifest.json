@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-84",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-84",
+  "region_normalized": "fr-84",
+  "flag": {
+    "svg": "FR/FR-84/flag.svg",
+    "source": "Drapeau fr département Vaucluse.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-84/coat.svg",
+    "source": "Blason département fr Vaucluse.svg"
+  },
+  "data_source": "out"
+}

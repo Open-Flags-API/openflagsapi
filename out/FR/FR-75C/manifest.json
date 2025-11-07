@@ -1,0 +1,14 @@
+{
+  "code": "FR-75C",
+  "country": "FR",
+  "flag": {
+    "svg": "FR/FR-75C/flag.svg",
+    "png": "FR/FR-75C/flag.png",
+    "source_filename": "Flag of Paris with coat of arms.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-75C/coat.svg",
+    "png": "FR/FR-75C/coat.png",
+    "source_filename": "Grandes Armes de Paris.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "BG-04",
+  "country_iso": "BG",
+  "country_name": "BG",
+  "region_name": "bg-04",
+  "region_normalized": "bg-04",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "BG/BG-04/coat.svg",
+    "source": "Veliko-Tarnovo-coat-of-arms.svg"
+  },
+  "data_source": "out"
+}

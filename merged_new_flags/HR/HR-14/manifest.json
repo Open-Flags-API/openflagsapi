@@ -1,0 +1,16 @@
+{
+  "iso_code": "HR-14",
+  "country_iso": "HR",
+  "country_name": "HR",
+  "region_name": "hr-14",
+  "region_normalized": "hr-14",
+  "flag": {
+    "svg": "HR/HR-14/flag.svg",
+    "source": "Flag of Osijek-Baranja County.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Osijek-Baranja County Arms.png"
+  },
+  "data_source": "out"
+}

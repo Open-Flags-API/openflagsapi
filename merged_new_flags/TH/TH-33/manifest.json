@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-33",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-33",
+  "region_normalized": "th-33",
+  "flag": {
+    "svg": "TH/TH-33/flag.svg",
+    "source": "Flag of Sisaket.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

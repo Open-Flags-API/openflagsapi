@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-SIG",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-sig",
+  "region_normalized": "ph-sig",
+  "flag": {
+    "svg": null,
+    "source": "Siquijor Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

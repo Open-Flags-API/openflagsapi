@@ -1,0 +1,16 @@
+{
+  "iso_code": "KZ-59",
+  "country_iso": "KZ",
+  "country_name": "KZ",
+  "region_name": "kz-59",
+  "region_normalized": "kz-59",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "KZ/KZ-59/coat.svg",
+    "source": "North Kazakhstan province seal.svg"
+  },
+  "data_source": "out"
+}

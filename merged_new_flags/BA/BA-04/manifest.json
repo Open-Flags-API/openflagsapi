@@ -1,0 +1,16 @@
+{
+  "iso_code": "BA-04",
+  "country_iso": "BA",
+  "country_name": "BA",
+  "region_name": "ba-04",
+  "region_normalized": "ba-04",
+  "flag": {
+    "svg": "BA/BA-04/flag.svg",
+    "source": "Flag of Zenica-Doboj.svg"
+  },
+  "coat": {
+    "svg": "BA/BA-04/coat.svg",
+    "source": "Coat of arms of Zenica-Doboj.svg"
+  },
+  "data_source": "out"
+}

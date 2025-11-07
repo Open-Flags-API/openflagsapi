@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-SLK",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-slk",
+  "region_normalized": "gb-slk",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-SLK/coat.svg",
+    "source": "Coat of arms of South Lanarkshire.svg"
+  },
+  "data_source": "out"
+}

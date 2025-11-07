@@ -1,0 +1,16 @@
+{
+  "iso_code": "DE-HB",
+  "country_iso": "DE",
+  "country_name": "germany",
+  "region_name": "de-hb",
+  "region_normalized": "de-hb",
+  "flag": {
+    "svg": "DE/DE-HB/flag.svg",
+    "source": "Flag of Bremen.svg"
+  },
+  "coat": {
+    "svg": "DE/DE-HB/coat.svg",
+    "source": "Bremen greater coat of arms.svg"
+  },
+  "data_source": "out"
+}

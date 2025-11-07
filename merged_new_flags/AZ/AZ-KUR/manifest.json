@@ -1,0 +1,16 @@
+{
+  "iso_code": "AZ-KUR",
+  "country_iso": "AZ",
+  "country_name": "AZ",
+  "region_name": "az-kur",
+  "region_normalized": "az-kur",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

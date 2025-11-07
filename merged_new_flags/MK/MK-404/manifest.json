@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-404",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-404",
+  "region_normalized": "mk-404",
+  "flag": {
+    "svg": "MK/MK-404/flag.svg",
+    "source": "Flag of Vasilevo Municipality, North Macedonia.svg"
+  },
+  "coat": {
+    "svg": "MK/MK-404/coat.svg",
+    "source": "Coat of arms of Vasilevo Municipality.svg"
+  },
+  "data_source": "out"
+}

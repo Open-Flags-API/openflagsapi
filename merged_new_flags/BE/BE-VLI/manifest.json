@@ -1,0 +1,16 @@
+{
+  "iso_code": "BE-VLI",
+  "country_iso": "BE",
+  "country_name": "BE",
+  "region_name": "be-vli",
+  "region_normalized": "be-vli",
+  "flag": {
+    "svg": "BE/BE-VLI/flag.svg",
+    "source": "Flag of Limburg (Belgium).svg"
+  },
+  "coat": {
+    "svg": "BE/BE-VLI/coat.svg",
+    "source": "Limburg B wapen.svg"
+  },
+  "data_source": "out"
+}

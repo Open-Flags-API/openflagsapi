@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-BA",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-ba",
+  "region_normalized": "hu-ba",
+  "flag": {
+    "svg": "HU/HU-BA/flag.svg",
+    "source": "Flag of Baranya County.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-BA/coat.svg",
+    "source": "BlasonHU-baranya.svg"
+  },
+  "data_source": "out"
+}

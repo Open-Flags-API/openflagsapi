@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-CN",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-cn",
+  "region_normalized": "es-cn",
+  "flag": {
+    "svg": "ES/ES-CN/flag.svg",
+    "source": "Flag of the Canary Islands (simple).svg"
+  },
+  "coat": {
+    "svg": "ES/ES-CN/coat.svg",
+    "source": "Coat of Arms of the Canary Islands.svg"
+  },
+  "data_source": "out"
+}

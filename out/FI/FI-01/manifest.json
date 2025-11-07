@@ -1,0 +1,14 @@
+{
+  "code": "FI-01",
+  "country": "FI",
+  "flag": {
+    "svg": "FI/FI-01/flag.svg",
+    "png": "FI/FI-01/flag.png",
+    "source_filename": "Flag of Åland.svg"
+  },
+  "coat": {
+    "svg": "FI/FI-01/coat.svg",
+    "png": "FI/FI-01/coat.png",
+    "source_filename": "Coat of arms of Åland 3.svg"
+  }
+}

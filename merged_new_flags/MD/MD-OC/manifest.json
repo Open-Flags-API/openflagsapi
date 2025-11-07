@@ -1,0 +1,16 @@
+{
+  "iso_code": "MD-OC",
+  "country_iso": "MD",
+  "country_name": "MD",
+  "region_name": "md-oc",
+  "region_normalized": "md-oc",
+  "flag": {
+    "svg": null,
+    "source": "Ocnitar.gif"
+  },
+  "coat": {
+    "svg": "MD/MD-OC/coat.svg",
+    "source": "Escudo de Ocniţa.svg"
+  },
+  "data_source": "out"
+}

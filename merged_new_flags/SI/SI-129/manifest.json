@@ -1,0 +1,16 @@
+{
+  "iso_code": "SI-129",
+  "country_iso": "SI",
+  "country_name": "SI",
+  "region_name": "si-129",
+  "region_normalized": "si-129",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "SI/SI-129/coat.svg",
+    "source": "Trbovlje.svg"
+  },
+  "data_source": "out"
+}

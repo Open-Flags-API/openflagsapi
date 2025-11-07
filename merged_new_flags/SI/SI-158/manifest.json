@@ -1,0 +1,16 @@
+{
+  "iso_code": "SI-158",
+  "country_iso": "SI",
+  "country_name": "SI",
+  "region_name": "si-158",
+  "region_normalized": "si-158",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Grad.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Občina Grad.png"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "SD-DC",
+  "country_iso": "SD",
+  "country_name": "SD",
+  "region_name": "sd-dc",
+  "region_normalized": "sd-dc",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Central Darfur State.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Seal of Central Darfur State.png"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "PY-13",
+  "country_iso": "PY",
+  "country_name": "PY",
+  "region_name": "py-13",
+  "region_normalized": "py-13",
+  "flag": {
+    "svg": "PY/PY-13/flag.svg",
+    "source": "Flag of Amambay.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Escudo de Amambay.jpg"
+  },
+  "data_source": "out"
+}

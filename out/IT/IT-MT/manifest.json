@@ -1,0 +1,14 @@
+{
+  "code": "IT-MT",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-MT/flag.svg",
+    "png": "IT/IT-MT/flag.png",
+    "source_filename": "Flag of the Province of Matera.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-MT/coat.svg",
+    "png": "IT/IT-MT/coat.png",
+    "source_filename": "Provincia di Matera-Stemma.svg"
+  }
+}

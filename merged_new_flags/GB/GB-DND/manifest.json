@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-DND",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-dnd",
+  "region_normalized": "gb-dnd",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

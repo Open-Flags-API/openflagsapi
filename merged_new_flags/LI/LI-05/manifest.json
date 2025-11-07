@@ -1,0 +1,16 @@
+{
+  "iso_code": "LI-05",
+  "country_iso": "LI",
+  "country_name": "LI",
+  "region_name": "li-05",
+  "region_normalized": "li-05",
+  "flag": {
+    "svg": "LI/LI-05/flag.svg",
+    "source": "Flag of Planken Liechtenstein-1.svg"
+  },
+  "coat": {
+    "svg": "LI/LI-05/coat.svg",
+    "source": "Wappen Planken.svg"
+  },
+  "data_source": "out"
+}

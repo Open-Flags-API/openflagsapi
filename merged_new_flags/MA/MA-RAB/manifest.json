@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-RAB",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-rab",
+  "region_normalized": "ma-rab",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

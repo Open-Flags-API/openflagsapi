@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-801",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-801",
+  "region_normalized": "mk-801",
+  "flag": {
+    "svg": "MK/MK-801/flag.svg",
+    "source": "Flag of Aerodrom Municipality, North Macedonia.svg"
+  },
+  "coat": {
+    "svg": "MK/MK-801/coat.svg",
+    "source": "Coat of arms of Aerodrom Municipality, 2012-present.svg"
+  },
+  "data_source": "out"
+}

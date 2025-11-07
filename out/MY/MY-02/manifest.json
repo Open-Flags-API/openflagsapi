@@ -1,0 +1,14 @@
+{
+  "code": "MY-02",
+  "country": "MY",
+  "flag": {
+    "svg": "MY/MY-02/flag.svg",
+    "png": "MY/MY-02/flag.png",
+    "source_filename": "Flag of Kedah.svg"
+  },
+  "coat": {
+    "svg": "MY/MY-02/coat.svg",
+    "png": "MY/MY-02/coat.png",
+    "source_filename": "Coat of arms of Kedah.svg"
+  }
+}

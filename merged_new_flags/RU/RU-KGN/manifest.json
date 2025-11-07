@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-KGN",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-kgn",
+  "region_normalized": "ru-kgn",
+  "flag": {
+    "svg": "RU/RU-KGN/flag.svg",
+    "source": "Flag of Kurgan Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-KGN/coat.svg",
+    "source": "Coat of arms of Kurgan Oblast.svg"
+  },
+  "data_source": "out"
+}

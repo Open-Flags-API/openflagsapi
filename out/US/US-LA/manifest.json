@@ -1,0 +1,14 @@
+{
+  "code": "US-LA",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-LA/flag.svg",
+    "png": "US/US-LA/flag.png",
+    "source_filename": "Flag of Louisiana.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": null,
+    "source_filename": null
+  }
+}

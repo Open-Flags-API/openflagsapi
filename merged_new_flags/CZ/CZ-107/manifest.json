@@ -1,0 +1,16 @@
+{
+  "iso_code": "CZ-107",
+  "country_iso": "CZ",
+  "country_name": "CZ",
+  "region_name": "cz-107",
+  "region_normalized": "cz-107",
+  "flag": {
+    "svg": "CZ/CZ-107/flag.svg",
+    "source": "Flag of Prague 7.svg"
+  },
+  "coat": {
+    "svg": "CZ/CZ-107/coat.svg",
+    "source": "Praha-07 CoA.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "CA-NL",
+  "country_iso": "CA",
+  "country_name": "canada",
+  "region_name": "ca-nl",
+  "region_normalized": "ca-nl",
+  "flag": {
+    "svg": "CA/CA-NL/flag.svg",
+    "source": "Flag of Newfoundland and Labrador.svg"
+  },
+  "coat": {
+    "svg": "CA/CA-NL/coat.svg",
+    "source": "Coat of Arms of Newfoundland and Labrador.svg"
+  },
+  "data_source": "out"
+}

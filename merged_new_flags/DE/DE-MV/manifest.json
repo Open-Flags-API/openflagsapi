@@ -1,0 +1,16 @@
+{
+  "iso_code": "DE-MV",
+  "country_iso": "DE",
+  "country_name": "germany",
+  "region_name": "de-mv",
+  "region_normalized": "de-mv",
+  "flag": {
+    "svg": "DE/DE-MV/flag.svg",
+    "source": "Flag of Mecklenburg-Western Pomerania.svg"
+  },
+  "coat": {
+    "svg": "DE/DE-MV/coat.svg",
+    "source": "Coat of arms of Mecklenburg-Western Pomerania (great).svg"
+  },
+  "data_source": "out"
+}

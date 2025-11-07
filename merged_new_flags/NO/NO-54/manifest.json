@@ -1,0 +1,16 @@
+{
+  "iso_code": "NO-54",
+  "country_iso": "NO",
+  "country_name": "NO",
+  "region_name": "no-54",
+  "region_normalized": "no-54",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "NO/NO-54/coat.svg",
+    "source": "Troms og Finnmark våpen.svg"
+  },
+  "data_source": "out"
+}

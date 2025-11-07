@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-BEL",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-bel",
+  "region_normalized": "ru-bel",
+  "flag": {
+    "svg": "RU/RU-BEL/flag.svg",
+    "source": "New Flag of Belgorod Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-BEL/coat.svg",
+    "source": "New Coat of arms of Belgorod Oblast.svg"
+  },
+  "data_source": "out"
+}

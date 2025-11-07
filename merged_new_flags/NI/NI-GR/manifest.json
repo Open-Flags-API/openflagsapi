@@ -1,0 +1,16 @@
+{
+  "iso_code": "NI-GR",
+  "country_iso": "NI",
+  "country_name": "NI",
+  "region_name": "ni-gr",
+  "region_normalized": "ni-gr",
+  "flag": {
+    "svg": "NI/NI-GR/flag.svg",
+    "source": "Flag of Granada, Nicaragua.svg"
+  },
+  "coat": {
+    "svg": "NI/NI-GR/coat.svg",
+    "source": "Seal of Granada, Nicaragua.svg"
+  },
+  "data_source": "out"
+}

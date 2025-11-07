@@ -1,0 +1,14 @@
+{
+  "code": "MX-COL",
+  "country": "MX",
+  "flag": {
+    "svg": "MX/MX-COL/flag.svg",
+    "png": "MX/MX-COL/flag.png",
+    "source_filename": "Flag of Colima.svg"
+  },
+  "coat": {
+    "svg": "MX/MX-COL/coat.svg",
+    "png": "MX/MX-COL/coat.png",
+    "source_filename": "Coat of arms of Colima.svg"
+  }
+}

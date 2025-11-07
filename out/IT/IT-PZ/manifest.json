@@ -1,0 +1,14 @@
+{
+  "code": "IT-PZ",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-PZ/flag.svg",
+    "png": "IT/IT-PZ/flag.png",
+    "source_filename": "Flag of the Province of Potenza.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-PZ/coat.svg",
+    "png": "IT/IT-PZ/coat.png",
+    "source_filename": "Provincia di Potenza-Stemma.svg"
+  }
+}

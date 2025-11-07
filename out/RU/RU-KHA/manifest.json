@@ -1,0 +1,14 @@
+{
+  "code": "RU-KHA",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-KHA/flag.svg",
+    "png": "RU/RU-KHA/flag.png",
+    "source_filename": "Flag of Khabarovsk Krai (large).svg"
+  },
+  "coat": {
+    "svg": "RU/RU-KHA/coat.svg",
+    "png": "RU/RU-KHA/coat.png",
+    "source_filename": "Coat of arms of Khabarovsk Krai.svg"
+  }
+}

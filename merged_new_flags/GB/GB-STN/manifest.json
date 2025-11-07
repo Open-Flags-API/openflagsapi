@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-STN",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-stn",
+  "region_normalized": "gb-stn",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-STN/coat.svg",
+    "source": "Coat of arms of the London Borough of Sutton.svg"
+  },
+  "data_source": "out"
+}

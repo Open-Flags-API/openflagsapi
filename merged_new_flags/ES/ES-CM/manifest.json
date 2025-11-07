@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-CM",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-cm",
+  "region_normalized": "es-cm",
+  "flag": {
+    "svg": "ES/ES-CM/flag.svg",
+    "source": "Flag of Castile-La Mancha.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-CM/coat.svg",
+    "source": "Escudo de Castilla-La Mancha.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "AR-W",
+  "country_iso": "AR",
+  "country_name": "AR",
+  "region_name": "ar-w",
+  "region_normalized": "ar-w",
+  "flag": {
+    "svg": "AR/AR-W/flag.svg",
+    "source": "Bandera de la Provincia de Corrientes.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-W/coat.svg",
+    "source": "Escudo de la Provincia de Corrientes (variante 3).svg"
+  },
+  "data_source": "out"
+}

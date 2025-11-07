@@ -1,0 +1,14 @@
+{
+  "code": "LV-002",
+  "country": "LV",
+  "flag": {
+    "svg": null,
+    "png": "LV/LV-002/flag.png",
+    "source_filename": "Aizkraukle novads karogs.png"
+  },
+  "coat": {
+    "svg": "LV/LV-002/coat.svg",
+    "png": "LV/LV-002/coat.png",
+    "source_filename": "Aizkraukles novads COA.svg"
+  }
+}

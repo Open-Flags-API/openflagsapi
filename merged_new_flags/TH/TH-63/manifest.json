@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-63",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-63",
+  "region_normalized": "th-63",
+  "flag": {
+    "svg": "TH/TH-63/flag.svg",
+    "source": "Flag of Tak province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "BR-RR",
+  "country": "BR",
+  "flag": {
+    "svg": "BR/BR-RR/flag.svg",
+    "png": "BR/BR-RR/flag.png",
+    "source_filename": "Bandeira de Roraima.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-RR/coat.svg",
+    "png": "BR/BR-RR/coat.png",
+    "source_filename": "Brasão de Roraima.svg"
+  }
+}

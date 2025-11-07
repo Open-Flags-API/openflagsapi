@@ -1,0 +1,16 @@
+{
+  "iso_code": "FI-19",
+  "country_iso": "FI",
+  "country_name": "FI",
+  "region_name": "fi-19",
+  "region_normalized": "fi-19",
+  "flag": {
+    "svg": "FI/FI-19/flag.svg",
+    "source": "Varsinais-Suomen maakuntaviiri.svg"
+  },
+  "coat": {
+    "svg": "FI/FI-19/coat.svg",
+    "source": "Varsinais-Suomen.vaakuna.svg"
+  },
+  "data_source": "out"
+}

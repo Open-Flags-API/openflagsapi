@@ -1,0 +1,16 @@
+{
+  "iso_code": "ME-12",
+  "country_iso": "ME",
+  "country_name": "ME",
+  "region_name": "me-12",
+  "region_normalized": "me-12",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "ME/ME-12/coat.svg",
+    "source": "Niksic Coat-of-Arms.svg"
+  },
+  "data_source": "out"
+}

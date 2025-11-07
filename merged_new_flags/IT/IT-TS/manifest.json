@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-TS",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-ts",
+  "region_normalized": "it-ts",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IT/IT-TS/coat.svg",
+    "source": "Provincia di Trieste-Stemma.svg"
+  },
+  "data_source": "out"
+}

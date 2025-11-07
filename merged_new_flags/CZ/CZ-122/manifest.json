@@ -1,0 +1,16 @@
+{
+  "iso_code": "CZ-122",
+  "country_iso": "CZ",
+  "country_name": "CZ",
+  "region_name": "cz-122",
+  "region_normalized": "cz-122",
+  "flag": {
+    "svg": "CZ/CZ-122/flag.svg",
+    "source": "Flag of Prague 22.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Prague 22 CoA CZ.jpg"
+  },
+  "data_source": "out"
+}

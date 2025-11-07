@@ -1,0 +1,16 @@
+{
+  "iso_code": "MN-046",
+  "country_iso": "MN",
+  "country_name": "MN",
+  "region_name": "mn-046",
+  "region_normalized": "mn-046",
+  "flag": {
+    "svg": "MN/MN-046/flag.svg",
+    "source": "Uvs Aimag Flag.svg"
+  },
+  "coat": {
+    "svg": "MN/MN-046/coat.svg",
+    "source": "Mn coa uvs aimag 1999.svg"
+  },
+  "data_source": "out"
+}

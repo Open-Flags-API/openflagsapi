@@ -1,0 +1,14 @@
+{
+  "code": "RU-KC",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-KC/flag.svg",
+    "png": "RU/RU-KC/flag.png",
+    "source_filename": "Flag of Karachay-Cherkessia.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-KC/coat.svg",
+    "png": "RU/RU-KC/coat.png",
+    "source_filename": "Coat of Arms of Karachay-Cherkessia.svg"
+  }
+}

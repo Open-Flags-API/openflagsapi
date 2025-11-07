@@ -1,0 +1,16 @@
+{
+  "iso_code": "VE-U",
+  "country_iso": "VE",
+  "country_name": "VE",
+  "region_name": "ve-u",
+  "region_normalized": "ve-u",
+  "flag": {
+    "svg": "VE/VE-U/flag.svg",
+    "source": "Flag of Yaracuy State.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Escudo del Estado Yaracuy Vzla.png"
+  },
+  "data_source": "out"
+}

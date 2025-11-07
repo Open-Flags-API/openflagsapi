@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-MI",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "middlesex",
+  "region_normalized": "middlesex",
+  "flag": {
+    "svg": "GB/GB-MI/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

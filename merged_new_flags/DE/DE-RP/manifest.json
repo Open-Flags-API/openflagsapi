@@ -1,0 +1,16 @@
+{
+  "iso_code": "DE-RP",
+  "country_iso": "DE",
+  "country_name": "germany",
+  "region_name": "de-rp",
+  "region_normalized": "de-rp",
+  "flag": {
+    "svg": "DE/DE-RP/flag.svg",
+    "source": "Flag of Rhineland-Palatinate.svg"
+  },
+  "coat": {
+    "svg": "DE/DE-RP/coat.svg",
+    "source": "Coat of arms of Rhineland-Palatinate.svg"
+  },
+  "data_source": "out"
+}

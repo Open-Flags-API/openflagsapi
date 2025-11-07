@@ -1,0 +1,16 @@
+{
+  "iso_code": "LR-NI",
+  "country_iso": "LR",
+  "country_name": "LR",
+  "region_name": "lr-ni",
+  "region_normalized": "lr-ni",
+  "flag": {
+    "svg": "LR/LR-NI/flag.svg",
+    "source": "Flag of Nimba County.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

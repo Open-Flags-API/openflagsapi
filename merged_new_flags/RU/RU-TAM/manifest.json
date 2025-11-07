@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-TAM",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-tam",
+  "region_normalized": "ru-tam",
+  "flag": {
+    "svg": "RU/RU-TAM/flag.svg",
+    "source": "Flag of Tambov Oblast.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Tambov Oblast.svg"
+  },
+  "data_source": "out"
+}

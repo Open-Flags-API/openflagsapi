@@ -1,0 +1,14 @@
+{
+  "code": "ES-MA",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-MA/flag.svg",
+    "png": "ES/ES-MA/flag.png",
+    "source_filename": "Flag Málaga Province.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-MA/coat.svg",
+    "png": "ES/ES-MA/coat.png",
+    "source_filename": "Escudo de la provincia de Málaga.svg"
+  }
+}

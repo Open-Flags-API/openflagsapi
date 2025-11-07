@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-020",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-020",
+  "region_normalized": "lv-020",
+  "flag": {
+    "svg": null,
+    "source": "LVA Carnikavas novads flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Carnikavas novads COA since 2015.png"
+  },
+  "data_source": "out"
+}

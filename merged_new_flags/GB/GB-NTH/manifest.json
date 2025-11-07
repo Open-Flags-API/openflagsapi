@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-NTH",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-nth",
+  "region_normalized": "gb-nth",
+  "flag": {
+    "svg": "GB/GB-NTH/flag.svg",
+    "source": "Flag of Northamptonshire.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-NTH/coat.svg",
+    "source": "Arms of Northamptonshire County Council.svg"
+  },
+  "data_source": "out"
+}

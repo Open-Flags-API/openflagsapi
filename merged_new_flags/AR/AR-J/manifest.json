@@ -1,0 +1,16 @@
+{
+  "iso_code": "AR-J",
+  "country_iso": "AR",
+  "country_name": "AR",
+  "region_name": "ar-j",
+  "region_normalized": "ar-j",
+  "flag": {
+    "svg": "AR/AR-J/flag.svg",
+    "source": "Flag of the San Juan Province.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-J/coat.svg",
+    "source": "Escudo de la Provincia de San Juan.svg"
+  },
+  "data_source": "out"
+}

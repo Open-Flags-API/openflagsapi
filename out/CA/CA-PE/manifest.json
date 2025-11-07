@@ -1,0 +1,14 @@
+{
+  "code": "CA-PE",
+  "country": "CA",
+  "flag": {
+    "svg": "CA/CA-PE/flag.svg",
+    "png": "CA/CA-PE/flag.png",
+    "source_filename": "Flag of Prince Edward Island.svg"
+  },
+  "coat": {
+    "svg": "CA/CA-PE/coat.svg",
+    "png": "CA/CA-PE/coat.png",
+    "source_filename": "Coat of arms of Prince Edward Island, Canada.svg"
+  }
+}

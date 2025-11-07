@@ -1,0 +1,14 @@
+{
+  "code": "HR-15",
+  "country": "HR",
+  "flag": {
+    "svg": "HR/HR-15/flag.svg",
+    "png": "HR/HR-15/flag.png",
+    "source_filename": "Flag of Šibenik County.svg"
+  },
+  "coat": {
+    "svg": "HR/HR-15/coat.svg",
+    "png": "HR/HR-15/coat.png",
+    "source_filename": "Coat of arms of Šibenik County.svg"
+  }
+}

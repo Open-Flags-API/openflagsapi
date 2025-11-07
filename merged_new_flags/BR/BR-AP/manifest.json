@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-AP",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "br-ap",
+  "region_normalized": "br-ap",
+  "flag": {
+    "svg": "BR/BR-AP/flag.svg",
+    "source": "Bandeira do Amapá.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-AP/coat.svg",
+    "source": "Brasão do Amapá.svg"
+  },
+  "data_source": "out"
+}

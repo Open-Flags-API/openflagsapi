@@ -1,0 +1,16 @@
+{
+  "iso_code": "DE-SA",
+  "country_iso": "DE",
+  "country_name": "germany",
+  "region_name": "sachsen",
+  "region_normalized": "sachsen",
+  "flag": {
+    "svg": "DE/DE-SA/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

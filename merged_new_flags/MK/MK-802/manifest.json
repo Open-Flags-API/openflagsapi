@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-802",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-802",
+  "region_normalized": "mk-802",
+  "flag": {
+    "svg": "MK/MK-802/flag.svg",
+    "source": "Flag of Aracinovo Municipality, North Macedonia.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Aračinovo Municipality.svg"
+  },
+  "data_source": "out"
+}

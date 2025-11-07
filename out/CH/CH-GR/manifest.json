@@ -1,0 +1,14 @@
+{
+  "code": "CH-GR",
+  "country": "CH",
+  "flag": {
+    "svg": "CH/CH-GR/flag.svg",
+    "png": "CH/CH-GR/flag.png",
+    "source_filename": "Flag of Canton of Graubünden.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-GR/coat.svg",
+    "png": "CH/CH-GR/coat.png",
+    "source_filename": "CHE Graubünden COA.svg"
+  }
+}

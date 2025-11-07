@@ -1,0 +1,16 @@
+{
+  "iso_code": "CZ-20B",
+  "country_iso": "CZ",
+  "country_name": "CZ",
+  "region_name": "cz-20b",
+  "region_normalized": "cz-20b",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

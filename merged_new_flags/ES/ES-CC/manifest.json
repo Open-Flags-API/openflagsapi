@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-CC",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-cc",
+  "region_normalized": "es-cc",
+  "flag": {
+    "svg": "ES/ES-CC/flag.svg",
+    "source": "Flag of the province of Cáceres.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-CC/coat.svg",
+    "source": "Escudo de la Diputación de Cáceres.svg"
+  },
+  "data_source": "out"
+}

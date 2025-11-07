@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-93",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-93",
+  "region_normalized": "fr-93",
+  "flag": {
+    "svg": "FR/FR-93/flag.svg",
+    "source": "Proposition de drapeau fr département Seine-Saint-Denis.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

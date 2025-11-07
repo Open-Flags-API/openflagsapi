@@ -1,0 +1,16 @@
+{
+  "iso_code": "PY-8",
+  "country_iso": "PY",
+  "country_name": "PY",
+  "region_name": "py-8",
+  "region_normalized": "py-8",
+  "flag": {
+    "svg": "PY/PY-8/flag.svg",
+    "source": "Flag of Misiones, Paraguay.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Misiones department departamento paraguay.JPG"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "ET-GA",
+  "country_iso": "ET",
+  "country_name": "ET",
+  "region_name": "et-ga",
+  "region_normalized": "et-ga",
+  "flag": {
+    "svg": "ET/ET-GA/flag.svg",
+    "source": "Flag of the Gambella Region.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

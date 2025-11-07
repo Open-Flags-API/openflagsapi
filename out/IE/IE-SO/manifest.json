@@ -1,0 +1,14 @@
+{
+  "code": "IE-SO",
+  "country": "IE",
+  "flag": {
+    "svg": "IE/IE-SO/flag.svg",
+    "png": "IE/IE-SO/flag.png",
+    "source_filename": "Flag of county Sligo.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "IE/IE-SO/coat.png",
+    "source_filename": "Sligococo.png"
+  }
+}

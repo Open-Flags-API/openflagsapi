@@ -1,0 +1,16 @@
+{
+  "iso_code": "PA-7",
+  "country_iso": "PA",
+  "country_name": "PA",
+  "region_name": "pa-7",
+  "region_normalized": "pa-7",
+  "flag": {
+    "svg": "PA/PA-7/flag.svg",
+    "source": "Bandera de la Provincia de Los Santos.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

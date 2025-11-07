@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-HV",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-hv",
+  "region_normalized": "hu-hv",
+  "flag": {
+    "svg": "HU/HU-HV/flag.svg",
+    "source": "Flag of Hódmezővásárhely.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-HV/coat.svg",
+    "source": "HUN Hódmezővásárhely Címer.svg"
+  },
+  "data_source": "out"
+}

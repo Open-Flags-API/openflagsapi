@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-BA",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "baja-california",
+  "region_normalized": "baja-california",
+  "flag": {
+    "svg": "MX/MX-BA/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

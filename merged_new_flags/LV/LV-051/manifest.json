@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-051",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-051",
+  "region_normalized": "lv-051",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Ķeguma novads COA.png"
+  },
+  "data_source": "out"
+}

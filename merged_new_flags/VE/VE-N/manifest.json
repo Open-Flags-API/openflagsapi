@@ -1,0 +1,16 @@
+{
+  "iso_code": "VE-N",
+  "country_iso": "VE",
+  "country_name": "VE",
+  "region_name": "ve-n",
+  "region_normalized": "ve-n",
+  "flag": {
+    "svg": "VE/VE-N/flag.svg",
+    "source": "Flag of Monagas State.svg"
+  },
+  "coat": {
+    "svg": "VE/VE-N/coat.svg",
+    "source": "Escudo de Monagas.svg"
+  },
+  "data_source": "out"
+}

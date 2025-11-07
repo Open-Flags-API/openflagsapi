@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-ORL",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-orl",
+  "region_normalized": "ru-orl",
+  "flag": {
+    "svg": "RU/RU-ORL/flag.svg",
+    "source": "Flag of Oryol Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-ORL/coat.svg",
+    "source": "Coat of arms of Oryol Oblast (large).svg"
+  },
+  "data_source": "out"
+}

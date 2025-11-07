@@ -1,0 +1,14 @@
+{
+  "code": "AR-B",
+  "country": "AR",
+  "flag": {
+    "svg": "AR/AR-B/flag.svg",
+    "png": "AR/AR-B/flag.png",
+    "source_filename": "Bandera de la Provincia de Buenos Aires.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-B/coat.svg",
+    "png": "AR/AR-B/coat.png",
+    "source_filename": "Coat of arms of the Buenos Aires Province.svg"
+  }
+}

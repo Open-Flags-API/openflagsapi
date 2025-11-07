@@ -1,0 +1,16 @@
+{
+  "iso_code": "KR-50",
+  "country_iso": "KR",
+  "country_name": "south-korea",
+  "region_name": "kr-50",
+  "region_normalized": "kr-50",
+  "flag": {
+    "svg": "KR/KR-50/flag.svg",
+    "source": "Flag of Sejong City.svg"
+  },
+  "coat": {
+    "svg": "KR/KR-50/coat.svg",
+    "source": "Seal of Sejong City, South Korea.svg"
+  },
+  "data_source": "out"
+}

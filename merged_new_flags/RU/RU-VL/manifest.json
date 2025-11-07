@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-VL",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "vladimirskaya",
+  "region_normalized": "vladimirskaya",
+  "flag": {
+    "svg": "RU/RU-VL/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "CA-YT",
+  "country": "CA",
+  "flag": {
+    "svg": "CA/CA-YT/flag.svg",
+    "png": "CA/CA-YT/flag.png",
+    "source_filename": "Flag of Yukon.svg"
+  },
+  "coat": {
+    "svg": "CA/CA-YT/coat.svg",
+    "png": "CA/CA-YT/coat.png",
+    "source_filename": "Coat of arms of Yukon.svg"
+  }
+}

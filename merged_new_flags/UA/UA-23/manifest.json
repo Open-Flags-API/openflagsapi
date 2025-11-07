@@ -1,0 +1,16 @@
+{
+  "iso_code": "UA-23",
+  "country_iso": "UA",
+  "country_name": "UA",
+  "region_name": "ua-23",
+  "region_normalized": "ua-23",
+  "flag": {
+    "svg": "UA/UA-23/flag.svg",
+    "source": "Flag of Zaporizhia Oblast.svg"
+  },
+  "coat": {
+    "svg": "UA/UA-23/coat.svg",
+    "source": "Coat of arms of Zaporizhia Oblast.svg"
+  },
+  "data_source": "out"
+}

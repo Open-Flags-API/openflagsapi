@@ -1,0 +1,14 @@
+{
+  "code": "JP-11",
+  "country": "JP",
+  "flag": {
+    "svg": "JP/JP-11/flag.svg",
+    "png": "JP/JP-11/flag.png",
+    "source_filename": "Flag of Saitama Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-11/coat.svg",
+    "png": "JP/JP-11/coat.png",
+    "source_filename": "Emblem of Saitama Prefecture.svg"
+  }
+}

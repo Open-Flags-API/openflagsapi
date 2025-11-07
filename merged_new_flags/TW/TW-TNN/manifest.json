@@ -1,0 +1,16 @@
+{
+  "iso_code": "TW-TNN",
+  "country_iso": "TW",
+  "country_name": "TW",
+  "region_name": "tw-tnn",
+  "region_normalized": "tw-tnn",
+  "flag": {
+    "svg": "TW/TW-TNN/flag.svg",
+    "source": "Flag of Tainan City.svg"
+  },
+  "coat": {
+    "svg": "TW/TW-TNN/coat.svg",
+    "source": "Tainan City Government Logo.svg"
+  },
+  "data_source": "out"
+}

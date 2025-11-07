@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-IRK",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-irk",
+  "region_normalized": "ru-irk",
+  "flag": {
+    "svg": "RU/RU-IRK/flag.svg",
+    "source": "Flag of Irkutsk Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-IRK/coat.svg",
+    "source": "Coat of arms of Irkutsk Oblast.svg"
+  },
+  "data_source": "out"
+}

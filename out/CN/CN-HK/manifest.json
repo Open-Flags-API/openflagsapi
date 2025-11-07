@@ -1,0 +1,14 @@
+{
+  "code": "CN-HK",
+  "country": "CN",
+  "flag": {
+    "svg": "CN/CN-HK/flag.svg",
+    "png": "CN/CN-HK/flag.png",
+    "source_filename": "Flag of Hong Kong.svg"
+  },
+  "coat": {
+    "svg": "CN/CN-HK/coat.svg",
+    "png": "CN/CN-HK/coat.png",
+    "source_filename": "Regional Emblem of Hong Kong.svg"
+  }
+}

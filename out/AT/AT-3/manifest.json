@@ -1,0 +1,14 @@
+{
+  "code": "AT-3",
+  "country": "AT",
+  "flag": {
+    "svg": "AT/AT-3/flag.svg",
+    "png": "AT/AT-3/flag.png",
+    "source_filename": "Flag of Lower Austria.svg"
+  },
+  "coat": {
+    "svg": "AT/AT-3/coat.svg",
+    "png": "AT/AT-3/coat.png",
+    "source_filename": "Niederösterreich CoA.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-067",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-067",
+  "region_normalized": "lv-067",
+  "flag": {
+    "svg": null,
+    "source": "Ogres novads Flag.png"
+  },
+  "coat": {
+    "svg": "LV/LV-067/coat.svg",
+    "source": "Ogres novads COA.svg"
+  },
+  "data_source": "out"
+}

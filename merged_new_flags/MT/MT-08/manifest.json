@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-08",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-08",
+  "region_normalized": "mt-08",
+  "flag": {
+    "svg": "MT/MT-08/flag.svg",
+    "source": "Flag of Il-Fgura.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-08/coat.svg",
+    "source": "Fgura coa.svg"
+  },
+  "data_source": "out"
+}

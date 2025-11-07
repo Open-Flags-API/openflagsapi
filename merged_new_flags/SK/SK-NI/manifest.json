@@ -1,0 +1,16 @@
+{
+  "iso_code": "SK-NI",
+  "country_iso": "SK",
+  "country_name": "SK",
+  "region_name": "sk-ni",
+  "region_normalized": "sk-ni",
+  "flag": {
+    "svg": "SK/SK-NI/flag.svg",
+    "source": "Nitriansky vlajka.svg"
+  },
+  "coat": {
+    "svg": "SK/SK-NI/coat.svg",
+    "source": "Coat of Arms of Nitra Region.svg"
+  },
+  "data_source": "out"
+}

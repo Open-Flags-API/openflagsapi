@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-RU",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "rutland",
+  "region_normalized": "rutland",
+  "flag": {
+    "svg": "GB/GB-RU/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

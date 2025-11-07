@@ -1,0 +1,14 @@
+{
+  "code": "LB-BA",
+  "country": "LB",
+  "flag": {
+    "svg": "LB/LB-BA/flag.svg",
+    "png": "LB/LB-BA/flag.png",
+    "source_filename": "Flag of Beirut.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "LB/LB-BA/coat.png",
+    "source_filename": "Beyrouth blason2.jpg"
+  }
+}

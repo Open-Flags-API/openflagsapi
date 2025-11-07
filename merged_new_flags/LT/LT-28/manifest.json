@@ -1,0 +1,16 @@
+{
+  "iso_code": "LT-28",
+  "country_iso": "LT",
+  "country_name": "LT",
+  "region_name": "lt-28",
+  "region_normalized": "lt-28",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Neringa COA.gif"
+  },
+  "data_source": "out"
+}

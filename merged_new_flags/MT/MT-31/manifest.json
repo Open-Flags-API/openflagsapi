@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-31",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-31",
+  "region_normalized": "mt-31",
+  "flag": {
+    "svg": "MT/MT-31/flag.svg",
+    "source": "Flag of Mġarr.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

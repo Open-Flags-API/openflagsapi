@@ -1,0 +1,16 @@
+{
+  "iso_code": "SI-010",
+  "country_iso": "SI",
+  "country_name": "SI",
+  "region_name": "si-010",
+  "region_normalized": "si-010",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Tišina.png"
+  },
+  "data_source": "out"
+}

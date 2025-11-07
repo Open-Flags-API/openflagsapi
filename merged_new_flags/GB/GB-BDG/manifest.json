@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-BDG",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-bdg",
+  "region_normalized": "gb-bdg",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-BDG/coat.svg",
+    "source": "Coat of arms of the London Borough of Barking and Dagenham.svg"
+  },
+  "data_source": "out"
+}

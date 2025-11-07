@@ -1,0 +1,14 @@
+{
+  "code": "PE-TAC",
+  "country": "PE",
+  "flag": {
+    "svg": "PE/PE-TAC/flag.svg",
+    "png": "PE/PE-TAC/flag.png",
+    "source_filename": "Flag of Tacna.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": null,
+    "source_filename": null
+  }
+}

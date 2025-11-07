@@ -1,0 +1,16 @@
+{
+  "iso_code": "JP-30",
+  "country_iso": "JP",
+  "country_name": "JP",
+  "region_name": "jp-30",
+  "region_normalized": "jp-30",
+  "flag": {
+    "svg": "JP/JP-30/flag.svg",
+    "source": "Flag of Wakayama Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-30/coat.svg",
+    "source": "Emblem of Wakayama Prefecture.svg"
+  },
+  "data_source": "out"
+}

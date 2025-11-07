@@ -1,0 +1,14 @@
+{
+  "code": "AR-F",
+  "country": "AR",
+  "flag": {
+    "svg": "AR/AR-F/flag.svg",
+    "png": "AR/AR-F/flag.png",
+    "source_filename": "Bandera de la Provincia de La Rioja.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-F/coat.svg",
+    "png": "AR/AR-F/coat.png",
+    "source_filename": "Coat of arms of the La Rioja Province.svg"
+  }
+}

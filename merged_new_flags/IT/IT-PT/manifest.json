@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-PT",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-pt",
+  "region_normalized": "it-pt",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IT/IT-PT/coat.svg",
+    "source": "Provincia di Pistoia-Stemma.svg"
+  },
+  "data_source": "out"
+}

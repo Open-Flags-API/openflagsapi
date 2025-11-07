@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-BL",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-bl",
+  "region_normalized": "it-bl",
+  "flag": {
+    "svg": "IT/IT-BL/flag.svg",
+    "source": "Flag of the Province of Belluno.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-BL/coat.svg",
+    "source": "Provincia di Belluno-Stemma.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-RA",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-ra",
+  "region_normalized": "it-ra",
+  "flag": {
+    "svg": "IT/IT-RA/flag.svg",
+    "source": "Flag of the province of Ravenna.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-RA/coat.svg",
+    "source": "Provincia di Ravenna-Stemma.svg"
+  },
+  "data_source": "out"
+}

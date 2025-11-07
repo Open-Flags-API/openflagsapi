@@ -1,0 +1,16 @@
+{
+  "iso_code": "EG-AST",
+  "country_iso": "EG",
+  "country_name": "EG",
+  "region_name": "eg-ast",
+  "region_normalized": "eg-ast",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Asyut Governorate.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

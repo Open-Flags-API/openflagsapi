@@ -1,0 +1,16 @@
+{
+  "iso_code": "BE-BRU",
+  "country_iso": "BE",
+  "country_name": "BE",
+  "region_name": "be-bru",
+  "region_normalized": "be-bru",
+  "flag": {
+    "svg": "BE/BE-BRU/flag.svg",
+    "source": "Flag of the Brussels-Capital Region.svg"
+  },
+  "coat": {
+    "svg": "BE/BE-BRU/coat.svg",
+    "source": "Blason de Bruxelles-Capitale.svg"
+  },
+  "data_source": "out"
+}

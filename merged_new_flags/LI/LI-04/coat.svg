@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="763"
+   width="603"
+   version="1.0"
+   id="svg20"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="Wappen Mauren.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:modified="true">
+  <metadata
+     id="metadata31">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>07-AUG-2006</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jérôme BLUM (wagner51)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:coverage />
+        <dc:description>Gabarit pour le Projet:Blasons de WIkipédia</dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>blason suisse modèle gabarit projet blasons</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:language>fr</dc:language>
+        <dc:title />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs29">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3891">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 1.5,1.49998 0,458.86792 C 1.5,626.6785 135.81456,761.5 301.49999,761.5 467.18543,761.5 601.5,626.6785 601.5,460.3679 l 0,-458.86792 -600,0 z"
+         id="path3893" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="669"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="372.20807"
+     inkscape:cy="283.76819"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:current-layer="g3836"
+     showgrid="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:object-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:window-maximized="1"
+     inkscape:snap-smooth-nodes="true" />
+  <desc
+     id="desc22">Coat of Arms of Canton of Freiburg (Fribourg)</desc>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Fond écu"
+     style="display:inline">
+    <path
+       id="path1899"
+       d="m 1.5,1.49998 0,458.86792 C 1.5,626.6785 135.81456,761.5 301.49999,761.5 467.18543,761.5 601.5,626.6785 601.5,460.3679 l 0,-458.86792 -600,0 z"
+       style="fill:#000000;fill-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffe500;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 601.5,1.5 41.016902,720.47404 -134.79223,612.73981 183.40582,922.09903 696.05824,827.08155 718.15532,422.70486 685.00969,5.069919 z"
+       id="path3119"
+       inkscape:connector-curvature="0"
+       clip-path="url(#clipPath3891)"
+       sodipodi:nodetypes="cccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Meubles"
+     style="display:inline">
+    <g
+       id="g3805"
+       transform="matrix(0.2945182,0.34064514,-0.34064514,0.2945182,647.28206,278.05363)">
+      <g
+         id="g3831"
+         transform="translate(970.35084,-422.95732)">
+        <g
+           id="g3836"
+           transform="matrix(0.80116418,-0.59844462,0.59844462,0.80116418,-565.58053,-194.97787)">
+          <path
+             transform="matrix(0.73424386,-0.84923988,0.60520878,0.52325715,-33.624412,-820.37101)"
+             style="fill:#ffe500;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7.02959681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dashoffset:0"
+             d="m -2068.2874,-702.03687 822.3981,0 c 38.2145,0 93.0287,26.90423 129.3415,41.98447 -37.3645,13.73414 -90.3381,41.98445 -129.3415,41.98445 l -822.3981,2e-5 -14.6505,-14.30288 0,-55.36318 z"
+             id="rect3820"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cscscccc" />
+          <path
+             transform="matrix(1.059216,-1.2251086,1.2251086,1.059216,919.36929,-1415.704)"
+             d="m -2103.6427,-530.78442 c 0,17.08543 -13.8505,30.93592 -30.9359,30.93592 -17.0855,0 -30.9359,-13.85049 -30.9359,-30.93592 0,-17.08544 13.8504,-30.93593 30.9359,-30.93593 17.0854,0 30.9359,13.85049 30.9359,30.93593 z"
+             sodipodi:ry="30.935923"
+             sodipodi:rx="30.935923"
+             sodipodi:cy="-530.78442"
+             sodipodi:cx="-2134.5786"
+             id="path3847"
+             style="fill:#ffe500;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.11361408;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             sodipodi:type="arc" />
+          <path
+             transform="matrix(1.6340311,-0.35911761,0.35911761,1.6340311,-2136.5772,85.123242)"
+             inkscape:connector-curvature="0"
+             id="path3771"
+             d="m 58.603035,220.24549 35.06318,-26.1911 83.439425,111.70403 -35.06318,26.1911 z"
+             style="fill:#ffe500;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.98203778;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        </g>
+      </g>
+      <g
+         id="g3841"
+         transform="matrix(0.99745432,0.07130839,-0.07130839,0.99745432,2.9910703,117.01281)">
+        <path
+           style="fill:#ffe500;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6.66206074;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           d="m -476.1875,429.34375 c -67.73155,0 -122.65625,54.89345 -122.65625,122.625 0,67.73155 54.9247,122.65625 122.65625,122.65625 67.73155,0 122.625,-54.9247 122.625,-122.65625 0,-67.73155 -54.89345,-122.625 -122.625,-122.625 z m 0,37.5 c 47.02087,0 85.125,38.10413 85.125,85.125 0,47.02087 -38.10413,85.15625 -85.125,85.15625 -47.02087,0 -85.15625,-38.13538 -85.15625,-85.15625 0,-47.02087 38.13538,-85.125 85.15625,-85.125 z"
+           id="path3017"
+           inkscape:connector-curvature="0"
+           transform="translate(10,0)" />
+        <rect
+           style="fill:#ffe500;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7.36522675;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3015"
+           width="592.2019"
+           height="77.339806"
+           x="-1191.033"
+           y="515.51263"
+           transform="matrix(1,0,0,0.81817255,0.78848984,98.55589)" />
+        <rect
+           style="fill:#ffe500;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6.66206074;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3019"
+           width="46.403881"
+           height="117.11456"
+           x="-1451.7786"
+           y="-10.398042"
+           ry="20.11661"
+           rx="51.52425"
+           transform="translate(829.74561,503.81359)" />
+        <path
+           style="fill:#ffe500;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6.52519464;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           d="m -1171.1562,583.625 0,116.40625 90.4687,0 0,-34.15625 -34.125,0 0,-27.90625 34.125,0 0,-34.125 27.9063,0 0,34.125 34.125,0 0,27.90625 -34.125,0 0,34.15625 90.43745,0 0,-116.40625 -208.81245,0 z"
+           id="rect3024"
+           inkscape:connector-curvature="0"
+           transform="matrix(1.0219833,-1.1363631e-4,-1.1340473e-4,1.0199677,31.644465,-11.776524)" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Contour final"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1.5,1.5 0,458.86794 C 1.5,626.67854 135.81454,761.5 301.49993,761.5 467.1854,761.5 601.5,626.67854 601.5,460.36794 L 601.5,1.5 1.5,1.5 z"
+       id="path3239"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

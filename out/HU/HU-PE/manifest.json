@@ -1,0 +1,14 @@
+{
+  "code": "HU-PE",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-PE/flag.svg",
+    "png": "HU/HU-PE/flag.png",
+    "source_filename": "FLAG-Pest-megye.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-PE/coat.svg",
+    "png": "HU/HU-PE/coat.png",
+    "source_filename": "HUN Pest megye COA.svg"
+  }
+}

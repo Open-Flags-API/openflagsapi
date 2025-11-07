@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-SI",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-si",
+  "region_normalized": "it-si",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IT/IT-SI/coat.svg",
+    "source": "Provincia di Siena-Stemma.svg"
+  },
+  "data_source": "out"
+}

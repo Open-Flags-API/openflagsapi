@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-BCN",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "mx-bcn",
+  "region_normalized": "mx-bcn",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "MX/MX-BCN/coat.svg",
+    "source": "Coat of arms of Baja California.svg"
+  },
+  "data_source": "out"
+}

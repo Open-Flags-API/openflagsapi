@@ -1,0 +1,16 @@
+{
+  "iso_code": "UA-74",
+  "country_iso": "UA",
+  "country_name": "UA",
+  "region_name": "ua-74",
+  "region_normalized": "ua-74",
+  "flag": {
+    "svg": "UA/UA-74/flag.svg",
+    "source": "Flag of Chernihiv Oblast.svg"
+  },
+  "coat": {
+    "svg": "UA/UA-74/coat.svg",
+    "source": "Coat of Arms of Chernihiv Oblast.svg"
+  },
+  "data_source": "out"
+}

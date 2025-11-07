@@ -1,0 +1,16 @@
+{
+  "iso_code": "LT-MR",
+  "country_iso": "LT",
+  "country_name": "LT",
+  "region_name": "lt-mr",
+  "region_normalized": "lt-mr",
+  "flag": {
+    "svg": "LT/LT-MR/flag.svg",
+    "source": "Marijampole County flag.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Marijampole County COA.png"
+  },
+  "data_source": "out"
+}

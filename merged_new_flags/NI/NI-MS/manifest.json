@@ -1,0 +1,16 @@
+{
+  "iso_code": "NI-MS",
+  "country_iso": "NI",
+  "country_name": "NI",
+  "region_name": "ni-ms",
+  "region_normalized": "ni-ms",
+  "flag": {
+    "svg": "NI/NI-MS/flag.svg",
+    "source": "Flag of Masaya.svg"
+  },
+  "coat": {
+    "svg": "NI/NI-MS/coat.svg",
+    "source": "Seal of Masaya.svg"
+  },
+  "data_source": "out"
+}

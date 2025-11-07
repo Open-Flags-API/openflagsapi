@@ -1,0 +1,14 @@
+{
+  "code": "JP-01",
+  "country": "JP",
+  "flag": {
+    "svg": "JP/JP-01/flag.svg",
+    "png": "JP/JP-01/flag.png",
+    "source_filename": "Flag of Hokkaido Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-01/coat.svg",
+    "png": "JP/JP-01/coat.png",
+    "source_filename": "Emblem of Hokkaido Prefecture.svg"
+  }
+}

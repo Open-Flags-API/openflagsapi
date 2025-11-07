@@ -1,0 +1,16 @@
+{
+  "iso_code": "LT-55",
+  "country_iso": "LT",
+  "country_name": "LT",
+  "region_name": "lt-55",
+  "region_normalized": "lt-55",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "LT/LT-55/coat.svg",
+    "source": "Varėna COA.svg"
+  },
+  "data_source": "out"
+}

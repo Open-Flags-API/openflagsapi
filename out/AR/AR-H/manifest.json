@@ -1,0 +1,14 @@
+{
+  "code": "AR-H",
+  "country": "AR",
+  "flag": {
+    "svg": "AR/AR-H/flag.svg",
+    "png": "AR/AR-H/flag.png",
+    "source_filename": "Bandera de la Provincia del Chaco.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-H/coat.svg",
+    "png": "AR/AR-H/coat.png",
+    "source_filename": "Escudo de la Provincia del Chaco.svg"
+  }
+}

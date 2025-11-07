@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-22",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-22",
+  "region_normalized": "mt-22",
+  "flag": {
+    "svg": "MT/MT-22/flag.svg",
+    "source": "Flag of Kercem.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-22/coat.svg",
+    "source": "Kercem coa.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-OG",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-og",
+  "region_normalized": "it-og",
+  "flag": {
+    "svg": "IT/IT-OG/flag.svg",
+    "source": "Flag of the Province of Ogliastra.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-OG/coat.svg",
+    "source": "Provincia dell'Ogliastra-Stemma.svg"
+  },
+  "data_source": "out"
+}

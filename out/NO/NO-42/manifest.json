@@ -1,0 +1,14 @@
+{
+  "code": "NO-42",
+  "country": "NO",
+  "flag": {
+    "svg": null,
+    "png": "NO/NO-42/flag.png",
+    "source_filename": "Flag of Agder.png"
+  },
+  "coat": {
+    "svg": "NO/NO-42/coat.svg",
+    "png": "NO/NO-42/coat.png",
+    "source_filename": "Agder våpen.svg"
+  }
+}

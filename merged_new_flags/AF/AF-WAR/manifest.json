@@ -1,0 +1,16 @@
+{
+  "iso_code": "AF-WAR",
+  "country_iso": "AF",
+  "country_name": "AF",
+  "region_name": "af-war",
+  "region_normalized": "af-war",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

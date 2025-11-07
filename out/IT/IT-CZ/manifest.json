@@ -1,0 +1,14 @@
+{
+  "code": "IT-CZ",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-CZ/flag.svg",
+    "png": "IT/IT-CZ/flag.png",
+    "source_filename": "Flag of the Province of Catanzaro.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-CZ/coat.svg",
+    "png": "IT/IT-CZ/coat.png",
+    "source_filename": "Coat of Arms of the Province of Catanzaro.svg"
+  }
+}

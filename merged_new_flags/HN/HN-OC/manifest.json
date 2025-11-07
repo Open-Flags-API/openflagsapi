@@ -1,0 +1,16 @@
+{
+  "iso_code": "HN-OC",
+  "country_iso": "HN",
+  "country_name": "HN",
+  "region_name": "hn-oc",
+  "region_normalized": "hn-oc",
+  "flag": {
+    "svg": "HN/HN-OC/flag.svg",
+    "source": "Bandera de Ocotepeque.svg"
+  },
+  "coat": {
+    "svg": "HN/HN-OC/coat.svg",
+    "source": "Escudo de Ocotepeque.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-HOC",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-hoc",
+  "region_normalized": "ma-hoc",
+  "flag": {
+    "svg": "MA/MA-HOC/flag.svg",
+    "source": "Flag of Al Hoceima province (1976-1997).svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

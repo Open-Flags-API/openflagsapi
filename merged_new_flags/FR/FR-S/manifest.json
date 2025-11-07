@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-S",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-s",
+  "region_normalized": "fr-s",
+  "flag": {
+    "svg": "FR/FR-S/flag.svg",
+    "source": "Flag of Picardie.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-S/coat.svg",
+    "source": "BlasonPicardie.svg"
+  },
+  "data_source": "out"
+}

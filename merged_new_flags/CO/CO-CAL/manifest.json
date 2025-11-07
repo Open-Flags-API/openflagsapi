@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-CAL",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-cal",
+  "region_normalized": "co-cal",
+  "flag": {
+    "svg": "CO/CO-CAL/flag.svg",
+    "source": "Flag of Caldas.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-CAL/coat.svg",
+    "source": "Coat of Arms of the Department of Caldas.svg"
+  },
+  "data_source": "out"
+}

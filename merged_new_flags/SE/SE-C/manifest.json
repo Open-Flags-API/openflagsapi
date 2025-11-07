@@ -1,0 +1,16 @@
+{
+  "iso_code": "SE-C",
+  "country_iso": "SE",
+  "country_name": "SE",
+  "region_name": "se-c",
+  "region_normalized": "se-c",
+  "flag": {
+    "svg": "SE/SE-C/flag.svg",
+    "source": "Uppsala län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-C/coat.svg",
+    "source": "Uppland vapen.svg"
+  },
+  "data_source": "out"
+}

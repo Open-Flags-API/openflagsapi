@@ -1,0 +1,16 @@
+{
+  "iso_code": "AR-K",
+  "country_iso": "AR",
+  "country_name": "AR",
+  "region_name": "ar-k",
+  "region_normalized": "ar-k",
+  "flag": {
+    "svg": "AR/AR-K/flag.svg",
+    "source": "Bandera de la Provincia de Catamarca.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-K/coat.svg",
+    "source": "Escudo de la Provincia de Catamarca.svg"
+  },
+  "data_source": "out"
+}

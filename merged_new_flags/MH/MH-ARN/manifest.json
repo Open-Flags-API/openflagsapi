@@ -1,0 +1,16 @@
+{
+  "iso_code": "MH-ARN",
+  "country_iso": "MH",
+  "country_name": "marshall-islands",
+  "region_name": "mh-arn",
+  "region_normalized": "mh-arn",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

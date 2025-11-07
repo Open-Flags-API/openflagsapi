@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-NB",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "id-nb",
+  "region_normalized": "id-nb",
+  "flag": {
+    "svg": "ID/ID-NB/flag.svg",
+    "source": "Flag of West Nusa Tenggara.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-NB/coat.svg",
+    "source": "Coat of arms of West Nusa Tenggara.svg"
+  },
+  "data_source": "out"
+}

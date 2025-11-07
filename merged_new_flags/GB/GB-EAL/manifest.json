@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-EAL",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-eal",
+  "region_normalized": "gb-eal",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-EAL/coat.svg",
+    "source": "Ealing coat of arms.svg"
+  },
+  "data_source": "out"
+}

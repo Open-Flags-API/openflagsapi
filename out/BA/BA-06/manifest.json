@@ -1,0 +1,14 @@
+{
+  "code": "BA-06",
+  "country": "BA",
+  "flag": {
+    "svg": "BA/BA-06/flag.svg",
+    "png": "BA/BA-06/flag.png",
+    "source_filename": "Flag of Central Bosnia.svg"
+  },
+  "coat": {
+    "svg": "BA/BA-06/coat.svg",
+    "png": "BA/BA-06/coat.png",
+    "source_filename": "Coat of arms of Central Bosnia.svg"
+  }
+}

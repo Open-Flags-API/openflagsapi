@@ -1,0 +1,14 @@
+{
+  "code": "SD-KA",
+  "country": "SD",
+  "flag": {
+    "svg": null,
+    "png": "SD/SD-KA/flag.png",
+    "source_filename": "Flag of Kassala State.png"
+  },
+  "coat": {
+    "svg": "SD/SD-KA/coat.svg",
+    "png": "SD/SD-KA/coat.png",
+    "source_filename": "Kassala State Emblem.svg"
+  }
+}

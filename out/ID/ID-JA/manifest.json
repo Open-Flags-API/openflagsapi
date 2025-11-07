@@ -1,0 +1,14 @@
+{
+  "code": "ID-JA",
+  "country": "ID",
+  "flag": {
+    "svg": "ID/ID-JA/flag.svg",
+    "png": "ID/ID-JA/flag.png",
+    "source_filename": "Flag of Jambi.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-JA/coat.svg",
+    "png": "ID/ID-JA/coat.png",
+    "source_filename": "Coat of arms of Jambi.svg"
+  }
+}

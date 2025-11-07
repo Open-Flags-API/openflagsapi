@@ -1,0 +1,16 @@
+{
+  "iso_code": "KZ-10",
+  "country_iso": "KZ",
+  "country_name": "KZ",
+  "region_name": "kz-10",
+  "region_normalized": "kz-10",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

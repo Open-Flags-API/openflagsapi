@@ -1,0 +1,16 @@
+{
+  "iso_code": "PG-MPM",
+  "country_iso": "PG",
+  "country_name": "PG",
+  "region_name": "pg-mpm",
+  "region_normalized": "pg-mpm",
+  "flag": {
+    "svg": "PG/PG-MPM/flag.svg",
+    "source": "Flag of Madang.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

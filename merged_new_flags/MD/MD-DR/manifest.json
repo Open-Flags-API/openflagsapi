@@ -1,0 +1,16 @@
+{
+  "iso_code": "MD-DR",
+  "country_iso": "MD",
+  "country_name": "MD",
+  "region_name": "md-dr",
+  "region_normalized": "md-dr",
+  "flag": {
+    "svg": null,
+    "source": "Drochia rajon flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Drochia rajon coa.png"
+  },
+  "data_source": "out"
+}

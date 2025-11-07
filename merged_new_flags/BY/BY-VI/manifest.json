@@ -1,0 +1,16 @@
+{
+  "iso_code": "BY-VI",
+  "country_iso": "BY",
+  "country_name": "BY",
+  "region_name": "by-vi",
+  "region_normalized": "by-vi",
+  "flag": {
+    "svg": "BY/BY-VI/flag.svg",
+    "source": "Flag of Vitsebsk region.svg"
+  },
+  "coat": {
+    "svg": "BY/BY-VI/coat.svg",
+    "source": "Coat of Arms of Vitsebsk Voblasts.svg"
+  },
+  "data_source": "out"
+}

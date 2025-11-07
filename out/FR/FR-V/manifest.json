@@ -1,0 +1,14 @@
+{
+  "code": "FR-V",
+  "country": "FR",
+  "flag": {
+    "svg": "FR/FR-V/flag.svg",
+    "png": "FR/FR-V/flag.png",
+    "source_filename": "Flag of Rhône-Alpes.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-V/coat.svg",
+    "png": "FR/FR-V/coat.png",
+    "source_filename": "Blason Rhône-Alpes Gendarmerie.svg"
+  }
+}

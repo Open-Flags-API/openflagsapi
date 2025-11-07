@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-BGE",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-bge",
+  "region_normalized": "gb-bge",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-BGE/coat.svg",
+    "source": "Bridgend COA shield.svg"
+  },
+  "data_source": "out"
+}

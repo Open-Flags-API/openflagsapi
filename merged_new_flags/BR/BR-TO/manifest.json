@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-TO",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "br-to",
+  "region_normalized": "br-to",
+  "flag": {
+    "svg": "BR/BR-TO/flag.svg",
+    "source": "Bandeira do Tocantins.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-TO/coat.svg",
+    "source": "Brasão do Tocantins.svg"
+  },
+  "data_source": "out"
+}

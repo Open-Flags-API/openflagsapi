@@ -1,0 +1,14 @@
+{
+  "code": "IT-BL",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-BL/flag.svg",
+    "png": "IT/IT-BL/flag.png",
+    "source_filename": "Flag of the Province of Belluno.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-BL/coat.svg",
+    "png": "IT/IT-BL/coat.png",
+    "source_filename": "Provincia di Belluno-Stemma.svg"
+  }
+}

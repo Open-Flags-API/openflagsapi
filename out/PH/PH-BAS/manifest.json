@@ -1,0 +1,14 @@
+{
+  "code": "PH-BAS",
+  "country": "PH",
+  "flag": {
+    "svg": "PH/PH-BAS/flag.svg",
+    "png": "PH/PH-BAS/flag.png",
+    "source_filename": "Flag of Basilan.svg"
+  },
+  "coat": {
+    "svg": "PH/PH-BAS/coat.svg",
+    "png": "PH/PH-BAS/coat.png",
+    "source_filename": "Official Seal of Basilan.svg"
+  }
+}

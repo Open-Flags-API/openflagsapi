@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-022",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-022",
+  "region_normalized": "lv-022",
+  "flag": {
+    "svg": "LV/LV-022/flag.svg",
+    "source": "Cēsu novada karogs.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-022/coat.svg",
+    "source": "Cēsu novada ģerbonis.svg"
+  },
+  "data_source": "out"
+}

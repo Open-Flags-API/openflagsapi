@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-092",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-092",
+  "region_normalized": "lv-092",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "LVA Skrīveru novads COA.png"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-MS",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "br-ms",
+  "region_normalized": "br-ms",
+  "flag": {
+    "svg": "BR/BR-MS/flag.svg",
+    "source": "Bandeira de Mato Grosso do Sul.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-MS/coat.svg",
+    "source": "Brasão de Mato Grosso do Sul.svg"
+  },
+  "data_source": "out"
+}

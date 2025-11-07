@@ -1,0 +1,16 @@
+{
+  "iso_code": "YU-CG",
+  "country_iso": "YU",
+  "country_name": "YU",
+  "region_name": "yu-cg",
+  "region_normalized": "yu-cg",
+  "flag": {
+    "svg": "YU/YU-CG/flag.svg",
+    "source": "Flag of Montenegro (1993–2004).svg"
+  },
+  "coat": {
+    "svg": "YU/YU-CG/coat.svg",
+    "source": "Coat of arms of Montenegro (1992-2004).svg"
+  },
+  "data_source": "out"
+}

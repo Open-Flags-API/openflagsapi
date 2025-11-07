@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-SD",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-sd",
+  "region_normalized": "hu-sd",
+  "flag": {
+    "svg": "HU/HU-SD/flag.svg",
+    "source": "Flag of Szeged.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-SD/coat.svg",
+    "source": "HUN Szeged Címer.svg"
+  },
+  "data_source": "out"
+}

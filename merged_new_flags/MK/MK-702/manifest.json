@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-702",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-702",
+  "region_normalized": "mk-702",
+  "flag": {
+    "svg": "MK/MK-702/flag.svg",
+    "source": "Flag of Kriva Palanka Municipality, North Macedonia.svg"
+  },
+  "coat": {
+    "svg": "MK/MK-702/coat.svg",
+    "source": "Coat of arms of Kriva Palanka Municipality.svg"
+  },
+  "data_source": "out"
+}

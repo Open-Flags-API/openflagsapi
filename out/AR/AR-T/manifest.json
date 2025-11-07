@@ -1,0 +1,14 @@
+{
+  "code": "AR-T",
+  "country": "AR",
+  "flag": {
+    "svg": "AR/AR-T/flag.svg",
+    "png": "AR/AR-T/flag.png",
+    "source_filename": "Bandera de la Provincia de Tucumán.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-T/coat.svg",
+    "png": "AR/AR-T/coat.png",
+    "source_filename": "Escudo de la Provincia de Tucumán.svg"
+  }
+}

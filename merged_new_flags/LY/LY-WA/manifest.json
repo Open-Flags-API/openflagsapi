@@ -1,0 +1,16 @@
+{
+  "iso_code": "LY-WA",
+  "country_iso": "LY",
+  "country_name": "LY",
+  "region_name": "ly-wa",
+  "region_normalized": "ly-wa",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

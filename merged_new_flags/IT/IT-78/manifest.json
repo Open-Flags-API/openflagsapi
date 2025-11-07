@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-78",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-78",
+  "region_normalized": "it-78",
+  "flag": {
+    "svg": "IT/IT-78/flag.svg",
+    "source": "Flag of Calabria.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-78/coat.svg",
+    "source": "Coat of arms of Calabria.svg"
+  },
+  "data_source": "out"
+}

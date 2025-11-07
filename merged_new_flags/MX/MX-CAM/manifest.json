@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-CAM",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "mx-cam",
+  "region_normalized": "mx-cam",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "MX/MX-CAM/coat.svg",
+    "source": "Coat of arms of Campeche.svg"
+  },
+  "data_source": "out"
+}

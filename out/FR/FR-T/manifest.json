@@ -1,0 +1,14 @@
+{
+  "code": "FR-T",
+  "country": "FR",
+  "flag": {
+    "svg": "FR/FR-T/flag.svg",
+    "png": "FR/FR-T/flag.png",
+    "source_filename": "Poitou-Charentes flag.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-T/coat.svg",
+    "png": "FR/FR-T/coat.png",
+    "source_filename": "Poitou-Charentes blason.svg"
+  }
+}

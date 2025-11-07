@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-505",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-505",
+  "region_normalized": "mk-505",
+  "flag": {
+    "svg": "MK/MK-505/flag.svg",
+    "source": "Flag of Kruševo Municipality, North Macedonia.svg"
+  },
+  "coat": {
+    "svg": "MK/MK-505/coat.svg",
+    "source": "Coat of arms of Kruševo Municipality.svg"
+  },
+  "data_source": "out"
+}

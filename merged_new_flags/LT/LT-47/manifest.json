@@ -1,0 +1,16 @@
+{
+  "iso_code": "LT-47",
+  "country_iso": "LT",
+  "country_name": "LT",
+  "region_name": "lt-47",
+  "region_normalized": "lt-47",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "LT/LT-47/coat.svg",
+    "source": "Coat of arms of Širvintos (Lithuania).svg"
+  },
+  "data_source": "out"
+}

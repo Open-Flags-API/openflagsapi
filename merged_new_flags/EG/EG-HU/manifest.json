@@ -1,0 +1,16 @@
+{
+  "iso_code": "EG-HU",
+  "country_iso": "EG",
+  "country_name": "EG",
+  "region_name": "eg-hu",
+  "region_normalized": "eg-hu",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

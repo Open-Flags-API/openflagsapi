@@ -1,0 +1,16 @@
+{
+  "iso_code": "TW-CYQ",
+  "country_iso": "TW",
+  "country_name": "TW",
+  "region_name": "tw-cyq",
+  "region_normalized": "tw-cyq",
+  "flag": {
+    "svg": "TW/TW-CYQ/flag.svg",
+    "source": "Flag of Chiayi County.svg"
+  },
+  "coat": {
+    "svg": "TW/TW-CYQ/coat.svg",
+    "source": "Emblem of Chiayi County.svg"
+  },
+  "data_source": "out"
+}

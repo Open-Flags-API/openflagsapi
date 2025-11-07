@@ -1,0 +1,14 @@
+{
+  "code": "IT-RO",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-RO/flag.svg",
+    "png": "IT/IT-RO/flag.png",
+    "source_filename": "Flag of the Province of Rovigo.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-RO/coat.svg",
+    "png": "IT/IT-RO/coat.png",
+    "source_filename": "Provincia di Rovigo-Stemma.svg"
+  }
+}

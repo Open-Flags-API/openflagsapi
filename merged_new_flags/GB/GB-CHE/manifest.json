@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-CHE",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-che",
+  "region_normalized": "gb-che",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Cheshire East Borough Council.png"
+  },
+  "data_source": "out"
+}

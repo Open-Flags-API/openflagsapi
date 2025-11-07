@@ -1,0 +1,16 @@
+{
+  "iso_code": "BA-08",
+  "country_iso": "BA",
+  "country_name": "BA",
+  "region_name": "ba-08",
+  "region_normalized": "ba-08",
+  "flag": {
+    "svg": "BA/BA-08/flag.svg",
+    "source": "Flag of the Croatian Republic of Herzeg-Bosnia.svg"
+  },
+  "coat": {
+    "svg": "BA/BA-08/coat.svg",
+    "source": "Coat of arms of the Croatian Republic of Herzeg-Bosnia.svg"
+  },
+  "data_source": "out"
+}

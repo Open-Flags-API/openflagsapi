@@ -1,0 +1,16 @@
+{
+  "iso_code": "GA-9",
+  "country_iso": "GA",
+  "country_name": "GA",
+  "region_name": "ga-9",
+  "region_normalized": "ga-9",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GA/GA-9/coat.svg",
+    "source": "Coat of arms of Woleu-Ntem, Gabon.svg"
+  },
+  "data_source": "out"
+}

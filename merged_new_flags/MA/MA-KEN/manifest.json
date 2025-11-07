@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-KEN",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-ken",
+  "region_normalized": "ma-ken",
+  "flag": {
+    "svg": "MA/MA-KEN/flag.svg",
+    "source": "Flag of Kenitra province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

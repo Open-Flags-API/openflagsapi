@@ -1,0 +1,14 @@
+{
+  "code": "FR-G",
+  "country": "FR",
+  "flag": {
+    "svg": "FR/FR-G/flag.svg",
+    "png": "FR/FR-G/flag.png",
+    "source_filename": "Champagne Ardenne flag.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-G/coat.svg",
+    "png": "FR/FR-G/coat.png",
+    "source_filename": "Blason région fr Champagne-Ardenne.svg"
+  }
+}

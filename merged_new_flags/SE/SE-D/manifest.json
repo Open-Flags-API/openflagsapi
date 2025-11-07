@@ -1,0 +1,16 @@
+{
+  "iso_code": "SE-D",
+  "country_iso": "SE",
+  "country_name": "SE",
+  "region_name": "se-d",
+  "region_normalized": "se-d",
+  "flag": {
+    "svg": "SE/SE-D/flag.svg",
+    "source": "Södermanlands län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-D/coat.svg",
+    "source": "Södermanland vapen.svg"
+  },
+  "data_source": "out"
+}

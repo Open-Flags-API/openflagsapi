@@ -1,0 +1,14 @@
+{
+  "code": "JP-16",
+  "country": "JP",
+  "flag": {
+    "svg": "JP/JP-16/flag.svg",
+    "png": "JP/JP-16/flag.png",
+    "source_filename": "Flag of Toyama Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-16/coat.svg",
+    "png": "JP/JP-16/coat.png",
+    "source_filename": "Emblem of Toyama Prefecture.svg"
+  }
+}

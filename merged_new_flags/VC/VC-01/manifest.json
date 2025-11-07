@@ -1,0 +1,16 @@
+{
+  "iso_code": "VC-01",
+  "country_iso": "VC",
+  "country_name": "VC",
+  "region_name": "vc-01",
+  "region_normalized": "vc-01",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

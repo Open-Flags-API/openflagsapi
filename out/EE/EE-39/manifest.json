@@ -1,0 +1,14 @@
+{
+  "code": "EE-39",
+  "country": "EE",
+  "flag": {
+    "svg": "EE/EE-39/flag.svg",
+    "png": "EE/EE-39/flag.png",
+    "source_filename": "Hiiumaa lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-39/coat.svg",
+    "png": "EE/EE-39/coat.png",
+    "source_filename": "Hiiumaa vapp.svg"
+  }
+}

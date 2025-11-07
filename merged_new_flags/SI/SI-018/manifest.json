@@ -1,0 +1,16 @@
+{
+  "iso_code": "SI-018",
+  "country_iso": "SI",
+  "country_name": "SI",
+  "region_name": "si-018",
+  "region_normalized": "si-018",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Destrnik.png"
+  },
+  "data_source": "out"
+}

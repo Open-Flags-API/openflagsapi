@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-WI",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-wi",
+  "region_normalized": "us-wi",
+  "flag": {
+    "svg": "US/US-WI/flag.svg",
+    "source": "Flag of Wisconsin.svg"
+  },
+  "coat": {
+    "svg": "US/US-WI/coat.svg",
+    "source": "Coat of arms of Wisconsin.svg"
+  },
+  "data_source": "out"
+}

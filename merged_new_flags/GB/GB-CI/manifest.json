@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-CI",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "city-of-london",
+  "region_normalized": "city-of-london",
+  "flag": {
+    "svg": "GB/GB-CI/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

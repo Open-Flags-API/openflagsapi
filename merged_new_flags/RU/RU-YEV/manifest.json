@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-YEV",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-yev",
+  "region_normalized": "ru-yev",
+  "flag": {
+    "svg": "RU/RU-YEV/flag.svg",
+    "source": "Flag of the Jewish Autonomous Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-YEV/coat.svg",
+    "source": "Coat of arms of the Jewish Autonomous Oblast.svg"
+  },
+  "data_source": "out"
+}

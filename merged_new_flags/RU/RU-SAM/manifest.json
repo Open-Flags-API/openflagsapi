@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-SAM",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-sam",
+  "region_normalized": "ru-sam",
+  "flag": {
+    "svg": "RU/RU-SAM/flag.svg",
+    "source": "Flag of Samara Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-SAM/coat.svg",
+    "source": "Coat of arms of Samara Oblast.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "PK-TA",
+  "country": "PK",
+  "flag": {
+    "svg": "PK/PK-TA/flag.svg",
+    "png": "PK/PK-TA/flag.png",
+    "source_filename": "Flag of FATA.svg"
+  },
+  "coat": {
+    "svg": "PK/PK-TA/coat.svg",
+    "png": "PK/PK-TA/coat.png",
+    "source_filename": "Coat of arms of FATA.svg"
+  }
+}

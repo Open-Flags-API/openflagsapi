@@ -1,0 +1,14 @@
+{
+  "code": "ES-EX",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-EX/flag.svg",
+    "png": "ES/ES-EX/flag.png",
+    "source_filename": "Flag of Extremadura, Spain (with coat of arms).svg"
+  },
+  "coat": {
+    "svg": "ES/ES-EX/coat.svg",
+    "png": "ES/ES-EX/coat.png",
+    "source_filename": "Escudo de Extremadura.svg"
+  }
+}

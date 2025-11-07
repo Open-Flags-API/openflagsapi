@@ -1,0 +1,14 @@
+{
+  "code": "BE-VOV",
+  "country": "BE",
+  "flag": {
+    "svg": "BE/BE-VOV/flag.svg",
+    "png": "BE/BE-VOV/flag.png",
+    "source_filename": "Vlag van Oost-Vlaanderen.svg"
+  },
+  "coat": {
+    "svg": "BE/BE-VOV/coat.svg",
+    "png": "BE/BE-VOV/coat.png",
+    "source_filename": "Wapen van Oost-Vlaanderen.svg"
+  }
+}

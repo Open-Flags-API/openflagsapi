@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-CO",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "colima",
+  "region_normalized": "colima",
+  "flag": {
+    "svg": "MX/MX-CO/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

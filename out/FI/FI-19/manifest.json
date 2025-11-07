@@ -1,0 +1,14 @@
+{
+  "code": "FI-19",
+  "country": "FI",
+  "flag": {
+    "svg": "FI/FI-19/flag.svg",
+    "png": "FI/FI-19/flag.png",
+    "source_filename": "Varsinais-Suomen maakuntaviiri.svg"
+  },
+  "coat": {
+    "svg": "FI/FI-19/coat.svg",
+    "png": "FI/FI-19/coat.png",
+    "source_filename": "Varsinais-Suomen.vaakuna.svg"
+  }
+}

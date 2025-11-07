@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-26",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-26",
+  "region_normalized": "mt-26",
+  "flag": {
+    "svg": "MT/MT-26/flag.svg",
+    "source": "Flag of Marsa.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-26/coat.svg",
+    "source": "Marsa coa.svg"
+  },
+  "data_source": "out"
+}

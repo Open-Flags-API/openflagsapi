@@ -1,0 +1,16 @@
+{
+  "iso_code": "DE-ST",
+  "country_iso": "DE",
+  "country_name": "germany",
+  "region_name": "de-st",
+  "region_normalized": "de-st",
+  "flag": {
+    "svg": "DE/DE-ST/flag.svg",
+    "source": "Flag of Saxony-Anhalt (state).svg"
+  },
+  "coat": {
+    "svg": "DE/DE-ST/coat.svg",
+    "source": "Wappen Sachsen-Anhalt.svg"
+  },
+  "data_source": "out"
+}

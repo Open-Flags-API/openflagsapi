@@ -1,0 +1,14 @@
+{
+  "code": "FR-PAC",
+  "country": "FR",
+  "flag": {
+    "svg": "FR/FR-PAC/flag.svg",
+    "png": "FR/FR-PAC/flag.png",
+    "source_filename": "Flag of Provence-Alpes-Côte d'Azur.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-PAC/coat.svg",
+    "png": "FR/FR-PAC/coat.png",
+    "source_filename": "Blason région fr Provence-Alpes-Côte d'Azur.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "NO-11",
+  "country_iso": "NO",
+  "country_name": "NO",
+  "region_name": "no-11",
+  "region_normalized": "no-11",
+  "flag": {
+    "svg": "NO/NO-11/flag.svg",
+    "source": "Flag of Rogaland.svg"
+  },
+  "coat": {
+    "svg": "NO/NO-11/coat.svg",
+    "source": "Rogaland våpen.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "AZ-QUS",
+  "country_iso": "AZ",
+  "country_name": "AZ",
+  "region_name": "az-qus",
+  "region_normalized": "az-qus",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

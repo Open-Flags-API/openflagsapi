@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-66",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-66",
+  "region_normalized": "fr-66",
+  "flag": {
+    "svg": "FR/FR-66/flag.svg",
+    "source": "Drapeau proposé pour le département des Pyrénées-Orientales.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-66/coat.svg",
+    "source": "Blason département fr Pyrénées-Orientales.svg"
+  },
+  "data_source": "out"
+}

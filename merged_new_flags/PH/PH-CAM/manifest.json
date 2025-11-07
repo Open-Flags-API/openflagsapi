@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-CAM",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-cam",
+  "region_normalized": "ph-cam",
+  "flag": {
+    "svg": null,
+    "source": "PH-CAM Flag.png"
+  },
+  "coat": {
+    "svg": "PH/PH-CAM/coat.svg",
+    "source": "Camiguin Seal.svg"
+  },
+  "data_source": "out"
+}

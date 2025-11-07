@@ -1,0 +1,14 @@
+{
+  "code": "CH-SH",
+  "country": "CH",
+  "flag": {
+    "svg": "CH/CH-SH/flag.svg",
+    "png": "CH/CH-SH/flag.png",
+    "source_filename": "Flag of Canton of Schaffhausen.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-SH/coat.svg",
+    "png": "CH/CH-SH/coat.png",
+    "source_filename": "Wappen Schaffhausen matt.svg"
+  }
+}

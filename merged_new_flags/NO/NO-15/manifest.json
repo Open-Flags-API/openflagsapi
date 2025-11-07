@@ -1,0 +1,16 @@
+{
+  "iso_code": "NO-15",
+  "country_iso": "NO",
+  "country_name": "NO",
+  "region_name": "no-15",
+  "region_normalized": "no-15",
+  "flag": {
+    "svg": "NO/NO-15/flag.svg",
+    "source": "Flag of Møre og Romsdal.svg"
+  },
+  "coat": {
+    "svg": "NO/NO-15/coat.svg",
+    "source": "Møre og Romsdal våpen.svg"
+  },
+  "data_source": "out"
+}

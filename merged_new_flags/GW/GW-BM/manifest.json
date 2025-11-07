@@ -1,0 +1,16 @@
+{
+  "iso_code": "GW-BM",
+  "country_iso": "GW",
+  "country_name": "GW",
+  "region_name": "gw-bm",
+  "region_normalized": "gw-bm",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

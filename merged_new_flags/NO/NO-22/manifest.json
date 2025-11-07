@@ -1,0 +1,16 @@
+{
+  "iso_code": "NO-22",
+  "country_iso": "NO",
+  "country_name": "NO",
+  "region_name": "no-22",
+  "region_normalized": "no-22",
+  "flag": {
+    "svg": "NO/NO-22/flag.svg",
+    "source": "Flag of Norway.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

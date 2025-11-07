@@ -1,0 +1,16 @@
+{
+  "iso_code": "KM-M",
+  "country_iso": "KM",
+  "country_name": "KM",
+  "region_name": "km-m",
+  "region_normalized": "km-m",
+  "flag": {
+    "svg": "KM/KM-M/flag.svg",
+    "source": "Flag of Mohéli (official).svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

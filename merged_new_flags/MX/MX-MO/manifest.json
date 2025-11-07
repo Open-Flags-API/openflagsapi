@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-MO",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "morelos",
+  "region_normalized": "morelos",
+  "flag": {
+    "svg": "MX/MX-MO/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

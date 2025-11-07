@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-40",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-40",
+  "region_normalized": "mt-40",
+  "flag": {
+    "svg": "MT/MT-40/flag.svg",
+    "source": "Flag of Pembroke.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-40/coat.svg",
+    "source": "Pembroke coa.svg"
+  },
+  "data_source": "out"
+}

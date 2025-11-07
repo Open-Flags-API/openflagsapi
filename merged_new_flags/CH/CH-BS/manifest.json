@@ -1,0 +1,16 @@
+{
+  "iso_code": "CH-BS",
+  "country_iso": "CH",
+  "country_name": "CH",
+  "region_name": "ch-bs",
+  "region_normalized": "ch-bs",
+  "flag": {
+    "svg": "CH/CH-BS/flag.svg",
+    "source": "Flag of Canton of Basel.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-BS/coat.svg",
+    "source": "Wappen Basel-Stadt matt.svg"
+  },
+  "data_source": "out"
+}

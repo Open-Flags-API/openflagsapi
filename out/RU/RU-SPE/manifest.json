@@ -1,0 +1,14 @@
+{
+  "code": "RU-SPE",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-SPE/flag.svg",
+    "png": "RU/RU-SPE/flag.png",
+    "source_filename": "Flag of Saint Petersburg (large).svg"
+  },
+  "coat": {
+    "svg": "RU/RU-SPE/coat.svg",
+    "png": "RU/RU-SPE/coat.png",
+    "source_filename": "Coat of arms of Saint Petersburg (2003).svg"
+  }
+}

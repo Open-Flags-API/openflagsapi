@@ -1,0 +1,14 @@
+{
+  "code": "LI-05",
+  "country": "LI",
+  "flag": {
+    "svg": "LI/LI-05/flag.svg",
+    "png": "LI/LI-05/flag.png",
+    "source_filename": "Flag of Planken Liechtenstein-1.svg"
+  },
+  "coat": {
+    "svg": "LI/LI-05/coat.svg",
+    "png": "LI/LI-05/coat.png",
+    "source_filename": "Wappen Planken.svg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "code": "BR-PR",
+  "country": "BR",
+  "flag": {
+    "svg": "BR/BR-PR/flag.svg",
+    "png": "BR/BR-PR/flag.png",
+    "source_filename": "Bandeira do Paraná.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-PR/coat.svg",
+    "png": "BR/BR-PR/coat.png",
+    "source_filename": "Brasão do Paraná.svg"
+  }
+}

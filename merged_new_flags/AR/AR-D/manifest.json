@@ -1,0 +1,16 @@
+{
+  "iso_code": "AR-D",
+  "country_iso": "AR",
+  "country_name": "AR",
+  "region_name": "ar-d",
+  "region_normalized": "ar-d",
+  "flag": {
+    "svg": "AR/AR-D/flag.svg",
+    "source": "Bandera de la Provincia de San Luis.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-D/coat.svg",
+    "source": "Escudo de la Provincia de San Luis.svg"
+  },
+  "data_source": "out"
+}

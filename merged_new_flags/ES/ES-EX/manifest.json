@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-EX",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-ex",
+  "region_normalized": "es-ex",
+  "flag": {
+    "svg": "ES/ES-EX/flag.svg",
+    "source": "Flag of Extremadura, Spain (with coat of arms).svg"
+  },
+  "coat": {
+    "svg": "ES/ES-EX/coat.svg",
+    "source": "Escudo de Extremadura.svg"
+  },
+  "data_source": "out"
+}

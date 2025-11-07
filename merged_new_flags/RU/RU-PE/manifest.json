@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-PE",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "perm-krai",
+  "region_normalized": "perm-krai",
+  "flag": {
+    "svg": "RU/RU-PE/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

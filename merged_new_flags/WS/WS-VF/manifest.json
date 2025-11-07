@@ -1,0 +1,16 @@
+{
+  "iso_code": "WS-VF",
+  "country_iso": "WS",
+  "country_name": "WS",
+  "region_name": "ws-vf",
+  "region_normalized": "ws-vf",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

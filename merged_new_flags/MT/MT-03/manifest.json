@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-03",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-03",
+  "region_normalized": "mt-03",
+  "flag": {
+    "svg": "MT/MT-03/flag.svg",
+    "source": "Flag of Birgu.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-03/coat.svg",
+    "source": "Birgu coa.svg"
+  },
+  "data_source": "out"
+}

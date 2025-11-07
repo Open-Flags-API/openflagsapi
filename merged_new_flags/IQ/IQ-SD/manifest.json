@@ -1,0 +1,16 @@
+{
+  "iso_code": "IQ-SD",
+  "country_iso": "IQ",
+  "country_name": "IQ",
+  "region_name": "iq-sd",
+  "region_normalized": "iq-sd",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

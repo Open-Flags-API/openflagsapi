@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-NEC",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-nec",
+  "region_normalized": "ph-nec",
+  "flag": {
+    "svg": null,
+    "source": "PH-NEC Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Ph seal negros occidental.png"
+  },
+  "data_source": "out"
+}

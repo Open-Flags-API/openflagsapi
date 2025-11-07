@@ -1,0 +1,14 @@
+{
+  "code": "ET-AF",
+  "country": "ET",
+  "flag": {
+    "svg": "ET/ET-AF/flag.svg",
+    "png": "ET/ET-AF/flag.png",
+    "source_filename": "Flag of the Afar Region.svg"
+  },
+  "coat": {
+    "svg": "ET/ET-AF/coat.svg",
+    "png": "ET/ET-AF/coat.png",
+    "source_filename": "Герб Афара.svg"
+  }
+}

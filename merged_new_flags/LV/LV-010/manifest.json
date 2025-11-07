@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-010",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-010",
+  "region_normalized": "lv-010",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Auces novads.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Auces novads COA.png"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-070",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-070",
+  "region_normalized": "lv-070",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Pārgaujas novads.png"
+  },
+  "coat": {
+    "svg": "LV/LV-070/coat.svg",
+    "source": "Pārgaujas novads COA.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "PE-PUN",
+  "country_iso": "PE",
+  "country_name": "PE",
+  "region_name": "pe-pun",
+  "region_normalized": "pe-pun",
+  "flag": {
+    "svg": "PE/PE-PUN/flag.svg",
+    "source": "Bandera Región Puno.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Escudo regional Puno.png"
+  },
+  "data_source": "out"
+}

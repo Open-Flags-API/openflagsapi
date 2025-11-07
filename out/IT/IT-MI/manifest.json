@@ -1,0 +1,14 @@
+{
+  "code": "IT-MI",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-MI/flag.svg",
+    "png": "IT/IT-MI/flag.png",
+    "source_filename": "Flag of the Province of Milan.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-MI/coat.svg",
+    "png": "IT/IT-MI/coat.png",
+    "source_filename": "Provincia di Milano-Stemma.svg"
+  }
+}

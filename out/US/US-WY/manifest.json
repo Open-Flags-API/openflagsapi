@@ -1,0 +1,14 @@
+{
+  "code": "US-WY",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-WY/flag.svg",
+    "png": "US/US-WY/flag.png",
+    "source_filename": "Flag of Wyoming.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": null,
+    "source_filename": null
+  }
+}

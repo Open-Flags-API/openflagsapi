@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-10",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-10",
+  "region_normalized": "th-10",
+  "flag": {
+    "svg": "TH/TH-10/flag.svg",
+    "source": "Flag of Bangkok.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

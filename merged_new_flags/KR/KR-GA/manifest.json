@@ -1,0 +1,16 @@
+{
+  "iso_code": "KR-GA",
+  "country_iso": "KR",
+  "country_name": "south-korea",
+  "region_name": "gangwon",
+  "region_normalized": "gangwon",
+  "flag": {
+    "svg": "KR/KR-GA/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

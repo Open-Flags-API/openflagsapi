@@ -1,0 +1,16 @@
+{
+  "iso_code": "LA-SV",
+  "country_iso": "LA",
+  "country_name": "LA",
+  "region_name": "la-sv",
+  "region_normalized": "la-sv",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

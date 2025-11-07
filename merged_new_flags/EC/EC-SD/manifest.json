@@ -1,0 +1,16 @@
+{
+  "iso_code": "EC-SD",
+  "country_iso": "EC",
+  "country_name": "EC",
+  "region_name": "ec-sd",
+  "region_normalized": "ec-sd",
+  "flag": {
+    "svg": "EC/EC-SD/flag.svg",
+    "source": "Bandera Provincia Santo Domingo de los Tsáchilas.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

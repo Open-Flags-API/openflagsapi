@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-AO",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-ao",
+  "region_normalized": "it-ao",
+  "flag": {
+    "svg": "IT/IT-AO/flag.svg",
+    "source": "Flag of the Province of Aosta.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-AO/coat.svg",
+    "source": "Provincia di Aosta-Stemma.svg"
+  },
+  "data_source": "out"
+}

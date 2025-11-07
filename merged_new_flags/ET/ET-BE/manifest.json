@@ -1,0 +1,16 @@
+{
+  "iso_code": "ET-BE",
+  "country_iso": "ET",
+  "country_name": "ET",
+  "region_name": "et-be",
+  "region_normalized": "et-be",
+  "flag": {
+    "svg": "ET/ET-BE/flag.svg",
+    "source": "Flag of the Benishangul-Gumuz Region.svg"
+  },
+  "coat": {
+    "svg": "ET/ET-BE/coat.svg",
+    "source": "Герб Бенишангуль-Гумуза.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-FI",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-fi",
+  "region_normalized": "it-fi",
+  "flag": {
+    "svg": "IT/IT-FI/flag.svg",
+    "source": "Flag of the Province of Florence.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-FI/coat.svg",
+    "source": "Provincia di Firenze-Stemma.svg"
+  },
+  "data_source": "out"
+}

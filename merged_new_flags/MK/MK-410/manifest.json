@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-410",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-410",
+  "region_normalized": "mk-410",
+  "flag": {
+    "svg": "MK/MK-410/flag.svg",
+    "source": "Flag of Strumica Municipality.svg"
+  },
+  "coat": {
+    "svg": "MK/MK-410/coat.svg",
+    "source": "Coat of arms of Strumica Municipality.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="763"
+   width="603"
+   version="1.0"
+   id="svg20"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="Blason_Vide_CH_3D.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:modified="true">
+  <metadata
+     id="metadata31">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>07-AUG-2006</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jérôme BLUM (wagner51)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:coverage />
+        <dc:description>Gabarit pour le Projet:Blasons de WIkipédia</dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>blason suisse modèle gabarit projet blasons</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:language>fr</dc:language>
+        <dc:title>Gabrit d'un blason suisse</dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs29">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3002">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3004"
+         d="m 1.5,1.5 0,458.86794 C 1.5,626.67854 135.81454,761.5 301.49993,761.5 467.1854,761.5 601.5,626.67854 601.5,460.36794 L 601.5,1.5 1.5,1.5 z"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         transform="translate(0,-41.827664)" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="669"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.33551769"
+     inkscape:cx="108.28337"
+     inkscape:cy="400.30115"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-global="true"
+     inkscape:window-maximized="1" />
+  <desc
+     id="desc22">Coat of Arms of Canton of Freiburg (Fribourg)</desc>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Fond écu"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       id="path1899"
+       d="m 1.5,1.49998 0,458.86792 C 1.5,626.6785 135.81456,761.5 301.49999,761.5 467.18543,761.5 601.5,626.6785 601.5,460.3679 l 0,-458.86792 -600,0 z"
+       style="fill:#000000;fill-opacity:1"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Meubles"
+     style="display:inline">
+    <rect
+       style="fill:#ffe500;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3030"
+       width="600"
+       height="138.04189"
+       x="1.5"
+       y="133.90837" />
+    <path
+       style="fill:#ffe500;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 67.65625,385.96875 0,111.25 -102.5,0 0,313.875 667.0625,0 0,-313.875 -96.875,0 0,-111.25 -111.78125,0 0,111.25 -66.15625,0 0,-111.25 -111.8125,0 0,111.25 -66.15625,0 0,-111.25 -111.78125,0 z"
+       id="rect3032"
+       clip-path="url(#clipPath3002)"
+       inkscape:connector-curvature="0"
+       transform="translate(0,41.827664)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Contour final"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1.5,1.5 0,458.86794 C 1.5,626.67854 135.81454,761.5 301.49993,761.5 467.1854,761.5 601.5,626.67854 601.5,460.36794 L 601.5,1.5 1.5,1.5 z"
+       id="path3239"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-GR",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-gr",
+  "region_normalized": "es-gr",
+  "flag": {
+    "svg": "ES/ES-GR/flag.svg",
+    "source": "Bandera de la provincia de Granada (España).svg"
+  },
+  "coat": {
+    "svg": "ES/ES-GR/coat.svg",
+    "source": "Coat of Arms of Granada Province.svg"
+  },
+  "data_source": "out"
+}

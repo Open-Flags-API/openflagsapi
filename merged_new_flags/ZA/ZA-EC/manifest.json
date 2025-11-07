@@ -1,0 +1,16 @@
+{
+  "iso_code": "ZA-EC",
+  "country_iso": "ZA",
+  "country_name": "ZA",
+  "region_name": "za-ec",
+  "region_normalized": "za-ec",
+  "flag": {
+    "svg": null,
+    "source": "Flag of the Eastern Cape Province.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

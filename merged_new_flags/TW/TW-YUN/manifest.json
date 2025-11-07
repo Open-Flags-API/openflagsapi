@@ -1,0 +1,16 @@
+{
+  "iso_code": "TW-YUN",
+  "country_iso": "TW",
+  "country_name": "TW",
+  "region_name": "tw-yun",
+  "region_normalized": "tw-yun",
+  "flag": {
+    "svg": "TW/TW-YUN/flag.svg",
+    "source": "Flag of Yunlin County.svg"
+  },
+  "coat": {
+    "svg": "TW/TW-YUN/coat.svg",
+    "source": "Emblem of Yunlin County.svg"
+  },
+  "data_source": "out"
+}

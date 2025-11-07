@@ -1,0 +1,16 @@
+{
+  "iso_code": "TD-ND",
+  "country_iso": "TD",
+  "country_name": "TD",
+  "region_name": "td-nd",
+  "region_normalized": "td-nd",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "TD/TD-ND/coat.svg",
+    "source": "N'Djamena coa.svg"
+  },
+  "data_source": "out"
+}

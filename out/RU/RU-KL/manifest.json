@@ -1,0 +1,14 @@
+{
+  "code": "RU-KL",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-KL/flag.svg",
+    "png": "RU/RU-KL/flag.png",
+    "source_filename": "Flag of Kalmykia.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-KL/coat.svg",
+    "png": "RU/RU-KL/coat.png",
+    "source_filename": "Coat of Arms of Kalmykia.svg"
+  }
+}

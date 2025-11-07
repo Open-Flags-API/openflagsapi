@@ -1,0 +1,16 @@
+{
+  "iso_code": "VU-SAM",
+  "country_iso": "VU",
+  "country_name": "VU",
+  "region_name": "vu-sam",
+  "region_normalized": "vu-sam",
+  "flag": {
+    "svg": "VU/VU-SAM/flag.svg",
+    "source": "Flag of Sanma Province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

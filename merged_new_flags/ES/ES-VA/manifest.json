@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-VA",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-va",
+  "region_normalized": "es-va",
+  "flag": {
+    "svg": "ES/ES-VA/flag.svg",
+    "source": "Bandera de la provincia de Valladolid.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-VA/coat.svg",
+    "source": "Va-dip.svg"
+  },
+  "data_source": "out"
+}

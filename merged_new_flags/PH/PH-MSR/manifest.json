@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-MSR",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-msr",
+  "region_normalized": "ph-msr",
+  "flag": {
+    "svg": null,
+    "source": "PH-MSR Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Ph seal misamis oriental.png"
+  },
+  "data_source": "out"
+}

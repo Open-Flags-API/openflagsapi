@@ -1,0 +1,14 @@
+{
+  "code": "RU-KAM",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-KAM/flag.svg",
+    "png": "RU/RU-KAM/flag.png",
+    "source_filename": "Flag of Kamchatka Krai.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-KAM/coat.svg",
+    "png": "RU/RU-KAM/coat.png",
+    "source_filename": "Coat of Arms of Kamchatka Krai.svg"
+  }
+}

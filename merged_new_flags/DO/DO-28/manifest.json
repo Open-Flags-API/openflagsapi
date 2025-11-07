@@ -1,0 +1,16 @@
+{
+  "iso_code": "DO-28",
+  "country_iso": "DO",
+  "country_name": "DO",
+  "region_name": "do-28",
+  "region_normalized": "do-28",
+  "flag": {
+    "svg": "DO/DO-28/flag.svg",
+    "source": "Bandera de la Provincia Monseñor Nouel.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

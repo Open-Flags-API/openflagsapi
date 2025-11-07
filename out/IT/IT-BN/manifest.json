@@ -1,0 +1,14 @@
+{
+  "code": "IT-BN",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-BN/flag.svg",
+    "png": "IT/IT-BN/flag.png",
+    "source_filename": "Flag of the province of Benevento.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-BN/coat.svg",
+    "png": "IT/IT-BN/coat.png",
+    "source_filename": "Provincia di Benevento-Stemma.svg"
+  }
+}

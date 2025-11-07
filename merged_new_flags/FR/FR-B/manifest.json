@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-B",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-b",
+  "region_normalized": "fr-b",
+  "flag": {
+    "svg": "FR/FR-B/flag.svg",
+    "source": "Flag of Aquitaine.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-B/coat.svg",
+    "source": "Arms of Aquitaine and Guyenne.svg"
+  },
+  "data_source": "out"
+}

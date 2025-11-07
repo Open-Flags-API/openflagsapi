@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-MSC",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-msc",
+  "region_normalized": "ph-msc",
+  "flag": {
+    "svg": "PH/PH-MSC/flag.svg",
+    "source": "Flag of Misamis Occidental.svg"
+  },
+  "coat": {
+    "svg": "PH/PH-MSC/coat.svg",
+    "source": "Official Seal of Misamis Occidental.svg"
+  },
+  "data_source": "out"
+}

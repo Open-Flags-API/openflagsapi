@@ -1,0 +1,16 @@
+{
+  "iso_code": "EG-C",
+  "country_iso": "EG",
+  "country_name": "EG",
+  "region_name": "eg-c",
+  "region_normalized": "eg-c",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "EG/EG-C/coat.svg",
+    "source": "Emblem Cairo Governorate.svg"
+  },
+  "data_source": "out"
+}

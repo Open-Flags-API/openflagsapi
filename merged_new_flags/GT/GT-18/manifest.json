@@ -1,0 +1,16 @@
+{
+  "iso_code": "GT-18",
+  "country_iso": "GT",
+  "country_name": "GT",
+  "region_name": "gt-18",
+  "region_normalized": "gt-18",
+  "flag": {
+    "svg": null,
+    "source": "Izabal Flag (GUATEMALA).png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "EG-GH",
+  "country_iso": "EG",
+  "country_name": "EG",
+  "region_name": "eg-gh",
+  "region_normalized": "eg-gh",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Gharbia Governorate.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

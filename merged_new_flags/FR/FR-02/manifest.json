@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-02",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-02",
+  "region_normalized": "fr-02",
+  "flag": {
+    "svg": "FR/FR-02/flag.svg",
+    "source": "Drapeau fr département Aisne.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-02/coat.svg",
+    "source": "Blason département fr Aisne.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "CO-VAU",
+  "country": "CO",
+  "flag": {
+    "svg": "CO/CO-VAU/flag.svg",
+    "png": "CO/CO-VAU/flag.png",
+    "source_filename": "Flag of Vaupés.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-VAU/coat.svg",
+    "png": "CO/CO-VAU/coat.png",
+    "source_filename": "Escudo del Vaupés.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "CV-SM",
+  "country_iso": "CV",
+  "country_name": "CV",
+  "region_name": "cv-sm",
+  "region_normalized": "cv-sm",
+  "flag": {
+    "svg": "CV/CV-SM/flag.svg",
+    "source": "Flag of São Miguel, Cabo Verde.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

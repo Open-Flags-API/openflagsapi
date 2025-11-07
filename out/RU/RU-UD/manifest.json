@@ -1,0 +1,14 @@
+{
+  "code": "RU-UD",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-UD/flag.svg",
+    "png": "RU/RU-UD/flag.png",
+    "source_filename": "Flag of Udmurtia.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-UD/coat.svg",
+    "png": "RU/RU-UD/coat.png",
+    "source_filename": "Coat of arms of Udmurtia.svg"
+  }
+}

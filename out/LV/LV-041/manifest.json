@@ -1,0 +1,14 @@
+{
+  "code": "LV-041",
+  "country": "LV",
+  "flag": {
+    "svg": "LV/LV-041/flag.svg",
+    "png": "LV/LV-041/flag.png",
+    "source_filename": "Jelgavas novada karogs.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-041/coat.svg",
+    "png": "LV/LV-041/coat.png",
+    "source_filename": "Jelgavas novads COA.svg"
+  }
+}

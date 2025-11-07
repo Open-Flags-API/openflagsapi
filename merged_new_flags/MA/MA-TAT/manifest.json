@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-TAT",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-tat",
+  "region_normalized": "ma-tat",
+  "flag": {
+    "svg": "MA/MA-TAT/flag.svg",
+    "source": "Flag of Tata province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

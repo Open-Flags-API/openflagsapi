@@ -1,0 +1,16 @@
+{
+  "iso_code": "RO-SB",
+  "country_iso": "RO",
+  "country_name": "RO",
+  "region_name": "ro-sb",
+  "region_normalized": "ro-sb",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Sibiu county coat of arms.png"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "SD-DN",
+  "country_iso": "SD",
+  "country_name": "SD",
+  "region_name": "sd-dn",
+  "region_normalized": "sd-dn",
+  "flag": {
+    "svg": null,
+    "source": "Flag of North Darfur State.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Seal of North Darfur State.png"
+  },
+  "data_source": "out"
+}

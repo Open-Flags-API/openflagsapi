@@ -1,0 +1,14 @@
+{
+  "code": "VE-F",
+  "country": "VE",
+  "flag": {
+    "svg": "VE/VE-F/flag.svg",
+    "png": "VE/VE-F/flag.png",
+    "source_filename": "Flag of Bolívar State.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "VE/VE-F/coat.png",
+    "source_filename": "Ve bolivar-escut.png"
+  }
+}

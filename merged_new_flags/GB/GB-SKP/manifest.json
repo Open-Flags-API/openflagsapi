@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-SKP",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-skp",
+  "region_normalized": "gb-skp",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Stockport Metropolitan Borough Council.png"
+  },
+  "data_source": "out"
+}

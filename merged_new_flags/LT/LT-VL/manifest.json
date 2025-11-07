@@ -1,0 +1,16 @@
+{
+  "iso_code": "LT-VL",
+  "country_iso": "LT",
+  "country_name": "LT",
+  "region_name": "lt-vl",
+  "region_normalized": "lt-vl",
+  "flag": {
+    "svg": "LT/LT-VL/flag.svg",
+    "source": "Vilnius County flag.svg"
+  },
+  "coat": {
+    "svg": "LT/LT-VL/coat.svg",
+    "source": "LTU Vilniaus apskritis COA.svg"
+  },
+  "data_source": "out"
+}

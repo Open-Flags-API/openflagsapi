@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-80",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-80",
+  "region_normalized": "th-80",
+  "flag": {
+    "svg": "TH/TH-80/flag.svg",
+    "source": "Nakhon Si Thammarat Flag.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

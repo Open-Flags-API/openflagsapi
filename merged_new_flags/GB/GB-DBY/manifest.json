@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-DBY",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-dby",
+  "region_normalized": "gb-dby",
+  "flag": {
+    "svg": "GB/GB-DBY/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-DBY/coat.svg",
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "LT-PN",
+  "country_iso": "LT",
+  "country_name": "LT",
+  "region_name": "lt-pn",
+  "region_normalized": "lt-pn",
+  "flag": {
+    "svg": "LT/LT-PN/flag.svg",
+    "source": "Panevezys County flag.svg"
+  },
+  "coat": {
+    "svg": "LT/LT-PN/coat.svg",
+    "source": "LTU Panevėžio apskritis COA.svg"
+  },
+  "data_source": "out"
+}

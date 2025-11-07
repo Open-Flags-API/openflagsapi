@@ -1,0 +1,16 @@
+{
+  "iso_code": "MD-SI",
+  "country_iso": "MD",
+  "country_name": "MD",
+  "region_name": "md-si",
+  "region_normalized": "md-si",
+  "flag": {
+    "svg": null,
+    "source": "Singerei rajon flag.gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Stema rain sangerei.jpg"
+  },
+  "data_source": "out"
+}

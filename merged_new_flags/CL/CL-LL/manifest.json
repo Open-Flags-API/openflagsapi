@@ -1,0 +1,16 @@
+{
+  "iso_code": "CL-LL",
+  "country_iso": "CL",
+  "country_name": "CL",
+  "region_name": "cl-ll",
+  "region_normalized": "cl-ll",
+  "flag": {
+    "svg": "CL/CL-LL/flag.svg",
+    "source": "Flag of Los Lagos Region, Chile.svg"
+  },
+  "coat": {
+    "svg": "CL/CL-LL/coat.svg",
+    "source": "Coat of arms of Los Lagos Region, Chile.svg"
+  },
+  "data_source": "out"
+}

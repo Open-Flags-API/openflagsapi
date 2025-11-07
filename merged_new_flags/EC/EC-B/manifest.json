@@ -1,0 +1,16 @@
+{
+  "iso_code": "EC-B",
+  "country_iso": "EC",
+  "country_name": "EC",
+  "region_name": "ec-b",
+  "region_normalized": "ec-b",
+  "flag": {
+    "svg": "EC/EC-B/flag.svg",
+    "source": "Bandera Provincia Bolívar.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

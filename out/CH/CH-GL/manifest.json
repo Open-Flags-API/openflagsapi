@@ -1,0 +1,14 @@
+{
+  "code": "CH-GL",
+  "country": "CH",
+  "flag": {
+    "svg": "CH/CH-GL/flag.svg",
+    "png": "CH/CH-GL/flag.png",
+    "source_filename": "Flag of Canton of Glarus.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-GL/coat.svg",
+    "png": "CH/CH-GL/coat.png",
+    "source_filename": "Wappen Glarus matt.svg"
+  }
+}

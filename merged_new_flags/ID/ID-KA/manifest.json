@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-KA",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "id-ka",
+  "region_normalized": "id-ka",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

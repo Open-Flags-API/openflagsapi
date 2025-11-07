@@ -1,0 +1,16 @@
+{
+  "iso_code": "SE-E",
+  "country_iso": "SE",
+  "country_name": "SE",
+  "region_name": "se-e",
+  "region_normalized": "se-e",
+  "flag": {
+    "svg": "SE/SE-E/flag.svg",
+    "source": "Östergötlands län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-E/coat.svg",
+    "source": "Östergötland vapen.svg"
+  },
+  "data_source": "out"
+}

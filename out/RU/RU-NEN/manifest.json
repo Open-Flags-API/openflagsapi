@@ -1,0 +1,14 @@
+{
+  "code": "RU-NEN",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-NEN/flag.svg",
+    "png": "RU/RU-NEN/flag.png",
+    "source_filename": "Flag of Nenets Autonomous District.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-NEN/coat.svg",
+    "png": "RU/RU-NEN/coat.png",
+    "source_filename": "Coat of arms of Nenets Autonomous Okrug.svg"
+  }
+}

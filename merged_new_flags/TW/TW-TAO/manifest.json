@@ -1,0 +1,16 @@
+{
+  "iso_code": "TW-TAO",
+  "country_iso": "TW",
+  "country_name": "TW",
+  "region_name": "tw-tao",
+  "region_normalized": "tw-tao",
+  "flag": {
+    "svg": "TW/TW-TAO/flag.svg",
+    "source": "Flag of Taoyuan City.svg"
+  },
+  "coat": {
+    "svg": "TW/TW-TAO/coat.svg",
+    "source": "Emblem of Taoyuan City.svg"
+  },
+  "data_source": "out"
+}

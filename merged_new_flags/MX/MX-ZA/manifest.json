@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-ZA",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "zacatecas",
+  "region_normalized": "zacatecas",
+  "flag": {
+    "svg": "MX/MX-ZA/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

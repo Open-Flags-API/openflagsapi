@@ -1,0 +1,16 @@
+{
+  "iso_code": "RO-BC",
+  "country_iso": "RO",
+  "country_name": "RO",
+  "region_name": "ro-bc",
+  "region_normalized": "ro-bc",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "RO/RO-BC/coat.svg",
+    "source": "Stema judetului Bacau.svg"
+  },
+  "data_source": "out"
+}

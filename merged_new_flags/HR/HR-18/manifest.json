@@ -1,0 +1,16 @@
+{
+  "iso_code": "HR-18",
+  "country_iso": "HR",
+  "country_name": "HR",
+  "region_name": "hr-18",
+  "region_normalized": "hr-18",
+  "flag": {
+    "svg": "HR/HR-18/flag.svg",
+    "source": "Zastava Istarske županije.svg"
+  },
+  "coat": {
+    "svg": "HR/HR-18/coat.svg",
+    "source": "Grb Istarske županije.svg"
+  },
+  "data_source": "out"
+}

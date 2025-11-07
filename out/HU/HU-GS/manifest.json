@@ -1,0 +1,14 @@
+{
+  "code": "HU-GS",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-GS/flag.svg",
+    "png": "HU/HU-GS/flag.png",
+    "source_filename": "FLAG-Gyor-Moson-Sopron-megye.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "HU/HU-GS/coat.png",
+    "source_filename": "HUN Győr-Moson-Sopron COA.jpg"
+  }
+}

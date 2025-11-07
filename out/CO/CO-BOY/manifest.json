@@ -1,0 +1,14 @@
+{
+  "code": "CO-BOY",
+  "country": "CO",
+  "flag": {
+    "svg": "CO/CO-BOY/flag.svg",
+    "png": "CO/CO-BOY/flag.png",
+    "source_filename": "Flag of Boyacá Department.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-BOY/coat.svg",
+    "png": "CO/CO-BOY/coat.png",
+    "source_filename": "Escudo de Boyacá.svg"
+  }
+}

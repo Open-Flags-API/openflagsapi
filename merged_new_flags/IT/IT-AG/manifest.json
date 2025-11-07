@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-AG",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-ag",
+  "region_normalized": "it-ag",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IT/IT-AG/coat.svg",
+    "source": "Provincia di Agrigento-Stemma.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-BTN",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-btn",
+  "region_normalized": "ph-btn",
+  "flag": {
+    "svg": null,
+    "source": "Batanes Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

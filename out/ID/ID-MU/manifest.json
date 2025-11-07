@@ -1,0 +1,14 @@
+{
+  "code": "ID-MU",
+  "country": "ID",
+  "flag": {
+    "svg": "ID/ID-MU/flag.svg",
+    "png": "ID/ID-MU/flag.png",
+    "source_filename": "Flag of North Maluku.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-MU/coat.svg",
+    "png": "ID/ID-MU/coat.png",
+    "source_filename": "Coat of arms of North Maluku.svg"
+  }
+}

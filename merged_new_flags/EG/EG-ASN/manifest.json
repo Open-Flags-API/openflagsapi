@@ -1,0 +1,16 @@
+{
+  "iso_code": "EG-ASN",
+  "country_iso": "EG",
+  "country_name": "EG",
+  "region_name": "eg-asn",
+  "region_normalized": "eg-asn",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Aswan Governorate.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Emblem Aswan Governorate.jpg"
+  },
+  "data_source": "out"
+}

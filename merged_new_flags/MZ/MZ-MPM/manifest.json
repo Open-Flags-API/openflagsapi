@@ -1,0 +1,16 @@
+{
+  "iso_code": "MZ-MPM",
+  "country_iso": "MZ",
+  "country_name": "MZ",
+  "region_name": "mz-mpm",
+  "region_normalized": "mz-mpm",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Maputo.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-GUV",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-guv",
+  "region_normalized": "co-guv",
+  "flag": {
+    "svg": "CO/CO-GUV/flag.svg",
+    "source": "Flag of Guaviare.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-GUV/coat.svg",
+    "source": "Escudo del Guaviare.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-BA",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-ba",
+  "region_normalized": "es-ba",
+  "flag": {
+    "svg": "ES/ES-BA/flag.svg",
+    "source": "Provincia de Badajoz - Bandera.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-BA/coat.svg",
+    "source": "Provincia de Badajoz - Escudo.svg"
+  },
+  "data_source": "out"
+}

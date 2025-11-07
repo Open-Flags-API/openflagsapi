@@ -1,0 +1,14 @@
+{
+  "code": "MY-08",
+  "country": "MY",
+  "flag": {
+    "svg": "MY/MY-08/flag.svg",
+    "png": "MY/MY-08/flag.png",
+    "source_filename": "Flag of Perak.svg"
+  },
+  "coat": {
+    "svg": "MY/MY-08/coat.svg",
+    "png": "MY/MY-08/coat.png",
+    "source_filename": "Coat of arms of Perak.svg"
+  }
+}

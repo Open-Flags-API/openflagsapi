@@ -1,0 +1,14 @@
+{
+  "code": "PE-HUV",
+  "country": "PE",
+  "flag": {
+    "svg": "PE/PE-HUV/flag.svg",
+    "png": "PE/PE-HUV/flag.png",
+    "source_filename": "Flag of Huancavelica.svg"
+  },
+  "coat": {
+    "svg": "PE/PE-HUV/coat.svg",
+    "png": "PE/PE-HUV/coat.png",
+    "source_filename": "Escudo de Huancavelica.svg"
+  }
+}

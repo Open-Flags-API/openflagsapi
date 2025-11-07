@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-072",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-072",
+  "region_normalized": "lv-072",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Pļaviņu novads.png"
+  },
+  "coat": {
+    "svg": "LV/LV-072/coat.svg",
+    "source": "Pļaviņu novads COA.svg"
+  },
+  "data_source": "out"
+}

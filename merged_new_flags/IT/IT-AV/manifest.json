@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-AV",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-av",
+  "region_normalized": "it-av",
+  "flag": {
+    "svg": "IT/IT-AV/flag.svg",
+    "source": "Flag of the province of Avellino.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-AV/coat.svg",
+    "source": "Provincia di Avellino-Stemma.svg"
+  },
+  "data_source": "out"
+}

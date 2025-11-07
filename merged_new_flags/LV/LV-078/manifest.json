@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-078",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-078",
+  "region_normalized": "lv-078",
+  "flag": {
+    "svg": null,
+    "source": "LVA Riebiņu novads flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "LVA Riebiņu novads COA.png"
+  },
+  "data_source": "out"
+}

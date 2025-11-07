@@ -1,0 +1,16 @@
+{
+  "iso_code": "BE-VWV",
+  "country_iso": "BE",
+  "country_name": "BE",
+  "region_name": "be-vwv",
+  "region_normalized": "be-vwv",
+  "flag": {
+    "svg": "BE/BE-VWV/flag.svg",
+    "source": "Flag of West Flanders.svg"
+  },
+  "coat": {
+    "svg": "BE/BE-VWV/coat.svg",
+    "source": "Wapen van West-Vlaanderen.svg"
+  },
+  "data_source": "out"
+}

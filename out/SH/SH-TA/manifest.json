@@ -1,0 +1,14 @@
+{
+  "code": "SH-TA",
+  "country": "SH",
+  "flag": {
+    "svg": "SH/SH-TA/flag.svg",
+    "png": "SH/SH-TA/flag.png",
+    "source_filename": "Flag of Tristan da Cunha.svg"
+  },
+  "coat": {
+    "svg": "SH/SH-TA/coat.svg",
+    "png": "SH/SH-TA/coat.png",
+    "source_filename": "Coat of arms of Tristan da Cunha.svg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "code": "PE-ARE",
+  "country": "PE",
+  "flag": {
+    "svg": "PE/PE-ARE/flag.svg",
+    "png": "PE/PE-ARE/flag.png",
+    "source_filename": "Bandera de Arequipa.svg"
+  },
+  "coat": {
+    "svg": "PE/PE-ARE/coat.svg",
+    "png": "PE/PE-ARE/coat.png",
+    "source_filename": "Escudo de Armas de Arequipa.svg"
+  }
+}

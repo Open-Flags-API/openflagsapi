@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-CS",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-cs",
+  "region_normalized": "es-cs",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "ES/ES-CS/coat.svg",
+    "source": "Escut de la Província de Castelló.svg"
+  },
+  "data_source": "out"
+}

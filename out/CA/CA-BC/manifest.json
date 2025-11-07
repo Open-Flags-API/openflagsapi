@@ -1,0 +1,14 @@
+{
+  "code": "CA-BC",
+  "country": "CA",
+  "flag": {
+    "svg": "CA/CA-BC/flag.svg",
+    "png": "CA/CA-BC/flag.png",
+    "source_filename": "Flag of British Columbia.svg"
+  },
+  "coat": {
+    "svg": "CA/CA-BC/coat.svg",
+    "png": "CA/CA-BC/coat.png",
+    "source_filename": "Coat of arms of British Columbia.svg"
+  }
+}

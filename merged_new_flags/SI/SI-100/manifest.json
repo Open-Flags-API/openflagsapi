@@ -1,0 +1,16 @@
+{
+  "iso_code": "SI-100",
+  "country_iso": "SI",
+  "country_name": "SI",
+  "region_name": "si-100",
+  "region_normalized": "si-100",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Radenci.png"
+  },
+  "data_source": "out"
+}

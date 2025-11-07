@@ -1,0 +1,16 @@
+{
+  "iso_code": "CD-MA",
+  "country_iso": "CD",
+  "country_name": "CD",
+  "region_name": "cd-ma",
+  "region_normalized": "cd-ma",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

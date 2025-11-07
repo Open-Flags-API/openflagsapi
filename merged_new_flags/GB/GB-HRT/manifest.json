@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-HRT",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-hrt",
+  "region_normalized": "gb-hrt",
+  "flag": {
+    "svg": "GB/GB-HRT/flag.svg",
+    "source": "County Flag of Hertfordshire.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-HRT/coat.svg",
+    "source": "Arms of Hertfordshire County Council.svg"
+  },
+  "data_source": "out"
+}

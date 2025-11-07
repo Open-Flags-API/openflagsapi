@@ -1,0 +1,16 @@
+{
+  "iso_code": "DO-27",
+  "country_iso": "DO",
+  "country_name": "DO",
+  "region_name": "do-27",
+  "region_normalized": "do-27",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "DO/DO-27/coat.svg",
+    "source": "Escudo del Municipio Mao.svg"
+  },
+  "data_source": "out"
+}

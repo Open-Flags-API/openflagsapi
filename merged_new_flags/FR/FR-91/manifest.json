@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-91",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-91",
+  "region_normalized": "fr-91",
+  "flag": {
+    "svg": "FR/FR-91/flag.svg",
+    "source": "Drapeau fr département Essonne.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-91/coat.svg",
+    "source": "Blason département fr Essonne.svg"
+  },
+  "data_source": "out"
+}

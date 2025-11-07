@@ -1,0 +1,16 @@
+{
+  "iso_code": "TV-NUI",
+  "country_iso": "TV",
+  "country_name": "TV",
+  "region_name": "tv-nui",
+  "region_normalized": "tv-nui",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "ET-SN",
+  "country": "ET",
+  "flag": {
+    "svg": "ET/ET-SN/flag.svg",
+    "png": "ET/ET-SN/flag.png",
+    "source_filename": "Flag of the Southern Nations, Nationalities, and Peoples' Region.svg"
+  },
+  "coat": {
+    "svg": "ET/ET-SN/coat.svg",
+    "png": "ET/ET-SN/coat.png",
+    "source_filename": "Southern Nations, Nationalities, and Peoples' Region emblem.svg"
+  }
+}

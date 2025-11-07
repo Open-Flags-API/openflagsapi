@@ -1,0 +1,16 @@
+{
+  "iso_code": "NG-RI",
+  "country_iso": "NG",
+  "country_name": "NG",
+  "region_name": "ng-ri",
+  "region_normalized": "ng-ri",
+  "flag": {
+    "svg": "NG/NG-RI/flag.svg",
+    "source": "Rivers State Flag.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

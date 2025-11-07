@@ -1,0 +1,14 @@
+{
+  "code": "ID-PB",
+  "country": "ID",
+  "flag": {
+    "svg": "ID/ID-PB/flag.svg",
+    "png": "ID/ID-PB/flag.png",
+    "source_filename": "Flag of West Papua (vectorised).svg"
+  },
+  "coat": {
+    "svg": "ID/ID-PB/coat.svg",
+    "png": "ID/ID-PB/coat.png",
+    "source_filename": "Coat of arms of West Papua.svg"
+  }
+}

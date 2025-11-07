@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-TAW",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-taw",
+  "region_normalized": "ph-taw",
+  "flag": {
+    "svg": null,
+    "source": "Tawi-Tawi Flag.png"
+  },
+  "coat": {
+    "svg": "PH/PH-TAW/coat.svg",
+    "source": "Official Seal of Tawi-Tawi.svg"
+  },
+  "data_source": "out"
+}

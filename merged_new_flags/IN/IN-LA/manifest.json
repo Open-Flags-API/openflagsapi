@@ -1,0 +1,16 @@
+{
+  "iso_code": "IN-LA",
+  "country_iso": "IN",
+  "country_name": "IN",
+  "region_name": "in-la",
+  "region_normalized": "in-la",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Ladakh UT Banner.png"
+  },
+  "data_source": "out"
+}

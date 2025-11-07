@@ -1,0 +1,16 @@
+{
+  "iso_code": "SI-086",
+  "country_iso": "SI",
+  "country_name": "SI",
+  "region_name": "si-086",
+  "region_normalized": "si-086",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Odranci.png"
+  },
+  "data_source": "out"
+}

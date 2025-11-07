@@ -1,0 +1,16 @@
+{
+  "iso_code": "KE-30",
+  "country_iso": "KE",
+  "country_name": "KE",
+  "region_name": "ke-30",
+  "region_normalized": "ke-30",
+  "flag": {
+    "svg": "KE/KE-30/flag.svg",
+    "source": "Flag of Nairobi.svg"
+  },
+  "coat": {
+    "svg": "KE/KE-30/coat.svg",
+    "source": "Coat of Arms of Nairobi.svg"
+  },
+  "data_source": "out"
+}

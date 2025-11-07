@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-17",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-17",
+  "region_normalized": "mt-17",
+  "flag": {
+    "svg": "MT/MT-17/flag.svg",
+    "source": "Flag of Għaxaq.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-17/coat.svg",
+    "source": "Ghaxaq coa.svg"
+  },
+  "data_source": "out"
+}

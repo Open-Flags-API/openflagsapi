@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-PTE",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-pte",
+  "region_normalized": "gb-pte",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

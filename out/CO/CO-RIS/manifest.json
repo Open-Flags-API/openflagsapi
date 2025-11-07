@@ -1,0 +1,14 @@
+{
+  "code": "CO-RIS",
+  "country": "CO",
+  "flag": {
+    "svg": "CO/CO-RIS/flag.svg",
+    "png": "CO/CO-RIS/flag.png",
+    "source_filename": "Flag of Risaralda.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-RIS/coat.svg",
+    "png": "CO/CO-RIS/coat.png",
+    "source_filename": "Escudo de Risaralda.svg"
+  }
+}

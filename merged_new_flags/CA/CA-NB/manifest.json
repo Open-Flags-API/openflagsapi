@@ -1,0 +1,16 @@
+{
+  "iso_code": "CA-NB",
+  "country_iso": "CA",
+  "country_name": "canada",
+  "region_name": "ca-nb",
+  "region_normalized": "ca-nb",
+  "flag": {
+    "svg": "CA/CA-NB/flag.svg",
+    "source": "Flag of New Brunswick.svg"
+  },
+  "coat": {
+    "svg": "CA/CA-NB/coat.svg",
+    "source": "Coat of arms of New Brunswick, Canada.svg"
+  },
+  "data_source": "out"
+}

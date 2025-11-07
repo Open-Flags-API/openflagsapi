@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-HUI",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-hui",
+  "region_normalized": "co-hui",
+  "flag": {
+    "svg": "CO/CO-HUI/flag.svg",
+    "source": "Flag of Huila.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-HUI/coat.svg",
+    "source": "Heráldica del Escudo del Huila.svg"
+  },
+  "data_source": "out"
+}

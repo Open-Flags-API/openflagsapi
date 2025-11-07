@@ -1,0 +1,16 @@
+{
+  "iso_code": "CA-RO",
+  "country_iso": "CA",
+  "country_name": "canada",
+  "region_name": "royal-standard-members-canadian-royal-family",
+  "region_normalized": "royal-standard-members-canadian-royal-family",
+  "flag": {
+    "svg": "CA/CA-RO/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

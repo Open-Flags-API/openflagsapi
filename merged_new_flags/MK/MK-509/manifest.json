@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-509",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-509",
+  "region_normalized": "mk-509",
+  "flag": {
+    "svg": "MK/MK-509/flag.svg",
+    "source": "Flag of Resen Municipality.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

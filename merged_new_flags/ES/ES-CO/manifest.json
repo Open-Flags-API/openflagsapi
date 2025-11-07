@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-CO",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-co",
+  "region_normalized": "es-co",
+  "flag": {
+    "svg": "ES/ES-CO/flag.svg",
+    "source": "Provincia de Córdoba - Bandera.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-CO/coat.svg",
+    "source": "Provincia de Córdoba - Escudo.svg"
+  },
+  "data_source": "out"
+}

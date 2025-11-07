@@ -1,0 +1,14 @@
+{
+  "code": "IE-CE",
+  "country": "IE",
+  "flag": {
+    "svg": "IE/IE-CE/flag.svg",
+    "png": "IE/IE-CE/flag.png",
+    "source_filename": "Flag of county Clare.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "IE/IE-CE/coat.png",
+    "source_filename": "County Clare Coat of Arms.png"
+  }
+}

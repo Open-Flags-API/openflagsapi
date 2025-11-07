@@ -1,0 +1,14 @@
+{
+  "code": "FI-12",
+  "country": "FI",
+  "flag": {
+    "svg": null,
+    "png": null,
+    "source_filename": null
+  },
+  "coat": {
+    "svg": "FI/FI-12/coat.svg",
+    "png": "FI/FI-12/coat.png",
+    "source_filename": "Pohjanmaan maakunnan vaakuna.svg"
+  }
+}

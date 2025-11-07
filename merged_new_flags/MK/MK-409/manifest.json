@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-409",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-409",
+  "region_normalized": "mk-409",
+  "flag": {
+    "svg": "MK/MK-409/flag.svg",
+    "source": "Flag of Radoviš Municipality.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

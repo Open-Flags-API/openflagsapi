@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-NAR",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-nar",
+  "region_normalized": "co-nar",
+  "flag": {
+    "svg": "CO/CO-NAR/flag.svg",
+    "source": "Flag of Nariño.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-NAR/coat.svg",
+    "source": "Escudo de Nariño.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "US-MP",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-MP/flag.svg",
+    "png": "US/US-MP/flag.png",
+    "source_filename": "Flag of the Northern Mariana Islands.svg"
+  },
+  "coat": {
+    "svg": "US/US-MP/coat.svg",
+    "png": "US/US-MP/coat.png",
+    "source_filename": "Seal of the Northern Mariana Islands.svg"
+  }
+}

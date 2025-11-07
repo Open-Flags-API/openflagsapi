@@ -1,0 +1,16 @@
+{
+  "iso_code": "BO-L",
+  "country_iso": "BO",
+  "country_name": "BO",
+  "region_name": "bo-l",
+  "region_normalized": "bo-l",
+  "flag": {
+    "svg": "BO/BO-L/flag.svg",
+    "source": "Bandera de La Paz.svg"
+  },
+  "coat": {
+    "svg": "BO/BO-L/coat.svg",
+    "source": "Escudo del Departamento de La Paz.svg"
+  },
+  "data_source": "out"
+}

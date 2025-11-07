@@ -1,0 +1,14 @@
+{
+  "code": "ES-CA",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-CA/flag.svg",
+    "png": "ES/ES-CA/flag.png",
+    "source_filename": "Flag Cádiz Province.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-CA/coat.svg",
+    "png": "ES/ES-CA/coat.png",
+    "source_filename": "Escudo de la provincia de Cádiz.svg"
+  }
+}

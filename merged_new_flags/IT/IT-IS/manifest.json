@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-IS",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-is",
+  "region_normalized": "it-is",
+  "flag": {
+    "svg": "IT/IT-IS/flag.svg",
+    "source": "Flag of the Province of Isernia.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-IS/coat.svg",
+    "source": "Provincia di Isernia-Stemma.svg"
+  },
+  "data_source": "out"
+}

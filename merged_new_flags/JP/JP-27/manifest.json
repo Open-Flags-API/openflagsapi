@@ -1,0 +1,16 @@
+{
+  "iso_code": "JP-27",
+  "country_iso": "JP",
+  "country_name": "JP",
+  "region_name": "jp-27",
+  "region_normalized": "jp-27",
+  "flag": {
+    "svg": "JP/JP-27/flag.svg",
+    "source": "Flag of Osaka Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-27/coat.svg",
+    "source": "Emblem of Osaka Prefecture.svg"
+  },
+  "data_source": "out"
+}

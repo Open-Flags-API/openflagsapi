@@ -1,0 +1,16 @@
+{
+  "iso_code": "BY-HM",
+  "country_iso": "BY",
+  "country_name": "BY",
+  "region_name": "by-hm",
+  "region_normalized": "by-hm",
+  "flag": {
+    "svg": "BY/BY-HM/flag.svg",
+    "source": "Flag of Minsk, Belarus.svg"
+  },
+  "coat": {
+    "svg": "BY/BY-HM/coat.svg",
+    "source": "Coat of arms of Minsk.svg"
+  },
+  "data_source": "out"
+}

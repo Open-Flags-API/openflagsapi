@@ -1,0 +1,14 @@
+{
+  "code": "SK-PV",
+  "country": "SK",
+  "flag": {
+    "svg": "SK/SK-PV/flag.svg",
+    "png": "SK/SK-PV/flag.png",
+    "source_filename": "Presovsky vlajka.svg"
+  },
+  "coat": {
+    "svg": "SK/SK-PV/coat.svg",
+    "png": "SK/SK-PV/coat.png",
+    "source_filename": "Coat of Arms of Prešov Region.svg"
+  }
+}

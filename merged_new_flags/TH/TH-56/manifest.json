@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-56",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-56",
+  "region_normalized": "th-56",
+  "flag": {
+    "svg": "TH/TH-56/flag.svg",
+    "source": "Phayao flag.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-TAR",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-tar",
+  "region_normalized": "ph-tar",
+  "flag": {
+    "svg": "PH/PH-TAR/flag.svg",
+    "source": "Flag of the Province of Tarlac.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Ph seal tarlac.png"
+  },
+  "data_source": "out"
+}

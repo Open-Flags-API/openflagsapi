@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-HAO",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-hao",
+  "region_normalized": "ma-hao",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "MA/MA-HAO/coat.svg",
+    "source": "Blason de la province d'Al Haouz.svg"
+  },
+  "data_source": "out"
+}

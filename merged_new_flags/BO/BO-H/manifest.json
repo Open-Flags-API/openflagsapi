@@ -1,0 +1,16 @@
+{
+  "iso_code": "BO-H",
+  "country_iso": "BO",
+  "country_name": "BO",
+  "region_name": "bo-h",
+  "region_normalized": "bo-h",
+  "flag": {
+    "svg": "BO/BO-H/flag.svg",
+    "source": "Flag of Sucre and Chuquisaca.svg"
+  },
+  "coat": {
+    "svg": "BO/BO-H/coat.svg",
+    "source": "Escudo de Chuquisiaca.svg"
+  },
+  "data_source": "out"
+}

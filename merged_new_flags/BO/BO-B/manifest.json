@@ -1,0 +1,16 @@
+{
+  "iso_code": "BO-B",
+  "country_iso": "BO",
+  "country_name": "BO",
+  "region_name": "bo-b",
+  "region_normalized": "bo-b",
+  "flag": {
+    "svg": "BO/BO-B/flag.svg",
+    "source": "Flag of Beni Department, Bolivia.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Escudo de Beni.JPG"
+  },
+  "data_source": "out"
+}

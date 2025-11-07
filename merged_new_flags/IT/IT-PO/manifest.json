@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-PO",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-po",
+  "region_normalized": "it-po",
+  "flag": {
+    "svg": "IT/IT-PO/flag.svg",
+    "source": "Flag of the Province of Prato.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-PO/coat.svg",
+    "source": "Provincia di Prato-Stemma.svg"
+  },
+  "data_source": "out"
+}

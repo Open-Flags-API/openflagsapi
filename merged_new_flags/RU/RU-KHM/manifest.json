@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-KHM",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-khm",
+  "region_normalized": "ru-khm",
+  "flag": {
+    "svg": "RU/RU-KHM/flag.svg",
+    "source": "Flag of Yugra.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-KHM/coat.svg",
+    "source": "Coat of arms of Yugra (Khanty-Mansia).svg"
+  },
+  "data_source": "out"
+}

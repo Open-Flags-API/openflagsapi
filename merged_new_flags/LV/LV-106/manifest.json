@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-106",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-106",
+  "region_normalized": "lv-106",
+  "flag": {
+    "svg": "LV/LV-106/flag.svg",
+    "source": "Ventspils novada karogs.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-106/coat.svg",
+    "source": "Ventspils novads COA.svg"
+  },
+  "data_source": "out"
+}

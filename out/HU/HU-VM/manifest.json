@@ -1,0 +1,14 @@
+{
+  "code": "HU-VM",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-VM/flag.svg",
+    "png": "HU/HU-VM/flag.png",
+    "source_filename": "Flag of Veszprém.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-VM/coat.svg",
+    "png": "HU/HU-VM/coat.png",
+    "source_filename": "HUN Veszprém Címer.svg"
+  }
+}

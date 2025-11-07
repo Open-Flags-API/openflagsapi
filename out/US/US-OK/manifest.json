@@ -1,0 +1,14 @@
+{
+  "code": "US-OK",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-OK/flag.svg",
+    "png": "US/US-OK/flag.png",
+    "source_filename": "Flag of Oklahoma.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": null,
+    "source_filename": null
+  }
+}

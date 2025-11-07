@@ -1,0 +1,16 @@
+{
+  "iso_code": "JP-38",
+  "country_iso": "JP",
+  "country_name": "JP",
+  "region_name": "jp-38",
+  "region_normalized": "jp-38",
+  "flag": {
+    "svg": "JP/JP-38/flag.svg",
+    "source": "Flag of Ehime Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-38/coat.svg",
+    "source": "Emblem of Ehime prefecture.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "PL-30",
+  "country": "PL",
+  "flag": {
+    "svg": "PL/PL-30/flag.svg",
+    "png": "PL/PL-30/flag.png",
+    "source_filename": "POL województwo wielkopolskie flag.svg"
+  },
+  "coat": {
+    "svg": "PL/PL-30/coat.svg",
+    "png": "PL/PL-30/coat.png",
+    "source_filename": "POL województwo wielkopolskie COA.svg"
+  }
+}

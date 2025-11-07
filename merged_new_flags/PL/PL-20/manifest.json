@@ -1,0 +1,16 @@
+{
+  "iso_code": "PL-20",
+  "country_iso": "PL",
+  "country_name": "PL",
+  "region_name": "pl-20",
+  "region_normalized": "pl-20",
+  "flag": {
+    "svg": "PL/PL-20/flag.svg",
+    "source": "POL województwo podlaskie flag.svg"
+  },
+  "coat": {
+    "svg": "PL/PL-20/coat.svg",
+    "source": "POL województwo podlaskie COA.svg"
+  },
+  "data_source": "out"
+}

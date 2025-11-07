@@ -1,0 +1,14 @@
+{
+  "code": "SE-D",
+  "country": "SE",
+  "flag": {
+    "svg": "SE/SE-D/flag.svg",
+    "png": "SE/SE-D/flag.png",
+    "source_filename": "Södermanlands län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-D/coat.svg",
+    "png": "SE/SE-D/coat.png",
+    "source_filename": "Södermanland vapen.svg"
+  }
+}

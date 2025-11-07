@@ -1,0 +1,14 @@
+{
+  "code": "ES-LU",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-LU/flag.svg",
+    "png": "ES/ES-LU/flag.png",
+    "source_filename": "Flag of Lugo province.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-LU/coat.svg",
+    "png": "ES/ES-LU/coat.png",
+    "source_filename": "Escudo de la provincia de Lugo.svg"
+  }
+}

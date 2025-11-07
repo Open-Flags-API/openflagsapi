@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-TAZ",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-taz",
+  "region_normalized": "ma-taz",
+  "flag": {
+    "svg": "MA/MA-TAZ/flag.svg",
+    "source": "Flag of Taza province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

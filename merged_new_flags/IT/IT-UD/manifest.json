@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-UD",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-ud",
+  "region_normalized": "it-ud",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IT/IT-UD/coat.svg",
+    "source": "Provincia di Udine-Stemma.svg"
+  },
+  "data_source": "out"
+}

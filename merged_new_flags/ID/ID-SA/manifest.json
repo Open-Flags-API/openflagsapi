@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-SA",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "id-sa",
+  "region_normalized": "id-sa",
+  "flag": {
+    "svg": "ID/ID-SA/flag.svg",
+    "source": "Flag of North Sulawesi.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-SA/coat.svg",
+    "source": "Coat of arms of North Sulawesi.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "KZ-31",
+  "country_iso": "KZ",
+  "country_name": "KZ",
+  "region_name": "kz-31",
+  "region_normalized": "kz-31",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Zhambyl province seal.png"
+  },
+  "data_source": "out"
+}

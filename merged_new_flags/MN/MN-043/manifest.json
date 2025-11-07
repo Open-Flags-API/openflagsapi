@@ -1,0 +1,16 @@
+{
+  "iso_code": "MN-043",
+  "country_iso": "MN",
+  "country_name": "MN",
+  "region_name": "mn-043",
+  "region_normalized": "mn-043",
+  "flag": {
+    "svg": "MN/MN-043/flag.svg",
+    "source": "Flag of Khovd Aimag (since 2014).svg"
+  },
+  "coat": {
+    "svg": "MN/MN-043/coat.svg",
+    "source": "Mn coa khovd aimag 2014.svg"
+  },
+  "data_source": "out"
+}

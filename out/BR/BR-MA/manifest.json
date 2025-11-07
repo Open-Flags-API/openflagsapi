@@ -1,0 +1,14 @@
+{
+  "code": "BR-MA",
+  "country": "BR",
+  "flag": {
+    "svg": "BR/BR-MA/flag.svg",
+    "png": "BR/BR-MA/flag.png",
+    "source_filename": "Bandeira do Maranhão.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-MA/coat.svg",
+    "png": "BR/BR-MA/coat.png",
+    "source_filename": "Brasão do Maranhão.svg"
+  }
+}

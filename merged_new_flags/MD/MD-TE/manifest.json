@@ -1,0 +1,16 @@
+{
+  "iso_code": "MD-TE",
+  "country_iso": "MD",
+  "country_name": "MD",
+  "region_name": "md-te",
+  "region_normalized": "md-te",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Telenești District.gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": "CoA of Telenești District.gif"
+  },
+  "data_source": "out"
+}

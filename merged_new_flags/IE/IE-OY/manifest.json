@@ -1,0 +1,16 @@
+{
+  "iso_code": "IE-OY",
+  "country_iso": "IE",
+  "country_name": "IE",
+  "region_name": "ie-oy",
+  "region_normalized": "ie-oy",
+  "flag": {
+    "svg": "IE/IE-OY/flag.svg",
+    "source": "Colours of Offaly.svg"
+  },
+  "coat": {
+    "svg": "IE/IE-OY/coat.svg",
+    "source": "Offaly crest.svg"
+  },
+  "data_source": "out"
+}

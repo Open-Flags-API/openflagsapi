@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-77",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-77",
+  "region_normalized": "it-77",
+  "flag": {
+    "svg": "IT/IT-77/flag.svg",
+    "source": "Flag of Basilicata.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-77/coat.svg",
+    "source": "Regione-Basilicata-Stemma.svg"
+  },
+  "data_source": "out"
+}

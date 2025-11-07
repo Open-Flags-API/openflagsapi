@@ -1,0 +1,14 @@
+{
+  "code": "ES-VI",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-VI/flag.svg",
+    "png": "ES/ES-VI/flag.png",
+    "source_filename": "Flag of Álava.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-VI/coat.svg",
+    "png": "ES/ES-VI/coat.png",
+    "source_filename": "Coat of Arms of Álava.svg"
+  }
+}

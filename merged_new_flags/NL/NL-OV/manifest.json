@@ -1,0 +1,16 @@
+{
+  "iso_code": "NL-OV",
+  "country_iso": "NL",
+  "country_name": "NL",
+  "region_name": "nl-ov",
+  "region_normalized": "nl-ov",
+  "flag": {
+    "svg": "NL/NL-OV/flag.svg",
+    "source": "Flag of Overijssel.svg"
+  },
+  "coat": {
+    "svg": "NL/NL-OV/coat.svg",
+    "source": "Overijssel wapen.svg"
+  },
+  "data_source": "out"
+}

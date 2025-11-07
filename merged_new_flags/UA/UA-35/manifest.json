@@ -1,0 +1,16 @@
+{
+  "iso_code": "UA-35",
+  "country_iso": "UA",
+  "country_name": "UA",
+  "region_name": "ua-35",
+  "region_normalized": "ua-35",
+  "flag": {
+    "svg": "UA/UA-35/flag.svg",
+    "source": "Flag of Kirovohrad Oblast.svg"
+  },
+  "coat": {
+    "svg": "UA/UA-35/coat.svg",
+    "source": "Coat of Arms of Kirovohrad Oblast.svg"
+  },
+  "data_source": "out"
+}

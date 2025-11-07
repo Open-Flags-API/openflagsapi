@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-CRF",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-crf",
+  "region_normalized": "gb-crf",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-CRF/coat.svg",
+    "source": "Coat of Arms of Cardiff.svg"
+  },
+  "data_source": "out"
+}

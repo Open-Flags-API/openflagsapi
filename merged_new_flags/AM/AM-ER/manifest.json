@@ -1,0 +1,16 @@
+{
+  "iso_code": "AM-ER",
+  "country_iso": "AM",
+  "country_name": "AM",
+  "region_name": "am-er",
+  "region_normalized": "am-er",
+  "flag": {
+    "svg": "AM/AM-ER/flag.svg",
+    "source": "Flag of Yerevan.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of аrms of Yerevan.svg"
+  },
+  "data_source": "out"
+}

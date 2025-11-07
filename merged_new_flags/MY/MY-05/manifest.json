@@ -1,0 +1,16 @@
+{
+  "iso_code": "MY-05",
+  "country_iso": "MY",
+  "country_name": "MY",
+  "region_name": "my-05",
+  "region_normalized": "my-05",
+  "flag": {
+    "svg": "MY/MY-05/flag.svg",
+    "source": "Flag of Negeri Sembilan.svg"
+  },
+  "coat": {
+    "svg": "MY/MY-05/coat.svg",
+    "source": "Coat of arms of Negeri Sembilan.svg"
+  },
+  "data_source": "out"
+}

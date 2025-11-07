@@ -1,0 +1,16 @@
+{
+  "iso_code": "TJ-DU",
+  "country_iso": "TJ",
+  "country_name": "TJ",
+  "region_name": "tj-du",
+  "region_normalized": "tj-du",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of Arms of Dushanbe.png"
+  },
+  "data_source": "out"
+}

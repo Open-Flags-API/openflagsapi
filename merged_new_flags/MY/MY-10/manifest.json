@@ -1,0 +1,16 @@
+{
+  "iso_code": "MY-10",
+  "country_iso": "MY",
+  "country_name": "MY",
+  "region_name": "my-10",
+  "region_normalized": "my-10",
+  "flag": {
+    "svg": "MY/MY-10/flag.svg",
+    "source": "Flag of Selangor.svg"
+  },
+  "coat": {
+    "svg": "MY/MY-10/coat.svg",
+    "source": "Coat of arms of Selangor.svg"
+  },
+  "data_source": "out"
+}

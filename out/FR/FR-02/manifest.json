@@ -1,0 +1,14 @@
+{
+  "code": "FR-02",
+  "country": "FR",
+  "flag": {
+    "svg": "FR/FR-02/flag.svg",
+    "png": "FR/FR-02/flag.png",
+    "source_filename": "Drapeau fr département Aisne.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-02/coat.svg",
+    "png": "FR/FR-02/coat.png",
+    "source_filename": "Blason département fr Aisne.svg"
+  }
+}

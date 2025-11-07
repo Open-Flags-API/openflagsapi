@@ -1,0 +1,14 @@
+{
+  "code": "FI-17",
+  "country": "FI",
+  "flag": {
+    "svg": "FI/FI-17/flag.svg",
+    "png": "FI/FI-17/flag.png",
+    "source_filename": "Satakunta-flag.svg"
+  },
+  "coat": {
+    "svg": "FI/FI-17/coat.svg",
+    "png": "FI/FI-17/coat.png",
+    "source_filename": "Satakunta.vaakuna.svg"
+  }
+}

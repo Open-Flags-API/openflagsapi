@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-BR",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-br",
+  "region_normalized": "it-br",
+  "flag": {
+    "svg": "IT/IT-BR/flag.svg",
+    "source": "Flag of the Province of Brindisi.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-BR/coat.svg",
+    "source": "Provincia di Brindisi-Stemma.svg"
+  },
+  "data_source": "out"
+}

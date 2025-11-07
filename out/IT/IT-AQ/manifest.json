@@ -1,0 +1,14 @@
+{
+  "code": "IT-AQ",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-AQ/flag.svg",
+    "png": "IT/IT-AQ/flag.png",
+    "source_filename": "Flag of the Province of L'Aquila.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-AQ/coat.svg",
+    "png": "IT/IT-AQ/coat.png",
+    "source_filename": "Provincia dell'Aquila-Stemma.svg"
+  }
+}

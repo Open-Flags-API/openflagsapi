@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-RIS",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-ris",
+  "region_normalized": "co-ris",
+  "flag": {
+    "svg": "CO/CO-RIS/flag.svg",
+    "source": "Flag of Risaralda.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-RIS/coat.svg",
+    "source": "Escudo de Risaralda.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-34",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-34",
+  "region_normalized": "mt-34",
+  "flag": {
+    "svg": "MT/MT-34/flag.svg",
+    "source": "Flag of Msida.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-34/coat.svg",
+    "source": "Msida-coa.svg"
+  },
+  "data_source": "out"
+}

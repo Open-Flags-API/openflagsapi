@@ -1,0 +1,16 @@
+{
+  "iso_code": "AZ-BAL",
+  "country_iso": "AZ",
+  "country_name": "AZ",
+  "region_name": "az-bal",
+  "region_normalized": "az-bal",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

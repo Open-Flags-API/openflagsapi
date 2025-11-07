@@ -1,0 +1,16 @@
+{
+  "iso_code": "JP-23",
+  "country_iso": "JP",
+  "country_name": "JP",
+  "region_name": "jp-23",
+  "region_normalized": "jp-23",
+  "flag": {
+    "svg": "JP/JP-23/flag.svg",
+    "source": "Flag of Aichi Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-23/coat.svg",
+    "source": "Emblem of Aichi Prefecture.svg"
+  },
+  "data_source": "out"
+}

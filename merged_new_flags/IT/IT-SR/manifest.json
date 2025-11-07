@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-SR",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-sr",
+  "region_normalized": "it-sr",
+  "flag": {
+    "svg": "IT/IT-SR/flag.svg",
+    "source": "Flag of the Province of Syracuse.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

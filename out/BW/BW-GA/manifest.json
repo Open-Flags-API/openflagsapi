@@ -1,0 +1,14 @@
+{
+  "code": "BW-GA",
+  "country": "BW",
+  "flag": {
+    "svg": "BW/BW-GA/flag.svg",
+    "png": "BW/BW-GA/flag.png",
+    "source_filename": "Flag of Gaborone.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": null,
+    "source_filename": null
+  }
+}

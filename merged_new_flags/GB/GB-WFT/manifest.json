@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-WFT",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-wft",
+  "region_normalized": "gb-wft",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-WFT/coat.svg",
+    "source": "Coat of arms of the London Borough of Waltham Forest.svg"
+  },
+  "data_source": "out"
+}

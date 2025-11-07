@@ -1,0 +1,14 @@
+{
+  "code": "IN-DL",
+  "country": "IN",
+  "flag": {
+    "svg": "IN/IN-DL/flag.svg",
+    "png": "IN/IN-DL/flag.png",
+    "source_filename": "Flag of Delhi Capital Territory.svg"
+  },
+  "coat": {
+    "svg": "IN/IN-DL/coat.svg",
+    "png": "IN/IN-DL/coat.png",
+    "source_filename": "Emblem of India.svg"
+  }
+}

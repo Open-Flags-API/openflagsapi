@@ -1,0 +1,16 @@
+{
+  "iso_code": "EC-W",
+  "country_iso": "EC",
+  "country_name": "EC",
+  "region_name": "ec-w",
+  "region_normalized": "ec-w",
+  "flag": {
+    "svg": "EC/EC-W/flag.svg",
+    "source": "Bandera Provincia Galápagos.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

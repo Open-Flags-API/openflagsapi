@@ -1,0 +1,16 @@
+{
+  "iso_code": "EE-56",
+  "country_iso": "EE",
+  "country_name": "EE",
+  "region_name": "ee-56",
+  "region_normalized": "ee-56",
+  "flag": {
+    "svg": "EE/EE-56/flag.svg",
+    "source": "Läänemaa lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-56/coat.svg",
+    "source": "Läänemaa vapp.svg"
+  },
+  "data_source": "out"
+}

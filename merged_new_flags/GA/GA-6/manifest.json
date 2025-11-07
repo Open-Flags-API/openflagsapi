@@ -1,0 +1,16 @@
+{
+  "iso_code": "GA-6",
+  "country_iso": "GA",
+  "country_name": "GA",
+  "region_name": "ga-6",
+  "region_normalized": "ga-6",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GA/GA-6/coat.svg",
+    "source": "Coat of arms of Ogooué-Ivindo, Gabon.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-SAL",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-sal",
+  "region_normalized": "ma-sal",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

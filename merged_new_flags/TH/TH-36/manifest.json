@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-36",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-36",
+  "region_normalized": "th-36",
+  "flag": {
+    "svg": null,
+    "source": "Chaiyaphum Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

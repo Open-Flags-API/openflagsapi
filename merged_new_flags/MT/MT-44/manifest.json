@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-44",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-44",
+  "region_normalized": "mt-44",
+  "flag": {
+    "svg": "MT/MT-44/flag.svg",
+    "source": "Flag of Qrendi.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-44/coat.svg",
+    "source": "Qrendi coa.svg"
+  },
+  "data_source": "out"
+}

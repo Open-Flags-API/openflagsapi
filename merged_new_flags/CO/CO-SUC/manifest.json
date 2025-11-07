@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-SUC",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-suc",
+  "region_normalized": "co-suc",
+  "flag": {
+    "svg": "CO/CO-SUC/flag.svg",
+    "source": "Flag of Sucre (Colombia).svg"
+  },
+  "coat": {
+    "svg": "CO/CO-SUC/coat.svg",
+    "source": "Escudo de Sucre.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-TA",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "tamaulipas",
+  "region_normalized": "tamaulipas",
+  "flag": {
+    "svg": "MX/MX-TA/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

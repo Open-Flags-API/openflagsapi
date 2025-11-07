@@ -1,0 +1,14 @@
+{
+  "code": "FI-15",
+  "country": "FI",
+  "flag": {
+    "svg": "FI/FI-15/flag.svg",
+    "png": "FI/FI-15/flag.png",
+    "source_filename": "Flag of Northern Savonia.svg"
+  },
+  "coat": {
+    "svg": "FI/FI-15/coat.svg",
+    "png": "FI/FI-15/coat.png",
+    "source_filename": "Pohjois-Savo.vaakuna.svg"
+  }
+}

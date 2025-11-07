@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-TOF",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-tof",
+  "region_normalized": "gb-tof",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-TOF/coat.svg",
+    "source": "Arms of Torfaen County Borough Council.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "UG-C",
+  "country_iso": "UG",
+  "country_name": "UG",
+  "region_name": "ug-c",
+  "region_normalized": "ug-c",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "ES-HU",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-HU/flag.svg",
+    "png": "ES/ES-HU/flag.png",
+    "source_filename": "Flag of Huesca (province).svg"
+  },
+  "coat": {
+    "svg": "ES/ES-HU/coat.svg",
+    "png": "ES/ES-HU/coat.png",
+    "source_filename": "Escudo d'a probinzia de Uesca.svg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "code": "JP-18",
+  "country": "JP",
+  "flag": {
+    "svg": "JP/JP-18/flag.svg",
+    "png": "JP/JP-18/flag.png",
+    "source_filename": "Flag of Fukui Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-18/coat.svg",
+    "png": "JP/JP-18/coat.png",
+    "source_filename": "Emblem of Fukui Prefecture.svg"
+  }
+}

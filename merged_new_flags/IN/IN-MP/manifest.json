@@ -1,0 +1,16 @@
+{
+  "iso_code": "IN-MP",
+  "country_iso": "IN",
+  "country_name": "IN",
+  "region_name": "in-mp",
+  "region_normalized": "in-mp",
+  "flag": {
+    "svg": "IN/IN-MP/flag.svg",
+    "source": "Flag of Madhya Pradesh (Original).svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

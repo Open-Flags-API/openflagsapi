@@ -1,0 +1,14 @@
+{
+  "code": "CH-VS",
+  "country": "CH",
+  "flag": {
+    "svg": "CH/CH-VS/flag.svg",
+    "png": "CH/CH-VS/flag.png",
+    "source_filename": "Flag of Canton of Valais.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-VS/coat.svg",
+    "png": "CH/CH-VS/coat.png",
+    "source_filename": "Wappen Wallis matt.svg"
+  }
+}

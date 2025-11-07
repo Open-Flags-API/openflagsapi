@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-MN",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-mn",
+  "region_normalized": "us-mn",
+  "flag": {
+    "svg": "US/US-MN/flag.svg",
+    "source": "Flag of Minnesota.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

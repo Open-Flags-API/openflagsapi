@@ -1,0 +1,16 @@
+{
+  "iso_code": "HR-04",
+  "country_iso": "HR",
+  "country_name": "HR",
+  "region_name": "hr-04",
+  "region_normalized": "hr-04",
+  "flag": {
+    "svg": "HR/HR-04/flag.svg",
+    "source": "Flag of Karlovac county.svg"
+  },
+  "coat": {
+    "svg": "HR/HR-04/coat.svg",
+    "source": "Coat of Arms of Karlovac county.svg"
+  },
+  "data_source": "out"
+}

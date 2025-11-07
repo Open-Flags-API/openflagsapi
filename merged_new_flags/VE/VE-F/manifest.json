@@ -1,0 +1,16 @@
+{
+  "iso_code": "VE-F",
+  "country_iso": "VE",
+  "country_name": "VE",
+  "region_name": "ve-f",
+  "region_normalized": "ve-f",
+  "flag": {
+    "svg": "VE/VE-F/flag.svg",
+    "source": "Flag of Bolívar State.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Ve bolivar-escut.png"
+  },
+  "data_source": "out"
+}

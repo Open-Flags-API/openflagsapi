@@ -1,0 +1,14 @@
+{
+  "code": "VE-P",
+  "country": "VE",
+  "flag": {
+    "svg": "VE/VE-P/flag.svg",
+    "png": "VE/VE-P/flag.png",
+    "source_filename": "Flag of Portuguesa.svg"
+  },
+  "coat": {
+    "svg": "VE/VE-P/coat.svg",
+    "png": "VE/VE-P/coat.png",
+    "source_filename": "Escudo del Estado Portuguesa.svg"
+  }
+}

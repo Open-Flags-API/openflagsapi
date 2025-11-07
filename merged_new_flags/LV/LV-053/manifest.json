@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-053",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-053",
+  "region_normalized": "lv-053",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Lielvārdes novads.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "LVA Lielvārdes novads COA.png"
+  },
+  "data_source": "out"
+}

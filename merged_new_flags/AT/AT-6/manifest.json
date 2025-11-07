@@ -1,0 +1,16 @@
+{
+  "iso_code": "AT-6",
+  "country_iso": "AT",
+  "country_name": "AT",
+  "region_name": "at-6",
+  "region_normalized": "at-6",
+  "flag": {
+    "svg": "AT/AT-6/flag.svg",
+    "source": "Flag of Styria.svg"
+  },
+  "coat": {
+    "svg": "AT/AT-6/coat.svg",
+    "source": "Steiermark Wappen.svg"
+  },
+  "data_source": "out"
+}

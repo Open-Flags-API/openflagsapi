@@ -1,0 +1,16 @@
+{
+  "iso_code": "KR-28",
+  "country_iso": "KR",
+  "country_name": "south-korea",
+  "region_name": "kr-28",
+  "region_normalized": "kr-28",
+  "flag": {
+    "svg": "KR/KR-28/flag.svg",
+    "source": "Flag of Incheon.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Emblem of Incheon.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-GC",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-gc",
+  "region_normalized": "es-gc",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "ES/ES-GC/coat.svg",
+    "source": "Provincia de Las Palmas - Escudo.svg"
+  },
+  "data_source": "out"
+}

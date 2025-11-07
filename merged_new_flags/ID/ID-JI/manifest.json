@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-JI",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "id-ji",
+  "region_normalized": "id-ji",
+  "flag": {
+    "svg": "ID/ID-JI/flag.svg",
+    "source": "Ngawi Flag.png"
+  },
+  "coat": {
+    "svg": "ID/ID-JI/coat.svg",
+    "source": "Lambang Kabupaten Ngawi (svg).svg"
+  },
+  "data_source": "out"
+}

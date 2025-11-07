@@ -1,0 +1,14 @@
+{
+  "code": "BR-PB",
+  "country": "BR",
+  "flag": {
+    "svg": "BR/BR-PB/flag.svg",
+    "png": "BR/BR-PB/flag.png",
+    "source_filename": "Bandeira da Paraíba.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-PB/coat.svg",
+    "png": "BR/BR-PB/coat.png",
+    "source_filename": "Brasão da Paraíba.svg"
+  }
+}

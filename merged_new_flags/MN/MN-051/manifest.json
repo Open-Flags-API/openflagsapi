@@ -1,0 +1,16 @@
+{
+  "iso_code": "MN-051",
+  "country_iso": "MN",
+  "country_name": "MN",
+  "region_name": "mn-051",
+  "region_normalized": "mn-051",
+  "flag": {
+    "svg": "MN/MN-051/flag.svg",
+    "source": "Mn flag sükhbaatar aimag.svg"
+  },
+  "coat": {
+    "svg": "MN/MN-051/coat.svg",
+    "source": "Mn coa sükhbaatar aimag.svg"
+  },
+  "data_source": "out"
+}

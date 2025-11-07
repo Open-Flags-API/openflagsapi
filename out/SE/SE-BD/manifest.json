@@ -1,0 +1,14 @@
+{
+  "code": "SE-BD",
+  "country": "SE",
+  "flag": {
+    "svg": "SE/SE-BD/flag.svg",
+    "png": "SE/SE-BD/flag.png",
+    "source_filename": "Norrbottens län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-BD/coat.svg",
+    "png": "SE/SE-BD/coat.png",
+    "source_filename": "Norrbotten län vapen.svg"
+  }
+}

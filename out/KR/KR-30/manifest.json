@@ -1,0 +1,14 @@
+{
+  "code": "KR-30",
+  "country": "KR",
+  "flag": {
+    "svg": "KR/KR-30/flag.svg",
+    "png": "KR/KR-30/flag.png",
+    "source_filename": "Flag of Daejeon.svg"
+  },
+  "coat": {
+    "svg": "KR/KR-30/coat.svg",
+    "png": "KR/KR-30/coat.png",
+    "source_filename": "Emblem of Daejeon.svg"
+  }
+}

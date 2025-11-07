@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-FG",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-fg",
+  "region_normalized": "it-fg",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IT/IT-FG/coat.svg",
+    "source": "Provincia di Foggia-Stemma.svg"
+  },
+  "data_source": "out"
+}

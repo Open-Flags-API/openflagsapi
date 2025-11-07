@@ -1,0 +1,16 @@
+{
+  "iso_code": "SL-E",
+  "country_iso": "SL",
+  "country_name": "SL",
+  "region_name": "sl-e",
+  "region_normalized": "sl-e",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

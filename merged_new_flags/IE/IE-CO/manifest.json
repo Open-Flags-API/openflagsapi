@@ -1,0 +1,16 @@
+{
+  "iso_code": "IE-CO",
+  "country_iso": "IE",
+  "country_name": "IE",
+  "region_name": "ie-co",
+  "region_normalized": "ie-co",
+  "flag": {
+    "svg": "IE/IE-CO/flag.svg",
+    "source": "Colours of Cork.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Cork county arms.png"
+  },
+  "data_source": "out"
+}

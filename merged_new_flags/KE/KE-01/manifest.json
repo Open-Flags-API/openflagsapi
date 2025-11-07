@@ -1,0 +1,16 @@
+{
+  "iso_code": "KE-01",
+  "country_iso": "KE",
+  "country_name": "KE",
+  "region_name": "ke-01",
+  "region_normalized": "ke-01",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Baringo County.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of Arms of Baringo County.png"
+  },
+  "data_source": "out"
+}

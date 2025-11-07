@@ -1,0 +1,16 @@
+{
+  "iso_code": "CU-01",
+  "country_iso": "CU",
+  "country_name": "CU",
+  "region_name": "cu-01",
+  "region_normalized": "cu-01",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "CU/CU-01/coat.svg",
+    "source": "Coat of arms of the Pinar Del Rio Province.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "RU-KEM",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-KEM/flag.svg",
+    "png": "RU/RU-KEM/flag.png",
+    "source_filename": "Flag of Kemerovo Oblast (large).svg"
+  },
+  "coat": {
+    "svg": "RU/RU-KEM/coat.svg",
+    "png": "RU/RU-KEM/coat.png",
+    "source_filename": "Coat of arms of Kemerovo Oblast (large).svg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "code": "DE-SL",
+  "country": "DE",
+  "flag": {
+    "svg": "DE/DE-SL/flag.svg",
+    "png": "DE/DE-SL/flag.png",
+    "source_filename": "Flag of Saarland.svg"
+  },
+  "coat": {
+    "svg": "DE/DE-SL/coat.svg",
+    "png": "DE/DE-SL/coat.png",
+    "source_filename": "Wappen des Saarlands.svg"
+  }
+}

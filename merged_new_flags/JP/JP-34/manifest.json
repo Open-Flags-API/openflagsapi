@@ -1,0 +1,16 @@
+{
+  "iso_code": "JP-34",
+  "country_iso": "JP",
+  "country_name": "JP",
+  "region_name": "jp-34",
+  "region_normalized": "jp-34",
+  "flag": {
+    "svg": "JP/JP-34/flag.svg",
+    "source": "Flag of Hiroshima Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-34/coat.svg",
+    "source": "Emblem of Hiroshima Prefecture.svg"
+  },
+  "data_source": "out"
+}

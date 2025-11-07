@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-AGY",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-agy",
+  "region_normalized": "gb-agy",
+  "flag": {
+    "svg": "GB/GB-AGY/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-AGY/coat.svg",
+    "source": null
+  },
+  "data_source": "out"
+}

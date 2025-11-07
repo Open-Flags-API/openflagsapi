@@ -1,0 +1,16 @@
+{
+  "iso_code": "HR-10",
+  "country_iso": "HR",
+  "country_name": "HR",
+  "region_name": "hr-10",
+  "region_normalized": "hr-10",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Virovitica-Podravina County.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Virovitica-Podravina County coat of arms.png"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "SE-S",
+  "country_iso": "SE",
+  "country_name": "SE",
+  "region_name": "se-s",
+  "region_normalized": "se-s",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "SE/SE-S/coat.svg",
+    "source": "Värmland vapen.svg"
+  },
+  "data_source": "out"
+}

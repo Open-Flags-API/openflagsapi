@@ -1,0 +1,16 @@
+{
+  "iso_code": "CL-LI",
+  "country_iso": "CL",
+  "country_name": "CL",
+  "region_name": "cl-li",
+  "region_normalized": "cl-li",
+  "flag": {
+    "svg": "CL/CL-LI/flag.svg",
+    "source": "Flag of O'Higgins Region, Chile.svg"
+  },
+  "coat": {
+    "svg": "CL/CL-LI/coat.svg",
+    "source": "Coat of arms of O'Higgins Region, Chile.svg"
+  },
+  "data_source": "out"
+}

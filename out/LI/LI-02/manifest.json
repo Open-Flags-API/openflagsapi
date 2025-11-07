@@ -1,0 +1,14 @@
+{
+  "code": "LI-02",
+  "country": "LI",
+  "flag": {
+    "svg": "LI/LI-02/flag.svg",
+    "png": "LI/LI-02/flag.png",
+    "source_filename": "Flag of Eschen Liechtenstein-1.svg"
+  },
+  "coat": {
+    "svg": "LI/LI-02/coat.svg",
+    "png": "LI/LI-02/coat.png",
+    "source_filename": "Wappen Eschen.svg"
+  }
+}

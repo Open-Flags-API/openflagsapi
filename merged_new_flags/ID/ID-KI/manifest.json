@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-KI",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "id-ki",
+  "region_normalized": "id-ki",
+  "flag": {
+    "svg": "ID/ID-KI/flag.svg",
+    "source": "Flag of East Kalimantan.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-KI/coat.svg",
+    "source": "Coat of arms of East Kalimantan.svg"
+  },
+  "data_source": "out"
+}

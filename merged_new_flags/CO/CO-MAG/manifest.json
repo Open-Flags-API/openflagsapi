@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-MAG",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-mag",
+  "region_normalized": "co-mag",
+  "flag": {
+    "svg": "CO/CO-MAG/flag.svg",
+    "source": "Flag of Magdalena.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-MAG/coat.svg",
+    "source": "Escudo del Magdalena.svg"
+  },
+  "data_source": "out"
+}

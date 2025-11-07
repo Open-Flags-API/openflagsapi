@@ -1,0 +1,16 @@
+{
+  "iso_code": "CZ-52",
+  "country_iso": "CZ",
+  "country_name": "CZ",
+  "region_name": "cz-52",
+  "region_normalized": "cz-52",
+  "flag": {
+    "svg": "CZ/CZ-52/flag.svg",
+    "source": "Flag of Hradec Kralove Region.svg"
+  },
+  "coat": {
+    "svg": "CZ/CZ-52/coat.svg",
+    "source": "Hradec Kralove Region CoA CZ.svg"
+  },
+  "data_source": "out"
+}

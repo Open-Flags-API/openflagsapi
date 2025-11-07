@@ -1,0 +1,16 @@
+{
+  "iso_code": "LT-24",
+  "country_iso": "LT",
+  "country_name": "LT",
+  "region_name": "lt-24",
+  "region_normalized": "lt-24",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "LT/LT-24/coat.svg",
+    "source": "Lazdijai COA.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "BE-VWV",
+  "country": "BE",
+  "flag": {
+    "svg": "BE/BE-VWV/flag.svg",
+    "png": "BE/BE-VWV/flag.png",
+    "source_filename": "Flag of West Flanders.svg"
+  },
+  "coat": {
+    "svg": "BE/BE-VWV/coat.svg",
+    "png": "BE/BE-VWV/coat.png",
+    "source_filename": "Wapen van West-Vlaanderen.svg"
+  }
+}

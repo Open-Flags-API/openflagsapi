@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-MO",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-mo",
+  "region_normalized": "ru-mo",
+  "flag": {
+    "svg": "RU/RU-MO/flag.svg",
+    "source": "Flag of Mordovia.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-MO/coat.svg",
+    "source": "Coat of arms of Mordovia.svg"
+  },
+  "data_source": "out"
+}

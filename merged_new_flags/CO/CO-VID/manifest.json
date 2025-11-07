@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-VID",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-vid",
+  "region_normalized": "co-vid",
+  "flag": {
+    "svg": "CO/CO-VID/flag.svg",
+    "source": "Flag of Vichada.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-VID/coat.svg",
+    "source": "Escudo del Vichada.svg"
+  },
+  "data_source": "out"
+}

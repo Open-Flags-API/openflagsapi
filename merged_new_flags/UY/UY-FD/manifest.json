@@ -1,0 +1,16 @@
+{
+  "iso_code": "UY-FD",
+  "country_iso": "UY",
+  "country_name": "UY",
+  "region_name": "uy-fd",
+  "region_normalized": "uy-fd",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Florida Department.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Florida Department.png"
+  },
+  "data_source": "out"
+}

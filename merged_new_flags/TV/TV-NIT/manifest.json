@@ -1,0 +1,16 @@
+{
+  "iso_code": "TV-NIT",
+  "country_iso": "TV",
+  "country_name": "TV",
+  "region_name": "tv-nit",
+  "region_normalized": "tv-nit",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

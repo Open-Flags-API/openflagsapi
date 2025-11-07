@@ -1,0 +1,14 @@
+{
+  "code": "TW-PEN",
+  "country": "TW",
+  "flag": {
+    "svg": "TW/TW-PEN/flag.svg",
+    "png": "TW/TW-PEN/flag.png",
+    "source_filename": "Flag of Penghu County.svg"
+  },
+  "coat": {
+    "svg": "TW/TW-PEN/coat.svg",
+    "png": "TW/TW-PEN/coat.png",
+    "source_filename": "Seal of Penghu County.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-WE",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "west-papua",
+  "region_normalized": "west-papua",
+  "flag": {
+    "svg": "ID/ID-WE/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "BR-AP",
+  "country": "BR",
+  "flag": {
+    "svg": "BR/BR-AP/flag.svg",
+    "png": "BR/BR-AP/flag.png",
+    "source_filename": "Bandeira do Amapá.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-AP/coat.svg",
+    "png": "BR/BR-AP/coat.png",
+    "source_filename": "Brasão do Amapá.svg"
+  }
+}

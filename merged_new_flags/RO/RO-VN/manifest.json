@@ -1,0 +1,16 @@
+{
+  "iso_code": "RO-VN",
+  "country_iso": "RO",
+  "country_name": "RO",
+  "region_name": "ro-vn",
+  "region_normalized": "ro-vn",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "RO/RO-VN/coat.svg",
+    "source": "Stema Vrancea.svg"
+  },
+  "data_source": "out"
+}

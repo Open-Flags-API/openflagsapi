@@ -1,0 +1,16 @@
+{
+  "iso_code": "SI-140",
+  "country_iso": "SI",
+  "country_name": "SI",
+  "region_name": "si-140",
+  "region_normalized": "si-140",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "ObcinaVrhnika.png"
+  },
+  "data_source": "out"
+}

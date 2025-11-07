@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-029",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-029",
+  "region_normalized": "lv-029",
+  "flag": {
+    "svg": null,
+    "source": "Engures novads Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Engures novads COA.png"
+  },
+  "data_source": "out"
+}

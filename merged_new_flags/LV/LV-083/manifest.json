@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-083",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-083",
+  "region_normalized": "lv-083",
+  "flag": {
+    "svg": null,
+    "source": "Rundāles novads Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "LVA Rundāles novads COA.png"
+  },
+  "data_source": "out"
+}

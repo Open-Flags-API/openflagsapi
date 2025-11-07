@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-065",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-065",
+  "region_normalized": "lv-065",
+  "flag": {
+    "svg": null,
+    "source": "Neretas novada karogs.png"
+  },
+  "coat": {
+    "svg": "LV/LV-065/coat.svg",
+    "source": "Neretas novads COA.svg"
+  },
+  "data_source": "out"
+}

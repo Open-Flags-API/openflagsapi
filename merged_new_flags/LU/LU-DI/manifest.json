@@ -1,0 +1,16 @@
+{
+  "iso_code": "LU-DI",
+  "country_iso": "LU",
+  "country_name": "LU",
+  "region_name": "lu-di",
+  "region_normalized": "lu-di",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

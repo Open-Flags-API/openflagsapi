@@ -1,0 +1,14 @@
+{
+  "code": "LV-080",
+  "country": "LV",
+  "flag": {
+    "svg": "LV/LV-080/flag.svg",
+    "png": "LV/LV-080/flag.png",
+    "source_filename": "Ropažu novada karogs.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-080/coat.svg",
+    "png": "LV/LV-080/coat.png",
+    "source_filename": "Ropažu novada ģerbonis.svg"
+  }
+}

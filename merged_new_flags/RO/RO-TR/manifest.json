@@ -1,0 +1,16 @@
+{
+  "iso_code": "RO-TR",
+  "country_iso": "RO",
+  "country_name": "RO",
+  "region_name": "ro-tr",
+  "region_normalized": "ro-tr",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "RO/RO-TR/coat.svg",
+    "source": "Stema Teleorman.svg"
+  },
+  "data_source": "out"
+}

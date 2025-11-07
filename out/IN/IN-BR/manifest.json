@@ -1,0 +1,14 @@
+{
+  "code": "IN-BR",
+  "country": "IN",
+  "flag": {
+    "svg": null,
+    "png": null,
+    "source_filename": null
+  },
+  "coat": {
+    "svg": "IN/IN-BR/coat.svg",
+    "png": "IN/IN-BR/coat.png",
+    "source_filename": "Seal of Bihar.svg"
+  }
+}

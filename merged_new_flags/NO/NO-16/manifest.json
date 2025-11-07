@@ -1,0 +1,16 @@
+{
+  "iso_code": "NO-16",
+  "country_iso": "NO",
+  "country_name": "NO",
+  "region_name": "no-16",
+  "region_normalized": "no-16",
+  "flag": {
+    "svg": "NO/NO-16/flag.svg",
+    "source": "Flag of Sør-Trøndelag.svg"
+  },
+  "coat": {
+    "svg": "NO/NO-16/coat.svg",
+    "source": "Sør-Trøndelag våpen.svg"
+  },
+  "data_source": "out"
+}

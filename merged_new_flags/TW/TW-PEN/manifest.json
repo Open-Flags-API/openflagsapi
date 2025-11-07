@@ -1,0 +1,16 @@
+{
+  "iso_code": "TW-PEN",
+  "country_iso": "TW",
+  "country_name": "TW",
+  "region_name": "tw-pen",
+  "region_normalized": "tw-pen",
+  "flag": {
+    "svg": "TW/TW-PEN/flag.svg",
+    "source": "Flag of Penghu County.svg"
+  },
+  "coat": {
+    "svg": "TW/TW-PEN/coat.svg",
+    "source": "Seal of Penghu County.svg"
+  },
+  "data_source": "out"
+}

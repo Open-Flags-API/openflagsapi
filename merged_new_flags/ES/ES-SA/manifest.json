@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-SA",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-sa",
+  "region_normalized": "es-sa",
+  "flag": {
+    "svg": "ES/ES-SA/flag.svg",
+    "source": "Bandera de la provincia de Salamanca.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-SA/coat.svg",
+    "source": "Escudo de la Provincia de Salamanca.svg"
+  },
+  "data_source": "out"
+}

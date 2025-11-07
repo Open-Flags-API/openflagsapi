@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-BNH",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-bnh",
+  "region_normalized": "gb-bnh",
+  "flag": {
+    "svg": "GB/GB-BNH/flag.svg",
+    "source": "Banner of arms of Brighton and Hove (3-5).svg"
+  },
+  "coat": {
+    "svg": "GB/GB-BNH/coat.svg",
+    "source": "Coat of arms of Brighton and Hove.svg"
+  },
+  "data_source": "out"
+}

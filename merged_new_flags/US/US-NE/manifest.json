@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-NE",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-ne",
+  "region_normalized": "us-ne",
+  "flag": {
+    "svg": "US/US-NE/flag.svg",
+    "source": "Flag of Nebraska.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

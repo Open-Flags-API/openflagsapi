@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-NAY",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-nay",
+  "region_normalized": "gb-nay",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-NAY/coat.svg",
+    "source": "North Ayrshire coat of arms.svg"
+  },
+  "data_source": "out"
+}

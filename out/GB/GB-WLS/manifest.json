@@ -1,0 +1,14 @@
+{
+  "code": "GB-WLS",
+  "country": "GB",
+  "flag": {
+    "svg": "GB/GB-WLS/flag.svg",
+    "png": "GB/GB-WLS/flag.png",
+    "source_filename": "Flag of Wales.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-WLS/coat.svg",
+    "png": "GB/GB-WLS/coat.png",
+    "source_filename": "Royal Badge of Wales (2008-2024).svg"
+  }
+}

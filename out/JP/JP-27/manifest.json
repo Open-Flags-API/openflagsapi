@@ -1,0 +1,14 @@
+{
+  "code": "JP-27",
+  "country": "JP",
+  "flag": {
+    "svg": "JP/JP-27/flag.svg",
+    "png": "JP/JP-27/flag.png",
+    "source_filename": "Flag of Osaka Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-27/coat.svg",
+    "png": "JP/JP-27/coat.png",
+    "source_filename": "Emblem of Osaka Prefecture.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-LPX",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-lpx",
+  "region_normalized": "lv-lpx",
+  "flag": {
+    "svg": "LV/LV-LPX/flag.svg",
+    "source": "Flag of Liepāja.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-LPX/coat.svg",
+    "source": "Coat of Arms of Liepāja.svg"
+  },
+  "data_source": "out"
+}

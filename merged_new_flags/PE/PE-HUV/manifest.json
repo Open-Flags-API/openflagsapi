@@ -1,0 +1,16 @@
+{
+  "iso_code": "PE-HUV",
+  "country_iso": "PE",
+  "country_name": "PE",
+  "region_name": "pe-huv",
+  "region_normalized": "pe-huv",
+  "flag": {
+    "svg": "PE/PE-HUV/flag.svg",
+    "source": "Flag of Huancavelica.svg"
+  },
+  "coat": {
+    "svg": "PE/PE-HUV/coat.svg",
+    "source": "Escudo de Huancavelica.svg"
+  },
+  "data_source": "out"
+}

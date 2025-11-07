@@ -1,0 +1,16 @@
+{
+  "iso_code": "VN-CT",
+  "country_iso": "VN",
+  "country_name": "VN",
+  "region_name": "vn-ct",
+  "region_normalized": "vn-ct",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "VN/VN-CT/coat.svg",
+    "source": "Emblem of Cantho City.svg"
+  },
+  "data_source": "out"
+}

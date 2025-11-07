@@ -1,0 +1,14 @@
+{
+  "code": "MX-GUA",
+  "country": "MX",
+  "flag": {
+    "svg": "MX/MX-GUA/flag.svg",
+    "png": "MX/MX-GUA/flag.png",
+    "source_filename": "Flag of Guanajuato.svg"
+  },
+  "coat": {
+    "svg": "MX/MX-GUA/coat.svg",
+    "png": "MX/MX-GUA/coat.png",
+    "source_filename": "Escudo de armas de la Ciudad y Estado de Guanajuato.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "VE-D",
+  "country_iso": "VE",
+  "country_name": "VE",
+  "region_name": "ve-d",
+  "region_normalized": "ve-d",
+  "flag": {
+    "svg": "VE/VE-D/flag.svg",
+    "source": "Flag of Aragua State.svg"
+  },
+  "coat": {
+    "svg": "VE/VE-D/coat.svg",
+    "source": "Escudo de Aragua.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-094",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-094",
+  "region_normalized": "lv-094",
+  "flag": {
+    "svg": "LV/LV-094/flag.svg",
+    "source": "Smiltenes novada karogs.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-094/coat.svg",
+    "source": "Smiltenes novada ģerbonis.svg"
+  },
+  "data_source": "out"
+}

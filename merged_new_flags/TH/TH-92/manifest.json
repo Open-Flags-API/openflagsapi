@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-92",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-92",
+  "region_normalized": "th-92",
+  "flag": {
+    "svg": "TH/TH-92/flag.svg",
+    "source": "Flag of Trang.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

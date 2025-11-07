@@ -1,0 +1,16 @@
+{
+  "iso_code": "LI-09",
+  "country_iso": "LI",
+  "country_name": "LI",
+  "region_name": "li-09",
+  "region_normalized": "li-09",
+  "flag": {
+    "svg": "LI/LI-09/flag.svg",
+    "source": "Flag of Triesen Liechtenstein-1.svg"
+  },
+  "coat": {
+    "svg": "LI/LI-09/coat.svg",
+    "source": "Wappen Triesen.svg"
+  },
+  "data_source": "out"
+}

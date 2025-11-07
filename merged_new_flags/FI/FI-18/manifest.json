@@ -1,0 +1,16 @@
+{
+  "iso_code": "FI-18",
+  "country_iso": "FI",
+  "country_name": "FI",
+  "region_name": "fi-18",
+  "region_normalized": "fi-18",
+  "flag": {
+    "svg": "FI/FI-18/flag.svg",
+    "source": "Flag of Uusimaa.svg"
+  },
+  "coat": {
+    "svg": "FI/FI-18/coat.svg",
+    "source": "Uusimaa.vaakuna.svg"
+  },
+  "data_source": "out"
+}

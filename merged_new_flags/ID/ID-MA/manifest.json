@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-MA",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "id-ma",
+  "region_normalized": "id-ma",
+  "flag": {
+    "svg": "ID/ID-MA/flag.svg",
+    "source": "Flag of Maluku.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-MA/coat.svg",
+    "source": "Coat of arms of Maluku.svg"
+  },
+  "data_source": "out"
+}

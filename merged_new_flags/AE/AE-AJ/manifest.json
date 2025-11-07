@@ -1,0 +1,16 @@
+{
+  "iso_code": "AE-AJ",
+  "country_iso": "AE",
+  "country_name": "AE",
+  "region_name": "ae-aj",
+  "region_normalized": "ae-aj",
+  "flag": {
+    "svg": "AE/AE-AJ/flag.svg",
+    "source": "Flag of Ajman.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Eau ajman-escut.png"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "RU-CU",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-CU/flag.svg",
+    "png": "RU/RU-CU/flag.png",
+    "source_filename": "Flag of Chuvashia (large).svg"
+  },
+  "coat": {
+    "svg": "RU/RU-CU/coat.svg",
+    "png": "RU/RU-CU/coat.png",
+    "source_filename": "Coat of arms of Chuvashia.svg"
+  }
+}

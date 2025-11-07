@@ -1,0 +1,16 @@
+{
+  "iso_code": "CR-G",
+  "country_iso": "CR",
+  "country_name": "CR",
+  "region_name": "cr-g",
+  "region_normalized": "cr-g",
+  "flag": {
+    "svg": "CR/CR-G/flag.svg",
+    "source": "Bandera de la Provincia de Guanacaste.svg"
+  },
+  "coat": {
+    "svg": "CR/CR-G/coat.svg",
+    "source": "Escudo de la Provincia de Guanacaste.svg"
+  },
+  "data_source": "out"
+}

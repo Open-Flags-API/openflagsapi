@@ -1,0 +1,16 @@
+{
+  "iso_code": "CL-LR",
+  "country_iso": "CL",
+  "country_name": "CL",
+  "region_name": "cl-lr",
+  "region_normalized": "cl-lr",
+  "flag": {
+    "svg": "CL/CL-LR/flag.svg",
+    "source": "Flag of Los Ríos, Chile.svg"
+  },
+  "coat": {
+    "svg": "CL/CL-LR/coat.svg",
+    "source": "Coat of arms of Los Ríos, Chile.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-TET",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-tet",
+  "region_normalized": "ma-tet",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of the Tetouan Province.png"
+  },
+  "data_source": "out"
+}

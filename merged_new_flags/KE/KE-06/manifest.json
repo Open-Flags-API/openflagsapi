@@ -1,0 +1,16 @@
+{
+  "iso_code": "KE-06",
+  "country_iso": "KE",
+  "country_name": "KE",
+  "region_name": "ke-06",
+  "region_normalized": "ke-06",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Embu County Government logo.png"
+  },
+  "data_source": "out"
+}

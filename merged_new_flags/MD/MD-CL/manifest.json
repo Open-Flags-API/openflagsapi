@@ -1,0 +1,16 @@
+{
+  "iso_code": "MD-CL",
+  "country_iso": "MD",
+  "country_name": "MD",
+  "region_name": "md-cl",
+  "region_normalized": "md-cl",
+  "flag": {
+    "svg": null,
+    "source": "Rajon Calarasi flag.gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of Arms Calarasi Moldova.png"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "RU-MOS",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-MOS/flag.svg",
+    "png": "RU/RU-MOS/flag.png",
+    "source_filename": "Flag of Moscow Oblast (large).svg"
+  },
+  "coat": {
+    "svg": "RU/RU-MOS/coat.svg",
+    "png": "RU/RU-MOS/coat.png",
+    "source_filename": "Coat of arms of Moscow Oblast.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "SM-02",
+  "country_iso": "SM",
+  "country_name": "SM",
+  "region_name": "sm-02",
+  "region_normalized": "sm-02",
+  "flag": {
+    "svg": "SM/SM-02/flag.svg",
+    "source": "Chiesanuova (RSM)-Bandiera.svg"
+  },
+  "coat": {
+    "svg": "SM/SM-02/coat.svg",
+    "source": "Chiesanuova (RSM)-Stemma.svg"
+  },
+  "data_source": "out"
+}

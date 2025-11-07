@@ -1,0 +1,16 @@
+{
+  "iso_code": "EC-T",
+  "country_iso": "EC",
+  "country_name": "EC",
+  "region_name": "ec-t",
+  "region_normalized": "ec-t",
+  "flag": {
+    "svg": "EC/EC-T/flag.svg",
+    "source": "Bandera Provincia Tungurahua.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

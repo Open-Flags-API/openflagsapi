@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-AS",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-as",
+  "region_normalized": "us-as",
+  "flag": {
+    "svg": "US/US-AS/flag.svg",
+    "source": "Flag of American Samoa.svg"
+  },
+  "coat": {
+    "svg": "US/US-AS/coat.svg",
+    "source": "Seal of American Samoa.svg"
+  },
+  "data_source": "out"
+}

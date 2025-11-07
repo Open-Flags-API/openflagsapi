@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-041",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-041",
+  "region_normalized": "lv-041",
+  "flag": {
+    "svg": "LV/LV-041/flag.svg",
+    "source": "Jelgavas novada karogs.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-041/coat.svg",
+    "source": "Jelgavas novads COA.svg"
+  },
+  "data_source": "out"
+}

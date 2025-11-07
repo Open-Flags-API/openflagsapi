@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-AB",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-ab",
+  "region_normalized": "es-ab",
+  "flag": {
+    "svg": "ES/ES-AB/flag.svg",
+    "source": "Bandera provincia Albacete.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-AB/coat.svg",
+    "source": "Escudo provincia de Albacete.svg"
+  },
+  "data_source": "out"
+}

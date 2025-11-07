@@ -1,0 +1,14 @@
+{
+  "code": "FI-04",
+  "country": "FI",
+  "flag": {
+    "svg": "FI/FI-04/flag.svg",
+    "png": "FI/FI-04/flag.png",
+    "source_filename": "Flag of South Savonia.svg"
+  },
+  "coat": {
+    "svg": "FI/FI-04/coat.svg",
+    "png": "FI/FI-04/coat.png",
+    "source_filename": "Etelä-Savo.vaakuna.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-JT",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "id-jt",
+  "region_normalized": "id-jt",
+  "flag": {
+    "svg": "ID/ID-JT/flag.svg",
+    "source": "Flag of Central Java.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Central Java.svg"
+  },
+  "data_source": "out"
+}

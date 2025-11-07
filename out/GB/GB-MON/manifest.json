@@ -1,0 +1,14 @@
+{
+  "code": "GB-MON",
+  "country": "GB",
+  "flag": {
+    "svg": null,
+    "png": null,
+    "source_filename": null
+  },
+  "coat": {
+    "svg": "GB/GB-MON/coat.svg",
+    "png": "GB/GB-MON/coat.png",
+    "source_filename": "MONMOUTHSHIRE Shield.svg"
+  }
+}

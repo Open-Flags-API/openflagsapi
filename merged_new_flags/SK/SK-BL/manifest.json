@@ -1,0 +1,16 @@
+{
+  "iso_code": "SK-BL",
+  "country_iso": "SK",
+  "country_name": "SK",
+  "region_name": "sk-bl",
+  "region_normalized": "sk-bl",
+  "flag": {
+    "svg": "SK/SK-BL/flag.svg",
+    "source": "Bratislavsky vlajka.svg"
+  },
+  "coat": {
+    "svg": "SK/SK-BL/coat.svg",
+    "source": "Coat of Arms of Bratislava Region.svg"
+  },
+  "data_source": "out"
+}

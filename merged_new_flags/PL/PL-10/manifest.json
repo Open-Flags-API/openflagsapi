@@ -1,0 +1,16 @@
+{
+  "iso_code": "PL-10",
+  "country_iso": "PL",
+  "country_name": "PL",
+  "region_name": "pl-10",
+  "region_normalized": "pl-10",
+  "flag": {
+    "svg": "PL/PL-10/flag.svg",
+    "source": "POL województwo łódzkie 1 flag.svg"
+  },
+  "coat": {
+    "svg": "PL/PL-10/coat.svg",
+    "source": "POL województwo łódzkie COA.svg"
+  },
+  "data_source": "out"
+}

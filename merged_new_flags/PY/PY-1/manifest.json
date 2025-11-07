@@ -1,0 +1,16 @@
+{
+  "iso_code": "PY-1",
+  "country_iso": "PY",
+  "country_name": "PY",
+  "region_name": "py-1",
+  "region_normalized": "py-1",
+  "flag": {
+    "svg": null,
+    "source": "Bandera Departamental Concepción.jpg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Escudo de Concepción.png"
+  },
+  "data_source": "out"
+}

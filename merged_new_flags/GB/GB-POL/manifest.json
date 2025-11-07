@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-POL",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-pol",
+  "region_normalized": "gb-pol",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

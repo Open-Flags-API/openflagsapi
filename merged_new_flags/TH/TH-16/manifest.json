@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-16",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-16",
+  "region_normalized": "th-16",
+  "flag": {
+    "svg": null,
+    "source": "Flag Lop Buri Province.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

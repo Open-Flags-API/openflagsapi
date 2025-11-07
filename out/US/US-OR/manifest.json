@@ -1,0 +1,14 @@
+{
+  "code": "US-OR",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-OR/flag.svg",
+    "png": "US/US-OR/flag.png",
+    "source_filename": "Flag of Oregon.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": null,
+    "source_filename": null
+  }
+}

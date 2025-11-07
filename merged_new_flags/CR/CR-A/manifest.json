@@ -1,0 +1,16 @@
+{
+  "iso_code": "CR-A",
+  "country_iso": "CR",
+  "country_name": "CR",
+  "region_name": "cr-a",
+  "region_normalized": "cr-a",
+  "flag": {
+    "svg": "CR/CR-A/flag.svg",
+    "source": "Bandera de la Provincia de Alajuela.svg"
+  },
+  "coat": {
+    "svg": "CR/CR-A/coat.svg",
+    "source": "Escudo de la Provincia de Alajuela.svg"
+  },
+  "data_source": "out"
+}

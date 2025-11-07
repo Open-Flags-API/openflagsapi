@@ -1,0 +1,14 @@
+{
+  "code": "GE-TB",
+  "country": "GE",
+  "flag": {
+    "svg": "GE/GE-TB/flag.svg",
+    "png": "GE/GE-TB/flag.png",
+    "source_filename": "Flag of Tbilisi.svg"
+  },
+  "coat": {
+    "svg": "GE/GE-TB/coat.svg",
+    "png": "GE/GE-TB/coat.png",
+    "source_filename": "Seal of Tbilisi, Georgia.svg"
+  }
+}

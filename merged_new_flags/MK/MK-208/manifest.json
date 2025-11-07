@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-208",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-208",
+  "region_normalized": "mk-208",
+  "flag": {
+    "svg": "MK/MK-208/flag.svg",
+    "source": "Flag of Pehčevo Municipality, North Macedonia.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

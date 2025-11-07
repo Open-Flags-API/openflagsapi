@@ -1,0 +1,16 @@
+{
+  "iso_code": "HN-CP",
+  "country_iso": "HN",
+  "country_name": "HN",
+  "region_name": "hn-cp",
+  "region_normalized": "hn-cp",
+  "flag": {
+    "svg": "HN/HN-CP/flag.svg",
+    "source": "Bandera de Copán.svg"
+  },
+  "coat": {
+    "svg": "HN/HN-CP/coat.svg",
+    "source": "Glifo emblema de Copán.svg"
+  },
+  "data_source": "out"
+}

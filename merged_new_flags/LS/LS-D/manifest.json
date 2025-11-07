@@ -1,0 +1,16 @@
+{
+  "iso_code": "LS-D",
+  "country_iso": "LS",
+  "country_name": "LS",
+  "region_name": "ls-d",
+  "region_normalized": "ls-d",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

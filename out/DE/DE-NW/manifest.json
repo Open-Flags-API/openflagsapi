@@ -1,0 +1,14 @@
+{
+  "code": "DE-NW",
+  "country": "DE",
+  "flag": {
+    "svg": "DE/DE-NW/flag.svg",
+    "png": "DE/DE-NW/flag.png",
+    "source_filename": "Flag of North Rhine-Westphalia.svg"
+  },
+  "coat": {
+    "svg": "DE/DE-NW/coat.svg",
+    "png": "DE/DE-NW/coat.png",
+    "source_filename": "Coat of arms of North Rhine-Westphalia.svg"
+  }
+}

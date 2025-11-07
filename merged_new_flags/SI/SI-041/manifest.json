@@ -1,0 +1,16 @@
+{
+  "iso_code": "SI-041",
+  "country_iso": "SI",
+  "country_name": "SI",
+  "region_name": "si-041",
+  "region_normalized": "si-041",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "SI/SI-041/coat.svg",
+    "source": "Coat of arms of Jesenice.svg"
+  },
+  "data_source": "out"
+}

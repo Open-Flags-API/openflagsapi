@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-BT",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-bt",
+  "region_normalized": "it-bt",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IT/IT-BT/coat.svg",
+    "source": "Provincia di Barletta-Andria-Trani-Stemma.svg"
+  },
+  "data_source": "out"
+}

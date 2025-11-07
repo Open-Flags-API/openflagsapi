@@ -1,0 +1,16 @@
+{
+  "iso_code": "CL-AN",
+  "country_iso": "CL",
+  "country_name": "CL",
+  "region_name": "cl-an",
+  "region_normalized": "cl-an",
+  "flag": {
+    "svg": "CL/CL-AN/flag.svg",
+    "source": "Flag of Antofagasta Region, Chile.svg"
+  },
+  "coat": {
+    "svg": "CL/CL-AN/coat.svg",
+    "source": "Coat of arms of Antofagasta Region, Chile.svg"
+  },
+  "data_source": "out"
+}

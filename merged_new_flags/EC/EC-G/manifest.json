@@ -1,0 +1,16 @@
+{
+  "iso_code": "EC-G",
+  "country_iso": "EC",
+  "country_name": "EC",
+  "region_name": "ec-g",
+  "region_normalized": "ec-g",
+  "flag": {
+    "svg": "EC/EC-G/flag.svg",
+    "source": "Bandera de Guayaquil.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Escudo de Guayas.png"
+  },
+  "data_source": "out"
+}

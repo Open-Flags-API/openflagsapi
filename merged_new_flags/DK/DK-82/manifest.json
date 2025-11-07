@@ -1,0 +1,16 @@
+{
+  "iso_code": "DK-82",
+  "country_iso": "DK",
+  "country_name": "DK",
+  "region_name": "dk-82",
+  "region_normalized": "dk-82",
+  "flag": {
+    "svg": "DK/DK-82/flag.svg",
+    "source": "Flag of Region Midtjylland.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

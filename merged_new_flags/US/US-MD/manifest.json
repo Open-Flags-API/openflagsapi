@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-MD",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-md",
+  "region_normalized": "us-md",
+  "flag": {
+    "svg": "US/US-MD/flag.svg",
+    "source": "Flag of Maryland.svg"
+  },
+  "coat": {
+    "svg": "US/US-MD/coat.svg",
+    "source": "Coat of arms of Maryland.svg"
+  },
+  "data_source": "out"
+}

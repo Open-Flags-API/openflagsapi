@@ -1,0 +1,16 @@
+{
+  "iso_code": "CU-10",
+  "country_iso": "CU",
+  "country_name": "CU",
+  "region_name": "cu-10",
+  "region_normalized": "cu-10",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "CU/CU-10/coat.svg",
+    "source": "Coat of Arms of the city of Las Tunas, Cuba.svg"
+  },
+  "data_source": "out"
+}

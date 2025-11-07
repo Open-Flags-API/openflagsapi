@@ -1,0 +1,14 @@
+{
+  "code": "LV-001",
+  "country": "LV",
+  "flag": {
+    "svg": null,
+    "png": "LV/LV-001/flag.png",
+    "source_filename": "Aglona novads Flag.png"
+  },
+  "coat": {
+    "svg": "LV/LV-001/coat.svg",
+    "png": "LV/LV-001/coat.png",
+    "source_filename": "Aglonas novads COA.svg"
+  }
+}

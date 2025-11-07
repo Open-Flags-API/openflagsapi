@@ -1,0 +1,14 @@
+{
+  "code": "ES-IB",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-IB/flag.svg",
+    "png": "ES/ES-IB/flag.png",
+    "source_filename": "Flag of the Balearic Islands.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-IB/coat.svg",
+    "png": "ES/ES-IB/coat.png",
+    "source_filename": "Escudo de las Islas Baleares.svg"
+  }
+}

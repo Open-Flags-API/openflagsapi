@@ -1,0 +1,16 @@
+{
+  "iso_code": "BN-TE",
+  "country_iso": "BN",
+  "country_name": "BN",
+  "region_name": "bn-te",
+  "region_normalized": "bn-te",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "SE-U",
+  "country_iso": "SE",
+  "country_name": "SE",
+  "region_name": "se-u",
+  "region_normalized": "se-u",
+  "flag": {
+    "svg": "SE/SE-U/flag.svg",
+    "source": "Västmanlands län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-U/coat.svg",
+    "source": "Västmanland vapen.svg"
+  },
+  "data_source": "out"
+}

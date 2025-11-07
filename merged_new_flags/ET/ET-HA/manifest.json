@@ -1,0 +1,16 @@
+{
+  "iso_code": "ET-HA",
+  "country_iso": "ET",
+  "country_name": "ET",
+  "region_name": "et-ha",
+  "region_normalized": "et-ha",
+  "flag": {
+    "svg": "ET/ET-HA/flag.svg",
+    "source": "Harari Flag.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

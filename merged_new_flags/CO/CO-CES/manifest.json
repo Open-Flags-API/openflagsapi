@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-CES",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-ces",
+  "region_normalized": "co-ces",
+  "flag": {
+    "svg": "CO/CO-CES/flag.svg",
+    "source": "Flag of Cesar.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-CES/coat.svg",
+    "source": "Coat of arms of Cesar (Colombia).svg"
+  },
+  "data_source": "out"
+}

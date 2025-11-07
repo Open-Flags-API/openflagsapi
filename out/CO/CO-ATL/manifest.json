@@ -1,0 +1,14 @@
+{
+  "code": "CO-ATL",
+  "country": "CO",
+  "flag": {
+    "svg": "CO/CO-ATL/flag.svg",
+    "png": "CO/CO-ATL/flag.png",
+    "source_filename": "Flag of Atlántico.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-ATL/coat.svg",
+    "png": "CO/CO-ATL/coat.png",
+    "source_filename": "Escudo del Atlántico.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "IQ-BA",
+  "country_iso": "IQ",
+  "country_name": "IQ",
+  "region_name": "iq-ba",
+  "region_normalized": "iq-ba",
+  "flag": {
+    "svg": "IQ/IQ-BA/flag.svg",
+    "source": "Flag of Basra Governorate.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

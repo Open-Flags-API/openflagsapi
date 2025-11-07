@@ -1,0 +1,14 @@
+{
+  "code": "PH-QUI",
+  "country": "PH",
+  "flag": {
+    "svg": null,
+    "png": "PH/PH-QUI/flag.png",
+    "source_filename": "Quirino flag.png"
+  },
+  "coat": {
+    "svg": "PH/PH-QUI/coat.svg",
+    "png": "PH/PH-QUI/coat.png",
+    "source_filename": "Official Seal of Quirino.svg"
+  }
+}

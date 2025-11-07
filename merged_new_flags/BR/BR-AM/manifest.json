@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-AM",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "br-am",
+  "region_normalized": "br-am",
+  "flag": {
+    "svg": "BR/BR-AM/flag.svg",
+    "source": "Bandeira do Amazonas.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-AM/coat.svg",
+    "source": "Brasão do Amazonas.svg"
+  },
+  "data_source": "out"
+}

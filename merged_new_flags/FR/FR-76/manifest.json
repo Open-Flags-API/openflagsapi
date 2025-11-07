@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-76",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-76",
+  "region_normalized": "fr-76",
+  "flag": {
+    "svg": "FR/FR-76/flag.svg",
+    "source": "Proposed flag for Seine-Maritime.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-76/coat.svg",
+    "source": "Arms of the French Department of Seine-Maritime.svg"
+  },
+  "data_source": "out"
+}

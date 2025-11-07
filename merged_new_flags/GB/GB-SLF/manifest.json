@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-SLF",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-slf",
+  "region_normalized": "gb-slf",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-SLF/coat.svg",
+    "source": "Coat of Arms of Salford City Council.svg"
+  },
+  "data_source": "out"
+}

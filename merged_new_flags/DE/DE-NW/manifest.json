@@ -1,0 +1,16 @@
+{
+  "iso_code": "DE-NW",
+  "country_iso": "DE",
+  "country_name": "germany",
+  "region_name": "de-nw",
+  "region_normalized": "de-nw",
+  "flag": {
+    "svg": "DE/DE-NW/flag.svg",
+    "source": "Flag of North Rhine-Westphalia.svg"
+  },
+  "coat": {
+    "svg": "DE/DE-NW/coat.svg",
+    "source": "Coat of arms of North Rhine-Westphalia.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-HCK",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-hck",
+  "region_normalized": "gb-hck",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-HCK/coat.svg",
+    "source": "LB Hackney Coat of Arms.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "AR-L",
+  "country": "AR",
+  "flag": {
+    "svg": "AR/AR-L/flag.svg",
+    "png": "AR/AR-L/flag.png",
+    "source_filename": "Bandera de la Provincia de La Pampa.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-L/coat.svg",
+    "png": "AR/AR-L/coat.png",
+    "source_filename": "Escudo de la Provincia de La Pampa.svg"
+  }
+}

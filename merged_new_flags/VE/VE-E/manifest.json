@@ -1,0 +1,16 @@
+{
+  "iso_code": "VE-E",
+  "country_iso": "VE",
+  "country_name": "VE",
+  "region_name": "ve-e",
+  "region_normalized": "ve-e",
+  "flag": {
+    "svg": "VE/VE-E/flag.svg",
+    "source": "Flag of Barinas State.svg"
+  },
+  "coat": {
+    "svg": "VE/VE-E/coat.svg",
+    "source": "Escudo del Estado Barinas.svg"
+  },
+  "data_source": "out"
+}

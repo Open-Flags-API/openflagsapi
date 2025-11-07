@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-SC",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "scilloniancross",
+  "region_normalized": "scilloniancross",
+  "flag": {
+    "svg": "GB/GB-SC/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-SEF",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-sef",
+  "region_normalized": "ma-sef",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "MA/MA-SEF/coat.svg",
+    "source": "Coat of arms of the Sefrou Province.svg"
+  },
+  "data_source": "out"
+}

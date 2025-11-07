@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-GUA",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "mx-gua",
+  "region_normalized": "mx-gua",
+  "flag": {
+    "svg": "MX/MX-GUA/flag.svg",
+    "source": "Flag of Guanajuato.svg"
+  },
+  "coat": {
+    "svg": "MX/MX-GUA/coat.svg",
+    "source": "Escudo de armas de la Ciudad y Estado de Guanajuato.svg"
+  },
+  "data_source": "out"
+}

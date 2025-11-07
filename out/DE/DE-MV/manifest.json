@@ -1,0 +1,14 @@
+{
+  "code": "DE-MV",
+  "country": "DE",
+  "flag": {
+    "svg": "DE/DE-MV/flag.svg",
+    "png": "DE/DE-MV/flag.png",
+    "source_filename": "Flag of Mecklenburg-Western Pomerania.svg"
+  },
+  "coat": {
+    "svg": "DE/DE-MV/coat.svg",
+    "png": "DE/DE-MV/coat.png",
+    "source_filename": "Coat of arms of Mecklenburg-Western Pomerania (great).svg"
+  }
+}

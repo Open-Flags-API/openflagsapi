@@ -1,0 +1,16 @@
+{
+  "iso_code": "KR-49",
+  "country_iso": "KR",
+  "country_name": "south-korea",
+  "region_name": "kr-49",
+  "region_normalized": "kr-49",
+  "flag": {
+    "svg": "KR/KR-49/flag.svg",
+    "source": "Flag of Jeju Province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-098",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-098",
+  "region_normalized": "lv-098",
+  "flag": {
+    "svg": null,
+    "source": "Tērvetes-novads-Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Tērvetes novads COA.png"
+  },
+  "data_source": "out"
+}

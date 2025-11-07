@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-COV",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-cov",
+  "region_normalized": "gb-cov",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-COV/coat.svg",
+    "source": "Coat of Arms of Coventry City Council.svg"
+  },
+  "data_source": "out"
+}

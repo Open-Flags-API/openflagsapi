@@ -1,0 +1,16 @@
+{
+  "iso_code": "PG-JWK",
+  "country_iso": "PG",
+  "country_name": "PG",
+  "region_name": "pg-jwk",
+  "region_normalized": "pg-jwk",
+  "flag": {
+    "svg": "PG/PG-JWK/flag.svg",
+    "source": "Flag of Jiwaka.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

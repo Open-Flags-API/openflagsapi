@@ -1,0 +1,16 @@
+{
+  "iso_code": "VE-V",
+  "country_iso": "VE",
+  "country_name": "VE",
+  "region_name": "ve-v",
+  "region_normalized": "ve-v",
+  "flag": {
+    "svg": "VE/VE-V/flag.svg",
+    "source": "Flag of Zulia State.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Escudo Estado Zulia.png"
+  },
+  "data_source": "out"
+}

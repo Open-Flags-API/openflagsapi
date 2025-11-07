@@ -1,0 +1,14 @@
+{
+  "code": "MX-CHH",
+  "country": "MX",
+  "flag": {
+    "svg": "MX/MX-CHH/flag.svg",
+    "png": "MX/MX-CHH/flag.png",
+    "source_filename": "Flag of Chihuahua.svg"
+  },
+  "coat": {
+    "svg": "MX/MX-CHH/coat.svg",
+    "png": "MX/MX-CHH/coat.png",
+    "source_filename": "Coat of arms of Chihuahua.svg"
+  }
+}

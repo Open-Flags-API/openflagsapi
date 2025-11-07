@@ -1,0 +1,14 @@
+{
+  "code": "BA-BRC",
+  "country": "BA",
+  "flag": {
+    "svg": "BA/BA-BRC/flag.svg",
+    "png": "BA/BA-BRC/flag.png",
+    "source_filename": "Flag of Bosnia and Herzegovina.svg"
+  },
+  "coat": {
+    "svg": "BA/BA-BRC/coat.svg",
+    "png": "BA/BA-BRC/coat.png",
+    "source_filename": "Coat of arms of Bosnia and Herzegovina.svg"
+  }
+}

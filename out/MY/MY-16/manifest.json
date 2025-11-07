@@ -1,0 +1,14 @@
+{
+  "code": "MY-16",
+  "country": "MY",
+  "flag": {
+    "svg": "MY/MY-16/flag.svg",
+    "png": "MY/MY-16/flag.png",
+    "source_filename": "Flag of Putrajaya.svg"
+  },
+  "coat": {
+    "svg": "MY/MY-16/coat.svg",
+    "png": "MY/MY-16/coat.png",
+    "source_filename": "Coat of arms of Putrajaya.svg"
+  }
+}

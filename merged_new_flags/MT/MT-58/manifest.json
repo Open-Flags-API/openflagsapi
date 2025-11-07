@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-58",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-58",
+  "region_normalized": "mt-58",
+  "flag": {
+    "svg": "MT/MT-58/flag.svg",
+    "source": "Flag of Ta' Xbiex.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Malta - Ta' Xbiex - Ix-Xatt Ta' Xbiex 11 ies.jpg"
+  },
+  "data_source": "out"
+}

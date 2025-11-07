@@ -1,0 +1,16 @@
+{
+  "iso_code": "VE-P",
+  "country_iso": "VE",
+  "country_name": "VE",
+  "region_name": "ve-p",
+  "region_normalized": "ve-p",
+  "flag": {
+    "svg": "VE/VE-P/flag.svg",
+    "source": "Flag of Portuguesa.svg"
+  },
+  "coat": {
+    "svg": "VE/VE-P/coat.svg",
+    "source": "Escudo del Estado Portuguesa.svg"
+  },
+  "data_source": "out"
+}

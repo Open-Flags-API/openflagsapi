@@ -1,0 +1,14 @@
+{
+  "code": "SE-H",
+  "country": "SE",
+  "flag": {
+    "svg": "SE/SE-H/flag.svg",
+    "png": "SE/SE-H/flag.png",
+    "source_filename": "Kalmar län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-H/coat.svg",
+    "png": "SE/SE-H/coat.png",
+    "source_filename": "Kalmar län vapen.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-817",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-817",
+  "region_normalized": "mk-817",
+  "flag": {
+    "svg": "MK/MK-817/flag.svg",
+    "source": "Flag of Šuto Orizari Municipality, North Macedonia.svg"
+  },
+  "coat": {
+    "svg": "MK/MK-817/coat.svg",
+    "source": "Coat of arms of Šuto Orizari Municipality, North Macedonia.svg"
+  },
+  "data_source": "out"
+}

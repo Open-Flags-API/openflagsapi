@@ -1,0 +1,16 @@
+{
+  "iso_code": "AD-07",
+  "country_iso": "AD",
+  "country_name": "AD",
+  "region_name": "ad-07",
+  "region_normalized": "ad-07",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "AD/AD-07/coat.svg",
+    "source": null
+  },
+  "data_source": "out"
+}

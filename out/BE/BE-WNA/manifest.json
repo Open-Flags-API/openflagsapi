@@ -1,0 +1,14 @@
+{
+  "code": "BE-WNA",
+  "country": "BE",
+  "flag": {
+    "svg": "BE/BE-WNA/flag.svg",
+    "png": "BE/BE-WNA/flag.png",
+    "source_filename": "Flag of Namur Province.svg"
+  },
+  "coat": {
+    "svg": "BE/BE-WNA/coat.svg",
+    "png": "BE/BE-WNA/coat.png",
+    "source_filename": "Wapen van Namen (provincie).svg"
+  }
+}

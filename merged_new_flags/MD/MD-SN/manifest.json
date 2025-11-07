@@ -1,0 +1,16 @@
+{
+  "iso_code": "MD-SN",
+  "country_iso": "MD",
+  "country_name": "MD",
+  "region_name": "md-sn",
+  "region_normalized": "md-sn",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

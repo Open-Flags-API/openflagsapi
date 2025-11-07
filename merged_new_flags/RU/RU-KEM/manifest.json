@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-KEM",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-kem",
+  "region_normalized": "ru-kem",
+  "flag": {
+    "svg": "RU/RU-KEM/flag.svg",
+    "source": "Flag of Kemerovo Oblast (large).svg"
+  },
+  "coat": {
+    "svg": "RU/RU-KEM/coat.svg",
+    "source": "Coat of arms of Kemerovo Oblast (large).svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "FR-ARA",
+  "country": "FR",
+  "flag": {
+    "svg": "FR/FR-ARA/flag.svg",
+    "png": "FR/FR-ARA/flag.png",
+    "source_filename": "Flag of the region Auvergne-Rhône-Alpes.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-ARA/coat.svg",
+    "png": "FR/FR-ARA/coat.png",
+    "source_filename": "Blason Auvergne-Rhône-Alpes.svg"
+  }
+}

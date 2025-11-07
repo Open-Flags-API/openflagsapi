@@ -1,0 +1,16 @@
+{
+  "iso_code": "GL-KU",
+  "country_iso": "GL",
+  "country_name": "GL",
+  "region_name": "gl-ku",
+  "region_normalized": "gl-ku",
+  "flag": {
+    "svg": "GL/GL-KU/flag.svg",
+    "source": "Flag of Kujalleq Municipality, Greenland.svg"
+  },
+  "coat": {
+    "svg": "GL/GL-KU/coat.svg",
+    "source": "Kujalleq-coat-of-arms.svg"
+  },
+  "data_source": "out"
+}

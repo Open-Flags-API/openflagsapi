@@ -1,0 +1,14 @@
+{
+  "code": "BR-TO",
+  "country": "BR",
+  "flag": {
+    "svg": "BR/BR-TO/flag.svg",
+    "png": "BR/BR-TO/flag.png",
+    "source_filename": "Bandeira do Tocantins.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-TO/coat.svg",
+    "png": "BR/BR-TO/coat.png",
+    "source_filename": "Brasão do Tocantins.svg"
+  }
+}

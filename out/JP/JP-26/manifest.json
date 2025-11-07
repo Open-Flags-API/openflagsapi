@@ -1,0 +1,14 @@
+{
+  "code": "JP-26",
+  "country": "JP",
+  "flag": {
+    "svg": "JP/JP-26/flag.svg",
+    "png": "JP/JP-26/flag.png",
+    "source_filename": "Flag of Kyoto Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-26/coat.svg",
+    "png": "JP/JP-26/coat.png",
+    "source_filename": "Emblem of Kyoto Prefecture.svg"
+  }
+}

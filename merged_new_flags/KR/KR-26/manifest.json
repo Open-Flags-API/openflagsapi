@@ -1,0 +1,16 @@
+{
+  "iso_code": "KR-26",
+  "country_iso": "KR",
+  "country_name": "south-korea",
+  "region_name": "kr-26",
+  "region_normalized": "kr-26",
+  "flag": {
+    "svg": "KR/KR-26/flag.svg",
+    "source": "Flag of Busan (2023).svg"
+  },
+  "coat": {
+    "svg": "KR/KR-26/coat.svg",
+    "source": "Symbol of Busan (2023–).svg"
+  },
+  "data_source": "out"
+}

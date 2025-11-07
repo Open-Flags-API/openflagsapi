@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-NJ",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-nj",
+  "region_normalized": "us-nj",
+  "flag": {
+    "svg": "US/US-NJ/flag.svg",
+    "source": "Flag of New Jersey.svg"
+  },
+  "coat": {
+    "svg": "US/US-NJ/coat.svg",
+    "source": "Coat of Arms of New Jersey.svg"
+  },
+  "data_source": "out"
+}

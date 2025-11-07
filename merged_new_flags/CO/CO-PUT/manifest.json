@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-PUT",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-put",
+  "region_normalized": "co-put",
+  "flag": {
+    "svg": "CO/CO-PUT/flag.svg",
+    "source": "Flag of Putumayo.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-PUT/coat.svg",
+    "source": "Coat of arms of Putumayo (Colombia).svg"
+  },
+  "data_source": "out"
+}

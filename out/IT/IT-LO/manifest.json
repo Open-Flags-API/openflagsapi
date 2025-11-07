@@ -1,0 +1,14 @@
+{
+  "code": "IT-LO",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-LO/flag.svg",
+    "png": "IT/IT-LO/flag.png",
+    "source_filename": "Flag of the Province of Lodi.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-LO/coat.svg",
+    "png": "IT/IT-LO/coat.png",
+    "source_filename": "Provincia di Lodi-Stemma.svg"
+  }
+}

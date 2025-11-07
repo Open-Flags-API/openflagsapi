@@ -1,0 +1,16 @@
+{
+  "iso_code": "JP-46",
+  "country_iso": "JP",
+  "country_name": "JP",
+  "region_name": "jp-46",
+  "region_normalized": "jp-46",
+  "flag": {
+    "svg": "JP/JP-46/flag.svg",
+    "source": "Flag of Kagoshima Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-46/coat.svg",
+    "source": "Emblem of Kagoshima Prefecture.svg"
+  },
+  "data_source": "out"
+}

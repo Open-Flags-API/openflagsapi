@@ -1,0 +1,16 @@
+{
+  "iso_code": "PE-CAJ",
+  "country_iso": "PE",
+  "country_name": "PE",
+  "region_name": "pe-caj",
+  "region_normalized": "pe-caj",
+  "flag": {
+    "svg": "PE/PE-CAJ/flag.svg",
+    "source": "Bandera de Cajamarca.svg"
+  },
+  "coat": {
+    "svg": "PE/PE-CAJ/coat.svg",
+    "source": "Escudo de Cajamarca.svg"
+  },
+  "data_source": "out"
+}

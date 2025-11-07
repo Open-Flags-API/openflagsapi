@@ -1,0 +1,14 @@
+{
+  "code": "AU-ACT",
+  "country": "AU",
+  "flag": {
+    "svg": "AU/AU-ACT/flag.svg",
+    "png": "AU/AU-ACT/flag.png",
+    "source_filename": "Flag of the Australian Capital Territory.svg"
+  },
+  "coat": {
+    "svg": "AU/AU-ACT/coat.svg",
+    "png": "AU/AU-ACT/coat.png",
+    "source_filename": "Coat of Arms of the Australian Capital Territory.svg"
+  }
+}

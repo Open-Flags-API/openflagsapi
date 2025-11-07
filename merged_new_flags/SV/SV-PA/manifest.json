@@ -1,0 +1,16 @@
+{
+  "iso_code": "SV-PA",
+  "country_iso": "SV",
+  "country_name": "SV",
+  "region_name": "sv-pa",
+  "region_normalized": "sv-pa",
+  "flag": {
+    "svg": null,
+    "source": "Bandera del Departamento de La Paz.jpg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Escudo del Departamento de La Paz (El Salvador).png"
+  },
+  "data_source": "out"
+}

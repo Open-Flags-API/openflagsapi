@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-PE",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-pe",
+  "region_normalized": "hu-pe",
+  "flag": {
+    "svg": "HU/HU-PE/flag.svg",
+    "source": "FLAG-Pest-megye.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-PE/coat.svg",
+    "source": "HUN Pest megye COA.svg"
+  },
+  "data_source": "out"
+}

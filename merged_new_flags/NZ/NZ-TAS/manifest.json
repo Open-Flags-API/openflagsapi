@@ -1,0 +1,16 @@
+{
+  "iso_code": "NZ-TAS",
+  "country_iso": "NZ",
+  "country_name": "NZ",
+  "region_name": "nz-tas",
+  "region_normalized": "nz-tas",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

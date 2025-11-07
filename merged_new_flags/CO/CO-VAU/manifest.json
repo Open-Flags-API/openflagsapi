@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-VAU",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-vau",
+  "region_normalized": "co-vau",
+  "flag": {
+    "svg": "CO/CO-VAU/flag.svg",
+    "source": "Flag of Vaupés.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-VAU/coat.svg",
+    "source": "Escudo del Vaupés.svg"
+  },
+  "data_source": "out"
+}

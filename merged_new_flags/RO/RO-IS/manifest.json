@@ -1,0 +1,16 @@
+{
+  "iso_code": "RO-IS",
+  "country_iso": "RO",
+  "country_name": "RO",
+  "region_name": "ro-is",
+  "region_normalized": "ro-is",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "RO/RO-IS/coat.svg",
+    "source": "Actual Iasi county CoA.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "SK-TA",
+  "country": "SK",
+  "flag": {
+    "svg": "SK/SK-TA/flag.svg",
+    "png": "SK/SK-TA/flag.png",
+    "source_filename": "Trnavsky vlajka.svg"
+  },
+  "coat": {
+    "svg": "SK/SK-TA/coat.svg",
+    "png": "SK/SK-TA/coat.png",
+    "source_filename": "Coat of Arms of Trnava Region.svg"
+  }
+}

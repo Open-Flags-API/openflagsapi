@@ -1,0 +1,16 @@
+{
+  "iso_code": "SN-FK",
+  "country_iso": "SN",
+  "country_name": "SN",
+  "region_name": "sn-fk",
+  "region_normalized": "sn-fk",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

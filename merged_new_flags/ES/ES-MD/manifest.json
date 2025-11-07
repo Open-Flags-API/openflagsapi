@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-MD",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-md",
+  "region_normalized": "es-md",
+  "flag": {
+    "svg": "ES/ES-MD/flag.svg",
+    "source": "Flag of the Community of Madrid.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-MD/coat.svg",
+    "source": "Escudo de la Comunidad de Madrid (oficial).svg"
+  },
+  "data_source": "out"
+}

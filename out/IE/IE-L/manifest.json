@@ -1,0 +1,14 @@
+{
+  "code": "IE-L",
+  "country": "IE",
+  "flag": {
+    "svg": "IE/IE-L/flag.svg",
+    "png": "IE/IE-L/flag.png",
+    "source_filename": "Flag of Leinster.svg"
+  },
+  "coat": {
+    "svg": "IE/IE-L/coat.svg",
+    "png": "IE/IE-L/coat.png",
+    "source_filename": "Coat of arms of Leinster.svg"
+  }
+}

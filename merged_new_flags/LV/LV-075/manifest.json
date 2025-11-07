@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-075",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-075",
+  "region_normalized": "lv-075",
+  "flag": {
+    "svg": null,
+    "source": "Priekuļu novada karogs.png"
+  },
+  "coat": {
+    "svg": "LV/LV-075/coat.svg",
+    "source": "Priekuļu novads COA.svg"
+  },
+  "data_source": "out"
+}

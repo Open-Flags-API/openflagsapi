@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-NC",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-nc",
+  "region_normalized": "fr-nc",
+  "flag": {
+    "svg": "FR/FR-NC/flag.svg",
+    "source": "Flag of FLNKS.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-NC/coat.svg",
+    "source": "Emblem of New Caledonia.svg"
+  },
+  "data_source": "out"
+}

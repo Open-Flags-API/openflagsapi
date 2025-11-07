@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-MEX",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "mx-mex",
+  "region_normalized": "mx-mex",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "MX/MX-MEX/coat.svg",
+    "source": "Coat of arms of Mexico State.svg"
+  },
+  "data_source": "out"
+}

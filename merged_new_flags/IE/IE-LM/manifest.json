@@ -1,0 +1,16 @@
+{
+  "iso_code": "IE-LM",
+  "country_iso": "IE",
+  "country_name": "IE",
+  "region_name": "ie-lm",
+  "region_normalized": "ie-lm",
+  "flag": {
+    "svg": "IE/IE-LM/flag.svg",
+    "source": "Flag of county Leitrim.svg"
+  },
+  "coat": {
+    "svg": "IE/IE-LM/coat.svg",
+    "source": "County Leitrim arms.svg"
+  },
+  "data_source": "out"
+}

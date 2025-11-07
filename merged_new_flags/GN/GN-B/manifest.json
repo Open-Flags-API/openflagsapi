@@ -1,0 +1,16 @@
+{
+  "iso_code": "GN-B",
+  "country_iso": "GN",
+  "country_name": "GN",
+  "region_name": "gn-b",
+  "region_normalized": "gn-b",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

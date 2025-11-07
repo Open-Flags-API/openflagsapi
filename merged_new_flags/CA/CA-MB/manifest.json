@@ -1,0 +1,16 @@
+{
+  "iso_code": "CA-MB",
+  "country_iso": "CA",
+  "country_name": "canada",
+  "region_name": "ca-mb",
+  "region_normalized": "ca-mb",
+  "flag": {
+    "svg": "CA/CA-MB/flag.svg",
+    "source": "Flag of the Province of Manitoba.svg"
+  },
+  "coat": {
+    "svg": "CA/CA-MB/coat.svg",
+    "source": "Coat of arms of Manitoba.svg"
+  },
+  "data_source": "out"
+}

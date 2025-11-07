@@ -1,0 +1,14 @@
+{
+  "code": "BR-SE",
+  "country": "BR",
+  "flag": {
+    "svg": "BR/BR-SE/flag.svg",
+    "png": "BR/BR-SE/flag.png",
+    "source_filename": "Bandeira de Sergipe.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-SE/coat.svg",
+    "png": "BR/BR-SE/coat.png",
+    "source_filename": "Brasão de Sergipe.svg"
+  }
+}

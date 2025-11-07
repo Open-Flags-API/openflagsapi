@@ -1,0 +1,14 @@
+{
+  "code": "SE-Y",
+  "country": "SE",
+  "flag": {
+    "svg": "SE/SE-Y/flag.svg",
+    "png": "SE/SE-Y/flag.png",
+    "source_filename": "Västernorrlands län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-Y/coat.svg",
+    "png": "SE/SE-Y/coat.png",
+    "source_filename": "Västernorrland län vapen.svg"
+  }
+}

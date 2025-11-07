@@ -1,0 +1,16 @@
+{
+  "iso_code": "KG-GO",
+  "country_iso": "KG",
+  "country_name": "KG",
+  "region_name": "kg-go",
+  "region_normalized": "kg-go",
+  "flag": {
+    "svg": "KG/KG-GO/flag.svg",
+    "source": "Flag of Osh.svg"
+  },
+  "coat": {
+    "svg": "KG/KG-GO/coat.svg",
+    "source": "Coat of arms of Osh.svg"
+  },
+  "data_source": "out"
+}

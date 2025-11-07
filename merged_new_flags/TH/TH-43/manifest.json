@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-43",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-43",
+  "region_normalized": "th-43",
+  "flag": {
+    "svg": "TH/TH-43/flag.svg",
+    "source": "Flag of Nong Khai Province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

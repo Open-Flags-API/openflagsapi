@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-PE",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "br-pe",
+  "region_normalized": "br-pe",
+  "flag": {
+    "svg": "BR/BR-PE/flag.svg",
+    "source": "Bandeira de Pernambuco.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-PE/coat.svg",
+    "source": "Brasão de Pernambuco.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "BO-C",
+  "country": "BO",
+  "flag": {
+    "svg": "BO/BO-C/flag.svg",
+    "png": "BO/BO-C/flag.png",
+    "source_filename": "Flag of Cochabamba.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": null,
+    "source_filename": null
+  }
+}

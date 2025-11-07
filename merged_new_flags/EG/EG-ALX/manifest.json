@@ -1,0 +1,16 @@
+{
+  "iso_code": "EG-ALX",
+  "country_iso": "EG",
+  "country_name": "EG",
+  "region_name": "eg-alx",
+  "region_normalized": "eg-alx",
+  "flag": {
+    "svg": "EG/EG-ALX/flag.svg",
+    "source": "Flag of Alexandria.svg"
+  },
+  "coat": {
+    "svg": "EG/EG-ALX/coat.svg",
+    "source": "Coat of Arms - Alexandria, Egypt.svg"
+  },
+  "data_source": "out"
+}

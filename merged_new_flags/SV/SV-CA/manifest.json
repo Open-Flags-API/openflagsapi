@@ -1,0 +1,16 @@
+{
+  "iso_code": "SV-CA",
+  "country_iso": "SV",
+  "country_name": "SV",
+  "region_name": "sv-ca",
+  "region_normalized": "sv-ca",
+  "flag": {
+    "svg": "SV/SV-CA/flag.svg",
+    "source": "Flag of the Cabañas Department.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

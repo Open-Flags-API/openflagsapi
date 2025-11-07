@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-SND",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-snd",
+  "region_normalized": "gb-snd",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Sunderland City Council.png"
+  },
+  "data_source": "out"
+}

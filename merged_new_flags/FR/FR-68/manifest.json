@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-68",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-68",
+  "region_normalized": "fr-68",
+  "flag": {
+    "svg": "FR/FR-68/flag.svg",
+    "source": "Flag of Haute-Alsace.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-68/coat.svg",
+    "source": "Blason département fr Haut-Rhin.svg"
+  },
+  "data_source": "out"
+}

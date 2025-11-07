@@ -1,0 +1,16 @@
+{
+  "iso_code": "RO-CJ",
+  "country_iso": "RO",
+  "country_name": "RO",
+  "region_name": "ro-cj",
+  "region_normalized": "ro-cj",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "RO/RO-CJ/coat.svg",
+    "source": "Actual Cluj county CoA.svg"
+  },
+  "data_source": "out"
+}

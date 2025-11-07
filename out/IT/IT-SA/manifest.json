@@ -1,0 +1,14 @@
+{
+  "code": "IT-SA",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-SA/flag.svg",
+    "png": "IT/IT-SA/flag.png",
+    "source_filename": "Flag of the province of Salerno.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-SA/coat.svg",
+    "png": "IT/IT-SA/coat.png",
+    "source_filename": "Provincia di Salerno-Stemma-2.svg"
+  }
+}

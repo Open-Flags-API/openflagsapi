@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-089",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-089",
+  "region_normalized": "lv-089",
+  "flag": {
+    "svg": "LV/LV-089/flag.svg",
+    "source": "Saulkrastu novada karogs.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-089/coat.svg",
+    "source": "Saulkrastu novada ģerbonis.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "US-SD",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-SD/flag.svg",
+    "png": "US/US-SD/flag.png",
+    "source_filename": "Flag of South Dakota.svg"
+  },
+  "coat": {
+    "svg": "US/US-SD/coat.svg",
+    "png": "US/US-SD/coat.png",
+    "source_filename": "State Seal of South Dakota.svg"
+  }
+}

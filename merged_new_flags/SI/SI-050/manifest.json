@@ -1,0 +1,16 @@
+{
+  "iso_code": "SI-050",
+  "country_iso": "SI",
+  "country_name": "SI",
+  "region_name": "si-050",
+  "region_normalized": "si-050",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "SI/SI-050/coat.svg",
+    "source": "Coa Koper.grb.svg"
+  },
+  "data_source": "out"
+}

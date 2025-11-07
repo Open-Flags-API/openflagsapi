@@ -1,0 +1,16 @@
+{
+  "iso_code": "CA-PR",
+  "country_iso": "CA",
+  "country_name": "canada",
+  "region_name": "prince-edward-island",
+  "region_normalized": "prince-edward-island",
+  "flag": {
+    "svg": "CA/CA-PR/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

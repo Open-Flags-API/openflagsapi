@@ -1,0 +1,16 @@
+{
+  "iso_code": "NL-NB",
+  "country_iso": "NL",
+  "country_name": "NL",
+  "region_name": "nl-nb",
+  "region_normalized": "nl-nb",
+  "flag": {
+    "svg": "NL/NL-NB/flag.svg",
+    "source": "North Brabant-Flag.svg"
+  },
+  "coat": {
+    "svg": "NL/NL-NB/coat.svg",
+    "source": "Noord-Brabant wapen.svg"
+  },
+  "data_source": "out"
+}

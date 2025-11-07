@@ -1,0 +1,14 @@
+{
+  "code": "BE-VBR",
+  "country": "BE",
+  "flag": {
+    "svg": "BE/BE-VBR/flag.svg",
+    "png": "BE/BE-VBR/flag.png",
+    "source_filename": "Flag of Flemish Brabant.svg"
+  },
+  "coat": {
+    "svg": "BE/BE-VBR/coat.svg",
+    "png": "BE/BE-VBR/coat.png",
+    "source_filename": "Vlaams Brabant wapen.svg"
+  }
+}

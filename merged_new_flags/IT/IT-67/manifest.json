@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-67",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-67",
+  "region_normalized": "it-67",
+  "flag": {
+    "svg": "IT/IT-67/flag.svg",
+    "source": "Flag of Molise.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-67/coat.svg",
+    "source": "Regione-Molise-Stemma.svg"
+  },
+  "data_source": "out"
+}

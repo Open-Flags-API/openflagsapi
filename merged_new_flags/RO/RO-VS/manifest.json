@@ -1,0 +1,16 @@
+{
+  "iso_code": "RO-VS",
+  "country_iso": "RO",
+  "country_name": "RO",
+  "region_name": "ro-vs",
+  "region_normalized": "ro-vs",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "RO/RO-VS/coat.svg",
+    "source": "Stema Vaslui.svg"
+  },
+  "data_source": "out"
+}

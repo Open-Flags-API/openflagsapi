@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-73",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-73",
+  "region_normalized": "th-73",
+  "flag": {
+    "svg": "TH/TH-73/flag.svg",
+    "source": "Flag of Nakhon Pathom.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

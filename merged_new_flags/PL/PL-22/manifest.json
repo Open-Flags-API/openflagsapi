@@ -1,0 +1,16 @@
+{
+  "iso_code": "PL-22",
+  "country_iso": "PL",
+  "country_name": "PL",
+  "region_name": "pl-22",
+  "region_normalized": "pl-22",
+  "flag": {
+    "svg": "PL/PL-22/flag.svg",
+    "source": "POL województwo pomorskie flag.svg"
+  },
+  "coat": {
+    "svg": "PL/PL-22/coat.svg",
+    "source": "POL województwo pomorskie COA.svg"
+  },
+  "data_source": "out"
+}

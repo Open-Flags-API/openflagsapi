@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-VT",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-vt",
+  "region_normalized": "us-vt",
+  "flag": {
+    "svg": "US/US-VT/flag.svg",
+    "source": "Flag of Vermont.svg"
+  },
+  "coat": {
+    "svg": "US/US-VT/coat.svg",
+    "source": "Coat of arms of Vermont.svg"
+  },
+  "data_source": "out"
+}

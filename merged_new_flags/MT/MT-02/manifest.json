@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-02",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-02",
+  "region_normalized": "mt-02",
+  "flag": {
+    "svg": "MT/MT-02/flag.svg",
+    "source": "Flag of Balzan.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-02/coat.svg",
+    "source": "Balzan coa.svg"
+  },
+  "data_source": "out"
+}

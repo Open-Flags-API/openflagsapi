@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-NUE",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-nue",
+  "region_normalized": "ph-nue",
+  "flag": {
+    "svg": null,
+    "source": "Vlag Fil NuevaEcija.gif"
+  },
+  "coat": {
+    "svg": "PH/PH-NUE/coat.svg",
+    "source": "Nueva Ecija seal.svg"
+  },
+  "data_source": "out"
+}

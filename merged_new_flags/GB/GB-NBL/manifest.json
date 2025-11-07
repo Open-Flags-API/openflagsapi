@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-NBL",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-nbl",
+  "region_normalized": "gb-nbl",
+  "flag": {
+    "svg": "GB/GB-NBL/flag.svg",
+    "source": "Flag of Northumberland.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-NBL/coat.svg",
+    "source": "Arms of Northumberland County Council.svg"
+  },
+  "data_source": "out"
+}

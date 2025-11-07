@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-GUA",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-gua",
+  "region_normalized": "co-gua",
+  "flag": {
+    "svg": "CO/CO-GUA/flag.svg",
+    "source": "Flag of Guainía.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-GUA/coat.svg",
+    "source": "Escudo del Guainía.svg"
+  },
+  "data_source": "out"
+}

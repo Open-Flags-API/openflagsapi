@@ -1,0 +1,14 @@
+{
+  "code": "CI-AB",
+  "country": "CI",
+  "flag": {
+    "svg": null,
+    "png": "CI/CI-AB/flag.png",
+    "source_filename": "Flag of Abidjan.png"
+  },
+  "coat": {
+    "svg": "CI/CI-AB/coat.svg",
+    "png": "CI/CI-AB/coat.png",
+    "source_filename": "AbidjanLogo.svg"
+  }
+}

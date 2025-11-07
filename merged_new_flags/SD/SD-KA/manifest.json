@@ -1,0 +1,16 @@
+{
+  "iso_code": "SD-KA",
+  "country_iso": "SD",
+  "country_name": "SD",
+  "region_name": "sd-ka",
+  "region_normalized": "sd-ka",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Kassala State.png"
+  },
+  "coat": {
+    "svg": "SD/SD-KA/coat.svg",
+    "source": "Kassala State Emblem.svg"
+  },
+  "data_source": "out"
+}

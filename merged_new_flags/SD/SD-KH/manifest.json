@@ -1,0 +1,16 @@
+{
+  "iso_code": "SD-KH",
+  "country_iso": "SD",
+  "country_name": "SD",
+  "region_name": "sd-kh",
+  "region_normalized": "sd-kh",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Emblem of Khartoum.jpg"
+  },
+  "data_source": "out"
+}

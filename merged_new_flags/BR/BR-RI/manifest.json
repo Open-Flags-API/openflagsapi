@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-RI",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "rio-grande-do-sul",
+  "region_normalized": "rio-grande-do-sul",
+  "flag": {
+    "svg": "BR/BR-RI/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

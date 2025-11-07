@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-050",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-050",
+  "region_normalized": "lv-050",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "LV/LV-050/coat.svg",
+    "source": "Kuldīgas novads COA.svg"
+  },
+  "data_source": "out"
+}

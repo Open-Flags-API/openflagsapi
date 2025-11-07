@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-CE",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-ce",
+  "region_normalized": "es-ce",
+  "flag": {
+    "svg": "ES/ES-CE/flag.svg",
+    "source": "Flag of Ceuta.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-CE/coat.svg",
+    "source": "Coat of Arms of Ceuta.svg"
+  },
+  "data_source": "out"
+}

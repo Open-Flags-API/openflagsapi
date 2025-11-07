@@ -1,0 +1,16 @@
+{
+  "iso_code": "GE-50",
+  "country_iso": "GE",
+  "country_name": "GE",
+  "region_name": "ge-50",
+  "region_normalized": "ge-50",
+  "flag": {
+    "svg": "GE/GE-50/flag.svg",
+    "source": "Flag of Senaki Municipality.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Senaki gerbi.jpg"
+  },
+  "data_source": "out"
+}

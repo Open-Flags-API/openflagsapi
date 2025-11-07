@@ -1,0 +1,14 @@
+{
+  "code": "DE-HH",
+  "country": "DE",
+  "flag": {
+    "svg": "DE/DE-HH/flag.svg",
+    "png": "DE/DE-HH/flag.png",
+    "source_filename": "Flag of Hamburg.svg"
+  },
+  "coat": {
+    "svg": "DE/DE-HH/coat.svg",
+    "png": "DE/DE-HH/coat.png",
+    "source_filename": "DEU Hamburg COA.svg"
+  }
+}

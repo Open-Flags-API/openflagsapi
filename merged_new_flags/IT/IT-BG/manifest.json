@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-BG",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-bg",
+  "region_normalized": "it-bg",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IT/IT-BG/coat.svg",
+    "source": "Provincia di Bergamo-Stemma.svg"
+  },
+  "data_source": "out"
+}

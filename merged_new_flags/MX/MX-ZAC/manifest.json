@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-ZAC",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "mx-zac",
+  "region_normalized": "mx-zac",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "MX/MX-ZAC/coat.svg",
+    "source": "Escudo de armas de la Ciudad y Estado de Zacatecas.svg"
+  },
+  "data_source": "out"
+}

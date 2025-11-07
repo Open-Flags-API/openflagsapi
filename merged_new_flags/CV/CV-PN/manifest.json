@@ -1,0 +1,16 @@
+{
+  "iso_code": "CV-PN",
+  "country_iso": "CV",
+  "country_name": "CV",
+  "region_name": "cv-pn",
+  "region_normalized": "cv-pn",
+  "flag": {
+    "svg": null,
+    "source": "Bandeira Porto Novo.gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Brasão de Porto Novo.png"
+  },
+  "data_source": "out"
+}

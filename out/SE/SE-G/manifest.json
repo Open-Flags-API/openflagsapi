@@ -1,0 +1,14 @@
+{
+  "code": "SE-G",
+  "country": "SE",
+  "flag": {
+    "svg": "SE/SE-G/flag.svg",
+    "png": "SE/SE-G/flag.png",
+    "source_filename": "Kronobergs län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-G/coat.svg",
+    "png": "SE/SE-G/coat.png",
+    "source_filename": "Kronoberg vapen.svg"
+  }
+}

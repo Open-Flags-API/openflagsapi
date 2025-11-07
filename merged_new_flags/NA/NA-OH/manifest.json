@@ -1,0 +1,16 @@
+{
+  "iso_code": "NA-OH",
+  "country_iso": "NA",
+  "country_name": "NA",
+  "region_name": "na-oh",
+  "region_normalized": "na-oh",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "NA/NA-OH/coat.svg",
+    "source": "Gobabis COA.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "FR-WF",
+  "country": "FR",
+  "flag": {
+    "svg": "FR/FR-WF/flag.svg",
+    "png": "FR/FR-WF/flag.png",
+    "source_filename": "Flag of Wallis and Futuna.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-WF/coat.svg",
+    "png": "FR/FR-WF/coat.png",
+    "source_filename": "BlasonWallisetFutuna.svg"
+  }
+}

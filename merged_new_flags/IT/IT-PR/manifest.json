@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-PR",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-pr",
+  "region_normalized": "it-pr",
+  "flag": {
+    "svg": "IT/IT-PR/flag.svg",
+    "source": "Flag of the province of Parma.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-PR/coat.svg",
+    "source": "Provincia di Parma-Stemma.svg"
+  },
+  "data_source": "out"
+}

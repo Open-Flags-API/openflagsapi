@@ -1,0 +1,14 @@
+{
+  "code": "IE-LM",
+  "country": "IE",
+  "flag": {
+    "svg": "IE/IE-LM/flag.svg",
+    "png": "IE/IE-LM/flag.png",
+    "source_filename": "Flag of county Leitrim.svg"
+  },
+  "coat": {
+    "svg": "IE/IE-LM/coat.svg",
+    "png": "IE/IE-LM/coat.png",
+    "source_filename": "County Leitrim arms.svg"
+  }
+}

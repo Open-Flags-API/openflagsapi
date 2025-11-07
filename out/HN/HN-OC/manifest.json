@@ -1,0 +1,14 @@
+{
+  "code": "HN-OC",
+  "country": "HN",
+  "flag": {
+    "svg": "HN/HN-OC/flag.svg",
+    "png": "HN/HN-OC/flag.png",
+    "source_filename": "Bandera de Ocotepeque.svg"
+  },
+  "coat": {
+    "svg": "HN/HN-OC/coat.svg",
+    "png": null,
+    "source_filename": "Escudo de Ocotepeque.svg"
+  }
+}

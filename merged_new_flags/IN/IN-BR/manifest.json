@@ -1,0 +1,16 @@
+{
+  "iso_code": "IN-BR",
+  "country_iso": "IN",
+  "country_name": "IN",
+  "region_name": "in-br",
+  "region_normalized": "in-br",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IN/IN-BR/coat.svg",
+    "source": "Seal of Bihar.svg"
+  },
+  "data_source": "out"
+}

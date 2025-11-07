@@ -1,0 +1,16 @@
+{
+  "iso_code": "NL-ZH",
+  "country_iso": "NL",
+  "country_name": "NL",
+  "region_name": "nl-zh",
+  "region_normalized": "nl-zh",
+  "flag": {
+    "svg": "NL/NL-ZH/flag.svg",
+    "source": "Flag of Zuid-Holland.svg"
+  },
+  "coat": {
+    "svg": "NL/NL-ZH/coat.svg",
+    "source": "Zuid-holland wapen.svg"
+  },
+  "data_source": "out"
+}

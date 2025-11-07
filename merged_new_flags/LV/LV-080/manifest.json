@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-080",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-080",
+  "region_normalized": "lv-080",
+  "flag": {
+    "svg": "LV/LV-080/flag.svg",
+    "source": "Ropažu novada karogs.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-080/coat.svg",
+    "source": "Ropažu novada ģerbonis.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "EE-171",
+  "country_iso": "EE",
+  "country_name": "EE",
+  "region_name": "ee-171",
+  "region_normalized": "ee-171",
+  "flag": {
+    "svg": "EE/EE-171/flag.svg",
+    "source": "Elva valla lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-171/coat.svg",
+    "source": "Elva valla vapp.svg"
+  },
+  "data_source": "out"
+}

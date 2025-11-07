@@ -1,0 +1,16 @@
+{
+  "iso_code": "MM-14",
+  "country_iso": "MM",
+  "country_name": "MM",
+  "region_name": "mm-14",
+  "region_normalized": "mm-14",
+  "flag": {
+    "svg": "MM/MM-14/flag.svg",
+    "source": "Flag of Chin State.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

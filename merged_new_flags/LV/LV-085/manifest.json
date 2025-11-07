@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-085",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-085",
+  "region_normalized": "lv-085",
+  "flag": {
+    "svg": null,
+    "source": "Salas novada karogs apstiprinaatais.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Salas novads COA.png"
+  },
+  "data_source": "out"
+}

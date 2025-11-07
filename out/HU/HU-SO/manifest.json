@@ -1,0 +1,14 @@
+{
+  "code": "HU-SO",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-SO/flag.svg",
+    "png": "HU/HU-SO/flag.png",
+    "source_filename": "FLAG-Somogy-megye.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-SO/coat.svg",
+    "png": "HU/HU-SO/coat.png",
+    "source_filename": "HUN Somogy megye COA.svg"
+  }
+}

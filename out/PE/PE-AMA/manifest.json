@@ -1,0 +1,14 @@
+{
+  "code": "PE-AMA",
+  "country": "PE",
+  "flag": {
+    "svg": "PE/PE-AMA/flag.svg",
+    "png": "PE/PE-AMA/flag.png",
+    "source_filename": "Amazonas bandera.svg"
+  },
+  "coat": {
+    "svg": "PE/PE-AMA/coat.svg",
+    "png": "PE/PE-AMA/coat.png",
+    "source_filename": "Escudo amazonasregion.svg"
+  }
+}

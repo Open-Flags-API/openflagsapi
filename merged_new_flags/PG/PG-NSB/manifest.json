@@ -1,0 +1,16 @@
+{
+  "iso_code": "PG-NSB",
+  "country_iso": "PG",
+  "country_name": "PG",
+  "region_name": "pg-nsb",
+  "region_normalized": "pg-nsb",
+  "flag": {
+    "svg": "PG/PG-NSB/flag.svg",
+    "source": "Flag of Bougainville.svg"
+  },
+  "coat": {
+    "svg": "PG/PG-NSB/coat.svg",
+    "source": "Emblem of Autonomous region of Bougainville.svg"
+  },
+  "data_source": "out"
+}

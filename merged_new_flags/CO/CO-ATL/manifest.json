@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-ATL",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-atl",
+  "region_normalized": "co-atl",
+  "flag": {
+    "svg": "CO/CO-ATL/flag.svg",
+    "source": "Flag of Atlántico.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-ATL/coat.svg",
+    "source": "Escudo del Atlántico.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "VE-N",
+  "country": "VE",
+  "flag": {
+    "svg": "VE/VE-N/flag.svg",
+    "png": "VE/VE-N/flag.png",
+    "source_filename": "Flag of Monagas State.svg"
+  },
+  "coat": {
+    "svg": "VE/VE-N/coat.svg",
+    "png": "VE/VE-N/coat.png",
+    "source_filename": "Escudo de Monagas.svg"
+  }
+}

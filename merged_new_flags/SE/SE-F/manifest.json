@@ -1,0 +1,16 @@
+{
+  "iso_code": "SE-F",
+  "country_iso": "SE",
+  "country_name": "SE",
+  "region_name": "se-f",
+  "region_normalized": "se-f",
+  "flag": {
+    "svg": "SE/SE-F/flag.svg",
+    "source": "Jönköpings län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-F/coat.svg",
+    "source": "Jönköping län vapen.svg"
+  },
+  "data_source": "out"
+}

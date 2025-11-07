@@ -1,0 +1,14 @@
+{
+  "code": "CO-CAU",
+  "country": "CO",
+  "flag": {
+    "svg": "CO/CO-CAU/flag.svg",
+    "png": "CO/CO-CAU/flag.png",
+    "source_filename": "Flag of Cauca.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-CAU/coat.svg",
+    "png": "CO/CO-CAU/coat.png",
+    "source_filename": "Escudo del Cauca.svg"
+  }
+}

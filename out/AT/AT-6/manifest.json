@@ -1,0 +1,14 @@
+{
+  "code": "AT-6",
+  "country": "AT",
+  "flag": {
+    "svg": "AT/AT-6/flag.svg",
+    "png": "AT/AT-6/flag.png",
+    "source_filename": "Flag of Styria.svg"
+  },
+  "coat": {
+    "svg": "AT/AT-6/coat.svg",
+    "png": "AT/AT-6/coat.png",
+    "source_filename": "Steiermark Wappen.svg"
+  }
+}

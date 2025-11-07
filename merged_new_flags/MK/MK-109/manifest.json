@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-109",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-109",
+  "region_normalized": "mk-109",
+  "flag": {
+    "svg": "MK/MK-109/flag.svg",
+    "source": "Flag of Čaška Municipality, North Macedonia.svg"
+  },
+  "coat": {
+    "svg": "MK/MK-109/coat.svg",
+    "source": "Coat of arms of Čaška Municipality.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-ES",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "br-es",
+  "region_normalized": "br-es",
+  "flag": {
+    "svg": "BR/BR-ES/flag.svg",
+    "source": "Bandeira do Espírito Santo.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-ES/coat.svg",
+    "source": "Brasão do Espírito Santo.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "EG-FYM",
+  "country_iso": "EG",
+  "country_name": "EG",
+  "region_name": "eg-fym",
+  "region_normalized": "eg-fym",
+  "flag": {
+    "svg": null,
+    "source": "Governadorat de Faium.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Fayoum Governorate.jpg"
+  },
+  "data_source": "out"
+}

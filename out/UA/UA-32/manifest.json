@@ -1,0 +1,14 @@
+{
+  "code": "UA-32",
+  "country": "UA",
+  "flag": {
+    "svg": "UA/UA-32/flag.svg",
+    "png": "UA/UA-32/flag.png",
+    "source_filename": "Flag of Kyiv Oblast.svg"
+  },
+  "coat": {
+    "svg": "UA/UA-32/coat.svg",
+    "png": "UA/UA-32/coat.png",
+    "source_filename": "Coat of Arms of Kiev Oblast.svg"
+  }
+}

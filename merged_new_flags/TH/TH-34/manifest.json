@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-34",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-34",
+  "region_normalized": "th-34",
+  "flag": {
+    "svg": "TH/TH-34/flag.svg",
+    "source": "Flag of Ubon Ratchathani Province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

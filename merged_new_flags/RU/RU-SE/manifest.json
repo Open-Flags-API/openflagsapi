@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-SE",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-se",
+  "region_normalized": "ru-se",
+  "flag": {
+    "svg": "RU/RU-SE/flag.svg",
+    "source": "Flag of North Ossetia.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-SE/coat.svg",
+    "source": "Emblem of North Ossetia.svg"
+  },
+  "data_source": "out"
+}

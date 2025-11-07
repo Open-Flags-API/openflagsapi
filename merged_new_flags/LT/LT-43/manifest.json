@@ -1,0 +1,16 @@
+{
+  "iso_code": "LT-43",
+  "country_iso": "LT",
+  "country_name": "LT",
+  "region_name": "lt-43",
+  "region_normalized": "lt-43",
+  "flag": {
+    "svg": "LT/LT-43/flag.svg",
+    "source": "Flag of Šiauliai.svg"
+  },
+  "coat": {
+    "svg": "LT/LT-43/coat.svg",
+    "source": "Coat of arms of Šiauliai Grand (Lithuania).svg"
+  },
+  "data_source": "out"
+}

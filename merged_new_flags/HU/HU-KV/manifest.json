@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-KV",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-kv",
+  "region_normalized": "hu-kv",
+  "flag": {
+    "svg": "HU/HU-KV/flag.svg",
+    "source": "Flag of Kaposvár.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-KV/coat.svg",
+    "source": "Coa Hungary Town Kaposvár.svg"
+  },
+  "data_source": "out"
+}

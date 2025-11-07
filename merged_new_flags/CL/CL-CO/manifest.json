@@ -1,0 +1,16 @@
+{
+  "iso_code": "CL-CO",
+  "country_iso": "CL",
+  "country_name": "CL",
+  "region_name": "cl-co",
+  "region_normalized": "cl-co",
+  "flag": {
+    "svg": "CL/CL-CO/flag.svg",
+    "source": "Flag of Coquimbo Region, Chile.svg"
+  },
+  "coat": {
+    "svg": "CL/CL-CO/coat.svg",
+    "source": "Coat of arms of Coquimbo Region, Chile.svg"
+  },
+  "data_source": "out"
+}

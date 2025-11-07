@@ -1,0 +1,14 @@
+{
+  "code": "IE-LD",
+  "country": "IE",
+  "flag": {
+    "svg": "IE/IE-LD/flag.svg",
+    "png": "IE/IE-LD/flag.png",
+    "source_filename": "Colours of Roscommon.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "IE/IE-LD/coat.png",
+    "source_filename": "Longford Coat of Arms.png"
+  }
+}

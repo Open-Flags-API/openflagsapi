@@ -1,0 +1,16 @@
+{
+  "iso_code": "MD-FL",
+  "country_iso": "MD",
+  "country_name": "MD",
+  "region_name": "md-fl",
+  "region_normalized": "md-fl",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Floreşti District.gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

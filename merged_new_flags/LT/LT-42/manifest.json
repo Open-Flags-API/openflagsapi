@@ -1,0 +1,16 @@
+{
+  "iso_code": "LT-42",
+  "country_iso": "LT",
+  "country_name": "LT",
+  "region_name": "lt-42",
+  "region_normalized": "lt-42",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "LT/LT-42/coat.svg",
+    "source": "LIT VL Šalčininkai CoA.svg"
+  },
+  "data_source": "out"
+}

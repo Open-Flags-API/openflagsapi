@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-43",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-43",
+  "region_normalized": "mt-43",
+  "flag": {
+    "svg": "MT/MT-43/flag.svg",
+    "source": "Flag of Qormi.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-43/coat.svg",
+    "source": "Qormi coa.svg"
+  },
+  "data_source": "out"
+}

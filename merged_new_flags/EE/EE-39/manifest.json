@@ -1,0 +1,16 @@
+{
+  "iso_code": "EE-39",
+  "country_iso": "EE",
+  "country_name": "EE",
+  "region_name": "ee-39",
+  "region_normalized": "ee-39",
+  "flag": {
+    "svg": "EE/EE-39/flag.svg",
+    "source": "Hiiumaa lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-39/coat.svg",
+    "source": "Hiiumaa vapp.svg"
+  },
+  "data_source": "out"
+}

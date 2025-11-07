@@ -1,0 +1,16 @@
+{
+  "iso_code": "PG-WHM",
+  "country_iso": "PG",
+  "country_name": "PG",
+  "region_name": "pg-whm",
+  "region_normalized": "pg-whm",
+  "flag": {
+    "svg": "PG/PG-WHM/flag.svg",
+    "source": "Flag of Western Highlands.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

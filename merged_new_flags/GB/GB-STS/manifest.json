@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-STS",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-sts",
+  "region_normalized": "gb-sts",
+  "flag": {
+    "svg": "GB/GB-STS/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-STS/coat.svg",
+    "source": null
+  },
+  "data_source": "out"
+}

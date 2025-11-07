@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-ZA",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-za",
+  "region_normalized": "hu-za",
+  "flag": {
+    "svg": "HU/HU-ZA/flag.svg",
+    "source": "FLAG-Zala-megye.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-ZA/coat.svg",
+    "source": "Coa Hungary County Zala (2010-).svg"
+  },
+  "data_source": "out"
+}

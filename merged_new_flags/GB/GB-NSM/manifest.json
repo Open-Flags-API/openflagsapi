@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-NSM",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-nsm",
+  "region_normalized": "gb-nsm",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

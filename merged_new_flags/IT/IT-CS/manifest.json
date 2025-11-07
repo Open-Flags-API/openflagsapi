@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-CS",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-cs",
+  "region_normalized": "it-cs",
+  "flag": {
+    "svg": "IT/IT-CS/flag.svg",
+    "source": "Provincia di Cosenza-Bandiera.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-CS/coat.svg",
+    "source": "Provincia di Cosenza-Stemma.svg"
+  },
+  "data_source": "out"
+}

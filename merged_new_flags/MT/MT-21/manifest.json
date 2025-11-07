@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-21",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-21",
+  "region_normalized": "mt-21",
+  "flag": {
+    "svg": "MT/MT-21/flag.svg",
+    "source": "Flag of Kalkara (1993-2009).svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "NI-CO",
+  "country_iso": "NI",
+  "country_name": "NI",
+  "region_name": "ni-co",
+  "region_normalized": "ni-co",
+  "flag": {
+    "svg": "NI/NI-CO/flag.svg",
+    "source": "Flag of Juigalpa.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

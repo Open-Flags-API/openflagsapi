@@ -1,0 +1,16 @@
+{
+  "iso_code": "BW-SE",
+  "country_iso": "BW",
+  "country_name": "BW",
+  "region_name": "bw-se",
+  "region_normalized": "bw-se",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-PUE",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "mx-pue",
+  "region_normalized": "mx-pue",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "MX/MX-PUE/coat.svg",
+    "source": "Coat of arms of Puebla.svg"
+  },
+  "data_source": "out"
+}

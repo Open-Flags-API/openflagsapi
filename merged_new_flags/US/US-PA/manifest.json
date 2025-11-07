@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-PA",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-pa",
+  "region_normalized": "us-pa",
+  "flag": {
+    "svg": "US/US-PA/flag.svg",
+    "source": "Flag of Pennsylvania.svg"
+  },
+  "coat": {
+    "svg": "US/US-PA/coat.svg",
+    "source": "Coat of arms of Pennsylvania.svg"
+  },
+  "data_source": "out"
+}

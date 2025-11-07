@@ -1,0 +1,14 @@
+{
+  "code": "LV-LPX",
+  "country": "LV",
+  "flag": {
+    "svg": "LV/LV-LPX/flag.svg",
+    "png": "LV/LV-LPX/flag.png",
+    "source_filename": "Flag of Liepāja.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-LPX/coat.svg",
+    "png": "LV/LV-LPX/coat.png",
+    "source_filename": "Coat of Arms of Liepāja.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-063",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-063",
+  "region_normalized": "lv-063",
+  "flag": {
+    "svg": null,
+    "source": "Mērsraga novads Flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Mērsraga novads COA.png"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "ID-PA",
+  "country": "ID",
+  "flag": {
+    "svg": "ID/ID-PA/flag.svg",
+    "png": "ID/ID-PA/flag.png",
+    "source_filename": "Flag of Papua 2.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-PA/coat.svg",
+    "png": "ID/ID-PA/coat.png",
+    "source_filename": "Coat of arms of Papua 2.svg"
+  }
+}

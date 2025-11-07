@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-37",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-37",
+  "region_normalized": "th-37",
+  "flag": {
+    "svg": null,
+    "source": "Flag Amnatcharoen Province.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

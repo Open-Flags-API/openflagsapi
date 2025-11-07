@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-VR",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-vr",
+  "region_normalized": "it-vr",
+  "flag": {
+    "svg": "IT/IT-VR/flag.svg",
+    "source": "Flag of the Province of Verona.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-VR/coat.svg",
+    "source": "Provincia di Verona-Stemma.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "IT-IM",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-IM/flag.svg",
+    "png": "IT/IT-IM/flag.png",
+    "source_filename": "Flag of the Province of Imperia.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-IM/coat.svg",
+    "png": "IT/IT-IM/coat.png",
+    "source_filename": "Coat of Arms of the Province of Imperia.svg"
+  }
+}

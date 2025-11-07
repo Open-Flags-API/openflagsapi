@@ -1,0 +1,14 @@
+{
+  "code": "AR-D",
+  "country": "AR",
+  "flag": {
+    "svg": "AR/AR-D/flag.svg",
+    "png": "AR/AR-D/flag.png",
+    "source_filename": "Bandera de la Provincia de San Luis.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-D/coat.svg",
+    "png": "AR/AR-D/coat.png",
+    "source_filename": "Escudo de la Provincia de San Luis.svg"
+  }
+}

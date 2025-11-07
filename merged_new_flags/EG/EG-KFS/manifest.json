@@ -1,0 +1,16 @@
+{
+  "iso_code": "EG-KFS",
+  "country_iso": "EG",
+  "country_name": "EG",
+  "region_name": "eg-kfs",
+  "region_normalized": "eg-kfs",
+  "flag": {
+    "svg": "EG/EG-KFS/flag.svg",
+    "source": "Flag of Kafr El-Sheikh Governorate - 01.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Kafr El-Sheikh Governorate.jpg"
+  },
+  "data_source": "out"
+}

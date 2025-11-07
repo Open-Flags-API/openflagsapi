@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-25",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-25",
+  "region_normalized": "fr-25",
+  "flag": {
+    "svg": "FR/FR-25/flag.svg",
+    "source": "Proposed flag of Doubs.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-25/coat.svg",
+    "source": "Blason département fr Doubs.svg"
+  },
+  "data_source": "out"
+}

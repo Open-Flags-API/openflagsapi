@@ -1,0 +1,14 @@
+{
+  "code": "NI-BO",
+  "country": "NI",
+  "flag": {
+    "svg": "NI/NI-BO/flag.svg",
+    "png": "NI/NI-BO/flag.png",
+    "source_filename": "Flag of Boaco.svg"
+  },
+  "coat": {
+    "svg": "NI/NI-BO/coat.svg",
+    "png": "NI/NI-BO/coat.png",
+    "source_filename": "Seal of Boaco.svg"
+  }
+}

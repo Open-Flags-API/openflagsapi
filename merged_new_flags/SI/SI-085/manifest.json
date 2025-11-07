@@ -1,0 +1,16 @@
+{
+  "iso_code": "SI-085",
+  "country_iso": "SI",
+  "country_name": "SI",
+  "region_name": "si-085",
+  "region_normalized": "si-085",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "COA-Novo mesto.gif"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-45",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-45",
+  "region_normalized": "it-45",
+  "flag": {
+    "svg": "IT/IT-45/flag.svg",
+    "source": "Flag of Emilia-Romagna (de facto).svg"
+  },
+  "coat": {
+    "svg": "IT/IT-45/coat.svg",
+    "source": "Regione-Emilia-Romagna-Stemma.svg"
+  },
+  "data_source": "out"
+}

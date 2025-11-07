@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-ARA",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-ara",
+  "region_normalized": "fr-ara",
+  "flag": {
+    "svg": "FR/FR-ARA/flag.svg",
+    "source": "Flag of the region Auvergne-Rhône-Alpes.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-ARA/coat.svg",
+    "source": "Blason Auvergne-Rhône-Alpes.svg"
+  },
+  "data_source": "out"
+}

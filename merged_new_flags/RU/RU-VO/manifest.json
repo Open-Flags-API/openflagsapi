@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-VO",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "voronezh",
+  "region_normalized": "voronezh",
+  "flag": {
+    "svg": "RU/RU-VO/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

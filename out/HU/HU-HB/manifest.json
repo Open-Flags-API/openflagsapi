@@ -1,0 +1,14 @@
+{
+  "code": "HU-HB",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-HB/flag.svg",
+    "png": "HU/HU-HB/flag.png",
+    "source_filename": "FLAG-Hajdú-Bihar-megye.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-HB/coat.svg",
+    "png": "HU/HU-HB/coat.png",
+    "source_filename": "HUN Hajdú-Bihar COA.svg"
+  }
+}

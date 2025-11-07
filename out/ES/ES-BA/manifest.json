@@ -1,0 +1,14 @@
+{
+  "code": "ES-BA",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-BA/flag.svg",
+    "png": "ES/ES-BA/flag.png",
+    "source_filename": "Provincia de Badajoz - Bandera.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-BA/coat.svg",
+    "png": "ES/ES-BA/coat.png",
+    "source_filename": "Provincia de Badajoz - Escudo.svg"
+  }
+}

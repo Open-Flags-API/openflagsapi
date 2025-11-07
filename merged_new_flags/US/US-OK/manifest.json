@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-OK",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "us-ok",
+  "region_normalized": "us-ok",
+  "flag": {
+    "svg": "US/US-OK/flag.svg",
+    "source": "Flag of Oklahoma.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

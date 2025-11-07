@@ -1,0 +1,14 @@
+{
+  "code": "HU-CS",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-CS/flag.svg",
+    "png": "HU/HU-CS/flag.png",
+    "source_filename": "Flag of Csongrad-Csanad megye.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-CS/coat.svg",
+    "png": "HU/HU-CS/coat.png",
+    "source_filename": "HU Csongrád megye COA.svg"
+  }
+}

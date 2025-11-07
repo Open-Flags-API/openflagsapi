@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-MI",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-mi",
+  "region_normalized": "hu-mi",
+  "flag": {
+    "svg": "HU/HU-MI/flag.svg",
+    "source": "Flag of Miskolc.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-MI/coat.svg",
+    "source": "HUN Miskolc Címer.svg"
+  },
+  "data_source": "out"
+}

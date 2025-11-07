@@ -1,0 +1,16 @@
+{
+  "iso_code": "IE-CE",
+  "country_iso": "IE",
+  "country_name": "IE",
+  "region_name": "ie-ce",
+  "region_normalized": "ie-ce",
+  "flag": {
+    "svg": "IE/IE-CE/flag.svg",
+    "source": "Flag of county Clare.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "County Clare Coat of Arms.png"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-MOW",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-mow",
+  "region_normalized": "ru-mow",
+  "flag": {
+    "svg": "RU/RU-MOW/flag.svg",
+    "source": "Flag of Moscow, Russia.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-MOW/coat.svg",
+    "source": "Coat of arms of Moscow.svg"
+  },
+  "data_source": "out"
+}

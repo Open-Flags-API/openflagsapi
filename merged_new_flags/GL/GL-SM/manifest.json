@@ -1,0 +1,16 @@
+{
+  "iso_code": "GL-SM",
+  "country_iso": "GL",
+  "country_name": "GL",
+  "region_name": "gl-sm",
+  "region_normalized": "gl-sm",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Sermersooq-coat-of-arms.jpg"
+  },
+  "data_source": "out"
+}

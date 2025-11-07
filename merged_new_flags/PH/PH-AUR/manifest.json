@@ -1,0 +1,16 @@
+{
+  "iso_code": "PH-AUR",
+  "country_iso": "PH",
+  "country_name": "PH",
+  "region_name": "ph-aur",
+  "region_normalized": "ph-aur",
+  "flag": {
+    "svg": null,
+    "source": "Vlag Fil Aurora.gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

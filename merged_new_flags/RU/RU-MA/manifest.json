@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-MA",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "mari-el",
+  "region_normalized": "mari-el",
+  "flag": {
+    "svg": "RU/RU-MA/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

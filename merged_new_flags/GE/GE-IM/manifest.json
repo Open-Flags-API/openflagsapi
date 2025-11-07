@@ -1,0 +1,16 @@
+{
+  "iso_code": "GE-IM",
+  "country_iso": "GE",
+  "country_name": "GE",
+  "region_name": "ge-im",
+  "region_normalized": "ge-im",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "BO-S",
+  "country": "BO",
+  "flag": {
+    "svg": "BO/BO-S/flag.svg",
+    "png": "BO/BO-S/flag.png",
+    "source_filename": "Flag of Santa Cruz.svg"
+  },
+  "coat": {
+    "svg": "BO/BO-S/coat.svg",
+    "png": "BO/BO-S/coat.png",
+    "source_filename": "Escudo de Santa Cruz de la Sierra.svg"
+  }
+}

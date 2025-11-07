@@ -1,0 +1,16 @@
+{
+  "iso_code": "AL-10",
+  "country_iso": "AL",
+  "country_name": "AL",
+  "region_name": "al-10",
+  "region_normalized": "al-10",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Shkodër County.png"
+  },
+  "coat": {
+    "svg": "AL/AL-10/coat.svg",
+    "source": "Stema e Qarkut Shkodër.svg"
+  },
+  "data_source": "out"
+}

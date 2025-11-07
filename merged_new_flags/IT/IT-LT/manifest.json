@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-LT",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-lt",
+  "region_normalized": "it-lt",
+  "flag": {
+    "svg": "IT/IT-LT/flag.svg",
+    "source": "Flag of The Province of Latina.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-LT/coat.svg",
+    "source": "Provincia di Latina-Stemma.svg"
+  },
+  "data_source": "out"
+}

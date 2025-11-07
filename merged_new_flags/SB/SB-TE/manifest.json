@@ -1,0 +1,16 @@
+{
+  "iso_code": "SB-TE",
+  "country_iso": "SB",
+  "country_name": "SB",
+  "region_name": "sb-te",
+  "region_normalized": "sb-te",
+  "flag": {
+    "svg": "SB/SB-TE/flag.svg",
+    "source": "Temotu province flag.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

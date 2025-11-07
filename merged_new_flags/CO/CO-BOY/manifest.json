@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-BOY",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-boy",
+  "region_normalized": "co-boy",
+  "flag": {
+    "svg": "CO/CO-BOY/flag.svg",
+    "source": "Flag of Boyacá Department.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-BOY/coat.svg",
+    "source": "Escudo de Boyacá.svg"
+  },
+  "data_source": "out"
+}

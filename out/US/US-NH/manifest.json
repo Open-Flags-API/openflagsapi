@@ -1,0 +1,14 @@
+{
+  "code": "US-NH",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-NH/flag.svg",
+    "png": "US/US-NH/flag.png",
+    "source_filename": "Flag of New Hampshire.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": null,
+    "source_filename": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-NGR",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-ngr",
+  "region_normalized": "ru-ngr",
+  "flag": {
+    "svg": "RU/RU-NGR/flag.svg",
+    "source": "Flag of Novgorod Oblast (Latest version).svg"
+  },
+  "coat": {
+    "svg": "RU/RU-NGR/coat.svg",
+    "source": "Coat of arms of Novgorod Oblast (Latest version).svg"
+  },
+  "data_source": "out"
+}

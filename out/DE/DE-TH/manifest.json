@@ -1,0 +1,14 @@
+{
+  "code": "DE-TH",
+  "country": "DE",
+  "flag": {
+    "svg": "DE/DE-TH/flag.svg",
+    "png": "DE/DE-TH/flag.png",
+    "source_filename": "Flag of Thuringia.svg"
+  },
+  "coat": {
+    "svg": "DE/DE-TH/coat.svg",
+    "png": "DE/DE-TH/coat.png",
+    "source_filename": "Coat of arms of Thuringia.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-074",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-074",
+  "region_normalized": "lv-074",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Priekules novads.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "LVA Priekules novads COA.png"
+  },
+  "data_source": "out"
+}

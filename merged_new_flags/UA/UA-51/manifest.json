@@ -1,0 +1,16 @@
+{
+  "iso_code": "UA-51",
+  "country_iso": "UA",
+  "country_name": "UA",
+  "region_name": "ua-51",
+  "region_normalized": "ua-51",
+  "flag": {
+    "svg": "UA/UA-51/flag.svg",
+    "source": "Flag of Odesa Oblast.svg"
+  },
+  "coat": {
+    "svg": "UA/UA-51/coat.svg",
+    "source": "Coat of Arms of Odesa Oblast.svg"
+  },
+  "data_source": "out"
+}

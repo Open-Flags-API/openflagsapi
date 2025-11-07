@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-009",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-009",
+  "region_normalized": "lv-009",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "LVA Apes novads COA.png"
+  },
+  "data_source": "out"
+}

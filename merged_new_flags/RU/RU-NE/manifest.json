@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-NE",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "nenets-autonomous-district",
+  "region_normalized": "nenets-autonomous-district",
+  "flag": {
+    "svg": "RU/RU-NE/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "HU-ZE",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-ZE/flag.svg",
+    "png": "HU/HU-ZE/flag.png",
+    "source_filename": "Flag of Zalaegerszeg.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-ZE/coat.svg",
+    "png": "HU/HU-ZE/coat.png",
+    "source_filename": "HUN Zalaegerszeg Címer.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-BEN",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-ben",
+  "region_normalized": "gb-ben",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-BEN/coat.svg",
+    "source": "Coat of arms of the London Borough of Brent.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "SK-TC",
+  "country": "SK",
+  "flag": {
+    "svg": "SK/SK-TC/flag.svg",
+    "png": "SK/SK-TC/flag.png",
+    "source_filename": "Trenciansky vlajka.svg"
+  },
+  "coat": {
+    "svg": "SK/SK-TC/coat.svg",
+    "png": "SK/SK-TC/coat.png",
+    "source_filename": "Coat of Arms of Trenčín Region.svg"
+  }
+}

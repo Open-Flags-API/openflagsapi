@@ -1,0 +1,16 @@
+{
+  "iso_code": "OM-SS",
+  "country_iso": "OM",
+  "country_name": "OM",
+  "region_name": "om-ss",
+  "region_normalized": "om-ss",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

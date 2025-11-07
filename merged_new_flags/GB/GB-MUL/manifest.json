@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-MUL",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-mul",
+  "region_normalized": "gb-mul",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

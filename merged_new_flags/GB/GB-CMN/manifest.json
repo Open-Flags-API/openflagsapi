@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-CMN",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-cmn",
+  "region_normalized": "gb-cmn",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-CMN/coat.svg",
+    "source": "Arms of Carmarthenshire County Council.svg"
+  },
+  "data_source": "out"
+}

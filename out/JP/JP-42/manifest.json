@@ -1,0 +1,14 @@
+{
+  "code": "JP-42",
+  "country": "JP",
+  "flag": {
+    "svg": "JP/JP-42/flag.svg",
+    "png": "JP/JP-42/flag.png",
+    "source_filename": "Flag of Nagasaki Prefecture.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "JP/JP-42/coat.png",
+    "source_filename": "Emblem of Nagasaki Prefecture.svg"
+  }
+}

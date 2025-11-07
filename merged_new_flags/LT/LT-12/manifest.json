@@ -1,0 +1,16 @@
+{
+  "iso_code": "LT-12",
+  "country_iso": "LT",
+  "country_name": "LT",
+  "region_name": "lt-12",
+  "region_normalized": "lt-12",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Jurbarkas.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Jurbarkas COA.gif"
+  },
+  "data_source": "out"
+}

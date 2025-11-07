@@ -1,0 +1,14 @@
+{
+  "code": "PE-AYA",
+  "country": "PE",
+  "flag": {
+    "svg": "PE/PE-AYA/flag.svg",
+    "png": "PE/PE-AYA/flag.png",
+    "source_filename": "Flag of Ayacucho.svg"
+  },
+  "coat": {
+    "svg": "PE/PE-AYA/coat.svg",
+    "png": "PE/PE-AYA/coat.png",
+    "source_filename": "Escudo de Ayacucho.svg"
+  }
+}

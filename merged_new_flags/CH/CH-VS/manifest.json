@@ -1,0 +1,16 @@
+{
+  "iso_code": "CH-VS",
+  "country_iso": "CH",
+  "country_name": "CH",
+  "region_name": "ch-vs",
+  "region_normalized": "ch-vs",
+  "flag": {
+    "svg": "CH/CH-VS/flag.svg",
+    "source": "Flag of Canton of Valais.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-VS/coat.svg",
+    "source": "Wappen Wallis matt.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "EE-809",
+  "country_iso": "EE",
+  "country_name": "EE",
+  "region_name": "ee-809",
+  "region_normalized": "ee-809",
+  "flag": {
+    "svg": "EE/EE-809/flag.svg",
+    "source": "Tori valla lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-809/coat.svg",
+    "source": "Tori valla vapp.svg"
+  },
+  "data_source": "out"
+}

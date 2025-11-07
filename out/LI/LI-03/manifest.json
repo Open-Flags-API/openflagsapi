@@ -1,0 +1,14 @@
+{
+  "code": "LI-03",
+  "country": "LI",
+  "flag": {
+    "svg": "LI/LI-03/flag.svg",
+    "png": "LI/LI-03/flag.png",
+    "source_filename": "Flag of Gamprin Liechtenstein-1.svg"
+  },
+  "coat": {
+    "svg": "LI/LI-03/coat.svg",
+    "png": "LI/LI-03/coat.png",
+    "source_filename": "Wappen Gamprin.svg"
+  }
+}

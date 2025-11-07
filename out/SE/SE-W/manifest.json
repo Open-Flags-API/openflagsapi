@@ -1,0 +1,14 @@
+{
+  "code": "SE-W",
+  "country": "SE",
+  "flag": {
+    "svg": "SE/SE-W/flag.svg",
+    "png": "SE/SE-W/flag.png",
+    "source_filename": "Dalarnas län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-W/coat.svg",
+    "png": "SE/SE-W/coat.png",
+    "source_filename": "Dalarna vapen.svg"
+  }
+}

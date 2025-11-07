@@ -1,0 +1,16 @@
+{
+  "iso_code": "EE-64",
+  "country_iso": "EE",
+  "country_name": "EE",
+  "region_name": "ee-64",
+  "region_normalized": "ee-64",
+  "flag": {
+    "svg": "EE/EE-64/flag.svg",
+    "source": "Põlvamaa lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-64/coat.svg",
+    "source": "Põlvamaa vapp.svg"
+  },
+  "data_source": "out"
+}

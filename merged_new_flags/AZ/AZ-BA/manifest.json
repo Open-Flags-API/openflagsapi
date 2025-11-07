@@ -1,0 +1,16 @@
+{
+  "iso_code": "AZ-BA",
+  "country_iso": "AZ",
+  "country_name": "AZ",
+  "region_name": "az-ba",
+  "region_normalized": "az-ba",
+  "flag": {
+    "svg": "AZ/AZ-BA/flag.svg",
+    "source": "Flag of Baku, Azerbaijan.svg"
+  },
+  "coat": {
+    "svg": "AZ/AZ-BA/coat.svg",
+    "source": "Coat of arms of Baku.svg"
+  },
+  "data_source": "out"
+}

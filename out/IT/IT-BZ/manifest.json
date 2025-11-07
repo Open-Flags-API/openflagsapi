@@ -1,0 +1,14 @@
+{
+  "code": "IT-BZ",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-BZ/flag.svg",
+    "png": "IT/IT-BZ/flag.png",
+    "source_filename": "Flag of South Tyrol.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-BZ/coat.svg",
+    "png": "IT/IT-BZ/coat.png",
+    "source_filename": "Suedtirol CoA.svg"
+  }
+}

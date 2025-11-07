@@ -1,0 +1,14 @@
+{
+  "code": "CR-G",
+  "country": "CR",
+  "flag": {
+    "svg": "CR/CR-G/flag.svg",
+    "png": "CR/CR-G/flag.png",
+    "source_filename": "Bandera de la Provincia de Guanacaste.svg"
+  },
+  "coat": {
+    "svg": "CR/CR-G/coat.svg",
+    "png": "CR/CR-G/coat.png",
+    "source_filename": "Escudo de la Provincia de Guanacaste.svg"
+  }
+}

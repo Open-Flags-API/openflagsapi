@@ -1,0 +1,14 @@
+{
+  "code": "PH-MDC",
+  "country": "PH",
+  "flag": {
+    "svg": null,
+    "png": "PH/PH-MDC/flag.png",
+    "source_filename": "Occ. Mindoro Flag.png"
+  },
+  "coat": {
+    "svg": "PH/PH-MDC/coat.svg",
+    "png": "PH/PH-MDC/coat.png",
+    "source_filename": "Occ Mindoro Former seal.svg"
+  }
+}

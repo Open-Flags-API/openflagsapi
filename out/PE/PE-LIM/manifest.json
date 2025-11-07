@@ -1,0 +1,14 @@
+{
+  "code": "PE-LIM",
+  "country": "PE",
+  "flag": {
+    "svg": "PE/PE-LIM/flag.svg",
+    "png": "PE/PE-LIM/flag.png",
+    "source_filename": "Lima region flag.svg"
+  },
+  "coat": {
+    "svg": "PE/PE-LIM/coat.svg",
+    "png": "PE/PE-LIM/coat.png",
+    "source_filename": "Coat of arms of Lima, Lima region.svg"
+  }
+}

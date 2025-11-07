@@ -1,0 +1,16 @@
+{
+  "iso_code": "BG-01",
+  "country_iso": "BG",
+  "country_name": "BG",
+  "region_name": "bg-01",
+  "region_normalized": "bg-01",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "BG/BG-01/coat.svg",
+    "source": "Gerb blagoevgrad.svg"
+  },
+  "data_source": "out"
+}

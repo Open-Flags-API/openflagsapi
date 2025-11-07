@@ -1,0 +1,16 @@
+{
+  "iso_code": "US-KE",
+  "country_iso": "US",
+  "country_name": "usa",
+  "region_name": "kentucky",
+  "region_normalized": "kentucky",
+  "flag": {
+    "svg": "US/US-KE/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

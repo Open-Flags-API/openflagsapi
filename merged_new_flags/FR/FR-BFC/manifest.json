@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-BFC",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-bfc",
+  "region_normalized": "fr-bfc",
+  "flag": {
+    "svg": "FR/FR-BFC/flag.svg",
+    "source": "Flag of the region Bourgogne-Franche-Comté.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-BFC/coat.svg",
+    "source": "Blason région fr Bourgogne-Franche-Comté.svg"
+  },
+  "data_source": "out"
+}

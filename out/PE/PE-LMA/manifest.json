@@ -1,0 +1,14 @@
+{
+  "code": "PE-LMA",
+  "country": "PE",
+  "flag": {
+    "svg": "PE/PE-LMA/flag.svg",
+    "png": "PE/PE-LMA/flag.png",
+    "source_filename": "Flag of Lima.svg"
+  },
+  "coat": {
+    "svg": "PE/PE-LMA/coat.svg",
+    "png": "PE/PE-LMA/coat.png",
+    "source_filename": "Coat of arms of Lima.svg"
+  }
+}

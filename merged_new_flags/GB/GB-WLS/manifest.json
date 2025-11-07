@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-WLS",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-wls",
+  "region_normalized": "gb-wls",
+  "flag": {
+    "svg": "GB/GB-WLS/flag.svg",
+    "source": "Flag of Wales.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-WLS/coat.svg",
+    "source": "Royal Badge of Wales (2008-2024).svg"
+  },
+  "data_source": "out"
+}

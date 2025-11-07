@@ -1,0 +1,14 @@
+{
+  "code": "FI-07",
+  "country": "FI",
+  "flag": {
+    "svg": "FI/FI-07/flag.svg",
+    "png": "FI/FI-07/flag.png",
+    "source_filename": "Keski-Pohjanmaa.lippu.svg"
+  },
+  "coat": {
+    "svg": "FI/FI-07/coat.svg",
+    "png": "FI/FI-07/coat.png",
+    "source_filename": "Keski-Pohjanmaa.vaakuna.svg"
+  }
+}

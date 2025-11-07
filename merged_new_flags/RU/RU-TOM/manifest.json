@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-TOM",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-tom",
+  "region_normalized": "ru-tom",
+  "flag": {
+    "svg": "RU/RU-TOM/flag.svg",
+    "source": "Flag of Tomsk Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-TOM/coat.svg",
+    "source": "Coat of arms of Tomsk Oblast, Russia.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "CO-MAG",
+  "country": "CO",
+  "flag": {
+    "svg": "CO/CO-MAG/flag.svg",
+    "png": "CO/CO-MAG/flag.png",
+    "source_filename": "Flag of Magdalena.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-MAG/coat.svg",
+    "png": "CO/CO-MAG/coat.png",
+    "source_filename": "Escudo del Magdalena.svg"
+  }
+}

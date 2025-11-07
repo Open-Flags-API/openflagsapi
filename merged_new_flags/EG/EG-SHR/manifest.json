@@ -1,0 +1,16 @@
+{
+  "iso_code": "EG-SHR",
+  "country_iso": "EG",
+  "country_name": "EG",
+  "region_name": "eg-shr",
+  "region_normalized": "eg-shr",
+  "flag": {
+    "svg": "EG/EG-SHR/flag.svg",
+    "source": "Flag of Ash Sharqiyah.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Sharqia Govenorate.JPG"
+  },
+  "data_source": "out"
+}

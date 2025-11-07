@@ -1,0 +1,14 @@
+{
+  "code": "NL-FR",
+  "country": "NL",
+  "flag": {
+    "svg": "NL/NL-FR/flag.svg",
+    "png": "NL/NL-FR/flag.png",
+    "source_filename": "Frisian flag.svg"
+  },
+  "coat": {
+    "svg": "NL/NL-FR/coat.svg",
+    "png": "NL/NL-FR/coat.png",
+    "source_filename": "Friesland wapen.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MH-MAJ",
+  "country_iso": "MH",
+  "country_name": "marshall-islands",
+  "region_name": "mh-maj",
+  "region_normalized": "mh-maj",
+  "flag": {
+    "svg": "MH/MH-MAJ/flag.svg",
+    "source": "Majuro Atoll Flag.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "HU-SH",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-SH/flag.svg",
+    "png": "HU/HU-SH/flag.png",
+    "source_filename": "Flag of Szombathely.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-SH/coat.svg",
+    "png": "HU/HU-SH/coat.png",
+    "source_filename": "HUN Szombathely Címer.svg"
+  }
+}

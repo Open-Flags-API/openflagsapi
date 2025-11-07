@@ -1,0 +1,16 @@
+{
+  "iso_code": "ZA-LP",
+  "country_iso": "ZA",
+  "country_name": "ZA",
+  "region_name": "za-lp",
+  "region_normalized": "za-lp",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

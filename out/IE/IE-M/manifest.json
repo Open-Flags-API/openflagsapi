@@ -1,0 +1,14 @@
+{
+  "code": "IE-M",
+  "country": "IE",
+  "flag": {
+    "svg": "IE/IE-M/flag.svg",
+    "png": "IE/IE-M/flag.png",
+    "source_filename": "Flag of Munster.svg"
+  },
+  "coat": {
+    "svg": "IE/IE-M/coat.svg",
+    "png": "IE/IE-M/coat.png",
+    "source_filename": "Coat of arms of Munster.svg"
+  }
+}

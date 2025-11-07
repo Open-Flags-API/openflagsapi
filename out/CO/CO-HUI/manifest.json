@@ -1,0 +1,14 @@
+{
+  "code": "CO-HUI",
+  "country": "CO",
+  "flag": {
+    "svg": "CO/CO-HUI/flag.svg",
+    "png": "CO/CO-HUI/flag.png",
+    "source_filename": "Flag of Huila.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-HUI/coat.svg",
+    "png": "CO/CO-HUI/coat.png",
+    "source_filename": "Heráldica del Escudo del Huila.svg"
+  }
+}

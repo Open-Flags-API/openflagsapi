@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-SO",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-so",
+  "region_normalized": "it-so",
+  "flag": {
+    "svg": "IT/IT-SO/flag.svg",
+    "source": "Flag of the Province of Sondrio.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-SO/coat.svg",
+    "source": "Provincia di Sondrio-Stemma.svg"
+  },
+  "data_source": "out"
+}

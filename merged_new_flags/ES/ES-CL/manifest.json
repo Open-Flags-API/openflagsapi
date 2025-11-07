@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-CL",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-cl",
+  "region_normalized": "es-cl",
+  "flag": {
+    "svg": "ES/ES-CL/flag.svg",
+    "source": "Flag of Castile and León.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-CL/coat.svg",
+    "source": "Escudo de Castilla y León - Versión heráldica oficial.svg"
+  },
+  "data_source": "out"
+}

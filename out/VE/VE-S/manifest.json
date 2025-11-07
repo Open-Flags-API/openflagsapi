@@ -1,0 +1,14 @@
+{
+  "code": "VE-S",
+  "country": "VE",
+  "flag": {
+    "svg": "VE/VE-S/flag.svg",
+    "png": "VE/VE-S/flag.png",
+    "source_filename": "Flag of Táchira.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "VE/VE-S/coat.png",
+    "source_filename": "Escudo de Armas del Estado Táchira (1878) sin color.jpg"
+  }
+}

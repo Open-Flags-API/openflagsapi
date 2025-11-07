@@ -1,0 +1,16 @@
+{
+  "iso_code": "TV-NMA",
+  "country_iso": "TV",
+  "country_name": "TV",
+  "region_name": "tv-nma",
+  "region_normalized": "tv-nma",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

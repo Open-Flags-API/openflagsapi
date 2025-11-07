@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-IM",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-im",
+  "region_normalized": "it-im",
+  "flag": {
+    "svg": "IT/IT-IM/flag.svg",
+    "source": "Flag of the Province of Imperia.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-IM/coat.svg",
+    "source": "Coat of Arms of the Province of Imperia.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "DE-BR",
+  "country_iso": "DE",
+  "country_name": "germany",
+  "region_name": "bremen",
+  "region_normalized": "bremen",
+  "flag": {
+    "svg": "DE/DE-BR/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

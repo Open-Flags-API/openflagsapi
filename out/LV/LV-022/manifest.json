@@ -1,0 +1,14 @@
+{
+  "code": "LV-022",
+  "country": "LV",
+  "flag": {
+    "svg": "LV/LV-022/flag.svg",
+    "png": "LV/LV-022/flag.png",
+    "source_filename": "Cēsu novada karogs.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-022/coat.svg",
+    "png": "LV/LV-022/coat.png",
+    "source_filename": "Cēsu novada ģerbonis.svg"
+  }
+}

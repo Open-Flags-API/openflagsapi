@@ -1,0 +1,14 @@
+{
+  "code": "CH-NW",
+  "country": "CH",
+  "flag": {
+    "svg": "CH/CH-NW/flag.svg",
+    "png": "CH/CH-NW/flag.png",
+    "source_filename": "Flag of Canton of Nidwalden.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-NW/coat.svg",
+    "png": "CH/CH-NW/coat.png",
+    "source_filename": "Wappen Nidwalden matt.svg"
+  }
+}

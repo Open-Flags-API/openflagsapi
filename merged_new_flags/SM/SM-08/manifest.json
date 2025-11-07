@@ -1,0 +1,16 @@
+{
+  "iso_code": "SM-08",
+  "country_iso": "SM",
+  "country_name": "SM",
+  "region_name": "sm-08",
+  "region_normalized": "sm-08",
+  "flag": {
+    "svg": "SM/SM-08/flag.svg",
+    "source": "Montegiardino (RSM)-Bandiera.svg"
+  },
+  "coat": {
+    "svg": "SM/SM-08/coat.svg",
+    "source": "Montegiardino (RSM)-Stemma.svg"
+  },
+  "data_source": "out"
+}

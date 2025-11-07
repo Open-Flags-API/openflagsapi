@@ -1,0 +1,16 @@
+{
+  "iso_code": "UA-18",
+  "country_iso": "UA",
+  "country_name": "UA",
+  "region_name": "ua-18",
+  "region_normalized": "ua-18",
+  "flag": {
+    "svg": "UA/UA-18/flag.svg",
+    "source": "Flag of Zhytomyr Oblast.svg"
+  },
+  "coat": {
+    "svg": "UA/UA-18/coat.svg",
+    "source": "Coat of Arms of Zhytomyr Oblast.svg"
+  },
+  "data_source": "out"
+}

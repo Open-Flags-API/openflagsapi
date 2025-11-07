@@ -1,0 +1,16 @@
+{
+  "iso_code": "TT-PED",
+  "country_iso": "TT",
+  "country_name": "TT",
+  "region_name": "tt-ped",
+  "region_normalized": "tt-ped",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

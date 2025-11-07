@@ -1,0 +1,16 @@
+{
+  "iso_code": "KG-B",
+  "country_iso": "KG",
+  "country_name": "KG",
+  "region_name": "kg-b",
+  "region_normalized": "kg-b",
+  "flag": {
+    "svg": "KG/KG-B/flag.svg",
+    "source": "Batken obl flag.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

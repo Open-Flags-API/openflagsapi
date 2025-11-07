@@ -1,0 +1,14 @@
+{
+  "code": "ES-CL",
+  "country": "ES",
+  "flag": {
+    "svg": "ES/ES-CL/flag.svg",
+    "png": "ES/ES-CL/flag.png",
+    "source_filename": "Flag of Castile and León.svg"
+  },
+  "coat": {
+    "svg": "ES/ES-CL/coat.svg",
+    "png": "ES/ES-CL/coat.png",
+    "source_filename": "Escudo de Castilla y León - Versión heráldica oficial.svg"
+  }
+}

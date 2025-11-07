@@ -1,0 +1,14 @@
+{
+  "code": "MY-07",
+  "country": "MY",
+  "flag": {
+    "svg": "MY/MY-07/flag.svg",
+    "png": "MY/MY-07/flag.png",
+    "source_filename": "Flag of Penang (Malaysia).svg"
+  },
+  "coat": {
+    "svg": "MY/MY-07/coat.svg",
+    "png": "MY/MY-07/coat.png",
+    "source_filename": "Coat of arms of Penang.svg"
+  }
+}

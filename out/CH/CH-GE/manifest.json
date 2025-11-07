@@ -1,0 +1,14 @@
+{
+  "code": "CH-GE",
+  "country": "CH",
+  "flag": {
+    "svg": "CH/CH-GE/flag.svg",
+    "png": "CH/CH-GE/flag.png",
+    "source_filename": "Flag of Canton of Geneva.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-GE/coat.svg",
+    "png": "CH/CH-GE/coat.png",
+    "source_filename": "CHE Canton de Genève écu seul COA.svg"
+  }
+}

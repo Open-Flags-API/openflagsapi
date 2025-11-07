@@ -1,0 +1,16 @@
+{
+  "iso_code": "MU-GP",
+  "country_iso": "MU",
+  "country_name": "MU",
+  "region_name": "mu-gp",
+  "region_normalized": "mu-gp",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

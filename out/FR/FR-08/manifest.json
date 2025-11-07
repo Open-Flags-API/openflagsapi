@@ -1,0 +1,14 @@
+{
+  "code": "FR-08",
+  "country": "FR",
+  "flag": {
+    "svg": "FR/FR-08/flag.svg",
+    "png": "FR/FR-08/flag.png",
+    "source_filename": "Drapeau fr département Ardennes.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-08/coat.svg",
+    "png": "FR/FR-08/coat.png",
+    "source_filename": "Blason département fr Ardennes.svg"
+  }
+}

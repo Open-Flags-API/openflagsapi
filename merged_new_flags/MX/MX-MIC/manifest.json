@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-MIC",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "mx-mic",
+  "region_normalized": "mx-mic",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "MX/MX-MIC/coat.svg",
+    "source": "Escudo del Estado de Michoacán.svg"
+  },
+  "data_source": "out"
+}

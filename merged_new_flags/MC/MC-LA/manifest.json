@@ -1,0 +1,16 @@
+{
+  "iso_code": "MC-LA",
+  "country_iso": "MC",
+  "country_name": "MC",
+  "region_name": "mc-la",
+  "region_normalized": "mc-la",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

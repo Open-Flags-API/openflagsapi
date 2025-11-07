@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-006",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-006",
+  "region_normalized": "lv-006",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Alsungas novads COA.png"
+  },
+  "data_source": "out"
+}

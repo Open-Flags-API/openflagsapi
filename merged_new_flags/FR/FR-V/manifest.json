@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-V",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-v",
+  "region_normalized": "fr-v",
+  "flag": {
+    "svg": "FR/FR-V/flag.svg",
+    "source": "Flag of Rhône-Alpes.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-V/coat.svg",
+    "source": "Blason Rhône-Alpes Gendarmerie.svg"
+  },
+  "data_source": "out"
+}

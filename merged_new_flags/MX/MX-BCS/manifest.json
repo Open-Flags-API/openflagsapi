@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-BCS",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "mx-bcs",
+  "region_normalized": "mx-bcs",
+  "flag": {
+    "svg": "MX/MX-BCS/flag.svg",
+    "source": "Flag of Baja California Sur.svg"
+  },
+  "coat": {
+    "svg": "MX/MX-BCS/coat.svg",
+    "source": "Coat of arms of Baja California Sur.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "LT-AL",
+  "country": "LT",
+  "flag": {
+    "svg": "LT/LT-AL/flag.svg",
+    "png": "LT/LT-AL/flag.png",
+    "source_filename": "Alytus County flag.svg"
+  },
+  "coat": {
+    "svg": "LT/LT-AL/coat.svg",
+    "png": "LT/LT-AL/coat.png",
+    "source_filename": "LTA Alytaus apskritis COA.svg"
+  }
+}

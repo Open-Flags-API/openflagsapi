@@ -1,0 +1,14 @@
+{
+  "code": "DE-ST",
+  "country": "DE",
+  "flag": {
+    "svg": "DE/DE-ST/flag.svg",
+    "png": "DE/DE-ST/flag.png",
+    "source_filename": "Flag of Saxony-Anhalt (state).svg"
+  },
+  "coat": {
+    "svg": "DE/DE-ST/coat.svg",
+    "png": "DE/DE-ST/coat.png",
+    "source_filename": "Wappen Sachsen-Anhalt.svg"
+  }
+}

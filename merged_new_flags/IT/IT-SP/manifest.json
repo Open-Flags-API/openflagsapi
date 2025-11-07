@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-SP",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-sp",
+  "region_normalized": "it-sp",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IT/IT-SP/coat.svg",
+    "source": "Provincia della Spezia-Stemma.svg"
+  },
+  "data_source": "out"
+}

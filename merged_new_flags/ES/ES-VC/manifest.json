@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-VC",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-vc",
+  "region_normalized": "es-vc",
+  "flag": {
+    "svg": "ES/ES-VC/flag.svg",
+    "source": "Flag of the Land of Valencia (official).svg"
+  },
+  "coat": {
+    "svg": "ES/ES-VC/coat.svg",
+    "source": "Emblema de la Generalitat Valenciana.svg"
+  },
+  "data_source": "out"
+}

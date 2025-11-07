@@ -1,0 +1,14 @@
+{
+  "code": "HR-01",
+  "country": "HR",
+  "flag": {
+    "svg": "HR/HR-01/flag.svg",
+    "png": "HR/HR-01/flag.png",
+    "source_filename": "Flag of Zagreb County.svg"
+  },
+  "coat": {
+    "svg": "HR/HR-01/coat.svg",
+    "png": "HR/HR-01/coat.png",
+    "source_filename": "Coat of arms of Zagreb County.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-NI",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "nizhny-novgorod",
+  "region_normalized": "nizhny-novgorod",
+  "flag": {
+    "svg": "RU/RU-NI/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

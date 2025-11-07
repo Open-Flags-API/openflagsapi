@@ -1,0 +1,16 @@
+{
+  "iso_code": "SE-W",
+  "country_iso": "SE",
+  "country_name": "SE",
+  "region_name": "se-w",
+  "region_normalized": "se-w",
+  "flag": {
+    "svg": "SE/SE-W/flag.svg",
+    "source": "Dalarnas län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-W/coat.svg",
+    "source": "Dalarna vapen.svg"
+  },
+  "data_source": "out"
+}

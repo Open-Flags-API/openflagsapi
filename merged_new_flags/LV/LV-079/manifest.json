@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-079",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-079",
+  "region_normalized": "lv-079",
+  "flag": {
+    "svg": "LV/LV-079/flag.svg",
+    "source": "Rojas pagasta karogs.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-079/coat.svg",
+    "source": "Rojas novads COA.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "PG-WPD",
+  "country_iso": "PG",
+  "country_name": "PG",
+  "region_name": "pg-wpd",
+  "region_normalized": "pg-wpd",
+  "flag": {
+    "svg": "PG/PG-WPD/flag.svg",
+    "source": "Flag of Western Province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

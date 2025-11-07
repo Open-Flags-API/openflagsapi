@@ -1,0 +1,16 @@
+{
+  "iso_code": "SI-024",
+  "country_iso": "SI",
+  "country_name": "SI",
+  "region_name": "si-024",
+  "region_normalized": "si-024",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Dornava.png"
+  },
+  "data_source": "out"
+}

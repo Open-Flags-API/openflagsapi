@@ -1,0 +1,16 @@
+{
+  "iso_code": "ES-TF",
+  "country_iso": "ES",
+  "country_name": "ES",
+  "region_name": "es-tf",
+  "region_normalized": "es-tf",
+  "flag": {
+    "svg": null,
+    "source": "Bandera Provincial de Santa Cruz de Tenerife.png"
+  },
+  "coat": {
+    "svg": "ES/ES-TF/coat.svg",
+    "source": "Provincia de Santa Cruz de Tenerife - Escudo.svg"
+  },
+  "data_source": "out"
+}

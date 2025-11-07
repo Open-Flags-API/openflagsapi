@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-SE",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "severn-cross",
+  "region_normalized": "severn-cross",
+  "flag": {
+    "svg": "GB/GB-SE/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "public"
+}

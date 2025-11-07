@@ -1,0 +1,16 @@
+{
+  "iso_code": "NG-BA",
+  "country_iso": "NG",
+  "country_name": "NG",
+  "region_name": "ng-ba",
+  "region_normalized": "ng-ba",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "BAUCHI state coat.png"
+  },
+  "data_source": "out"
+}

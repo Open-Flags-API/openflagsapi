@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-MOS",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-mos",
+  "region_normalized": "ru-mos",
+  "flag": {
+    "svg": "RU/RU-MOS/flag.svg",
+    "source": "Flag of Moscow Oblast (large).svg"
+  },
+  "coat": {
+    "svg": "RU/RU-MOS/coat.svg",
+    "source": "Coat of arms of Moscow Oblast.svg"
+  },
+  "data_source": "out"
+}

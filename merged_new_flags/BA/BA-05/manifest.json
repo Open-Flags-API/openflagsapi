@@ -1,0 +1,16 @@
+{
+  "iso_code": "BA-05",
+  "country_iso": "BA",
+  "country_name": "BA",
+  "region_name": "ba-05",
+  "region_normalized": "ba-05",
+  "flag": {
+    "svg": "BA/BA-05/flag.svg",
+    "source": "Flag of Bosnian Podrinje.svg"
+  },
+  "coat": {
+    "svg": "BA/BA-05/coat.svg",
+    "source": "Coat of arms of Bosnian Podrinje.svg"
+  },
+  "data_source": "out"
+}

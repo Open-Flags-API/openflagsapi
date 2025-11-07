@@ -1,0 +1,16 @@
+{
+  "iso_code": "IE-SO",
+  "country_iso": "IE",
+  "country_name": "IE",
+  "region_name": "ie-so",
+  "region_normalized": "ie-so",
+  "flag": {
+    "svg": "IE/IE-SO/flag.svg",
+    "source": "Flag of county Sligo.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Sligococo.png"
+  },
+  "data_source": "out"
+}

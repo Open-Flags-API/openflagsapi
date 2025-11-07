@@ -1,0 +1,16 @@
+{
+  "iso_code": "EE-441",
+  "country_iso": "EE",
+  "country_name": "EE",
+  "region_name": "ee-441",
+  "region_normalized": "ee-441",
+  "flag": {
+    "svg": "EE/EE-441/flag.svg",
+    "source": "Lääne-Nigula valla lipp.svg"
+  },
+  "coat": {
+    "svg": "EE/EE-441/coat.svg",
+    "source": "Lääne-Nigula valla vapp.svg"
+  },
+  "data_source": "out"
+}

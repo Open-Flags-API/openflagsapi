@@ -1,0 +1,16 @@
+{
+  "iso_code": "SV-SA",
+  "country_iso": "SV",
+  "country_name": "SV",
+  "region_name": "sv-sa",
+  "region_normalized": "sv-sa",
+  "flag": {
+    "svg": null,
+    "source": "Bandera de Santa Ana, El Salvador.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

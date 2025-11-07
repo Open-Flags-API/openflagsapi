@@ -1,0 +1,14 @@
+{
+  "code": "IT-OR",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-OR/flag.svg",
+    "png": "IT/IT-OR/flag.png",
+    "source_filename": "Flag of the Province of Oristano.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-OR/coat.svg",
+    "png": "IT/IT-OR/coat.png",
+    "source_filename": "Provincia di Oristano-Stemma.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-KR",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-kr",
+  "region_normalized": "it-kr",
+  "flag": {
+    "svg": "IT/IT-KR/flag.svg",
+    "source": "Flag of the Province of Crotone.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-KR/coat.svg",
+    "source": "Provincia di Crotone-Stemma.svg"
+  },
+  "data_source": "out"
+}

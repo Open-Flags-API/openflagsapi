@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-108",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-108",
+  "region_normalized": "lv-108",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Viļakas novads.png"
+  },
+  "coat": {
+    "svg": "LV/LV-108/coat.svg",
+    "source": "Viļakas pilsētas ģerbonis.svg"
+  },
+  "data_source": "out"
+}

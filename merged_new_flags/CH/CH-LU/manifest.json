@@ -1,0 +1,16 @@
+{
+  "iso_code": "CH-LU",
+  "country_iso": "CH",
+  "country_name": "CH",
+  "region_name": "ch-lu",
+  "region_normalized": "ch-lu",
+  "flag": {
+    "svg": "CH/CH-LU/flag.svg",
+    "source": "Flag of Canton of Lucerne.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-LU/coat.svg",
+    "source": "Wappen Luzern matt.svg"
+  },
+  "data_source": "out"
+}

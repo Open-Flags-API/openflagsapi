@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-27",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-27",
+  "region_normalized": "fr-27",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "FR/FR-27/coat.svg",
+    "source": "Blason département fr Eure.svg"
+  },
+  "data_source": "out"
+}

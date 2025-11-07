@@ -1,0 +1,14 @@
+{
+  "code": "RS-VO",
+  "country": "RS",
+  "flag": {
+    "svg": "RS/RS-VO/flag.svg",
+    "png": "RS/RS-VO/flag.png",
+    "source_filename": "Flag of Vojvodina.svg"
+  },
+  "coat": {
+    "svg": "RS/RS-VO/coat.svg",
+    "png": "RS/RS-VO/coat.png",
+    "source_filename": "Coat of arms of Vojvodina.svg"
+  }
+}

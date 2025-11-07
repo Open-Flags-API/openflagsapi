@@ -1,0 +1,14 @@
+{
+  "code": "JP-34",
+  "country": "JP",
+  "flag": {
+    "svg": "JP/JP-34/flag.svg",
+    "png": "JP/JP-34/flag.png",
+    "source_filename": "Flag of Hiroshima Prefecture.svg"
+  },
+  "coat": {
+    "svg": "JP/JP-34/coat.svg",
+    "png": "JP/JP-34/coat.png",
+    "source_filename": "Emblem of Hiroshima Prefecture.svg"
+  }
+}

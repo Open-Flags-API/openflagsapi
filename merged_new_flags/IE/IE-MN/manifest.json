@@ -1,0 +1,16 @@
+{
+  "iso_code": "IE-MN",
+  "country_iso": "IE",
+  "country_name": "IE",
+  "region_name": "ie-mn",
+  "region_normalized": "ie-mn",
+  "flag": {
+    "svg": "IE/IE-MN/flag.svg",
+    "source": "Colours of Monaghan.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "County Monaghan CoA.png"
+  },
+  "data_source": "out"
+}

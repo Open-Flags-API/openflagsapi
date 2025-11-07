@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-CZ",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-cz",
+  "region_normalized": "it-cz",
+  "flag": {
+    "svg": "IT/IT-CZ/flag.svg",
+    "source": "Flag of the Province of Catanzaro.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-CZ/coat.svg",
+    "source": "Coat of Arms of the Province of Catanzaro.svg"
+  },
+  "data_source": "out"
+}

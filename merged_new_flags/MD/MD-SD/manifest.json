@@ -1,0 +1,16 @@
+{
+  "iso_code": "MD-SD",
+  "country_iso": "MD",
+  "country_name": "MD",
+  "region_name": "md-sd",
+  "region_normalized": "md-sd",
+  "flag": {
+    "svg": null,
+    "source": "Soldanesti rajon flag.gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Soldanesti rajon coa.gif"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "LI-08",
+  "country_iso": "LI",
+  "country_name": "LI",
+  "region_name": "li-08",
+  "region_normalized": "li-08",
+  "flag": {
+    "svg": "LI/LI-08/flag.svg",
+    "source": "Flag of Schellenberg Liechtenstein-1.svg"
+  },
+  "coat": {
+    "svg": "LI/LI-08/coat.svg",
+    "source": "Wappen Schellenberg.svg"
+  },
+  "data_source": "out"
+}

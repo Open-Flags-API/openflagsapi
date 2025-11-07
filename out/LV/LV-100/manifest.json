@@ -1,0 +1,14 @@
+{
+  "code": "LV-100",
+  "country": "LV",
+  "flag": {
+    "svg": null,
+    "png": null,
+    "source_filename": null
+  },
+  "coat": {
+    "svg": "LV/LV-100/coat.svg",
+    "png": "LV/LV-100/coat.png",
+    "source_filename": "Vaiņodes novads COA.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "SE-T",
+  "country_iso": "SE",
+  "country_name": "SE",
+  "region_name": "se-t",
+  "region_normalized": "se-t",
+  "flag": {
+    "svg": "SE/SE-T/flag.svg",
+    "source": "Örebro län vapenflagga.svg"
+  },
+  "coat": {
+    "svg": "SE/SE-T/coat.svg",
+    "source": "Örebro län vapen.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "AD-05",
+  "country": "AD",
+  "flag": {
+    "svg": "AD/AD-05/flag.svg",
+    "png": "AD/AD-05/flag.png",
+    "source_filename": "Flag of Ordino.svg"
+  },
+  "coat": {
+    "svg": "AD/AD-05/coat.svg",
+    "png": "AD/AD-05/coat.png",
+    "source_filename": "Escut d'Ordino.svg"
+  }
+}

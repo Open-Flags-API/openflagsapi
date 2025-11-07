@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-19",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-19",
+  "region_normalized": "fr-19",
+  "flag": {
+    "svg": "FR/FR-19/flag.svg",
+    "source": "Drapeau département fr Corrèze.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-19/coat.svg",
+    "source": "Blason département fr Corrèze.svg"
+  },
+  "data_source": "out"
+}

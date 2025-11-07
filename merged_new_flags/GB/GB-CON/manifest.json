@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-CON",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-con",
+  "region_normalized": "gb-con",
+  "flag": {
+    "svg": "GB/GB-CON/flag.svg",
+    "source": "Flag of Cornwall.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

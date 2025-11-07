@@ -1,0 +1,16 @@
+{
+  "iso_code": "SV-SO",
+  "country_iso": "SV",
+  "country_name": "SV",
+  "region_name": "sv-so",
+  "region_normalized": "sv-so",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

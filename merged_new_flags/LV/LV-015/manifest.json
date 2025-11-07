@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-015",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-015",
+  "region_normalized": "lv-015",
+  "flag": {
+    "svg": "LV/LV-015/flag.svg",
+    "source": "Balvu novada karogs.svg"
+  },
+  "coat": {
+    "svg": "LV/LV-015/coat.svg",
+    "source": "Balvu novads COA.svg"
+  },
+  "data_source": "out"
+}

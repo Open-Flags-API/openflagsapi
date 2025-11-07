@@ -1,0 +1,16 @@
+{
+  "iso_code": "AR-Z",
+  "country_iso": "AR",
+  "country_name": "AR",
+  "region_name": "ar-z",
+  "region_normalized": "ar-z",
+  "flag": {
+    "svg": "AR/AR-Z/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": "AR/AR-Z/coat.svg",
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "TW-NWT",
+  "country_iso": "TW",
+  "country_name": "TW",
+  "region_name": "tw-nwt",
+  "region_normalized": "tw-nwt",
+  "flag": {
+    "svg": "TW/TW-NWT/flag.svg",
+    "source": "Flag of New Taipei City.svg"
+  },
+  "coat": {
+    "svg": "TW/TW-NWT/coat.svg",
+    "source": "New Taipei City seal.svg"
+  },
+  "data_source": "out"
+}

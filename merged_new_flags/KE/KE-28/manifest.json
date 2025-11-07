@@ -1,0 +1,16 @@
+{
+  "iso_code": "KE-28",
+  "country_iso": "KE",
+  "country_name": "KE",
+  "region_name": "ke-28",
+  "region_normalized": "ke-28",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Mombasa County.png"
+  },
+  "coat": {
+    "svg": "KE/KE-28/coat.svg",
+    "source": "Emblem of Mombasa.svg"
+  },
+  "data_source": "out"
+}

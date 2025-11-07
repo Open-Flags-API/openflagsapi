@@ -1,0 +1,16 @@
+{
+  "iso_code": "CA-YT",
+  "country_iso": "CA",
+  "country_name": "canada",
+  "region_name": "ca-yt",
+  "region_normalized": "ca-yt",
+  "flag": {
+    "svg": "CA/CA-YT/flag.svg",
+    "source": "Flag of Yukon.svg"
+  },
+  "coat": {
+    "svg": "CA/CA-YT/coat.svg",
+    "source": "Coat of arms of Yukon.svg"
+  },
+  "data_source": "out"
+}

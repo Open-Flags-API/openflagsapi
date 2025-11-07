@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-67",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-67",
+  "region_normalized": "mt-67",
+  "flag": {
+    "svg": "MT/MT-67/flag.svg",
+    "source": "Flag of Żejtun.svg"
+  },
+  "coat": {
+    "svg": "MT/MT-67/coat.svg",
+    "source": "Zejtun coa.svg"
+  },
+  "data_source": "out"
+}

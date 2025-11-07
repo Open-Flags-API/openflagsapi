@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-ENF",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-enf",
+  "region_normalized": "gb-enf",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-ENF/coat.svg",
+    "source": "Coat of arms of the London Borough of Enfield.svg"
+  },
+  "data_source": "out"
+}

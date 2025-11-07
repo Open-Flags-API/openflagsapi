@@ -1,0 +1,16 @@
+{
+  "iso_code": "UA-26",
+  "country_iso": "UA",
+  "country_name": "UA",
+  "region_name": "ua-26",
+  "region_normalized": "ua-26",
+  "flag": {
+    "svg": "UA/UA-26/flag.svg",
+    "source": "Flag of Ivano-Frankivsk Oblast.svg"
+  },
+  "coat": {
+    "svg": "UA/UA-26/coat.svg",
+    "source": "Ivano-Frankivsk Oblast-COA.svg"
+  },
+  "data_source": "out"
+}

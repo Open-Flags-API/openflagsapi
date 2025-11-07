@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-AC",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "br-ac",
+  "region_normalized": "br-ac",
+  "flag": {
+    "svg": "BR/BR-AC/flag.svg",
+    "source": "Bandeira do Acre.svg"
+  },
+  "coat": {
+    "svg": "BR/BR-AC/coat.svg",
+    "source": "Brasão do Acre.svg"
+  },
+  "data_source": "out"
+}

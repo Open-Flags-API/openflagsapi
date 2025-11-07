@@ -1,0 +1,16 @@
+{
+  "iso_code": "SY-ID",
+  "country_iso": "SY",
+  "country_name": "SY",
+  "region_name": "sy-id",
+  "region_normalized": "sy-id",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

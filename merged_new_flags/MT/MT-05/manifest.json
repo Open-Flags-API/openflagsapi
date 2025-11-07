@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-05",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-05",
+  "region_normalized": "mt-05",
+  "flag": {
+    "svg": "MT/MT-05/flag.svg",
+    "source": "Flag of Birżebbuġa.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

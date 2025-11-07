@@ -1,0 +1,14 @@
+{
+  "code": "GB-ELS",
+  "country": "GB",
+  "flag": {
+    "svg": "GB/GB-ELS/flag.svg",
+    "png": "GB/GB-ELS/flag.png",
+    "source_filename": "Western Isles Council Flag.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-ELS/coat.svg",
+    "png": "GB/GB-ELS/coat.png",
+    "source_filename": "Coat of Arms of the Na h-Eileanan Siar (Outer Hebrides).svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "EE-247",
+  "country_iso": "EE",
+  "country_name": "EE",
+  "region_name": "ee-247",
+  "region_normalized": "ee-247",
+  "flag": {
+    "svg": null,
+    "source": "Jõgeva valla lipp.png"
+  },
+  "coat": {
+    "svg": "EE/EE-247/coat.svg",
+    "source": "Jõgeva valla vapp.svg"
+  },
+  "data_source": "out"
+}

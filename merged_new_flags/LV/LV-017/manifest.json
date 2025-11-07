@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-017",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-017",
+  "region_normalized": "lv-017",
+  "flag": {
+    "svg": null,
+    "source": "Beverīnas novada karogs.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "COA of Beverīnas novads.PNG"
+  },
+  "data_source": "out"
+}

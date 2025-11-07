@@ -1,0 +1,16 @@
+{
+  "iso_code": "MY-02",
+  "country_iso": "MY",
+  "country_name": "MY",
+  "region_name": "my-02",
+  "region_normalized": "my-02",
+  "flag": {
+    "svg": "MY/MY-02/flag.svg",
+    "source": "Flag of Kedah.svg"
+  },
+  "coat": {
+    "svg": "MY/MY-02/coat.svg",
+    "source": "Coat of arms of Kedah.svg"
+  },
+  "data_source": "out"
+}

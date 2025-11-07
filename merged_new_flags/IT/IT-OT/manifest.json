@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-OT",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-ot",
+  "region_normalized": "it-ot",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IT/IT-OT/coat.svg",
+    "source": "Provincia di Olbia-Tempio-Stemma 2.svg"
+  },
+  "data_source": "out"
+}

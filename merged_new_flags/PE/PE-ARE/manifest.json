@@ -1,0 +1,16 @@
+{
+  "iso_code": "PE-ARE",
+  "country_iso": "PE",
+  "country_name": "PE",
+  "region_name": "pe-are",
+  "region_normalized": "pe-are",
+  "flag": {
+    "svg": "PE/PE-ARE/flag.svg",
+    "source": "Bandera de Arequipa.svg"
+  },
+  "coat": {
+    "svg": "PE/PE-ARE/coat.svg",
+    "source": "Escudo de Armas de Arequipa.svg"
+  },
+  "data_source": "out"
+}

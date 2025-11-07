@@ -1,0 +1,16 @@
+{
+  "iso_code": "AR-V",
+  "country_iso": "AR",
+  "country_name": "AR",
+  "region_name": "ar-v",
+  "region_normalized": "ar-v",
+  "flag": {
+    "svg": "AR/AR-V/flag.svg",
+    "source": "Bandera de la Provincia de Tierra del Fuego.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-V/coat.svg",
+    "source": "Escudo de la Provincia de Tierra del Fuego.svg"
+  },
+  "data_source": "out"
+}

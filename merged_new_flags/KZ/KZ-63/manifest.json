@@ -1,0 +1,16 @@
+{
+  "iso_code": "KZ-63",
+  "country_iso": "KZ",
+  "country_name": "KZ",
+  "region_name": "kz-63",
+  "region_normalized": "kz-63",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "KZ/KZ-63/coat.svg",
+    "source": "Coats of arms of East Kazakhstan Province.svg"
+  },
+  "data_source": "out"
+}

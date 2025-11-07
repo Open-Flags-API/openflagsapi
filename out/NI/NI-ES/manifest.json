@@ -1,0 +1,14 @@
+{
+  "code": "NI-ES",
+  "country": "NI",
+  "flag": {
+    "svg": "NI/NI-ES/flag.svg",
+    "png": "NI/NI-ES/flag.png",
+    "source_filename": "Flag of Esteli.svg"
+  },
+  "coat": {
+    "svg": "NI/NI-ES/coat.svg",
+    "png": "NI/NI-ES/coat.png",
+    "source_filename": "Seal of Esteli.svg"
+  }
+}

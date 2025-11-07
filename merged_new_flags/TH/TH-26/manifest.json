@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-26",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-26",
+  "region_normalized": "th-26",
+  "flag": {
+    "svg": null,
+    "source": "ธงนครนายก.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

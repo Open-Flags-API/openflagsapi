@@ -1,0 +1,16 @@
+{
+  "iso_code": "LI-10",
+  "country_iso": "LI",
+  "country_name": "LI",
+  "region_name": "li-10",
+  "region_normalized": "li-10",
+  "flag": {
+    "svg": "LI/LI-10/flag.svg",
+    "source": "Flag of Triesenberg Liechtenstein-1.svg"
+  },
+  "coat": {
+    "svg": "LI/LI-10/coat.svg",
+    "source": "Wappen Triesenberg.svg"
+  },
+  "data_source": "out"
+}

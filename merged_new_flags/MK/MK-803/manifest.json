@@ -1,0 +1,16 @@
+{
+  "iso_code": "MK-803",
+  "country_iso": "MK",
+  "country_name": "MK",
+  "region_name": "mk-803",
+  "region_normalized": "mk-803",
+  "flag": {
+    "svg": "MK/MK-803/flag.svg",
+    "source": "Flag of Butel Municipality, North Macedonia.svg"
+  },
+  "coat": {
+    "svg": "MK/MK-803/coat.svg",
+    "source": "Coat of arms of Butel Municipality.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "UA-68",
+  "country_iso": "UA",
+  "country_name": "UA",
+  "region_name": "ua-68",
+  "region_normalized": "ua-68",
+  "flag": {
+    "svg": "UA/UA-68/flag.svg",
+    "source": "Flag of Khmelnytskyi Oblast.svg"
+  },
+  "coat": {
+    "svg": "UA/UA-68/coat.svg",
+    "source": "Coat of Arms of Khmelnytskyi Oblast.svg"
+  },
+  "data_source": "out"
+}

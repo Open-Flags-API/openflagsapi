@@ -1,0 +1,16 @@
+{
+  "iso_code": "IE-KY",
+  "country_iso": "IE",
+  "country_name": "IE",
+  "region_name": "ie-ky",
+  "region_normalized": "ie-ky",
+  "flag": {
+    "svg": "IE/IE-KY/flag.svg",
+    "source": "Flag of county Kerry.svg"
+  },
+  "coat": {
+    "svg": "IE/IE-KY/coat.svg",
+    "source": "Kerrycocologo.svg"
+  },
+  "data_source": "out"
+}

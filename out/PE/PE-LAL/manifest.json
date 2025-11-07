@@ -1,0 +1,14 @@
+{
+  "code": "PE-LAL",
+  "country": "PE",
+  "flag": {
+    "svg": "PE/PE-LAL/flag.svg",
+    "png": "PE/PE-LAL/flag.png",
+    "source_filename": "Bandera de La Libertad Peru.svg"
+  },
+  "coat": {
+    "svg": "PE/PE-LAL/coat.svg",
+    "png": "PE/PE-LAL/coat.png",
+    "source_filename": "Escudo de La Libertad Peru.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-SON",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "mx-son",
+  "region_normalized": "mx-son",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "MX/MX-SON/coat.svg",
+    "source": "Coat of arms of Sonora.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MT-57",
+  "country_iso": "MT",
+  "country_name": "MT",
+  "region_name": "mt-57",
+  "region_normalized": "mt-57",
+  "flag": {
+    "svg": "MT/MT-57/flag.svg",
+    "source": "Flag of Swieqi.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Swieqi local council logo.png"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-IN",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-in",
+  "region_normalized": "ru-in",
+  "flag": {
+    "svg": "RU/RU-IN/flag.svg",
+    "source": "Flag of Ingushetia.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-IN/coat.svg",
+    "source": "Coat of arms of Ingushetia.svg"
+  },
+  "data_source": "out"
+}

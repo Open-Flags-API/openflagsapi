@@ -1,0 +1,16 @@
+{
+  "iso_code": "HU-BE",
+  "country_iso": "HU",
+  "country_name": "HU",
+  "region_name": "hu-be",
+  "region_normalized": "hu-be",
+  "flag": {
+    "svg": "HU/HU-BE/flag.svg",
+    "source": "Flag of Békés megye.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-BE/coat.svg",
+    "source": "COA Békés County.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "TR-50",
+  "country_iso": "TR",
+  "country_name": "TR",
+  "region_name": "tr-50",
+  "region_normalized": "tr-50",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

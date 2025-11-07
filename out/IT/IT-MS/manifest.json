@@ -1,0 +1,14 @@
+{
+  "code": "IT-MS",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-MS/flag.svg",
+    "png": "IT/IT-MS/flag.png",
+    "source_filename": "Flag of the Province of Massa-Carrara.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-MS/coat.svg",
+    "png": "IT/IT-MS/coat.png",
+    "source_filename": "Provincia di Massa-Carrara-Stemma.svg"
+  }
+}

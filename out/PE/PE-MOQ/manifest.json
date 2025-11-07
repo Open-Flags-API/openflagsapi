@@ -1,0 +1,14 @@
+{
+  "code": "PE-MOQ",
+  "country": "PE",
+  "flag": {
+    "svg": "PE/PE-MOQ/flag.svg",
+    "png": "PE/PE-MOQ/flag.png",
+    "source_filename": "Bandera de Moquegua.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "PE/PE-MOQ/coat.png",
+    "source_filename": "Escudo Moquegua Perú.png"
+  }
+}

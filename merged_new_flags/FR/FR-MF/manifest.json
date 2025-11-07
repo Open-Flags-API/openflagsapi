@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-MF",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-mf",
+  "region_normalized": "fr-mf",
+  "flag": {
+    "svg": "FR/FR-MF/flag.svg",
+    "source": "Flag of France.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "St Martin Coat.png"
+  },
+  "data_source": "out"
+}

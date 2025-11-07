@@ -1,0 +1,14 @@
+{
+  "code": "GB-WRX",
+  "country": "GB",
+  "flag": {
+    "svg": null,
+    "png": null,
+    "source_filename": null
+  },
+  "coat": {
+    "svg": "GB/GB-WRX/coat.svg",
+    "png": "GB/GB-WRX/coat.png",
+    "source_filename": "WREXHAM Shield.svg"
+  }
+}

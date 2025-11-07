@@ -1,0 +1,16 @@
+{
+  "iso_code": "IN-RJ",
+  "country_iso": "IN",
+  "country_name": "IN",
+  "region_name": "in-rj",
+  "region_normalized": "in-rj",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "Emblem Rajasthan.png"
+  },
+  "data_source": "out"
+}

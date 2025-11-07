@@ -1,0 +1,16 @@
+{
+  "iso_code": "DE-SH",
+  "country_iso": "DE",
+  "country_name": "germany",
+  "region_name": "de-sh",
+  "region_normalized": "de-sh",
+  "flag": {
+    "svg": "DE/DE-SH/flag.svg",
+    "source": "Flag of Schleswig-Holstein.svg"
+  },
+  "coat": {
+    "svg": "DE/DE-SH/coat.svg",
+    "source": "DEU Schleswig-Holstein COA.svg"
+  },
+  "data_source": "out"
+}

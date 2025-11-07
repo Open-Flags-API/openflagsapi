@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-BRY",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-bry",
+  "region_normalized": "gb-bry",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-BRY/coat.svg",
+    "source": "Coat of arms of the London Borough of Bromley.svg"
+  },
+  "data_source": "out"
+}

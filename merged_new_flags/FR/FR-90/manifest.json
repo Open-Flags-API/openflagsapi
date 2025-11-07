@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-90",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-90",
+  "region_normalized": "fr-90",
+  "flag": {
+    "svg": "FR/FR-90/flag.svg",
+    "source": "Drapeau fr département Territoire de Belfort.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-90/coat.svg",
+    "source": "Blason département fr Territoire de Belfort.svg"
+  },
+  "data_source": "out"
+}

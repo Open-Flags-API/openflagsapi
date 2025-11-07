@@ -1,0 +1,14 @@
+{
+  "code": "CR-P",
+  "country": "CR",
+  "flag": {
+    "svg": "CR/CR-P/flag.svg",
+    "png": "CR/CR-P/flag.png",
+    "source_filename": "Bandera de la Provincia de Puntarenas.svg"
+  },
+  "coat": {
+    "svg": "CR/CR-P/coat.svg",
+    "png": "CR/CR-P/coat.png",
+    "source_filename": "Escudo de la Provincia de Puntarenas.svg"
+  }
+}

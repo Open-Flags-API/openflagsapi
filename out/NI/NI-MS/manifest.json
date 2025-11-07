@@ -1,0 +1,14 @@
+{
+  "code": "NI-MS",
+  "country": "NI",
+  "flag": {
+    "svg": "NI/NI-MS/flag.svg",
+    "png": "NI/NI-MS/flag.png",
+    "source_filename": "Flag of Masaya.svg"
+  },
+  "coat": {
+    "svg": "NI/NI-MS/coat.svg",
+    "png": "NI/NI-MS/coat.png",
+    "source_filename": "Seal of Masaya.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-35",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-35",
+  "region_normalized": "fr-35",
+  "flag": {
+    "svg": "FR/FR-35/flag.svg",
+    "source": "Drapeau non-officiel fr département Ille-et-Vilaine.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-35/coat.svg",
+    "source": "Blason département fr Ille-et-Vilaine.svg"
+  },
+  "data_source": "out"
+}

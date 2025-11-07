@@ -1,0 +1,16 @@
+{
+  "iso_code": "KG-T",
+  "country_iso": "KG",
+  "country_name": "KG",
+  "region_name": "kg-t",
+  "region_normalized": "kg-t",
+  "flag": {
+    "svg": "KG/KG-T/flag.svg",
+    "source": "Flag of Talas Province Kyrgyzstan.svg"
+  },
+  "coat": {
+    "svg": "KG/KG-T/coat.svg",
+    "source": "Coat of arms of Talas Province Kyrgyzstan.svg"
+  },
+  "data_source": "out"
+}

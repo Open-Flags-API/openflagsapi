@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-DRS",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-drs",
+  "region_normalized": "gb-drs",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

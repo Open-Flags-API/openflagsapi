@@ -1,0 +1,16 @@
+{
+  "iso_code": "UA-77",
+  "country_iso": "UA",
+  "country_name": "UA",
+  "region_name": "ua-77",
+  "region_normalized": "ua-77",
+  "flag": {
+    "svg": "UA/UA-77/flag.svg",
+    "source": "Flag of Chernivtsi Oblast.svg"
+  },
+  "coat": {
+    "svg": "UA/UA-77/coat.svg",
+    "source": "Coat of Arms of Chernivtsi Oblast.svg"
+  },
+  "data_source": "out"
+}

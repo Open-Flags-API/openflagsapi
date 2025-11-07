@@ -1,0 +1,14 @@
+{
+  "code": "US-VA",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-VA/flag.svg",
+    "png": "US/US-VA/flag.png",
+    "source_filename": "Flag of Virginia.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "US/US-VA/coat.png",
+    "source_filename": "Coat of arms of the Commonwealth of Virginia.png"
+  }
+}

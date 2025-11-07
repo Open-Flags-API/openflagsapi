@@ -1,0 +1,16 @@
+{
+  "iso_code": "AR-F",
+  "country_iso": "AR",
+  "country_name": "AR",
+  "region_name": "ar-f",
+  "region_normalized": "ar-f",
+  "flag": {
+    "svg": "AR/AR-F/flag.svg",
+    "source": "Bandera de la Provincia de La Rioja.svg"
+  },
+  "coat": {
+    "svg": "AR/AR-F/coat.svg",
+    "source": "Coat of arms of the La Rioja Province.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-058",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-058",
+  "region_normalized": "lv-058",
+  "flag": {
+    "svg": null,
+    "source": "Ludzas-novads-Flag.png"
+  },
+  "coat": {
+    "svg": "LV/LV-058/coat.svg",
+    "source": "Ludzas novads COA.svg"
+  },
+  "data_source": "out"
+}

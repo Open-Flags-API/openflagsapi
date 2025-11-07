@@ -1,0 +1,14 @@
+{
+  "code": "GL-QE",
+  "country": "GL",
+  "flag": {
+    "svg": "GL/GL-QE/flag.svg",
+    "png": "GL/GL-QE/flag.png",
+    "source_filename": "Flag of Qeqqata.svg"
+  },
+  "coat": {
+    "svg": "GL/GL-QE/coat.svg",
+    "png": "GL/GL-QE/coat.png",
+    "source_filename": "Qeqqata-coat-of-arms.svg"
+  }
+}

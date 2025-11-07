@@ -1,0 +1,16 @@
+{
+  "iso_code": "AU-VIC",
+  "country_iso": "AU",
+  "country_name": "AU",
+  "region_name": "au-vic",
+  "region_normalized": "au-vic",
+  "flag": {
+    "svg": "AU/AU-VIC/flag.svg",
+    "source": "Flag of Victoria (Australia).svg"
+  },
+  "coat": {
+    "svg": "AU/AU-VIC/coat.svg",
+    "source": "Coat of Arms of Victoria.svg"
+  },
+  "data_source": "out"
+}

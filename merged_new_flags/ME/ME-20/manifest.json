@@ -1,0 +1,16 @@
+{
+  "iso_code": "ME-20",
+  "country_iso": "ME",
+  "country_name": "ME",
+  "region_name": "me-20",
+  "region_normalized": "me-20",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "ME/ME-20/coat.svg",
+    "source": "Coat of Arms of Ulcinj.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-IVA",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-iva",
+  "region_normalized": "ru-iva",
+  "flag": {
+    "svg": "RU/RU-IVA/flag.svg",
+    "source": "Flag of Ivanovo Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-IVA/coat.svg",
+    "source": "Coat of Arms of Ivanovo Oblast.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-103",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-103",
+  "region_normalized": "lv-103",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Vārkavas novads.png"
+  },
+  "coat": {
+    "svg": "LV/LV-103/coat.svg",
+    "source": "Vārkavas novads COA.svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "TW-KEE",
+  "country_iso": "TW",
+  "country_name": "TW",
+  "region_name": "tw-kee",
+  "region_normalized": "tw-kee",
+  "flag": {
+    "svg": "TW/TW-KEE/flag.svg",
+    "source": "Flag of Keelung City.svg"
+  },
+  "coat": {
+    "svg": "TW/TW-KEE/coat.svg",
+    "source": "Seal of Keelung.svg"
+  },
+  "data_source": "out"
+}

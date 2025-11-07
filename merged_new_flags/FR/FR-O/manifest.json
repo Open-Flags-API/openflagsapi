@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-O",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-o",
+  "region_normalized": "fr-o",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "FR/FR-O/coat.svg",
+    "source": "Blason Nord-Pas-De-Calais.svg"
+  },
+  "data_source": "out"
+}

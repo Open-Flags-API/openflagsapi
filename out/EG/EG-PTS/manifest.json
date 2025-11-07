@@ -1,0 +1,14 @@
+{
+  "code": "EG-PTS",
+  "country": "EG",
+  "flag": {
+    "svg": "EG/EG-PTS/flag.svg",
+    "png": "EG/EG-PTS/flag.png",
+    "source_filename": "Port Said Flag Version 2.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "EG/EG-PTS/coat.png",
+    "source_filename": "Coat of arms of Port Said Governorate.PNG"
+  }
+}

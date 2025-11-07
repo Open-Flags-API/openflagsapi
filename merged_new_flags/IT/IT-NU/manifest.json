@@ -1,0 +1,16 @@
+{
+  "iso_code": "IT-NU",
+  "country_iso": "IT",
+  "country_name": "IT",
+  "region_name": "it-nu",
+  "region_normalized": "it-nu",
+  "flag": {
+    "svg": "IT/IT-NU/flag.svg",
+    "source": "Flag of the Province of Nuoro.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-NU/coat.svg",
+    "source": "Provincia di Nuoro-Stemma.svg"
+  },
+  "data_source": "out"
+}

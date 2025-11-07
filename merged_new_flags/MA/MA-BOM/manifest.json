@@ -1,0 +1,16 @@
+{
+  "iso_code": "MA-BOM",
+  "country_iso": "MA",
+  "country_name": "MA",
+  "region_name": "ma-bom",
+  "region_normalized": "ma-bom",
+  "flag": {
+    "svg": null,
+    "source": "Flag of Boulmane Province.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

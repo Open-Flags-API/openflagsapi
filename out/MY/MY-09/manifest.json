@@ -1,0 +1,14 @@
+{
+  "code": "MY-09",
+  "country": "MY",
+  "flag": {
+    "svg": "MY/MY-09/flag.svg",
+    "png": "MY/MY-09/flag.png",
+    "source_filename": "Flag of Perlis.svg"
+  },
+  "coat": {
+    "svg": "MY/MY-09/coat.svg",
+    "png": "MY/MY-09/coat.png",
+    "source_filename": "Coat of arms of Perlis.svg"
+  }
+}

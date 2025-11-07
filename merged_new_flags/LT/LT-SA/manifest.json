@@ -1,0 +1,16 @@
+{
+  "iso_code": "LT-SA",
+  "country_iso": "LT",
+  "country_name": "LT",
+  "region_name": "lt-sa",
+  "region_normalized": "lt-sa",
+  "flag": {
+    "svg": "LT/LT-SA/flag.svg",
+    "source": "Siauliai County flag.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Siauliai County COA.png"
+  },
+  "data_source": "out"
+}

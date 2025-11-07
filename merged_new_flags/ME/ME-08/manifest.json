@@ -1,0 +1,16 @@
+{
+  "iso_code": "ME-08",
+  "country_iso": "ME",
+  "country_name": "ME",
+  "region_name": "me-08",
+  "region_normalized": "me-08",
+  "flag": {
+    "svg": "ME/ME-08/flag.svg",
+    "source": "Flag of Herceg Novi, Montenegro.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Great Coat of Arms of Herceg Novi.png"
+  },
+  "data_source": "out"
+}

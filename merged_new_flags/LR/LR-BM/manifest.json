@@ -1,0 +1,16 @@
+{
+  "iso_code": "LR-BM",
+  "country_iso": "LR",
+  "country_name": "LR",
+  "region_name": "lr-bm",
+  "region_normalized": "lr-bm",
+  "flag": {
+    "svg": "LR/LR-BM/flag.svg",
+    "source": "Flag of Bomi County.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

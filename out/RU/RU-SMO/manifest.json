@@ -1,0 +1,14 @@
+{
+  "code": "RU-SMO",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-SMO/flag.svg",
+    "png": "RU/RU-SMO/flag.png",
+    "source_filename": "Flag of Smolensk Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-SMO/coat.svg",
+    "png": "RU/RU-SMO/coat.png",
+    "source_filename": "Coat of arms of Smolensk oblast.svg"
+  }
+}

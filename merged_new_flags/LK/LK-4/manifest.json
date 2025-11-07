@@ -1,0 +1,16 @@
+{
+  "iso_code": "LK-4",
+  "country_iso": "LK",
+  "country_name": "LK",
+  "region_name": "lk-4",
+  "region_normalized": "lk-4",
+  "flag": {
+    "svg": "LK/LK-4/flag.svg",
+    "source": "Flag of the Northern Province.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

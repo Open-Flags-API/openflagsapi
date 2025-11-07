@@ -1,0 +1,16 @@
+{
+  "iso_code": "GT-12",
+  "country_iso": "GT",
+  "country_name": "GT",
+  "region_name": "gt-12",
+  "region_normalized": "gt-12",
+  "flag": {
+    "svg": null,
+    "source": "Vlagsanmarcos.gif"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of San Marcos Department.png"
+  },
+  "data_source": "out"
+}

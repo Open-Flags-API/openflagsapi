@@ -1,0 +1,16 @@
+{
+  "iso_code": "CU-99",
+  "country_iso": "CU",
+  "country_name": "CU",
+  "region_name": "cu-99",
+  "region_normalized": "cu-99",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "CU/CU-99/coat.svg",
+    "source": "Coat of arms of the Special Municipality of Isla de la Juventud.svg"
+  },
+  "data_source": "out"
+}

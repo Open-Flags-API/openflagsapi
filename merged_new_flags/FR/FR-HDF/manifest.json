@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-HDF",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-hdf",
+  "region_normalized": "fr-hdf",
+  "flag": {
+    "svg": "FR/FR-HDF/flag.svg",
+    "source": "Flag of the Region of Hauts-de-France.svg"
+  },
+  "coat": {
+    "svg": "FR/FR-HDF/coat.svg",
+    "source": "Escutcheon fr region Hauts-de-France.svg"
+  },
+  "data_source": "out"
+}

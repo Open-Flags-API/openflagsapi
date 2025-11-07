@@ -1,0 +1,16 @@
+{
+  "iso_code": "SH-AC",
+  "country_iso": "SH",
+  "country_name": "SH",
+  "region_name": "sh-ac",
+  "region_normalized": "sh-ac",
+  "flag": {
+    "svg": "SH/SH-AC/flag.svg",
+    "source": "Flag of Ascension Island.svg"
+  },
+  "coat": {
+    "svg": "SH/SH-AC/coat.svg",
+    "source": "Coat of Arms of Ascension Island.svg"
+  },
+  "data_source": "out"
+}

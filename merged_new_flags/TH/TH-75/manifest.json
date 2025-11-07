@@ -1,0 +1,16 @@
+{
+  "iso_code": "TH-75",
+  "country_iso": "TH",
+  "country_name": "TH",
+  "region_name": "th-75",
+  "region_normalized": "th-75",
+  "flag": {
+    "svg": null,
+    "source": "Flag Samut Songkhram Province.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

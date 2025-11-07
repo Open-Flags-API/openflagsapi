@@ -1,0 +1,16 @@
+{
+  "iso_code": "IS-BLO",
+  "country_iso": "IS",
+  "country_name": "IS",
+  "region_name": "is-blo",
+  "region_normalized": "is-blo",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": null,
+    "source": "COA Blönduósbær.png"
+  },
+  "data_source": "out"
+}

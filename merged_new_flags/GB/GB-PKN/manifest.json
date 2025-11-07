@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-PKN",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-pkn",
+  "region_normalized": "gb-pkn",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-PKN/coat.svg",
+    "source": "Coat of Arms of the Area Council of Perth and Kinross.svg"
+  },
+  "data_source": "out"
+}

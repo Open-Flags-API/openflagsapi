@@ -1,0 +1,16 @@
+{
+  "iso_code": "CH-SO",
+  "country_iso": "CH",
+  "country_name": "CH",
+  "region_name": "ch-so",
+  "region_normalized": "ch-so",
+  "flag": {
+    "svg": "CH/CH-SO/flag.svg",
+    "source": "Flag of Canton of Solothurn.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-SO/coat.svg",
+    "source": "Wappen Solothurn matt.svg"
+  },
+  "data_source": "out"
+}

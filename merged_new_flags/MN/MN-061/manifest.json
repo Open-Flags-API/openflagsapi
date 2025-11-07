@@ -1,0 +1,16 @@
+{
+  "iso_code": "MN-061",
+  "country_iso": "MN",
+  "country_name": "MN",
+  "region_name": "mn-061",
+  "region_normalized": "mn-061",
+  "flag": {
+    "svg": "MN/MN-061/flag.svg",
+    "source": "Mn flag dornod aimag 2001.svg"
+  },
+  "coat": {
+    "svg": "MN/MN-061/coat.svg",
+    "source": "Mn coa dornod aimag 2001.svg"
+  },
+  "data_source": "out"
+}

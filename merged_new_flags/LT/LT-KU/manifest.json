@@ -1,0 +1,16 @@
+{
+  "iso_code": "LT-KU",
+  "country_iso": "LT",
+  "country_name": "LT",
+  "region_name": "lt-ku",
+  "region_normalized": "lt-ku",
+  "flag": {
+    "svg": "LT/LT-KU/flag.svg",
+    "source": "LTU Kauno apskritis flag.svg"
+  },
+  "coat": {
+    "svg": "LT/LT-KU/coat.svg",
+    "source": "LTU Kauno apskritis COA.svg"
+  },
+  "data_source": "out"
+}

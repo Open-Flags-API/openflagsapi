@@ -1,0 +1,14 @@
+{
+  "code": "RU-BEL",
+  "country": "RU",
+  "flag": {
+    "svg": "RU/RU-BEL/flag.svg",
+    "png": "RU/RU-BEL/flag.png",
+    "source_filename": "New Flag of Belgorod Oblast.svg"
+  },
+  "coat": {
+    "svg": "RU/RU-BEL/coat.svg",
+    "png": "RU/RU-BEL/coat.png",
+    "source_filename": "New Coat of arms of Belgorod Oblast.svg"
+  }
+}

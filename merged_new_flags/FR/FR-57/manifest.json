@@ -1,0 +1,16 @@
+{
+  "iso_code": "FR-57",
+  "country_iso": "FR",
+  "country_name": "FR",
+  "region_name": "fr-57",
+  "region_normalized": "fr-57",
+  "flag": {
+    "svg": null,
+    "source": "MoselleFlag.gif"
+  },
+  "coat": {
+    "svg": "FR/FR-57/coat.svg",
+    "source": "Blason département fr Moselle.svg"
+  },
+  "data_source": "out"
+}

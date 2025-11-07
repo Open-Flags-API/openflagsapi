@@ -1,0 +1,14 @@
+{
+  "code": "HR-02",
+  "country": "HR",
+  "flag": {
+    "svg": "HR/HR-02/flag.svg",
+    "png": "HR/HR-02/flag.png",
+    "source_filename": "Flag of Krapina-Zagorje-County.svg"
+  },
+  "coat": {
+    "svg": "HR/HR-02/coat.svg",
+    "png": "HR/HR-02/coat.png",
+    "source_filename": "Seal of Krapina-Zagorje County.svg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "MX-ROO",
+  "country_iso": "MX",
+  "country_name": "mexico",
+  "region_name": "mx-roo",
+  "region_normalized": "mx-roo",
+  "flag": {
+    "svg": "MX/MX-ROO/flag.svg",
+    "source": "Flag of Quintana Roo.svg"
+  },
+  "coat": {
+    "svg": "MX/MX-ROO/coat.svg",
+    "source": "Coat of arms of Quintana Roo.svg"
+  },
+  "data_source": "out"
+}

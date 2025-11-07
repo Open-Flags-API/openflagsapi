@@ -1,0 +1,16 @@
+{
+  "iso_code": "SV-SV",
+  "country_iso": "SV",
+  "country_name": "SV",
+  "region_name": "sv-sv",
+  "region_normalized": "sv-sv",
+  "flag": {
+    "svg": "SV/SV-SV/flag.svg",
+    "source": "Flag of San Vicente Department.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Escudosanvicente es.jpg"
+  },
+  "data_source": "out"
+}

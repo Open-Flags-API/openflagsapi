@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-ABE",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-abe",
+  "region_normalized": "gb-abe",
+  "flag": {
+    "svg": "GB/GB-ABE/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-ABE/coat.svg",
+    "source": "Aberdeen-arms.png"
+  },
+  "data_source": "out"
+}

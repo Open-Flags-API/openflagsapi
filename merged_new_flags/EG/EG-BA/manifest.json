@@ -1,0 +1,16 @@
+{
+  "iso_code": "EG-BA",
+  "country_iso": "EG",
+  "country_name": "EG",
+  "region_name": "eg-ba",
+  "region_normalized": "eg-ba",
+  "flag": {
+    "svg": null,
+    "source": "Red sea governorate flag.png"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Coat of arms of Red Sea Governorate.JPG"
+  },
+  "data_source": "out"
+}

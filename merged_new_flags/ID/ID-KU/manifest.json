@@ -1,0 +1,16 @@
+{
+  "iso_code": "ID-KU",
+  "country_iso": "ID",
+  "country_name": "indonesia",
+  "region_name": "id-ku",
+  "region_normalized": "id-ku",
+  "flag": {
+    "svg": "ID/ID-KU/flag.svg",
+    "source": "Flag of North Kalimantan.svg"
+  },
+  "coat": {
+    "svg": "ID/ID-KU/coat.svg",
+    "source": "Coat of arms of North Kalimantan (2021 version).svg"
+  },
+  "data_source": "out"
+}

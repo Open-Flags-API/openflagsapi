@@ -1,0 +1,14 @@
+{
+  "code": "MY-10",
+  "country": "MY",
+  "flag": {
+    "svg": "MY/MY-10/flag.svg",
+    "png": "MY/MY-10/flag.png",
+    "source_filename": "Flag of Selangor.svg"
+  },
+  "coat": {
+    "svg": "MY/MY-10/coat.svg",
+    "png": "MY/MY-10/coat.png",
+    "source_filename": "Coat of arms of Selangor.svg"
+  }
+}

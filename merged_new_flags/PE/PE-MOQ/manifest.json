@@ -1,0 +1,16 @@
+{
+  "iso_code": "PE-MOQ",
+  "country_iso": "PE",
+  "country_name": "PE",
+  "region_name": "pe-moq",
+  "region_normalized": "pe-moq",
+  "flag": {
+    "svg": "PE/PE-MOQ/flag.svg",
+    "source": "Bandera de Moquegua.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Escudo Moquegua Perú.png"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "VI",
+  "country_iso": "VI",
+  "country_name": "VI",
+  "region_name": "vi",
+  "region_normalized": "vi",
+  "flag": {
+    "svg": "VI/VI/flag.svg",
+    "source": null
+  },
+  "coat": {
+    "svg": "VI/VI/coat.svg",
+    "source": null
+  },
+  "data_source": "out"
+}

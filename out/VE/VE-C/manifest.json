@@ -1,0 +1,14 @@
+{
+  "code": "VE-C",
+  "country": "VE",
+  "flag": {
+    "svg": "VE/VE-C/flag.svg",
+    "png": "VE/VE-C/flag.png",
+    "source_filename": "Flag of Apure State.svg"
+  },
+  "coat": {
+    "svg": "VE/VE-C/coat.svg",
+    "png": "VE/VE-C/coat.png",
+    "source_filename": "Escudo del Estado Apure.svg"
+  }
+}

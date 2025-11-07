@@ -1,0 +1,16 @@
+{
+  "iso_code": "PY-7",
+  "country_iso": "PY",
+  "country_name": "PY",
+  "region_name": "py-7",
+  "region_normalized": "py-7",
+  "flag": {
+    "svg": "PY/PY-7/flag.svg",
+    "source": "Flag of Itapúa Department.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": "Escudo de Itapua, Paraguay.PNG"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,14 @@
+{
+  "code": "HU-SN",
+  "country": "HU",
+  "flag": {
+    "svg": "HU/HU-SN/flag.svg",
+    "png": "HU/HU-SN/flag.png",
+    "source_filename": "HUN Sopron Flag.svg"
+  },
+  "coat": {
+    "svg": "HU/HU-SN/coat.svg",
+    "png": "HU/HU-SN/coat.png",
+    "source_filename": "Coa Hungary Town Sopron.svg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "code": "IT-VR",
+  "country": "IT",
+  "flag": {
+    "svg": "IT/IT-VR/flag.svg",
+    "png": "IT/IT-VR/flag.png",
+    "source_filename": "Flag of the Province of Verona.svg"
+  },
+  "coat": {
+    "svg": "IT/IT-VR/coat.svg",
+    "png": "IT/IT-VR/coat.png",
+    "source_filename": "Provincia di Verona-Stemma.svg"
+  }
+}

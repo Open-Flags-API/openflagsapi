@@ -1,0 +1,14 @@
+{
+  "code": "AM-ER",
+  "country": "AM",
+  "flag": {
+    "svg": "AM/AM-ER/flag.svg",
+    "png": "AM/AM-ER/flag.png",
+    "source_filename": "Flag of Yerevan.svg"
+  },
+  "coat": {
+    "svg": null,
+    "png": "AM/AM-ER/coat.png",
+    "source_filename": "Coat of аrms of Yerevan.svg"
+  }
+}

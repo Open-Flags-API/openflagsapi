@@ -1,0 +1,14 @@
+{
+  "code": "US-PA",
+  "country": "US",
+  "flag": {
+    "svg": "US/US-PA/flag.svg",
+    "png": "US/US-PA/flag.png",
+    "source_filename": "Flag of Pennsylvania.svg"
+  },
+  "coat": {
+    "svg": "US/US-PA/coat.svg",
+    "png": "US/US-PA/coat.png",
+    "source_filename": "Coat of arms of Pennsylvania.svg"
+  }
+}

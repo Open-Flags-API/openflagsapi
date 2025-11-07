@@ -1,0 +1,16 @@
+{
+  "iso_code": "PA-1",
+  "country_iso": "PA",
+  "country_name": "PA",
+  "region_name": "pa-1",
+  "region_normalized": "pa-1",
+  "flag": {
+    "svg": "PA/PA-1/flag.svg",
+    "source": "Bandera de la Provincia de Bocas del Toro.svg"
+  },
+  "coat": {
+    "svg": null,
+    "source": null
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "BR-DF",
+  "country_iso": "BR",
+  "country_name": "brazil",
+  "region_name": "br-df",
+  "region_normalized": "br-df",
+  "flag": {
+    "svg": "BR/BR-DF/flag.svg",
+    "source": "Bandeira do Distrito Federal (Brasil).svg"
+  },
+  "coat": {
+    "svg": "BR/BR-DF/coat.svg",
+    "source": "Brasão do Distrito Federal (Brasil).svg"
+  },
+  "data_source": "out"
+}

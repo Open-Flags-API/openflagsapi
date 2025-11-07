@@ -1,0 +1,14 @@
+{
+  "code": "CH-TG",
+  "country": "CH",
+  "flag": {
+    "svg": "CH/CH-TG/flag.svg",
+    "png": "CH/CH-TG/flag.png",
+    "source_filename": "Flag of Canton of Thurgau.svg"
+  },
+  "coat": {
+    "svg": "CH/CH-TG/coat.svg",
+    "png": "CH/CH-TG/coat.png",
+    "source_filename": "Wappen Thurgau matt.svg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "code": "NL-NH",
+  "country": "NL",
+  "flag": {
+    "svg": "NL/NL-NH/flag.svg",
+    "png": "NL/NL-NH/flag.png",
+    "source_filename": "Flag of North Holland.svg"
+  },
+  "coat": {
+    "svg": "NL/NL-NH/coat.svg",
+    "png": "NL/NL-NH/coat.png",
+    "source_filename": "Noord-Holland wapen.svg"
+  }
+}

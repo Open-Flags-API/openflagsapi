@@ -1,0 +1,16 @@
+{
+  "iso_code": "IN-KA",
+  "country_iso": "IN",
+  "country_name": "IN",
+  "region_name": "in-ka",
+  "region_normalized": "in-ka",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "IN/IN-KA/coat.svg",
+    "source": "Seal of Karnataka.svg"
+  },
+  "data_source": "out"
+}

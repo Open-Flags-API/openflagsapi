@@ -1,0 +1,16 @@
+{
+  "iso_code": "CO-CAQ",
+  "country_iso": "CO",
+  "country_name": "CO",
+  "region_name": "co-caq",
+  "region_normalized": "co-caq",
+  "flag": {
+    "svg": "CO/CO-CAQ/flag.svg",
+    "source": "Flag of Caquetá.svg"
+  },
+  "coat": {
+    "svg": "CO/CO-CAQ/coat.svg",
+    "source": "Escudo del Caquetá.svg"
+  },
+  "data_source": "out"
+}

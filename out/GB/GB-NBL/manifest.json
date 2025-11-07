@@ -1,0 +1,14 @@
+{
+  "code": "GB-NBL",
+  "country": "GB",
+  "flag": {
+    "svg": "GB/GB-NBL/flag.svg",
+    "png": "GB/GB-NBL/flag.png",
+    "source_filename": "Flag of Northumberland.svg"
+  },
+  "coat": {
+    "svg": "GB/GB-NBL/coat.svg",
+    "png": "GB/GB-NBL/coat.png",
+    "source_filename": "Arms of Northumberland County Council.svg"
+  }
+}

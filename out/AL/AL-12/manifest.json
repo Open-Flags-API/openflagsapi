@@ -1,0 +1,14 @@
+{
+  "code": "AL-12",
+  "country": "AL",
+  "flag": {
+    "svg": "AL/AL-12/flag.svg",
+    "png": "AL/AL-12/flag.png",
+    "source_filename": "Flag of Vlorë.svg"
+  },
+  "coat": {
+    "svg": "AL/AL-12/coat.svg",
+    "png": "AL/AL-12/coat.png",
+    "source_filename": "Stema e Qarkut Vlorë.svg"
+  }
+}

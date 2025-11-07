@@ -1,0 +1,14 @@
+{
+  "code": "PL-02",
+  "country": "PL",
+  "flag": {
+    "svg": "PL/PL-02/flag.svg",
+    "png": "PL/PL-02/flag.png",
+    "source_filename": "POL województwo dolnośląskie flag.svg"
+  },
+  "coat": {
+    "svg": "PL/PL-02/coat.svg",
+    "png": "PL/PL-02/coat.png",
+    "source_filename": "POL województwo dolnośląskie COA.svg"
+  }
+}

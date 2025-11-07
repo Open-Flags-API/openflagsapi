@@ -1,0 +1,14 @@
+{
+  "code": "CL-VS",
+  "country": "CL",
+  "flag": {
+    "svg": "CL/CL-VS/flag.svg",
+    "png": "CL/CL-VS/flag.png",
+    "source_filename": "Flag of Valparaiso Region, Chile.svg"
+  },
+  "coat": {
+    "svg": "CL/CL-VS/coat.svg",
+    "png": "CL/CL-VS/coat.png",
+    "source_filename": "Coat of arms of Valparaiso Region, Chile.svg"
+  }
+}

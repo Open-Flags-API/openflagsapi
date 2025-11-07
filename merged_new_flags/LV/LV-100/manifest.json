@@ -1,0 +1,16 @@
+{
+  "iso_code": "LV-100",
+  "country_iso": "LV",
+  "country_name": "LV",
+  "region_name": "lv-100",
+  "region_normalized": "lv-100",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "LV/LV-100/coat.svg",
+    "source": "Vaiņodes novads COA.svg"
+  },
+  "data_source": "out"
+}

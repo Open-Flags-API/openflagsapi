@@ -1,0 +1,14 @@
+{
+  "code": "NL-GR",
+  "country": "NL",
+  "flag": {
+    "svg": "NL/NL-GR/flag.svg",
+    "png": "NL/NL-GR/flag.png",
+    "source_filename": "Flag of Groningen.svg"
+  },
+  "coat": {
+    "svg": "NL/NL-GR/coat.svg",
+    "png": "NL/NL-GR/coat.png",
+    "source_filename": "Groningen provincie wapen.svg"
+  }
+}

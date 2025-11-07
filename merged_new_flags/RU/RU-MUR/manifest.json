@@ -1,0 +1,16 @@
+{
+  "iso_code": "RU-MUR",
+  "country_iso": "RU",
+  "country_name": "russia",
+  "region_name": "ru-mur",
+  "region_normalized": "ru-mur",
+  "flag": {
+    "svg": "RU/RU-MUR/flag.svg",
+    "source": "Flag of Murmansk Oblast (large).svg"
+  },
+  "coat": {
+    "svg": "RU/RU-MUR/coat.svg",
+    "source": "Coat of arms of Murmansk Oblast (large, alternative).svg"
+  },
+  "data_source": "out"
+}

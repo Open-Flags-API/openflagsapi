@@ -1,0 +1,14 @@
+{
+  "code": "CR-H",
+  "country": "CR",
+  "flag": {
+    "svg": "CR/CR-H/flag.svg",
+    "png": "CR/CR-H/flag.png",
+    "source_filename": "Bandera de la Provincia de Heredia.svg"
+  },
+  "coat": {
+    "svg": "CR/CR-H/coat.svg",
+    "png": "CR/CR-H/coat.png",
+    "source_filename": "Escudo de la Provincia de Heredia.svg"
+  }
+}

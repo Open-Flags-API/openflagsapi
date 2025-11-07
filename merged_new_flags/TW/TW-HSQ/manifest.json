@@ -1,0 +1,16 @@
+{
+  "iso_code": "TW-HSQ",
+  "country_iso": "TW",
+  "country_name": "TW",
+  "region_name": "tw-hsq",
+  "region_normalized": "tw-hsq",
+  "flag": {
+    "svg": "TW/TW-HSQ/flag.svg",
+    "source": "Flag of Hsinchu County (since 2019).svg"
+  },
+  "coat": {
+    "svg": "TW/TW-HSQ/coat.svg",
+    "source": "Hsinchu County Emblem (2016-2019).svg"
+  },
+  "data_source": "out"
+}

@@ -1,0 +1,16 @@
+{
+  "iso_code": "GB-FIF",
+  "country_iso": "GB",
+  "country_name": "england",
+  "region_name": "gb-fif",
+  "region_normalized": "gb-fif",
+  "flag": {
+    "svg": null,
+    "source": null
+  },
+  "coat": {
+    "svg": "GB/GB-FIF/coat.svg",
+    "source": "Coat of Arms of the Fife Area Council.svg"
+  },
+  "data_source": "out"
+}
